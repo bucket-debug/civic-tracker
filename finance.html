@@ -409,7 +409,7 @@
 
     async function init() {
       try {
-        const resp = await fetch("../data/finance.json");
+        const resp = await fetch("data/finance.json");
         if (!resp.ok) throw new Error(resp.status);
         allRecords = await resp.json();
         render(allRecords, "");

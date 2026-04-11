@@ -511,7 +511,7 @@
     // ── Boot ─────────────────────────────────────────────────────────────────
     async function init() {
       try {
-        const resp = await fetch("../data/members.json");
+        const resp = await fetch("data/members.json");
         if (!resp.ok) throw new Error(resp.status);
         allMembers = await resp.json();
         buildSummary(allMembers);

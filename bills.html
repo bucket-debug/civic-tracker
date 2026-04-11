@@ -513,7 +513,7 @@
 
     async function init() {
       try {
-        const resp = await fetch("../data/bills.json");
+        const resp = await fetch("data/bills.json");
         if (!resp.ok) throw new Error(resp.status);
         allBills = await resp.json();
         render(filtered());

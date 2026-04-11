@@ -358,7 +358,7 @@
 
     async function init() {
       try {
-        const resp = await fetch("../data/news.json");
+        const resp = await fetch("data/news.json");
         if (!resp.ok) throw new Error(resp.status);
         allArticles = await resp.json();
         render(allArticles, "");

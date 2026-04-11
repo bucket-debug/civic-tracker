@@ -356,7 +356,7 @@
     async function init() {
       // Last updated + overall status
       try {
-        const meta = await loadJSON("../data/last_updated.json");
+        const meta = await loadJSON("data/last_updated.json");
         const allOk = Object.values(meta.status).every(v => v === "success");
         const dot = document.getElementById("status-dot");
         dot.classList.add(allOk ? "ok" : "fail");
@@ -368,10 +368,10 @@
 
       // Stat counts — each independent so one failure doesn't block others
       const sources = [
-        { id: "count-bills",   path: "../data/bills.json" },
-        { id: "count-finance", path: "../data/finance.json" },
-        { id: "count-members", path: "../data/members.json" },
-        { id: "count-news",    path: "../data/news.json" },
+        { id: "count-bills",   path: "data/bills.json" },
+        { id: "count-finance", path: "data/finance.json" },
+        { id: "count-members", path: "data/members.json" },
+        { id: "count-news",    path: "data/news.json" },
       ];
 
       sources.forEach(async ({ id, path }) => {
