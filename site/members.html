@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Congress Members — CivicPulse</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --navy: #1a2744;
+      --navy-light: #243360;
+      --accent: #3b82f6;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+      --bg: #f8fafc;
+      --dem: #2563eb;
+      --rep: #dc2626;
+      --ind: #7c3aed;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ── */
+    header { background: var(--navy); color: #fff; padding: 0 1.5rem; }
+    .header-inner { max-width: 1100px; margin: 0 auto; padding: 1.75rem 0 1.25rem; }
+    header h1 { font-size: 2rem; font-weight: 800; letter-spacing: -0.5px; }
+    header h1 span { color: var(--accent); }
+    header p { margin-top: 0.25rem; font-size: 0.95rem; color: #a8bbd4; }
+
+    /* ── Nav ── */
+    nav { background: var(--navy-light); border-top: 1px solid rgba(255,255,255,0.07); }
+    .nav-inner {
+      max-width: 1100px; margin: 0 auto;
+      display: flex; flex-wrap: wrap; gap: 0.25rem; padding: 0 1.5rem;
+    }
+    nav a {
+      display: inline-block; color: #c8d9ed; text-decoration: none;
+      font-size: 0.875rem; font-weight: 500; padding: 0.65rem 1rem;
+      border-bottom: 3px solid transparent; transition: color 0.15s, border-color 0.15s;
+    }
+    nav a:hover, nav a.active { color: #fff; border-bottom-color: var(--accent); }
+
+    /* ── Main ── */
+    main { flex: 1; max-width: 1100px; width: 100%; margin: 0 auto; padding: 2rem 1.5rem; }
+
+    /* ── Summary bar ── */
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-bottom: 1.75rem;
+    }
+
+    .summary-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1rem 1.25rem;
+    }
+
+    .summary-card h3 {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: var(--text-muted);
+      margin-bottom: 0.6rem;
+    }
+
+    .party-row {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.85rem;
+      line-height: 1;
+      margin-bottom: 0.35rem;
+    }
+
+    .party-row:last-child { margin-bottom: 0; }
+
+    .party-dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .dot-dem { background: var(--dem); }
+    .dot-rep { background: var(--rep); }
+    .dot-ind { background: var(--ind); }
+
+    .party-name { color: var(--text-muted); flex: 1; }
+    .party-num  { font-weight: 700; color: var(--navy); font-variant-numeric: tabular-nums; }
+
+    .party-bar {
+      display: flex;
+      height: 6px;
+      border-radius: 999px;
+      overflow: hidden;
+      margin-top: 0.75rem;
+      gap: 1px;
+    }
+
+    .bar-dem { background: var(--dem); }
+    .bar-rep { background: var(--rep); }
+    .bar-ind { background: var(--ind); }
+
+    /* ── Toolbar ── */
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
+      flex-wrap: wrap;
+    }
+
+    .search-wrap {
+      position: relative;
+      flex: 1;
+      min-width: 180px;
+      max-width: 300px;
+    }
+
+    .search-wrap svg {
+      position: absolute; left: 0.75rem; top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted); pointer-events: none;
+      width: 15px; height: 15px;
+    }
+
+    #search {
+      width: 100%;
+      padding: 0.5rem 0.75rem 0.5rem 2.25rem;
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      font-size: 0.875rem;
+      color: var(--text);
+      background: #fff;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    #search:focus { border-color: var(--accent); }
+    #search::placeholder { color: #94a3b8; }
+
+    select {
+      padding: 0.5rem 2rem 0.5rem 0.75rem;
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      font-size: 0.875rem;
+      color: var(--text);
+      background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 20 20' fill='%2364748b'%3E%3Cpath fill-rule='evenodd' d='M5.22 8.22a.75.75 0 0 1 1.06 0L10 11.94l3.72-3.72a.75.75 0 1 1 1.06 1.06l-4.25 4.25a.75.75 0 0 1-1.06 0L5.22 9.28a.75.75 0 0 1 0-1.06Z' clip-rule='evenodd'/%3E%3C/svg%3E") no-repeat right 0.6rem center;
+      appearance: none;
+      outline: none;
+      cursor: pointer;
+      transition: border-color 0.15s;
+    }
+
+    select:focus { border-color: var(--accent); }
+
+    .record-count {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+      margin-left: auto;
+    }
+
+    /* ── Table ── */
+    .table-wrap {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+
+    thead { background: var(--navy); color: #fff; }
+    thead th {
+      padding: 0.85rem 1rem; text-align: left;
+      font-size: 0.75rem; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.06em;
+      white-space: nowrap;
+    }
+
+    tbody tr { border-top: 1px solid var(--border); transition: background 0.1s; }
+    tbody tr:hover { background: #f8fafc; }
+    tbody td { padding: 0.75rem 1rem; vertical-align: middle; }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2rem 0.55rem;
+      border-radius: 999px;
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+    }
+    .badge-dem { background: #dbeafe; color: var(--dem); }
+    .badge-rep { background: #fee2e2; color: var(--rep); }
+    .badge-ind { background: #ede9fe; color: var(--ind); }
+    .badge-other { background: #f1f5f9; color: #475569; }
+
+    .chamber-pill {
+      display: inline-block;
+      padding: 0.18rem 0.55rem;
+      border-radius: 6px;
+      font-size: 0.7rem;
+      font-weight: 600;
+      background: #f1f5f9;
+      color: #475569;
+    }
+
+    .highlight { background: #fef08a; border-radius: 2px; padding: 0 1px; }
+
+    .state-msg {
+      padding: 3rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 650px) {
+      .hide-mobile { display: none; }
+      tbody td { padding: 0.65rem 0.75rem; }
+      thead th { padding: 0.75rem; }
+      .search-wrap { max-width: 100%; }
+      select { font-size: 0.8rem; }
+    }
+
+    /* ── Footer ── */
+    footer { background: var(--navy); color: #a8bbd4; font-size: 0.8rem; padding: 1.5rem; margin-top: auto; }
+    .footer-inner {
+      max-width: 1100px; margin: 0 auto;
+      display: flex; flex-wrap: wrap; gap: 1rem;
+      align-items: center; justify-content: space-between;
+    }
+    .footer-links { display: flex; flex-wrap: wrap; gap: 0.25rem 1.25rem; }
+    footer a { color: #c8d9ed; text-decoration: none; }
+    footer a:hover { color: #fff; text-decoration: underline; }
+    .footer-disclaimer { color: #6d839e; max-width: 480px; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <h1><a href="index.html" style="color:inherit;text-decoration:none;">Civic<span>Pulse</span></a></h1>
+      <p>Track your government, plainly.</p>
+    </div>
+  </header>
+
+  <nav aria-label="Main navigation">
+    <div class="nav-inner">
+      <a href="bills.html">Bills</a>
+      <a href="finance.html">Campaign Finance</a>
+      <a href="members.html" class="active">Congress Members</a>
+      <a href="news.html">News</a>
+    </div>
+  </nav>
+
+  <main>
+
+    <div id="summary" class="summary" aria-live="polite"></div>
+
+    <div class="toolbar">
+      <div class="search-wrap">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+          <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11ZM2 9a7 7 0 1 1 12.452 4.391l3.328 3.329a.75.75 0 1 1-1.06 1.06l-3.329-3.328A7 7 0 0 1 2 9Z" clip-rule="evenodd" />
+        </svg>
+        <input id="search" type="search" placeholder="Search by name or state…" aria-label="Search members" />
+      </div>
+
+      <select id="filter-chamber" aria-label="Filter by chamber">
+        <option value="">All Chambers</option>
+        <option value="House of Representatives">House</option>
+        <option value="Senate">Senate</option>
+      </select>
+
+      <select id="filter-party" aria-label="Filter by party">
+        <option value="">All Parties</option>
+        <option value="D">Democrat</option>
+        <option value="R">Republican</option>
+        <option value="I">Independent</option>
+      </select>
+
+      <select id="filter-state" aria-label="Filter by state">
+        <option value="">All States</option>
+      </select>
+
+      <span class="record-count" id="record-count"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table id="members-table" aria-label="Congress members">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Party</th>
+            <th>State</th>
+            <th>Chamber</th>
+            <th class="hide-mobile">District</th>
+          </tr>
+        </thead>
+        <tbody id="members-body">
+          <tr><td colspan="5" class="state-msg">Loading&hellip;</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-links">
+        <a href="https://congress.gov" target="_blank" rel="noopener">congress.gov</a>
+        <a href="https://fec.gov" target="_blank" rel="noopener">fec.gov</a>
+        <a href="https://govinfo.gov" target="_blank" rel="noopener">govinfo.gov</a>
+      </div>
+      <p class="footer-disclaimer">
+        This site aggregates public government data. Non-partisan. No editorializing.
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    // ── Party normalisation ──────────────────────────────────────────────────
+    function partyCode(raw) {
+      const p = (raw || "").toLowerCase();
+      if (p.includes("democrat")) return "D";
+      if (p.includes("republican")) return "R";
+      if (p.includes("independent") || p === "i") return "I";
+      return raw || "?";
+    }
+
+    function badgeHTML(raw) {
+      const code = partyCode(raw);
+      const label = { D: "Democrat", R: "Republican", I: "Independent" }[code] || raw || "—";
+      const cls   = { D: "badge-dem", R: "badge-rep", I: "badge-ind" }[code]   || "badge-other";
+      return `<span class="badge ${cls}">${label}</span>`;
+    }
+
+    // ── Chamber normalisation ────────────────────────────────────────────────
+    function chamberShort(raw) {
+      if (!raw) return "—";
+      if (/house/i.test(raw))  return "House";
+      if (/senate/i.test(raw)) return "Senate";
+      return raw;
+    }
+
+    // ── Helpers ──────────────────────────────────────────────────────────────
+    function escapeHTML(str) {
+      return String(str ?? "—")
+        .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    }
+
+    function highlight(str, term) {
+      if (!term) return escapeHTML(str);
+      const safe = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      return escapeHTML(str).replace(new RegExp(`(${safe})`, "gi"),
+        '<mark class="highlight">$1</mark>');
+    }
+
+    // ── Summary cards ────────────────────────────────────────────────────────
+    function buildSummary(members) {
+      const chambers = ["House of Representatives", "Senate"];
+      const cards = chambers.map(chamber => {
+        const group = members.filter(m => (m.chamber || "").includes(
+          chamber === "House of Representatives" ? "House" : "Senate"
+        ));
+        const d = group.filter(m => partyCode(m.party) === "D").length;
+        const r = group.filter(m => partyCode(m.party) === "R").length;
+        const i = group.filter(m => partyCode(m.party) === "I").length;
+        const total = group.length || 1;
+        const label = chamber === "House of Representatives" ? "House" : "Senate";
+        return `
+          <div class="summary-card">
+            <h3>${label} — ${group.length} members</h3>
+            <div class="party-row">
+              <span class="party-dot dot-dem"></span>
+              <span class="party-name">Democrat</span>
+              <span class="party-num">${d}</span>
+            </div>
+            <div class="party-row">
+              <span class="party-dot dot-rep"></span>
+              <span class="party-name">Republican</span>
+              <span class="party-num">${r}</span>
+            </div>
+            ${i ? `<div class="party-row">
+              <span class="party-dot dot-ind"></span>
+              <span class="party-name">Independent</span>
+              <span class="party-num">${i}</span>
+            </div>` : ""}
+            <div class="party-bar" aria-hidden="true">
+              <div class="bar-dem" style="flex:${d}"></div>
+              <div class="bar-rep" style="flex:${r}"></div>
+              ${i ? `<div class="bar-ind" style="flex:${i}"></div>` : ""}
+            </div>
+          </div>`;
+      });
+
+      // Overall totals card
+      const total = members.length;
+      const dT = members.filter(m => partyCode(m.party) === "D").length;
+      const rT = members.filter(m => partyCode(m.party) === "R").length;
+      const iT = members.filter(m => partyCode(m.party) === "I").length;
+      cards.unshift(`
+        <div class="summary-card">
+          <h3>Total Congress — ${total} members</h3>
+          <div class="party-row">
+            <span class="party-dot dot-dem"></span>
+            <span class="party-name">Democrat</span>
+            <span class="party-num">${dT}</span>
+          </div>
+          <div class="party-row">
+            <span class="party-dot dot-rep"></span>
+            <span class="party-name">Republican</span>
+            <span class="party-num">${rT}</span>
+          </div>
+          ${iT ? `<div class="party-row">
+            <span class="party-dot dot-ind"></span>
+            <span class="party-name">Independent</span>
+            <span class="party-num">${iT}</span>
+          </div>` : ""}
+          <div class="party-bar" aria-hidden="true">
+            <div class="bar-dem" style="flex:${dT}"></div>
+            <div class="bar-rep" style="flex:${rT}"></div>
+            ${iT ? `<div class="bar-ind" style="flex:${iT}"></div>` : ""}
+          </div>
+        </div>`);
+
+      document.getElementById("summary").innerHTML = cards.join("");
+    }
+
+    // ── State dropdown ───────────────────────────────────────────────────────
+    function populateStates(members) {
+      const states = [...new Set(members.map(m => m.state).filter(Boolean))].sort();
+      const sel = document.getElementById("filter-state");
+      states.forEach(s => {
+        const opt = document.createElement("option");
+        opt.value = s;
+        opt.textContent = s;
+        sel.appendChild(opt);
+      });
+    }
+
+    // ── Filtering & rendering ────────────────────────────────────────────────
+    let allMembers = [];
+
+    function getFilters() {
+      return {
+        term:    document.getElementById("search").value.trim().toLowerCase(),
+        chamber: document.getElementById("filter-chamber").value,
+        party:   document.getElementById("filter-party").value,
+        state:   document.getElementById("filter-state").value,
+      };
+    }
+
+    function applyFilters() {
+      const { term, chamber, party, state } = getFilters();
+      return allMembers.filter(m => {
+        if (chamber && !(m.chamber || "").includes(
+          chamber === "House of Representatives" ? "House" : "Senate"
+        )) return false;
+        if (party  && partyCode(m.party) !== party)  return false;
+        if (state  && m.state !== state)              return false;
+        if (term) {
+          const haystack = `${m.name} ${m.state}`.toLowerCase();
+          if (!haystack.includes(term)) return false;
+        }
+        return true;
+      });
+    }
+
+    function render() {
+      const { term } = getFilters();
+      const records = applyFilters();
+      const tbody = document.getElementById("members-body");
+
+      document.getElementById("record-count").textContent =
+        records.length.toLocaleString() + " member" + (records.length !== 1 ? "s" : "");
+
+      if (!records.length) {
+        tbody.innerHTML = '<tr><td colspan="5" class="state-msg">No members match the selected filters.</td></tr>';
+        return;
+      }
+
+      tbody.innerHTML = records.map(m => `
+        <tr>
+          <td>${highlight(m.name, term)}</td>
+          <td>${badgeHTML(m.party)}</td>
+          <td>${highlight(m.state, term)}</td>
+          <td><span class="chamber-pill">${escapeHTML(chamberShort(m.chamber))}</span></td>
+          <td class="hide-mobile">${escapeHTML(m.district ?? "—")}</td>
+        </tr>`).join("");
+    }
+
+    ["search", "filter-chamber", "filter-party", "filter-state"].forEach(id =>
+      document.getElementById(id).addEventListener("input", render)
+    );
+
+    // ── Boot ─────────────────────────────────────────────────────────────────
+    async function init() {
+      try {
+        const resp = await fetch("../data/members.json");
+        if (!resp.ok) throw new Error(resp.status);
+        allMembers = await resp.json();
+        buildSummary(allMembers);
+        populateStates(allMembers);
+        render();
+      } catch {
+        document.getElementById("summary").innerHTML = "";
+        document.getElementById("members-body").innerHTML =
+          '<tr><td colspan="5" class="state-msg">Could not load members data. Run the fetch script first.</td></tr>';
+      }
+    }
+
+    init();
+  </script>
+
+</body>
+</html>
