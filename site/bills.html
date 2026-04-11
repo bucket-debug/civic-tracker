@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bills — CivicPulse</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --navy: #1a2744;
+      --navy-light: #243360;
+      --accent: #3b82f6;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+      --bg: #f8fafc;
+      --dem: #2563eb;
+      --rep: #dc2626;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--navy);
+      color: #fff;
+      padding: 0 1.5rem;
+    }
+
+    .header-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.75rem 0 1.25rem;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+
+    header h1 span { color: var(--accent); }
+
+    header p {
+      margin-top: 0.25rem;
+      font-size: 0.95rem;
+      color: #a8bbd4;
+    }
+
+    /* ── Nav ── */
+    nav {
+      background: var(--navy-light);
+      border-top: 1px solid rgba(255,255,255,0.07);
+    }
+
+    .nav-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem;
+      padding: 0 1.5rem;
+    }
+
+    nav a {
+      display: inline-block;
+      color: #c8d9ed;
+      text-decoration: none;
+      font-size: 0.875rem;
+      font-weight: 500;
+      padding: 0.65rem 1rem;
+      border-bottom: 3px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    nav a:hover, nav a.active {
+      color: #fff;
+      border-bottom-color: var(--accent);
+    }
+
+    /* ── Main ── */
+    main {
+      flex: 1;
+      max-width: 1100px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    .page-intro {
+      margin-bottom: 1.5rem;
+    }
+
+    .page-intro h2 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--navy);
+      margin-bottom: 0.4rem;
+    }
+
+    .page-intro p {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+    }
+
+    /* ── Filter bar ── */
+    .filter-bar {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1.25rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-bar span {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-right: 0.25rem;
+    }
+
+    .filter-btn {
+      padding: 0.35rem 1rem;
+      border-radius: 999px;
+      border: 1.5px solid var(--border);
+      background: #fff;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .filter-btn.active {
+      background: var(--navy);
+      border-color: var(--navy);
+      color: #fff;
+    }
+
+    .filter-btn.dem.active { background: var(--dem); border-color: var(--dem); }
+    .filter-btn.rep.active { background: var(--rep); border-color: var(--rep); }
+
+    /* ── Record count ── */
+    .record-count {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin-left: auto;
+    }
+
+    /* ── Table wrapper ── */
+    .table-wrap {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.875rem;
+    }
+
+    thead {
+      background: var(--navy);
+      color: #fff;
+    }
+
+    thead th {
+      padding: 0.85rem 1rem;
+      text-align: left;
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      white-space: nowrap;
+    }
+
+    tbody tr.data-row {
+      border-top: 1px solid var(--border);
+      cursor: pointer;
+      transition: background 0.1s;
+    }
+
+    tbody tr.data-row:hover { background: #f1f5f9; }
+    tbody tr.data-row.expanded { background: #eff6ff; }
+
+    tbody td {
+      padding: 0.75rem 1rem;
+      vertical-align: middle;
+    }
+
+    /* expand indicator */
+    td.expand-cell {
+      width: 2rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.75rem;
+      user-select: none;
+    }
+
+    .chevron {
+      display: inline-block;
+      transition: transform 0.2s;
+    }
+
+    tr.expanded .chevron { transform: rotate(90deg); }
+
+    /* ── Expanded detail row ── */
+    tr.detail-row td {
+      padding: 0;
+      border-top: none;
+    }
+
+    .detail-inner {
+      padding: 0.85rem 1rem 0.85rem 3rem;
+      background: #eff6ff;
+      border-top: 1px dashed #bfdbfe;
+      font-size: 0.85rem;
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .detail-inner strong {
+      color: var(--navy);
+      font-weight: 600;
+    }
+
+    /* ── Party badge ── */
+    .badge {
+      display: inline-block;
+      padding: 0.2rem 0.55rem;
+      border-radius: 999px;
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+    }
+
+    .badge-dem { background: #dbeafe; color: var(--dem); }
+    .badge-rep { background: #fee2e2; color: var(--rep); }
+    .badge-ind { background: #f1f5f9; color: #475569; }
+
+    /* ── Bill number ── */
+    .bill-num {
+      font-family: "Courier New", monospace;
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--navy);
+      white-space: nowrap;
+    }
+
+    /* ── Status ── */
+    .status-pill {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+      font-size: 0.7rem;
+      font-weight: 600;
+      background: #f1f5f9;
+      color: #475569;
+      white-space: nowrap;
+    }
+
+    /* ── Empty / error state ── */
+    .state-msg {
+      padding: 3rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+
+    /* ── Overflow on mobile ── */
+    @media (max-width: 700px) {
+      .table-wrap { border-radius: 8px; }
+      .hide-mobile { display: none; }
+      tbody td { padding: 0.65rem 0.75rem; }
+      thead th { padding: 0.75rem; }
+      .detail-inner { padding-left: 1.5rem; }
+    }
+
+    /* ── Footer ── */
+    footer {
+      background: var(--navy);
+      color: #a8bbd4;
+      font-size: 0.8rem;
+      padding: 1.5rem;
+      margin-top: auto;
+    }
+
+    .footer-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem 1.25rem;
+    }
+
+    footer a { color: #c8d9ed; text-decoration: none; }
+    footer a:hover { color: #fff; text-decoration: underline; }
+
+    .footer-disclaimer { color: #6d839e; max-width: 480px; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <h1><a href="index.html" style="color:inherit;text-decoration:none;">Civic<span>Pulse</span></a></h1>
+      <p>Track your government, plainly.</p>
+    </div>
+  </header>
+
+  <nav aria-label="Main navigation">
+    <div class="nav-inner">
+      <a href="bills.html" class="active">Bills</a>
+      <a href="finance.html">Campaign Finance</a>
+      <a href="members.html">Congress Members</a>
+      <a href="news.html">News</a>
+    </div>
+  </nav>
+
+  <main>
+    <div class="page-intro">
+      <h2>Active Bills</h2>
+      <p>The 20 most recently updated bills in Congress, sourced daily from congress.gov.</p>
+    </div>
+
+    <div class="filter-bar">
+      <span>Filter:</span>
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn dem" data-filter="D">Democrat</button>
+      <button class="filter-btn rep" data-filter="R">Republican</button>
+      <span class="record-count" id="record-count"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table id="bills-table" aria-label="Active bills">
+        <thead>
+          <tr>
+            <th></th><!-- chevron -->
+            <th>Bill #</th>
+            <th>Title</th>
+            <th class="hide-mobile">Sponsor</th>
+            <th>Party</th>
+            <th class="hide-mobile">Status</th>
+            <th class="hide-mobile">Last Action</th>
+          </tr>
+        </thead>
+        <tbody id="bills-body">
+          <tr><td colspan="7" class="state-msg">Loading&hellip;</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-links">
+        <a href="https://congress.gov" target="_blank" rel="noopener">congress.gov</a>
+        <a href="https://fec.gov" target="_blank" rel="noopener">fec.gov</a>
+        <a href="https://govinfo.gov" target="_blank" rel="noopener">govinfo.gov</a>
+      </div>
+      <p class="footer-disclaimer">
+        This site aggregates public government data. Non-partisan. No editorializing.
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    const PARTY_MAP = {
+      "Democrat": "D", "Democratic": "D", "D": "D",
+      "Republican": "R", "R": "R",
+      "Independent": "I", "I": "I",
+    };
+
+    function partyCode(sponsor) {
+      // Sponsor strings from congress.gov often look like "Rep. Jane Smith [D-CA]"
+      if (!sponsor) return "?";
+      const m = sponsor.match(/\[([A-Z]+)-/);
+      if (m) return PARTY_MAP[m[1]] || m[1];
+      return "?";
+    }
+
+    function badgeHTML(code) {
+      if (code === "D") return '<span class="badge badge-dem">Democrat</span>';
+      if (code === "R") return '<span class="badge badge-rep">Republican</span>';
+      return '<span class="badge badge-ind">' + (code || "—") + '</span>';
+    }
+
+    function formatDate(str) {
+      if (!str) return "—";
+      const d = new Date(str + (str.length === 10 ? "T00:00:00Z" : ""));
+      return isNaN(d) ? str : d.toLocaleDateString("en-US", {
+        month: "short", day: "numeric", year: "numeric", timeZone: "UTC"
+      });
+    }
+
+    function truncate(str, n) {
+      if (!str) return "—";
+      return str.length > n ? str.slice(0, n).trimEnd() + "…" : str;
+    }
+
+    function deriveStatus(bill) {
+      const text = (bill.latestActionText || "").toLowerCase();
+      if (text.includes("signed by president") || text.includes("became public law")) return "Enacted";
+      if (text.includes("passed senate") && text.includes("passed house")) return "Passed Both";
+      if (text.includes("passed senate")) return "Passed Senate";
+      if (text.includes("passed house")) return "Passed House";
+      if (text.includes("referred to")) return "In Committee";
+      if (text.includes("introduced")) return "Introduced";
+      return "Active";
+    }
+
+    let allBills = [];
+    let activeFilter = "all";
+    let expandedIdx = null;
+
+    function render(bills) {
+      const tbody = document.getElementById("bills-body");
+      document.getElementById("record-count").textContent =
+        bills.length + " record" + (bills.length !== 1 ? "s" : "");
+
+      if (!bills.length) {
+        tbody.innerHTML = '<tr><td colspan="7" class="state-msg">No records match this filter.</td></tr>';
+        return;
+      }
+
+      const rows = [];
+      bills.forEach((bill, i) => {
+        const code = partyCode(bill.sponsor);
+        const status = deriveStatus(bill);
+        const isExpanded = expandedIdx === i;
+
+        rows.push(`
+          <tr class="data-row${isExpanded ? " expanded" : ""}" data-idx="${i}">
+            <td class="expand-cell"><span class="chevron">›</span></td>
+            <td><span class="bill-num">${bill.type || ""}${bill.billNumber || "—"}</span></td>
+            <td>${truncate(bill.title, 80)}</td>
+            <td class="hide-mobile">${truncate(bill.sponsor, 36)}</td>
+            <td>${badgeHTML(code)}</td>
+            <td class="hide-mobile"><span class="status-pill">${status}</span></td>
+            <td class="hide-mobile">${formatDate(bill.latestActionDate)}</td>
+          </tr>
+          <tr class="detail-row" ${isExpanded ? "" : 'style="display:none"'}>
+            <td colspan="7">
+              <div class="detail-inner">
+                <strong>Latest action:</strong>
+                ${bill.latestActionText || "No action text available."}
+                ${bill.latestActionDate ? ' <span style="color:var(--text-muted)">(' + formatDate(bill.latestActionDate) + ')</span>' : ""}
+              </div>
+            </td>
+          </tr>`);
+      });
+
+      tbody.innerHTML = rows.join("");
+
+      tbody.querySelectorAll("tr.data-row").forEach(row => {
+        row.addEventListener("click", () => {
+          const idx = parseInt(row.dataset.idx, 10);
+          expandedIdx = expandedIdx === idx ? null : idx;
+          render(filtered());
+        });
+      });
+    }
+
+    function filtered() {
+      if (activeFilter === "all") return allBills;
+      return allBills.filter(b => partyCode(b.sponsor) === activeFilter);
+    }
+
+    document.querySelectorAll(".filter-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        activeFilter = btn.dataset.filter;
+        expandedIdx = null;
+        render(filtered());
+      });
+    });
+
+    async function init() {
+      try {
+        const resp = await fetch("../data/bills.json");
+        if (!resp.ok) throw new Error(resp.status);
+        allBills = await resp.json();
+        render(filtered());
+      } catch {
+        document.getElementById("bills-body").innerHTML =
+          '<tr><td colspan="7" class="state-msg">Could not load bills data. Run the fetch script first.</td></tr>';
+      }
+    }
+
+    init();
+  </script>
+
+</body>
+</html>
