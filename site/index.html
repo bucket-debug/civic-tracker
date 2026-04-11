@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CivicPulse — Track your government, plainly.</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --navy: #1a2744;
+      --navy-light: #243360;
+      --accent: #3b82f6;
+      --accent-hover: #2563eb;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+      --card-bg: #ffffff;
+      --bg: #f8fafc;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--navy);
+      color: #fff;
+      padding: 0 1.5rem;
+    }
+
+    .header-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.75rem 0 1.25rem;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+
+    header h1 span {
+      color: var(--accent);
+    }
+
+    header p {
+      margin-top: 0.25rem;
+      font-size: 0.95rem;
+      color: #a8bbd4;
+    }
+
+    /* ── Nav ── */
+    nav {
+      background: var(--navy-light);
+      border-top: 1px solid rgba(255,255,255,0.07);
+    }
+
+    .nav-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem;
+      padding: 0 1.5rem;
+    }
+
+    nav a {
+      display: inline-block;
+      color: #c8d9ed;
+      text-decoration: none;
+      font-size: 0.875rem;
+      font-weight: 500;
+      padding: 0.65rem 1rem;
+      border-bottom: 3px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    nav a:hover {
+      color: #fff;
+      border-bottom-color: var(--accent);
+    }
+
+    /* ── Main ── */
+    main {
+      flex: 1;
+      max-width: 1100px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    /* ── Last updated bar ── */
+    .last-updated {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-bottom: 2rem;
+    }
+
+    .last-updated .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #94a3b8;
+      flex-shrink: 0;
+    }
+
+    .last-updated .dot.ok   { background: #22c55e; }
+    .last-updated .dot.fail { background: #ef4444; }
+
+    /* ── Stat cards ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.25rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem 1.75rem;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      transition: box-shadow 0.15s, transform 0.15s;
+    }
+
+    .card:hover {
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      transform: translateY(-2px);
+    }
+
+    .card-icon {
+      font-size: 1.5rem;
+      line-height: 1;
+    }
+
+    .card-label {
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-muted);
+    }
+
+    .card-count {
+      font-size: 2.4rem;
+      font-weight: 800;
+      color: var(--navy);
+      line-height: 1;
+      min-height: 2.4rem;
+    }
+
+    .card-count.loading::after {
+      content: "";
+      display: inline-block;
+      width: 1.5rem;
+      height: 1.5rem;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      vertical-align: middle;
+    }
+
+    .card-sublabel {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* ── About blurb ── */
+    .about {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem 1.75rem;
+      max-width: 680px;
+    }
+
+    .about h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      color: var(--navy);
+    }
+
+    .about p {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    .about p + p { margin-top: 0.5rem; }
+
+    /* ── Footer ── */
+    footer {
+      background: var(--navy);
+      color: #a8bbd4;
+      font-size: 0.8rem;
+      padding: 1.5rem;
+      margin-top: auto;
+    }
+
+    .footer-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem 1.25rem;
+    }
+
+    footer a {
+      color: #c8d9ed;
+      text-decoration: none;
+    }
+
+    footer a:hover { color: #fff; text-decoration: underline; }
+
+    .footer-disclaimer {
+      color: #6d839e;
+      max-width: 480px;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 480px) {
+      header h1 { font-size: 1.5rem; }
+      .card-count { font-size: 2rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <h1>Civic<span>Pulse</span></h1>
+      <p>Track your government, plainly.</p>
+    </div>
+  </header>
+
+  <nav aria-label="Main navigation">
+    <div class="nav-inner">
+      <a href="bills.html">Bills</a>
+      <a href="finance.html">Campaign Finance</a>
+      <a href="members.html">Congress Members</a>
+      <a href="news.html">News</a>
+    </div>
+  </nav>
+
+  <main>
+
+    <div class="last-updated" id="last-updated">
+      <span class="dot" id="status-dot"></span>
+      <span id="status-text">Loading last update&hellip;</span>
+    </div>
+
+    <div class="cards">
+      <a class="card" href="bills.html" aria-label="View active bills">
+        <div class="card-icon">🏛️</div>
+        <div class="card-label">Active Bills</div>
+        <div class="card-count loading" id="count-bills"></div>
+        <div class="card-sublabel">from congress.gov</div>
+      </a>
+
+      <a class="card" href="finance.html" aria-label="View campaign finance records">
+        <div class="card-icon">💰</div>
+        <div class="card-label">Campaign Records</div>
+        <div class="card-count loading" id="count-finance"></div>
+        <div class="card-sublabel">from FEC</div>
+      </a>
+
+      <a class="card" href="members.html" aria-label="View congress members">
+        <div class="card-icon">👥</div>
+        <div class="card-label">Congress Members</div>
+        <div class="card-count loading" id="count-members"></div>
+        <div class="card-sublabel">from congress.gov</div>
+      </a>
+
+      <a class="card" href="news.html" aria-label="View news stories">
+        <div class="card-icon">📰</div>
+        <div class="card-label">News Stories</div>
+        <div class="card-count loading" id="count-news"></div>
+        <div class="card-sublabel">from NewsAPI</div>
+      </a>
+    </div>
+
+    <div class="about">
+      <h2>About CivicPulse</h2>
+      <p>CivicPulse pulls from publicly available US government APIs every day at 07:00 UTC and presents the data in one place — no spin, no commentary.</p>
+      <p>Data sources: <a href="https://congress.gov">congress.gov</a> for legislation and membership, the <a href="https://fec.gov">Federal Election Commission</a> for campaign finance, and <a href="https://newsapi.org">NewsAPI</a> for headline coverage.</p>
+    </div>
+
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-links">
+        <a href="https://congress.gov" target="_blank" rel="noopener">congress.gov</a>
+        <a href="https://fec.gov" target="_blank" rel="noopener">fec.gov</a>
+        <a href="https://govinfo.gov" target="_blank" rel="noopener">govinfo.gov</a>
+      </div>
+      <p class="footer-disclaimer">
+        This site aggregates public government data. Non-partisan. No editorializing.
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    function setCount(id, value) {
+      const el = document.getElementById(id);
+      el.classList.remove("loading");
+      el.textContent = value;
+    }
+
+    function formatTimestamp(iso) {
+      const d = new Date(iso);
+      return d.toLocaleString("en-US", {
+        month: "short", day: "numeric", year: "numeric",
+        hour: "numeric", minute: "2-digit", timeZoneName: "short",
+        timeZone: "UTC",
+      });
+    }
+
+    async function loadJSON(path) {
+      const resp = await fetch(path);
+      if (!resp.ok) throw new Error(`${resp.status} ${resp.statusText}`);
+      return resp.json();
+    }
+
+    async function init() {
+      // Last updated + overall status
+      try {
+        const meta = await loadJSON("../data/last_updated.json");
+        const allOk = Object.values(meta.status).every(v => v === "success");
+        const dot = document.getElementById("status-dot");
+        dot.classList.add(allOk ? "ok" : "fail");
+        document.getElementById("status-text").textContent =
+          "Last updated: " + formatTimestamp(meta.timestamp);
+      } catch {
+        document.getElementById("status-text").textContent = "Last update time unavailable";
+      }
+
+      // Stat counts — each independent so one failure doesn't block others
+      const sources = [
+        { id: "count-bills",   path: "../data/bills.json" },
+        { id: "count-finance", path: "../data/finance.json" },
+        { id: "count-members", path: "../data/members.json" },
+        { id: "count-news",    path: "../data/news.json" },
+      ];
+
+      sources.forEach(async ({ id, path }) => {
+        try {
+          const data = await loadJSON(path);
+          setCount(id, Array.isArray(data) ? data.length.toLocaleString() : "—");
+        } catch {
+          setCount(id, "—");
+        }
+      });
+    }
+
+    init();
+  </script>
+
+</body>
+</html>
