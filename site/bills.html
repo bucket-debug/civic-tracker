@@ -420,9 +420,17 @@
       });
     }
 
+    function escapeHTML(str) {
+      return String(str ?? "—")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;");
+    }
+
     function truncate(str, n) {
       if (!str) return "—";
-      return str.length > n ? str.slice(0, n).trimEnd() + "…" : str;
+      const clipped = str.length > n ? str.slice(0, n).trimEnd() + "…" : str;
+      return escapeHTML(clipped);
     }
 
     function deriveStatus(bill) {
@@ -470,7 +478,7 @@
             <td colspan="7">
               <div class="detail-inner">
                 <strong>Latest action:</strong>
-                ${bill.latestActionText || "No action text available."}
+                ${escapeHTML(bill.latestActionText || "No action text available.")}
                 ${bill.latestActionDate ? ' <span style="color:var(--text-muted)">(' + formatDate(bill.latestActionDate) + ')</span>' : ""}
               </div>
             </td>
