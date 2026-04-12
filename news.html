@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>News — CivicPulse</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --navy:          #0f1f3d;
+      --navy-mid:      #162035;
+      --accent:        #2563eb;
+      --accent-faint:  #eff6ff;
+      --accent-border: #bfdbfe;
+      --text:          #111827;
+      --text-2:        #374151;
+      --text-muted:    #6b7280;
+      --border:        #e5e7eb;
+      --border-2:      #d1d5db;
+      --bg:            #f1f5f9;
+      --surface:       #ffffff;
+      --surface-2:     #f8fafc;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   "Helvetica Neue", Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    /* ── Header ─────────────────────────────────── */
+    header {
+      background: var(--navy);
+      color: #fff;
+      padding: 0 1.5rem;
+      border-top: 3px solid var(--accent);
+    }
+
+    .header-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.375rem 0 1.125rem;
+    }
+
+    header h1 {
+      font-size: 1.75rem;
+      font-weight: 800;
+      letter-spacing: -0.04em;
+      line-height: 1;
+    }
+
+    header h1 span { color: var(--accent); }
+
+    .tagline {
+      margin-top: 0.3rem;
+      font-size: 0.675rem;
+      font-weight: 600;
+      color: rgba(255,255,255,0.35);
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
+
+    /* ── Nav ─────────────────────────────────────── */
+    nav {
+      background: var(--navy-mid);
+      border-bottom: 1px solid rgba(0,0,0,0.15);
+    }
+
+    .nav-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      padding: 0 1.5rem;
+    }
+
+    nav a {
+      display: inline-block;
+      color: rgba(255,255,255,0.45);
+      text-decoration: none;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      padding: 0.7rem 1rem;
+      border-bottom: 2px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    nav a:hover, nav a.active {
+      color: #fff;
+      border-bottom-color: var(--accent);
+    }
+
+    /* ── Main ────────────────────────────────────── */
+    main {
+      flex: 1;
+      max-width: 1100px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+    }
+
+    /* ── Source note ─────────────────────────────── */
+    .source-note {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: var(--accent-faint);
+      border: 1px solid var(--accent-border);
+      border-radius: 6px;
+      padding: 0.5rem 0.875rem;
+      font-size: 0.75rem;
+      font-weight: 500;
+      color: var(--text-2);
+      margin-bottom: 1.75rem;
+    }
+
+    .source-note svg {
+      flex-shrink: 0;
+      color: var(--accent);
+      width: 14px;
+      height: 14px;
+    }
+
+    /* ── Toolbar ──────────────────────────────────── */
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .search-wrap {
+      position: relative;
+      flex: 1;
+      min-width: 200px;
+      max-width: 420px;
+    }
+
+    .search-wrap svg {
+      position: absolute; left: 0.75rem; top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted); pointer-events: none;
+      width: 14px; height: 14px;
+    }
+
+    #search {
+      width: 100%;
+      padding: 0.5rem 0.75rem 0.5rem 2.25rem;
+      border: 1.5px solid var(--border-2);
+      border-radius: 6px;
+      font-size: 0.8rem;
+      color: var(--text);
+      background: var(--surface);
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    #search:focus { border-color: var(--accent); }
+    #search::placeholder { color: var(--text-muted); }
+
+    .record-count {
+      font-size: 0.725rem;
+      font-weight: 500;
+      color: var(--text-muted);
+      white-space: nowrap;
+      margin-left: auto;
+    }
+
+    /* ── Card grid ────────────────────────────────── */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+    }
+
+    @media (max-width: 620px) {
+      .card-grid { grid-template-columns: 1fr; }
+    }
+
+    /* ── Article card ─────────────────────────────── */
+    .article-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-top: 3px solid var(--accent);
+      border-radius: 8px;
+      padding: 1.125rem 1.25rem 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      transition: box-shadow 0.15s, transform 0.12s;
+    }
+
+    .article-card:hover {
+      box-shadow: 0 6px 28px rgba(15,31,61,0.1);
+      transform: translateY(-2px);
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+
+    .card-source {
+      font-size: 0.625rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--accent);
+    }
+
+    .card-date {
+      font-size: 0.675rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    .card-headline {
+      font-size: 0.925rem;
+      font-weight: 700;
+      color: var(--navy);
+      line-height: 1.4;
+      letter-spacing: -0.01em;
+    }
+
+    .card-description {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+      flex: 1;
+    }
+
+    .card-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      margin-top: 0.25rem;
+      font-size: 0.725rem;
+      font-weight: 600;
+      color: var(--accent);
+      text-decoration: none;
+      width: fit-content;
+      transition: color 0.15s;
+    }
+
+    .card-link:hover { color: #1d4ed8; }
+
+    .card-link svg {
+      width: 11px;
+      height: 11px;
+      flex-shrink: 0;
+    }
+
+    /* ── Highlight ────────────────────────────────── */
+    .highlight { background: #fef08a; border-radius: 2px; padding: 0 1px; }
+
+    /* ── Empty / error state ──────────────────────── */
+    .state-msg {
+      grid-column: 1 / -1;
+      padding: 3rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    /* ── Footer ──────────────────────────────────── */
+    footer {
+      background: var(--navy);
+      color: rgba(255,255,255,0.3);
+      font-size: 0.725rem;
+      padding: 1.125rem 1.5rem;
+      margin-top: auto;
+      border-top: 1px solid rgba(255,255,255,0.05);
+    }
+
+    .footer-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 2rem;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem 1.5rem;
+    }
+
+    footer a { color: rgba(255,255,255,0.5); text-decoration: none; }
+    footer a:hover { color: rgba(255,255,255,0.85); }
+    .footer-disclaimer { max-width: 480px; line-height: 1.5; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <h1><a href="index.html" style="color:inherit;text-decoration:none;">Civic<span>Pulse</span></a></h1>
+      <p class="tagline">Track your government, plainly.</p>
+    </div>
+  </header>
+
+  <nav aria-label="Main navigation">
+    <div class="nav-inner">
+      <a href="bills.html">Bills</a>
+      <a href="finance.html">Campaign Finance</a>
+      <a href="members.html">Congress Members</a>
+      <a href="news.html" class="active">News</a>
+    </div>
+  </nav>
+
+  <main>
+
+    <div class="source-note">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+        <path fill-rule="evenodd" d="M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0Zm-7-4a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM9 9a.75.75 0 0 0 0 1.5h.253a.25.25 0 0 1 .244.304l-.459 2.066A1.75 1.75 0 0 0 10.747 15H11a.75.75 0 0 0 0-1.5h-.253a.25.25 0 0 1-.244-.304l.459-2.066A1.75 1.75 0 0 0 9.253 9H9Z" clip-rule="evenodd" />
+      </svg>
+      <span>Sources: NPR Politics, Politico, Washington Post. Updated daily via RSS.</span>
+    </div>
+
+    <div class="toolbar">
+      <div class="search-wrap">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+          <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11ZM2 9a7 7 0 1 1 12.452 4.391l3.328 3.329a.75.75 0 1 1-1.06 1.06l-3.329-3.328A7 7 0 0 1 2 9Z" clip-rule="evenodd" />
+        </svg>
+        <input id="search" type="search" placeholder="Search headlines or descriptions…" aria-label="Search news articles" />
+      </div>
+      <span class="record-count" id="record-count"></span>
+    </div>
+
+    <div class="card-grid" id="card-grid">
+      <p class="state-msg">Loading&hellip;</p>
+    </div>
+
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-links">
+        <a href="https://congress.gov" target="_blank" rel="noopener">congress.gov</a>
+        <a href="https://fec.gov" target="_blank" rel="noopener">fec.gov</a>
+        <a href="https://govinfo.gov" target="_blank" rel="noopener">govinfo.gov</a>
+      </div>
+      <p class="footer-disclaimer">
+        This site aggregates public government data. Non-partisan. No editorializing.
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    function escapeHTML(str) {
+      return String(str ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function highlight(str, term) {
+      if (!str) return "";
+      if (!term) return escapeHTML(str);
+      const safe = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      return escapeHTML(str).replace(new RegExp(`(${safe})`, "gi"),
+        '<mark class="highlight">$1</mark>');
+    }
+
+    function formatDate(iso) {
+      if (!iso) return "";
+      const d = new Date(iso);
+      return isNaN(d) ? "" : d.toLocaleDateString("en-US", {
+        month: "short", day: "numeric", year: "numeric", timeZone: "UTC"
+      });
+    }
+
+    let allArticles = [];
+
+    function render(articles, term) {
+      const grid = document.getElementById("card-grid");
+      document.getElementById("record-count").textContent =
+        articles.length + " stor" + (articles.length === 1 ? "y" : "ies");
+
+      if (!articles.length) {
+        grid.innerHTML = '<p class="state-msg">No articles match your search.</p>';
+        return;
+      }
+
+      grid.innerHTML = articles.map(a => {
+        const date = formatDate(a.publishedAt);
+        const hasLink = a.url && a.url !== "#" && a.url !== "null";
+        return `
+          <article class="article-card">
+            <div class="card-meta">
+              <span class="card-source">${escapeHTML(a.source || "Unknown")}</span>
+              ${date ? `<span class="card-date">${date}</span>` : ""}
+            </div>
+            <h2 class="card-headline">${highlight(a.title, term)}</h2>
+            ${a.description
+              ? `<p class="card-description">${highlight(a.description, term)}</p>`
+              : ""}
+            ${hasLink
+              ? `<a class="card-link" href="${escapeHTML(a.url)}" target="_blank" rel="noopener noreferrer">
+                  Read full story
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                    <path fill-rule="evenodd" d="M4.25 5.5a.75.75 0 0 0-.75.75v8.5c0 .414.336.75.75.75h8.5a.75.75 0 0 0 .75-.75v-4a.75.75 0 0 1 1.5 0v4A2.25 2.25 0 0 1 12.75 17h-8.5A2.25 2.25 0 0 1 2 14.75v-8.5A2.25 2.25 0 0 1 4.25 4h5a.75.75 0 0 1 0 1.5h-5Zm6.75-.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-1.5 0V6.31l-6.22 6.22a.75.75 0 0 1-1.06-1.06l6.22-6.22H11a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd" />
+                  </svg>
+                </a>`
+              : ""}
+          </article>`;
+      }).join("");
+    }
+
+    function applySearch() {
+      const term = document.getElementById("search").value.trim().toLowerCase();
+      if (!term) { render(allArticles, ""); return; }
+      const filtered = allArticles.filter(a =>
+        (a.title       || "").toLowerCase().includes(term) ||
+        (a.description || "").toLowerCase().includes(term) ||
+        (a.source      || "").toLowerCase().includes(term)
+      );
+      render(filtered, term);
+    }
+
+    document.getElementById("search").addEventListener("input", applySearch);
+
+    async function init() {
+      try {
+        const resp = await fetch("data/news.json");
+        if (!resp.ok) throw new Error(resp.status);
+        allArticles = await resp.json();
+        render(allArticles, "");
+      } catch {
+        document.getElementById("card-grid").innerHTML =
+          '<p class="state-msg">Could not load news data. Run the fetch script first.</p>';
+        document.getElementById("record-count").textContent = "";
+      }
+    }
+
+    init();
+  </script>
+
+</body>
+</html>
