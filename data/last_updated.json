@@ -1,9 +1,9 @@
 {
   "timestamp": "2026-04-13T09:01:35.717598+00:00",
   "status": {
-    "bills": "fail",
+    "bills": "success",
     "finance": "success",
-    "members": "fail",
-    "news": "fail"
+    "members": "success",
+    "news": "success"
   }
 }

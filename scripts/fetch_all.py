@@ -1,12 +1,12 @@
 import json
 import os
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 import requests
 
 CONGRESS_API_KEY = os.environ.get("CONGRESS_API_KEY")
 FEC_API_KEY = os.environ.get("FEC_API_KEY")
-NEWS_API_KEY = os.environ.get("NEWS_API_KEY")
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
 
@@ -36,11 +36,12 @@ def log_response_error(label, resp):
 
 
 # 1. Congress bills
+# Using format=json explicitly; no sort param (avoids %2B encoding issue)
 try:
     resp = requests.get(
         "https://api.congress.gov/v3/bill",
         params={
-            "sort": "updateDate+desc",
+            "format": "json",
             "limit": 20,
             "api_key": CONGRESS_API_KEY,
         },
@@ -104,10 +105,12 @@ except Exception as e:
     print(f"[FAIL] finance      — {e}")
 
 # 3. Congress members
+# Using format=json explicitly; currentMember=true to get active members only
 try:
     resp = requests.get(
         "https://api.congress.gov/v3/member",
         params={
+            "format": "json",
             "currentMember": "true",
             "limit": 250,
             "api_key": CONGRESS_API_KEY,
@@ -137,40 +140,53 @@ try:
 except Exception as e:
     print(f"[FAIL] members      — {e}")
 
-# 4. News headlines
-# Note: NewsAPI free-tier developer keys only permit browser/localhost requests.
-# Requests from servers (e.g. GitHub Actions) receive HTTP 426. The except block
-# catches this and leaves news.json unpopulated rather than crashing the script.
+# 4. News via RSS feeds (replaces NewsAPI — free-tier developer keys block server requests)
+# Pulls from three reliable public RSS feeds; parses with stdlib xml.etree.ElementTree.
+RSS_FEEDS = [
+    ("NPR Politics",    "https://feeds.npr.org/1014/rss.xml"),
+    ("Politico",        "https://rss.politico.com/politics-news.rss"),
+    ("Washington Post", "https://feeds.washingtonpost.com/rss/politics"),
+]
+
 try:
-    resp = requests.get(
-        "https://newsapi.org/v2/top-headlines",
-        params={
-            "country": "us",
-            "category": "politics",
-            "pageSize": 30,
-            "apiKey": NEWS_API_KEY,
-        },
-        headers=HEADERS,
-        timeout=30,
-    )
-    if not resp.ok:
-        log_response_error("news", resp)
-        resp.raise_for_status()
-    body = resp.json()
-    # NewsAPI can return HTTP 200 with {"status":"error",...} on free-tier server use
-    if body.get("status") == "error":
-        raise RuntimeError(f"NewsAPI error: {body.get('code')} — {body.get('message')}")
-    raw = body.get("articles", [])
-    news = [
-        {
-            "title": a.get("title"),
-            "source": (a.get("source") or {}).get("name"),
-            "description": a.get("description"),
-            "url": a.get("url"),
-            "publishedAt": a.get("publishedAt"),
-        }
-        for a in raw
-    ]
+    news = []
+    for source_name, feed_url in RSS_FEEDS:
+        try:
+            resp = requests.get(feed_url, headers=HEADERS, timeout=30)
+            if not resp.ok:
+                log_response_error(f"news/{source_name}", resp)
+                continue
+            root = ET.fromstring(resp.content)
+            items = root.findall("./channel/item")
+            for item in items:
+                def text(tag):
+                    el = item.find(tag)
+                    return el.text.strip() if el is not None and el.text else None
+
+                pub_date = text("pubDate")
+                published_at = None
+                if pub_date:
+                    try:
+                        from email.utils import parsedate_to_datetime
+                        published_at = parsedate_to_datetime(pub_date).isoformat()
+                    except Exception:
+                        published_at = pub_date
+
+                news.append({
+                    "title": text("title"),
+                    "source": source_name,
+                    "description": text("description"),
+                    "url": text("link"),
+                    "publishedAt": published_at,
+                })
+            print(f"[OK]   news/{source_name:<18} — {len(items)} items")
+        except Exception as feed_err:
+            print(f"[FAIL] news/{source_name:<18} — {feed_err}")
+
+    if not news:
+        raise RuntimeError("All RSS feeds failed — no news items collected")
+
+    news.sort(key=lambda a: a.get("publishedAt") or "", reverse=True)
     save("news.json", news)
     status["news"] = "success"
     print(f"[OK]   news         — {len(news)} records saved to data/news.json")
