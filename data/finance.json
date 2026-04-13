@@ -1,0 +1,602 @@
+[
+  {
+    "contributor_name": "VAUGHN, JOSEPH",
+    "contribution_receipt_amount": null,
+    "committee_name": "ACTBLUE",
+    "contribution_receipt_date": null
+  },
+  {
+    "contributor_name": "REFF, BARRY",
+    "contribution_receipt_amount": null,
+    "committee_name": "ACTBLUE",
+    "contribution_receipt_date": null
+  },
+  {
+    "contributor_name": "DODO GOVERNMENT",
+    "contribution_receipt_amount": 100000000.0,
+    "committee_name": null,
+    "contribution_receipt_date": "2025-10-25"
+  },
+  {
+    "contributor_name": "GEOSOR CORPORATION",
+    "contribution_receipt_amount": 52000000.0,
+    "committee_name": "DEMOCRACY PAC",
+    "contribution_receipt_date": "2025-01-02"
+  },
+  {
+    "contributor_name": "ONE NATION",
+    "contribution_receipt_amount": 35270000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2025-12-31"
+  },
+  {
+    "contributor_name": "AMERICAN PROSPERITY ALLIANCE",
+    "contribution_receipt_amount": 27800000.0,
+    "committee_name": "CONSERVATIVE AMERICANS PAC",
+    "contribution_receipt_date": "2025-12-23"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 27072484.0,
+    "committee_name": "AMERICA PAC",
+    "contribution_receipt_date": "2025-06-30"
+  },
+  {
+    "contributor_name": "UNITED STATES OF AMERICA INC",
+    "contribution_receipt_amount": 27072484.0,
+    "committee_name": "AMERICA PAC",
+    "contribution_receipt_date": "2025-06-30"
+  },
+  {
+    "contributor_name": "A16Z CAPITAL MANAGEMENT LLC",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "LEADING THE FUTURE",
+    "contribution_receipt_date": "2025-08-22"
+  },
+  {
+    "contributor_name": "RIPPLE LABS INC.",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-08-29"
+  },
+  {
+    "contributor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "UNITED DEMOCRACY PROJECT ('UDP')",
+    "contribution_receipt_date": "2025-09-25"
+  },
+  {
+    "contributor_name": "AH CAPITAL MANAGEMENT",
+    "contribution_receipt_amount": 23800000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-12-10"
+  },
+  {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 23000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2024-12-20"
+  },
+  {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 23000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2024-12-20"
+  },
+  {
+    "contributor_name": "RIPPLE LABS INC.",
+    "contribution_receipt_amount": 23000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-01-21"
+  },
+  {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 23000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2024-12-20"
+  },
+  {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 23000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2024-12-20"
+  },
+  {
+    "contributor_name": "WINKLEVOSS CAPITAL FUND, LLC",
+    "contribution_receipt_amount": 19636543.8,
+    "committee_name": "DIGITAL FREEDOM FUND",
+    "contribution_receipt_date": "2025-08-19"
+  },
+  {
+    "contributor_name": "YASS, JEFF",
+    "contribution_receipt_amount": 15000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-03-06"
+  },
+  {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 15000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-03-14"
+  },
+  {
+    "contributor_name": "AMALGAMATED BANK",
+    "contribution_receipt_amount": 15000000.0,
+    "committee_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+    "contribution_receipt_date": "2025-10-01"
+  },
+  {
+    "contributor_name": "LEAGUE OF CONSERVATION VOTERS, INC.",
+    "contribution_receipt_amount": 14000000.0,
+    "committee_name": "LCV VICTORY FUND",
+    "contribution_receipt_date": "2025-12-18"
+  },
+  {
+    "contributor_name": "SECURING AMERICAN GREATNESS, INC.",
+    "contribution_receipt_amount": 13750000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-06-30"
+  },
+  {
+    "contributor_name": "WARREN, KELCY",
+    "contribution_receipt_amount": 12500000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-02-20"
+  },
+  {
+    "contributor_name": "ENERGY TRANSFER LP",
+    "contribution_receipt_amount": 12500000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-02-21"
+  },
+  {
+    "contributor_name": "HOROWITZ, BENJAMIN",
+    "contribution_receipt_amount": 12500000.0,
+    "committee_name": "LEADING THE FUTURE",
+    "contribution_receipt_date": "2025-08-22"
+  },
+  {
+    "contributor_name": "ANDREESSEN, MARC L.",
+    "contribution_receipt_amount": 12500000.0,
+    "committee_name": "LEADING THE FUTURE",
+    "contribution_receipt_date": "2025-08-22"
+  },
+  {
+    "contributor_name": "BROCKMAN, GREG",
+    "contribution_receipt_amount": 12500000.0,
+    "committee_name": "LEADING THE FUTURE",
+    "contribution_receipt_date": "2025-09-12"
+  },
+  {
+    "contributor_name": "BROCKMAN, ANNA",
+    "contribution_receipt_amount": 12500000.0,
+    "committee_name": "LEADING THE FUTURE",
+    "contribution_receipt_date": "2025-09-12"
+  },
+  {
+    "contributor_name": "BROCKMAN, GREG",
+    "contribution_receipt_amount": 12500000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-09-12"
+  },
+  {
+    "contributor_name": "BROCKMAN, ANNA",
+    "contribution_receipt_amount": 12500000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-09-12"
+  },
+  {
+    "contributor_name": "HOROWITZ, BEN",
+    "contribution_receipt_amount": 11900000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-12-10"
+  },
+  {
+    "contributor_name": "ANDREESSEN, MARC",
+    "contribution_receipt_amount": 11900000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-12-10"
+  },
+  {
+    "contributor_name": "MAKE AMERICA GREAT AGAIN, INC.",
+    "contribution_receipt_amount": 10562090.31,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-04-30"
+  },
+  {
+    "contributor_name": "ACTBLUE",
+    "contribution_receipt_amount": 10381917.86,
+    "committee_name": "COOPER VICTORY FUND",
+    "contribution_receipt_date": "2025-12-31"
+  },
+  {
+    "contributor_name": "FORIS DAX, INC.",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-02-14"
+  },
+  {
+    "contributor_name": "YASS, JEFF MR.",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "SCHOOL FREEDOM FUND",
+    "contribution_receipt_date": "2025-06-12"
+  },
+  {
+    "contributor_name": "YASS, JEFF",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "V-PAC: VICTORS, NOT VICTIMS",
+    "contribution_receipt_date": "2025-03-06"
+  },
+  {
+    "contributor_name": "YASS, JEFF MR.",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "CLUB FOR GROWTH ACTION",
+    "contribution_receipt_date": "2025-11-20"
+  },
+  {
+    "contributor_name": "KOCH INC",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+    "contribution_receipt_date": "2025-12-01"
+  },
+  {
+    "contributor_name": "SOKOLOV, KONSTANTIN",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-08-21"
+  },
+  {
+    "contributor_name": "FORIS DAX, INC.",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-10-22"
+  },
+  {
+    "contributor_name": "FORIS DAX, INC.",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-09-12"
+  },
+  {
+    "contributor_name": "TRUMP NATIONAL COMMITTEE JFC INC.",
+    "contribution_receipt_amount": 9202731.19,
+    "committee_name": "REPUBLICAN NATIONAL COMMITTEE",
+    "contribution_receipt_date": "2025-01-14"
+  },
+  {
+    "contributor_name": "TEXANS FOR TRUTH AND LIBERTY, NON-FEDERAL ACCOUNT",
+    "contribution_receipt_amount": 9037303.52,
+    "committee_name": "TEXANS FOR TRUTH AND LIBERTY PAC",
+    "contribution_receipt_date": "2025-12-31"
+  },
+  {
+    "contributor_name": "AMERICAN ACTION NETWORK",
+    "contribution_receipt_amount": 9000000.0,
+    "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+    "contribution_receipt_date": "2025-12-31"
+  },
+  {
+    "contributor_name": "UIHLEIN, RICHARD E.",
+    "contribution_receipt_amount": 8811240.0,
+    "committee_name": "RESTORATION OF AMERICA PAC",
+    "contribution_receipt_date": "2025-09-12"
+  },
+  {
+    "contributor_name": "FRIENDS OF RAJA FOR CONGRESS",
+    "contribution_receipt_amount": 8800000.0,
+    "committee_name": "RAJA FOR ILLINOIS",
+    "contribution_receipt_date": "2025-07-31"
+  },
+  {
+    "contributor_name": "WEST VIRGINIA PAC",
+    "contribution_receipt_amount": 8274361.25,
+    "committee_name": "COUNTRY ROADS PAC",
+    "contribution_receipt_date": "2025-07-30"
+  },
+  {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 8092475.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-10-07"
+  },
+  {
+    "contributor_name": "FAIRSHAKE",
+    "contribution_receipt_amount": 8000000.0,
+    "committee_name": "DEFEND AMERICAN JOBS",
+    "contribution_receipt_date": "2026-02-09"
+  },
+  {
+    "contributor_name": "SECURING AMERICAN GREATNESS, INC.",
+    "contribution_receipt_amount": 7500000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-12-31"
+  },
+  {
+    "contributor_name": "YASS, JEFF",
+    "contribution_receipt_amount": 7500000.0,
+    "committee_name": "PROTECT FREEDOM POLITICAL ACTION COMMITTEE",
+    "contribution_receipt_date": "2025-10-20"
+  },
+  {
+    "contributor_name": "HARRIS VICTORY FUND - UNITEMIZED",
+    "contribution_receipt_amount": 7283630.71,
+    "committee_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
+    "contribution_receipt_date": "2025-01-31"
+  },
+  {
+    "contributor_name": "FRIENDS OF RAJA FOR CONGRESS",
+    "contribution_receipt_amount": 7173460.51,
+    "committee_name": "RAJA FOR ILLINOIS",
+    "contribution_receipt_date": "2025-06-30"
+  },
+  {
+    "contributor_name": "PROTECT FLORIDA PAC",
+    "contribution_receipt_amount": 6689413.83,
+    "committee_name": "STRONGER SAFER NATION",
+    "contribution_receipt_date": "2025-03-20"
+  },
+  {
+    "contributor_name": "TRUMP NATIONAL COMMITTEE JFC INC.",
+    "contribution_receipt_amount": 6680351.66,
+    "committee_name": "REPUBLICAN NATIONAL COMMITTEE",
+    "contribution_receipt_date": "2025-02-18"
+  },
+  {
+    "contributor_name": "STAND TOGETHER CHAMBER OF COMMERCE INC",
+    "contribution_receipt_amount": 6500000.0,
+    "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+    "contribution_receipt_date": "2025-06-26"
+  },
+  {
+    "contributor_name": "HOUSE MAJORITY FORWARD",
+    "contribution_receipt_amount": 6000000.0,
+    "committee_name": "HMP",
+    "contribution_receipt_date": "2025-06-26"
+  },
+  {
+    "contributor_name": "COINBASE COMMERCE (EXCHANGE)",
+    "contribution_receipt_amount": 6000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-07-13"
+  },
+  {
+    "contributor_name": "MAJORITY FORWARD",
+    "contribution_receipt_amount": 6000000.0,
+    "committee_name": "SMP",
+    "contribution_receipt_date": "2025-12-30"
+  },
+  {
+    "contributor_name": "CAMPAIGN FOR DEMOCRACY COMMITTEE - UNITEMIZED",
+    "contribution_receipt_amount": 5713325.45,
+    "committee_name": "CAMPAIGN FOR DEMOCRACY PAC",
+    "contribution_receipt_date": "2025-12-18"
+  },
+  {
+    "contributor_name": "TRUMP NATIONAL COMMITTEE JFC, INC.",
+    "contribution_receipt_amount": 5533924.6,
+    "committee_name": "NEVER SURRENDER, INC.",
+    "contribution_receipt_date": "2025-05-21"
+  },
+  {
+    "contributor_name": "AMERICAN ACTION NETWORK",
+    "contribution_receipt_amount": 5500000.0,
+    "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+    "contribution_receipt_date": "2025-06-17"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 5500000.0,
+    "committee_name": "AMERICA PAC",
+    "contribution_receipt_date": "2025-03-19"
+  },
+  {
+    "contributor_name": "HOUSE MAJORITY FORWARD",
+    "contribution_receipt_amount": 5200000.0,
+    "committee_name": "HMP",
+    "contribution_receipt_date": "2025-12-29"
+  },
+  {
+    "contributor_name": "COINBASE COMMERCE (EXCHANGE)",
+    "contribution_receipt_amount": 5175000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-07-10"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+    "contribution_receipt_date": "2025-06-27"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2025-06-27"
+  },
+  {
+    "contributor_name": "UNITED HEALTHCARE SERVICES INC",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-01-14"
+  },
+  {
+    "contributor_name": "TOOLS FOR HUMANITY CORPORATION",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-01-14"
+  },
+  {
+    "contributor_name": "SPRECHER, JEFFREY C",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-06-25"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-06-27"
+  },
+  {
+    "contributor_name": "LAUDER, RONALD S",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-03-24"
+  },
+  {
+    "contributor_name": "EXTREMITY CARE LLC",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-02-24"
+  },
+  {
+    "contributor_name": "BLOCKCHAIN.COM, INC.",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-02-28"
+  },
+  {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-06-25"
+  },
+  {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-04-02"
+  },
+  {
+    "contributor_name": "LYNCH, MARK",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "LYNCH FOR SENATE",
+    "contribution_receipt_date": "2025-03-26"
+  },
+  {
+    "contributor_name": "YASS, JEFF MR.",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "SCHOOL FREEDOM FUND",
+    "contribution_receipt_date": "2026-02-03"
+  },
+  {
+    "contributor_name": "GROSS, KEITH",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "KEITH GROSS FOR FLORIDA",
+    "contribution_receipt_date": "2026-03-30"
+  },
+  {
+    "contributor_name": "LEADING THE FUTURE",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "THINK BIG",
+    "contribution_receipt_date": "2026-02-24"
+  },
+  {
+    "contributor_name": "PRITZKER, JAY ROBERT",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "ILLINOIS FUTURE PAC",
+    "contribution_receipt_date": "2025-12-04"
+  },
+  {
+    "contributor_name": "LEADING THE FUTURE",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "AMERICAN MISSION",
+    "contribution_receipt_date": "2026-02-24"
+  },
+  {
+    "contributor_name": "FORIS DAX, INC.",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2026-01-23"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2025-12-15"
+  },
+  {
+    "contributor_name": "SCHWARZMAN, STEPHEN A.",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2025-12-11"
+  },
+  {
+    "contributor_name": "WYNN, STEPHEN A.",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2025-11-06"
+  },
+  {
+    "contributor_name": "ODE, FRED",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "FRIENDS OF FRED ODE",
+    "contribution_receipt_date": "2025-08-29"
+  },
+  {
+    "contributor_name": "CONSTANTINO, ANTHONY THOMAS",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "CONSTANTINO FOR CONGRESS, INC.",
+    "contribution_receipt_date": "2025-11-21"
+  },
+  {
+    "contributor_name": "CHATZKY, PETER",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "CHATZKY FOR CONGRESS",
+    "contribution_receipt_date": "2025-12-29"
+  },
+  {
+    "contributor_name": "LEADING THE FUTURE",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "AMERICAN MISSION",
+    "contribution_receipt_date": "2025-12-15"
+  },
+  {
+    "contributor_name": "LEADING THE FUTURE",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "THINK BIG",
+    "contribution_receipt_date": "2025-12-15"
+  },
+  {
+    "contributor_name": "REPUBLICAN GOVERNORS ASSOCIATION",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "RGA RIGHT DIRECTION PAC",
+    "contribution_receipt_date": "2025-10-27"
+  },
+  {
+    "contributor_name": "BLOOMBERG, MICHAEL RUBENS",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "ONE GIANT LEAP PAC",
+    "contribution_receipt_date": "2025-10-23"
+  },
+  {
+    "contributor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "UNITED DEMOCRACY PROJECT ('UDP')",
+    "contribution_receipt_date": "2025-12-23"
+  },
+  {
+    "contributor_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND INC",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+    "contribution_receipt_date": "2025-12-19"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
+    "contribution_receipt_date": "2025-12-15"
+  },
+  {
+    "contributor_name": "TRONE, DAVID",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "DAVID TRONE FOR MARYLAND, INC.",
+    "contribution_receipt_date": "2025-12-18"
+  },
+  {
+    "contributor_name": "SCHWARZMAN, STEPHEN A",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2025-12-11"
+  }
+]

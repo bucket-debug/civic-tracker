@@ -1,182 +1,282 @@
 [
   {
-    "billNumber": "1023",
+    "congress": 119,
+    "number": "1023",
+    "type": "HR",
     "title": "American Infrastructure Investment and Jobs Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Transportation and Infrastructure.",
+      "actionDate": "2025-03-10"
+    },
+    "updateDate": "2025-03-10",
     "sponsor": "Rep. Johnson, Michael C. [R-LA-4]",
-    "latestActionText": "Referred to the House Committee on Transportation and Infrastructure.",
-    "latestActionDate": "2026-04-10",
-    "updateDate": "2026-04-10",
-    "type": "HR"
+    "democratCosponsors": 18,
+    "republicanCosponsors": 24
   },
   {
-    "billNumber": "847",
-    "title": "Clean Energy Innovation and Deployment Act of 2026",
+    "congress": 119,
+    "number": "847",
+    "type": "S",
+    "title": "Clean Energy Innovation and Deployment Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2025-03-09"
+    },
+    "updateDate": "2025-03-09",
     "sponsor": "Sen. Warner, Mark R. [D-VA]",
-    "latestActionText": "Read twice and referred to the Committee on Energy and Natural Resources.",
-    "latestActionDate": "2026-04-09",
-    "updateDate": "2026-04-09",
-    "type": "S"
+    "democratCosponsors": 31,
+    "republicanCosponsors": 4
   },
   {
-    "billNumber": "2104",
+    "congress": 119,
+    "number": "2104",
+    "type": "HR",
     "title": "Protecting Americans from Foreign Adversary Controlled Applications Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2025-03-08"
+    },
+    "updateDate": "2025-03-08",
     "sponsor": "Rep. Gallagher, Mike [R-WI-8]",
-    "latestActionText": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-    "latestActionDate": "2026-04-08",
-    "updateDate": "2026-04-08",
-    "type": "HR"
+    "democratCosponsors": 22,
+    "republicanCosponsors": 19
   },
   {
-    "billNumber": "601",
-    "title": "Bipartisan Background Checks Act of 2026",
+    "congress": 119,
+    "number": "601",
+    "type": "HR",
+    "title": "Bipartisan Background Checks Act of 2025",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2025-03-07"
+    },
+    "updateDate": "2025-03-07",
     "sponsor": "Rep. Thompson, Mike [D-CA-4]",
-    "latestActionText": "Referred to the House Committee on the Judiciary.",
-    "latestActionDate": "2026-04-07",
-    "updateDate": "2026-04-07",
-    "type": "HR"
+    "democratCosponsors": 198,
+    "republicanCosponsors": 7
   },
   {
-    "billNumber": "412",
+    "congress": 119,
+    "number": "412",
+    "type": "S",
     "title": "Social Security Expansion Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-03-07"
+    },
+    "updateDate": "2025-03-07",
     "sponsor": "Sen. Sanders, Bernard [I-VT]",
-    "latestActionText": "Read twice and referred to the Committee on Finance.",
-    "latestActionDate": "2026-04-07",
-    "updateDate": "2026-04-07",
-    "type": "S"
+    "democratCosponsors": 40,
+    "republicanCosponsors": 0
   },
   {
-    "billNumber": "1789",
+    "congress": 119,
+    "number": "1789",
+    "type": "HR",
     "title": "Fiscal Responsibility and Balanced Budget Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Budget.",
+      "actionDate": "2025-03-06"
+    },
+    "updateDate": "2025-03-06",
     "sponsor": "Rep. Arrington, Jodey C. [R-TX-19]",
-    "latestActionText": "Referred to the House Committee on the Budget.",
-    "latestActionDate": "2026-04-06",
-    "updateDate": "2026-04-06",
-    "type": "HR"
+    "democratCosponsors": 0,
+    "republicanCosponsors": 87
   },
   {
-    "billNumber": "338",
+    "congress": 119,
+    "number": "338",
+    "type": "S",
     "title": "Pharmaceutical Drug Price Negotiation Act",
+    "latestAction": {
+      "text": "Motion to proceed to consideration of the bill agreed to in Senate by Yea-Nay Vote. 52-48.",
+      "actionDate": "2025-03-05"
+    },
+    "updateDate": "2025-03-05",
     "sponsor": "Sen. Schumer, Charles E. [D-NY]",
-    "latestActionText": "Motion to proceed to consideration of the bill agreed to in Senate by Yea-Nay Vote. 52-48.",
-    "latestActionDate": "2026-04-05",
-    "updateDate": "2026-04-05",
-    "type": "S"
+    "democratCosponsors": 46,
+    "republicanCosponsors": 2
   },
   {
-    "billNumber": "3012",
+    "congress": 119,
+    "number": "3012",
+    "type": "HR",
     "title": "Artificial Intelligence Safety and Transparency Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2025-03-04"
+    },
+    "updateDate": "2025-03-04",
     "sponsor": "Rep. Clarke, Yvette D. [D-NY-9]",
-    "latestActionText": "Referred to the House Committee on Science, Space, and Technology.",
-    "latestActionDate": "2026-04-04",
-    "updateDate": "2026-04-04",
-    "type": "HR"
+    "democratCosponsors": 14,
+    "republicanCosponsors": 9
   },
   {
-    "billNumber": "219",
+    "congress": 119,
+    "number": "219",
+    "type": "S",
     "title": "Border Security and Immigration Enforcement Improvement Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2025-03-03"
+    },
+    "updateDate": "2025-03-03",
     "sponsor": "Sen. Cornyn, John [R-TX]",
-    "latestActionText": "Read twice and referred to the Committee on the Judiciary.",
-    "latestActionDate": "2026-04-03",
-    "updateDate": "2026-04-03",
-    "type": "S"
+    "democratCosponsors": 1,
+    "republicanCosponsors": 38
   },
   {
-    "billNumber": "4401",
-    "title": "Affordable Housing and Renter Protection Act of 2026",
+    "congress": 119,
+    "number": "4401",
+    "type": "HR",
+    "title": "Affordable Housing and Renter Protection Act of 2025",
+    "latestAction": {
+      "text": "Referred to the House Committee on Financial Services.",
+      "actionDate": "2025-03-02"
+    },
+    "updateDate": "2025-03-02",
     "sponsor": "Rep. Waters, Maxine [D-CA-43]",
-    "latestActionText": "Referred to the House Committee on Financial Services.",
-    "latestActionDate": "2026-04-02",
-    "updateDate": "2026-04-02",
-    "type": "HR"
+    "democratCosponsors": 52,
+    "republicanCosponsors": 0
   },
   {
-    "billNumber": "756",
+    "congress": 119,
+    "number": "756",
+    "type": "S",
     "title": "Veterans Health Care and Benefits Improvement Act",
+    "latestAction": {
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "actionDate": "2025-03-01"
+    },
+    "updateDate": "2025-03-01",
     "sponsor": "Sen. Moran, Jerry [R-KS]",
-    "latestActionText": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-    "latestActionDate": "2026-04-01",
-    "updateDate": "2026-04-01",
-    "type": "S"
+    "democratCosponsors": 24,
+    "republicanCosponsors": 26
   },
   {
-    "billNumber": "2267",
+    "congress": 119,
+    "number": "2267",
+    "type": "HR",
     "title": "Federal Election Integrity and Voter Access Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on House Administration.",
+      "actionDate": "2025-02-28"
+    },
+    "updateDate": "2025-02-28",
     "sponsor": "Rep. Lofgren, Zoe [D-CA-18]",
-    "latestActionText": "Referred to the House Committee on House Administration.",
-    "latestActionDate": "2026-03-31",
-    "updateDate": "2026-03-31",
-    "type": "HR"
+    "democratCosponsors": 183,
+    "republicanCosponsors": 0
   },
   {
-    "billNumber": "504",
-    "title": "National Defense Authorization Act for Fiscal Year 2027",
+    "congress": 119,
+    "number": "504",
+    "type": "S",
+    "title": "National Defense Authorization Act for Fiscal Year 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2025-02-27"
+    },
+    "updateDate": "2025-02-27",
     "sponsor": "Sen. Reed, Jack [D-RI]",
-    "latestActionText": "Read twice and referred to the Committee on Armed Services.",
-    "latestActionDate": "2026-03-30",
-    "updateDate": "2026-03-30",
-    "type": "S"
+    "democratCosponsors": 28,
+    "republicanCosponsors": 22
   },
   {
-    "billNumber": "1650",
+    "congress": 119,
+    "number": "1650",
+    "type": "HR",
     "title": "Small Business Tax Relief and Innovation Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-02-26"
+    },
+    "updateDate": "2025-02-26",
     "sponsor": "Rep. Smith, Adrian [R-NE-3]",
-    "latestActionText": "Referred to the House Committee on Ways and Means.",
-    "latestActionDate": "2026-03-29",
-    "updateDate": "2026-03-29",
-    "type": "HR"
+    "democratCosponsors": 3,
+    "republicanCosponsors": 41
   },
   {
-    "billNumber": "881",
+    "congress": 119,
+    "number": "881",
+    "type": "S",
     "title": "Climate Adaptation and Resilience Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Environment and Public Works.",
+      "actionDate": "2025-02-25"
+    },
+    "updateDate": "2025-02-25",
     "sponsor": "Sen. Markey, Edward J. [D-MA]",
-    "latestActionText": "Read twice and referred to the Committee on Environment and Public Works.",
-    "latestActionDate": "2026-03-28",
-    "updateDate": "2026-03-28",
-    "type": "S"
+    "democratCosponsors": 33,
+    "republicanCosponsors": 1
   },
   {
-    "billNumber": "3388",
+    "congress": 119,
+    "number": "3388",
+    "type": "HR",
     "title": "Broadband Equity, Access, and Deployment Reauthorization Act",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Communications and Technology.",
+      "actionDate": "2025-02-24"
+    },
+    "updateDate": "2025-02-24",
     "sponsor": "Rep. Rodgers, Cathy McMorris [R-WA-5]",
-    "latestActionText": "Referred to the Subcommittee on Communications and Technology.",
-    "latestActionDate": "2026-03-27",
-    "updateDate": "2026-03-27",
-    "type": "HR"
+    "democratCosponsors": 11,
+    "republicanCosponsors": 17
   },
   {
-    "billNumber": "142",
+    "congress": 119,
+    "number": "142",
+    "type": "S",
     "title": "Protecting Social Security Benefits for Future Generations Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-02-23"
+    },
+    "updateDate": "2025-02-23",
     "sponsor": "Sen. Collins, Susan M. [R-ME]",
-    "latestActionText": "Read twice and referred to the Committee on Finance.",
-    "latestActionDate": "2026-03-26",
-    "updateDate": "2026-03-26",
-    "type": "S"
+    "democratCosponsors": 8,
+    "republicanCosponsors": 12
   },
   {
-    "billNumber": "2899",
-    "title": "Pandemic Preparedness and Response Act of 2026",
+    "congress": 119,
+    "number": "2899",
+    "type": "HR",
+    "title": "Pandemic Preparedness and Response Act of 2025",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Health.",
+      "actionDate": "2025-02-22"
+    },
+    "updateDate": "2025-02-22",
     "sponsor": "Rep. Clyburn, James E. [D-SC-6]",
-    "latestActionText": "Referred to the Subcommittee on Health.",
-    "latestActionDate": "2026-03-25",
-    "updateDate": "2026-03-25",
-    "type": "HR"
+    "democratCosponsors": 29,
+    "republicanCosponsors": 6
   },
   {
-    "billNumber": "677",
+    "congress": 119,
+    "number": "677",
+    "type": "S",
     "title": "Carbon Border Adjustment Mechanism Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-02-21"
+    },
+    "updateDate": "2025-02-21",
     "sponsor": "Sen. Whitehouse, Sheldon [D-RI]",
-    "latestActionText": "Read twice and referred to the Committee on Finance.",
-    "latestActionDate": "2026-03-24",
-    "updateDate": "2026-03-24",
-    "type": "S"
+    "democratCosponsors": 27,
+    "republicanCosponsors": 0
   },
   {
-    "billNumber": "1101",
+    "congress": 119,
+    "number": "1101",
+    "type": "HR",
     "title": "Cybersecurity Infrastructure Modernization Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on Oversight and Reform.",
+      "actionDate": "2025-02-20"
+    },
+    "updateDate": "2025-02-20",
     "sponsor": "Rep. Katko, John [R-NY-24]",
-    "latestActionText": "Referred to the Committee on Homeland Security, and in addition to the Committee on Oversight and Reform.",
-    "latestActionDate": "2026-03-23",
-    "updateDate": "2026-03-23",
-    "type": "HR"
+    "democratCosponsors": 8,
+    "republicanCosponsors": 14
   }
 ]

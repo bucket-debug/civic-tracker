@@ -1,0 +1,72 @@
+[
+  {
+    "congress": 119,
+    "number": "815",
+    "type": "HR",
+    "title": "Continuing Appropriations and Government Funding Act, 2026",
+    "latestAction": {
+      "text": "Became Public Law No: 119-12. Signed by President.",
+      "actionDate": "2025-03-15"
+    },
+    "updateDate": "2025-03-15",
+    "sponsor": "Rep. Cole, Tom [R-OK-4]",
+    "democratCosponsors": 85,
+    "republicanCosponsors": 112
+  },
+  {
+    "congress": 119,
+    "number": "407",
+    "type": "HR",
+    "title": "Laken Riley Act",
+    "latestAction": {
+      "text": "Became Public Law No: 119-1. Signed by President.",
+      "actionDate": "2025-01-29"
+    },
+    "updateDate": "2025-01-29",
+    "sponsor": "Rep. Collins, Mike [R-GA-10]",
+    "democratCosponsors": 47,
+    "republicanCosponsors": 193
+  },
+  {
+    "congress": 119,
+    "number": "21",
+    "type": "S",
+    "title": "Protecting American Agriculture from Foreign Adversaries Act",
+    "latestAction": {
+      "text": "Became Public Law No: 119-5. Signed by President.",
+      "actionDate": "2025-03-04"
+    },
+    "updateDate": "2025-03-04",
+    "sponsor": "Sen. Grassley, Chuck [R-IA]",
+    "democratCosponsors": 12,
+    "republicanCosponsors": 31
+  },
+  {
+    "congress": 119,
+    "number": "99",
+    "type": "HR",
+    "title": "No Fines for Fauci Act",
+    "latestAction": {
+      "text": "Became Public Law No: 119-3. Signed by President.",
+      "actionDate": "2025-02-10"
+    },
+    "updateDate": "2025-02-10",
+    "sponsor": "Rep. Biggs, Andy [R-AZ-5]",
+    "democratCosponsors": 0,
+    "republicanCosponsors": 41
+  },
+  {
+    "congress": 119,
+    "number": "311",
+    "type": "HR",
+    "title": "Social Security Fairness Act of 2023",
+    "latestAction": {
+      "text": "Became Public Law No: 118-206. Signed by President.",
+      "actionDate": "2025-01-05"
+    },
+    "updateDate": "2025-01-05",
+    "sponsor": "Rep. Larson, John B. [D-CT-1]",
+    "democratCosponsors": 148,
+    "republicanCosponsors": 55
+  }
+]

@@ -26,6 +26,8 @@
       --ind:           #7c3aed;
     }
 
+    html { scroll-behavior: smooth; }
+
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                    "Helvetica Neue", Arial, sans-serif;
@@ -40,76 +42,21 @@
     }
 
     /* ── Header ─────────────────────────────────── */
-    header {
-      background: var(--navy);
-      color: #fff;
-      padding: 0 1.5rem;
-      border-top: 3px solid var(--accent);
-    }
-
-    .header-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 1.375rem 0 1.125rem;
-    }
-
-    header h1 {
-      font-size: 1.75rem;
-      font-weight: 800;
-      letter-spacing: -0.04em;
-      line-height: 1;
-    }
-
+    header { background: var(--navy); color: #fff; padding: 0 1.5rem; border-top: 3px solid var(--accent); }
+    .header-inner { max-width: 1100px; margin: 0 auto; padding: 1.375rem 0 1.125rem; }
+    header h1 { font-size: 1.75rem; font-weight: 800; letter-spacing: -0.04em; line-height: 1; }
+    header h1 a { color: inherit; text-decoration: none; }
     header h1 span { color: var(--accent); }
-
-    .tagline {
-      margin-top: 0.3rem;
-      font-size: 0.675rem;
-      font-weight: 600;
-      color: rgba(255,255,255,0.35);
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-    }
+    .tagline { margin-top: 0.3rem; font-size: 0.675rem; font-weight: 600; color: rgba(255,255,255,0.35); text-transform: uppercase; letter-spacing: 0.12em; }
 
     /* ── Nav ─────────────────────────────────────── */
-    nav {
-      background: var(--navy-mid);
-      border-bottom: 1px solid rgba(0,0,0,0.15);
-    }
-
-    .nav-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      display: flex;
-      flex-wrap: wrap;
-      padding: 0 1.5rem;
-    }
-
-    nav a {
-      display: inline-block;
-      color: rgba(255,255,255,0.45);
-      text-decoration: none;
-      font-size: 0.75rem;
-      font-weight: 600;
-      letter-spacing: 0.05em;
-      padding: 0.7rem 1rem;
-      border-bottom: 2px solid transparent;
-      transition: color 0.15s, border-color 0.15s;
-    }
-
-    nav a:hover, nav a.active {
-      color: #fff;
-      border-bottom-color: var(--accent);
-    }
+    nav { background: var(--navy-mid); border-bottom: 1px solid rgba(0,0,0,0.15); }
+    .nav-inner { max-width: 1100px; margin: 0 auto; display: flex; flex-wrap: wrap; padding: 0 1.5rem; }
+    nav a { display: inline-block; color: rgba(255,255,255,0.45); text-decoration: none; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.05em; padding: 0.7rem 1rem; border-bottom: 2px solid transparent; transition: color 0.15s, border-color 0.15s; }
+    nav a:hover, nav a.active { color: #fff; border-bottom-color: var(--accent); }
 
     /* ── Main ────────────────────────────────────── */
-    main {
-      flex: 1;
-      max-width: 1100px;
-      width: 100%;
-      margin: 0 auto;
-      padding: 2rem 1.5rem 3rem;
-    }
+    main { flex: 1; max-width: 1100px; width: 100%; margin: 0 auto; padding: 2rem 1.5rem 3rem; }
 
     /* ── Summary cards ───────────────────────────── */
     .summary {
@@ -118,7 +65,6 @@
       gap: 1rem;
       margin-bottom: 2rem;
     }
-
     .summary-card {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -126,7 +72,6 @@
       border-radius: 8px;
       padding: 1.125rem 1.375rem;
     }
-
     .summary-card h3 {
       font-size: 0.625rem;
       font-weight: 700;
@@ -135,161 +80,78 @@
       color: var(--text-muted);
       margin-bottom: 0.75rem;
     }
-
-    .party-row {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      font-size: 0.8rem;
-      line-height: 1;
-      margin-bottom: 0.35rem;
-    }
-
+    .party-row { display: flex; align-items: center; gap: 0.5rem; font-size: 0.8rem; line-height: 1; margin-bottom: 0.35rem; }
     .party-row:last-of-type { margin-bottom: 0; }
-
-    .party-dot {
-      width: 8px; height: 8px;
-      border-radius: 50%;
-      flex-shrink: 0;
-    }
-
+    .party-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
     .dot-dem { background: var(--dem); }
     .dot-rep { background: var(--rep); }
     .dot-ind { background: var(--ind); }
-
     .party-name { color: var(--text-muted); flex: 1; font-size: 0.775rem; }
     .party-num  { font-weight: 700; color: var(--navy); font-variant-numeric: tabular-nums; font-size: 0.875rem; }
-
-    .party-bar {
-      display: flex;
-      height: 5px;
-      border-radius: 999px;
-      overflow: hidden;
-      margin-top: 0.875rem;
-      gap: 1px;
-    }
-
+    .party-bar { display: flex; height: 5px; border-radius: 999px; overflow: hidden; margin-top: 0.875rem; gap: 1px; }
     .bar-dem { background: var(--dem); }
     .bar-rep { background: var(--rep); }
     .bar-ind { background: var(--ind); }
 
     /* ── Toolbar ──────────────────────────────────── */
-    .toolbar {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      margin-bottom: 1rem;
-      flex-wrap: wrap;
-    }
+    .toolbar { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
 
-    .search-wrap {
-      position: relative;
-      flex: 1;
-      min-width: 180px;
-      max-width: 300px;
-    }
-
-    .search-wrap svg {
-      position: absolute; left: 0.75rem; top: 50%;
-      transform: translateY(-50%);
-      color: var(--text-muted); pointer-events: none;
-      width: 14px; height: 14px;
-    }
-
+    .search-wrap { position: relative; flex: 1; min-width: 180px; max-width: 300px; }
+    .search-wrap svg { position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); color: var(--text-muted); pointer-events: none; width: 14px; height: 14px; }
     #search {
-      width: 100%;
-      padding: 0.5rem 0.75rem 0.5rem 2.25rem;
-      border: 1.5px solid var(--border-2);
-      border-radius: 6px;
-      font-size: 0.8rem;
-      color: var(--text);
-      background: var(--surface);
-      outline: none;
-      transition: border-color 0.15s;
+      width: 100%; padding: 0.5rem 0.75rem 0.5rem 2.25rem;
+      border: 1.5px solid var(--border-2); border-radius: 6px;
+      font-size: 0.8rem; color: var(--text); background: var(--surface);
+      outline: none; transition: border-color 0.15s;
     }
-
     #search:focus { border-color: var(--accent); }
     #search::placeholder { color: var(--text-muted); }
 
     select {
       padding: 0.5rem 2rem 0.5rem 0.75rem;
-      border: 1.5px solid var(--border-2);
-      border-radius: 6px;
-      font-size: 0.8rem;
-      color: var(--text);
+      border: 1.5px solid var(--border-2); border-radius: 6px;
+      font-size: 0.8rem; color: var(--text);
       background: var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 20 20' fill='%236b7280'%3E%3Cpath fill-rule='evenodd' d='M5.22 8.22a.75.75 0 0 1 1.06 0L10 11.94l3.72-3.72a.75.75 0 1 1 1.06 1.06l-4.25 4.25a.75.75 0 0 1-1.06 0L5.22 9.28a.75.75 0 0 1 0-1.06Z' clip-rule='evenodd'/%3E%3C/svg%3E") no-repeat right 0.6rem center;
-      appearance: none;
-      outline: none;
-      cursor: pointer;
-      transition: border-color 0.15s;
+      appearance: none; outline: none; cursor: pointer; transition: border-color 0.15s;
     }
-
     select:focus { border-color: var(--accent); }
 
-    .record-count {
-      font-size: 0.725rem;
-      font-weight: 500;
-      color: var(--text-muted);
-      white-space: nowrap;
-      margin-left: auto;
-    }
+    .record-count { font-size: 0.725rem; font-weight: 500; color: var(--text-muted); white-space: nowrap; margin-left: auto; }
 
     /* ── Table ────────────────────────────────────── */
-    .table-wrap {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      overflow: hidden;
-    }
+    .table-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
 
     table { width: 100%; border-collapse: collapse; font-size: 0.825rem; }
-
     thead { background: var(--navy); color: #fff; }
-    thead th {
-      padding: 0.75rem 1rem; text-align: left;
-      font-size: 0.625rem; font-weight: 700;
-      text-transform: uppercase; letter-spacing: 0.1em;
-      white-space: nowrap;
-    }
-
+    thead th { padding: 0.75rem 1rem; text-align: left; font-size: 0.625rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; white-space: nowrap; }
     tbody tr { border-top: 1px solid var(--border); transition: background 0.1s; }
     tbody tr:nth-child(even) { background: var(--surface-2); }
     tbody tr:hover { background: var(--accent-faint); }
     tbody td { padding: 0.7rem 1rem; vertical-align: middle; }
 
-    .badge {
-      display: inline-block;
-      padding: 0.2rem 0.5rem;
-      border-radius: 4px;
-      font-size: 0.65rem;
-      font-weight: 700;
-      letter-spacing: 0.04em;
-      white-space: nowrap;
+    /* Name button */
+    .member-btn {
+      background: none; border: none; padding: 0; cursor: pointer;
+      color: var(--accent); font-size: inherit; font-family: inherit;
+      text-align: left; font-weight: 600;
+      text-decoration: underline; text-underline-offset: 2px;
+      text-decoration-color: var(--accent-border);
+      transition: color 0.15s;
     }
+    .member-btn:hover { color: #1d4ed8; text-decoration-color: var(--accent); }
+
+    /* Badges */
+    .badge { display: inline-block; padding: 0.18rem 0.5rem; border-radius: 4px; font-size: 0.65rem; font-weight: 700; letter-spacing: 0.04em; white-space: nowrap; }
     .badge-dem   { background: #dbeafe; color: var(--dem); }
     .badge-rep   { background: #fee2e2; color: var(--rep); }
     .badge-ind   { background: #ede9fe; color: var(--ind); }
     .badge-other { background: var(--surface-2); color: var(--text-2); }
 
-    .chamber-pill {
-      display: inline-block;
-      padding: 0.18rem 0.5rem;
-      border-radius: 4px;
-      font-size: 0.65rem;
-      font-weight: 600;
-      background: var(--surface-2);
-      color: var(--text-2);
-      border: 1px solid var(--border);
-    }
+    .chamber-pill { display: inline-block; padding: 0.18rem 0.5rem; border-radius: 4px; font-size: 0.65rem; font-weight: 600; background: var(--surface-2); color: var(--text-2); border: 1px solid var(--border); }
 
     .highlight { background: #fef08a; border-radius: 2px; padding: 0 1px; }
 
-    .state-msg {
-      padding: 3rem 1.5rem;
-      text-align: center;
-      color: var(--text-muted);
-      font-size: 0.85rem;
-    }
+    .state-msg { padding: 3rem 1.5rem; text-align: center; color: var(--text-muted); font-size: 0.85rem; }
 
     @media (max-width: 650px) {
       .hide-mobile { display: none; }
@@ -299,32 +161,113 @@
       select { font-size: 0.775rem; }
     }
 
-    /* ── Footer ──────────────────────────────────── */
-    footer {
-      background: var(--navy);
-      color: rgba(255,255,255,0.3);
-      font-size: 0.725rem;
-      padding: 1.125rem 1.5rem;
-      margin-top: auto;
-      border-top: 1px solid rgba(255,255,255,0.05);
-    }
-
-    .footer-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.75rem 2rem;
+    /* ── Modal ────────────────────────────────────── */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(5, 15, 30, 0.65);
+      backdrop-filter: blur(2px);
+      z-index: 1000;
       align-items: center;
-      justify-content: space-between;
+      justify-content: center;
+      padding: 1.25rem;
+    }
+    .modal-overlay.open { display: flex; }
+
+    .modal-card {
+      background: var(--surface);
+      border-radius: 12px;
+      max-width: 580px;
+      width: 100%;
+      max-height: 88vh;
+      overflow-y: auto;
+      position: relative;
+      box-shadow: 0 24px 64px rgba(0,0,0,0.35);
+      animation: modal-in 0.18s ease-out;
+    }
+    @keyframes modal-in { from { opacity: 0; transform: scale(0.96) translateY(8px); } to { opacity: 1; transform: none; } }
+
+    .modal-header {
+      padding: 1.375rem 1.5rem 1.125rem;
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      background: var(--surface);
+      border-radius: 12px 12px 0 0;
+      z-index: 1;
+    }
+    .modal-header-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
+    .modal-name { font-size: 1.1rem; font-weight: 800; color: var(--navy); letter-spacing: -0.02em; line-height: 1.25; flex: 1; }
+    .modal-close {
+      background: var(--surface-2); border: 1px solid var(--border); border-radius: 6px;
+      width: 2rem; height: 2rem; cursor: pointer; display: flex; align-items: center;
+      justify-content: center; font-size: 1.1rem; color: var(--text-muted);
+      flex-shrink: 0; transition: background 0.15s, color 0.15s;
+    }
+    .modal-close:hover { background: var(--border); color: var(--text); }
+
+    .modal-badges { display: flex; align-items: center; gap: 0.5rem; margin-top: 0.625rem; flex-wrap: wrap; }
+
+    .modal-body { padding: 1.25rem 1.5rem 1.5rem; }
+
+    .modal-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.625rem 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+    .modal-field label {
+      display: block;
+      font-size: 0.6rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-muted);
+      margin-bottom: 0.2rem;
+    }
+    .modal-field span { font-size: 0.85rem; font-weight: 500; color: var(--text); }
+
+    .modal-section-title {
+      font-size: 0.725rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-muted);
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
     }
 
-    .footer-links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.25rem 1.5rem;
+    /* Finance mini-table */
+    .finance-table-wrap { overflow-x: auto; }
+    .finance-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.8rem;
+    }
+    .finance-table thead { background: var(--surface-2); }
+    .finance-table thead th { padding: 0.5rem 0.75rem; text-align: left; font-size: 0.6rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); white-space: nowrap; border-bottom: 1px solid var(--border); }
+    .finance-table tbody tr { border-top: 1px solid var(--border); }
+    .finance-table tbody tr:hover { background: var(--surface-2); }
+    .finance-table tbody td { padding: 0.5rem 0.75rem; color: var(--text-2); }
+    .finance-amount { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--navy); white-space: nowrap; }
+    .finance-date { color: var(--text-muted); white-space: nowrap; font-size: 0.75rem; }
+
+    .no-finance {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1rem;
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
     }
 
+    /* ── Footer ──────────────────────────────────── */
+    footer { background: var(--navy); color: rgba(255,255,255,0.3); font-size: 0.725rem; padding: 1.125rem 1.5rem; margin-top: auto; border-top: 1px solid rgba(255,255,255,0.05); }
+    .footer-inner { max-width: 1100px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 0.75rem 2rem; align-items: center; justify-content: space-between; }
+    .footer-links { display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; }
     footer a { color: rgba(255,255,255,0.5); text-decoration: none; }
     footer a:hover { color: rgba(255,255,255,0.85); }
     .footer-disclaimer { max-width: 480px; line-height: 1.5; }
@@ -334,7 +277,7 @@
 
   <header>
     <div class="header-inner">
-      <h1><a href="index.html" style="color:inherit;text-decoration:none;">Civic<span>Pulse</span></a></h1>
+      <h1><a href="index.html">Civic<span>Pulse</span></a></h1>
       <p class="tagline">Track your government, plainly.</p>
     </div>
   </header>
@@ -349,7 +292,6 @@
   </nav>
 
   <main>
-
     <div id="summary" class="summary" aria-live="polite"></div>
 
     <div class="toolbar">
@@ -362,7 +304,7 @@
 
       <select id="filter-chamber" aria-label="Filter by chamber">
         <option value="">All Chambers</option>
-        <option value="House of Representatives">House</option>
+        <option value="House">House</option>
         <option value="Senate">Senate</option>
       </select>
 
@@ -388,15 +330,15 @@
             <th>Party</th>
             <th>State</th>
             <th>Chamber</th>
-            <th class="hide-mobile">District</th>
+            <th class="hide-mobile">District / Role</th>
+            <th class="hide-mobile">Since</th>
           </tr>
         </thead>
         <tbody id="members-body">
-          <tr><td colspan="5" class="state-msg">Loading&hellip;</td></tr>
+          <tr><td colspan="6" class="state-msg">Loading&hellip;</td></tr>
         </tbody>
       </table>
     </div>
-
   </main>
 
   <footer>
@@ -406,14 +348,19 @@
         <a href="https://fec.gov" target="_blank" rel="noopener">fec.gov</a>
         <a href="https://govinfo.gov" target="_blank" rel="noopener">govinfo.gov</a>
       </div>
-      <p class="footer-disclaimer">
-        This site aggregates public government data. Non-partisan. No editorializing.
-      </p>
+      <p class="footer-disclaimer">This site aggregates public government data. Non-partisan. No editorializing.</p>
     </div>
   </footer>
 
+  <!-- ── Modal ────────────────────────────────────────────────────────────── -->
+  <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-member-name">
+    <div class="modal-card" id="modal-card">
+      <!-- content injected by JS -->
+    </div>
+  </div>
+
   <script>
-    // ── Party normalisation ──────────────────────────────────────────────────
+    // ── Party helpers ─────────────────────────────────────────────────────────
     function partyCode(raw) {
       const p = (raw || "").toLowerCase();
       if (p.includes("democrat")) return "D";
@@ -425,60 +372,64 @@
     function badgeHTML(raw) {
       const code = partyCode(raw);
       const label = { D: "Democrat", R: "Republican", I: "Independent" }[code] || raw || "—";
-      const cls   = { D: "badge-dem", R: "badge-rep", I: "badge-ind" }[code]   || "badge-other";
+      const cls   = { D: "badge-dem", R: "badge-rep", I: "badge-ind" }[code] || "badge-other";
       return `<span class="badge ${cls}">${label}</span>`;
     }
 
-    // ── Chamber normalisation ────────────────────────────────────────────────
     function chamberShort(raw) {
       if (!raw) return "—";
-      if (/house/i.test(raw))  return "House";
+      if (/house/i.test(raw)) return "House";
       if (/senate/i.test(raw)) return "Senate";
       return raw;
     }
 
-    // ── Helpers ──────────────────────────────────────────────────────────────
+    // ── District / role display ───────────────────────────────────────────────
+    function districtLabel(m) {
+      if (/senate/i.test(m.chamber || "")) return "Senator";
+      const d = m.district;
+      if (d === null || d === undefined || d === "") return "At Large";
+      // district "0" means at-large in some APIs
+      if (String(d) === "0") return "At Large";
+      return `District ${d}`;
+    }
+
+    // ── Years in office ───────────────────────────────────────────────────────
+    function yearsInOffice(startYear) {
+      if (!startYear) return "—";
+      const yrs = new Date().getFullYear() - startYear;
+      return startYear + (yrs > 0 ? ` (${yrs} yr${yrs !== 1 ? "s" : ""})` : "");
+    }
+
+    // ── Escape / highlight ────────────────────────────────────────────────────
     function escapeHTML(str) {
-      return String(str ?? "—")
-        .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+      return String(str ?? "—").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
     }
 
     function highlight(str, term) {
       if (!term) return escapeHTML(str);
       const safe = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-      return escapeHTML(str).replace(new RegExp(`(${safe})`, "gi"),
-        '<mark class="highlight">$1</mark>');
+      return escapeHTML(str).replace(new RegExp(`(${safe})`, "gi"), '<mark class="highlight">$1</mark>');
     }
 
-    // ── Summary cards ────────────────────────────────────────────────────────
+    // ── Summary cards ─────────────────────────────────────────────────────────
     function buildSummary(members) {
-      const chambers = ["House of Representatives", "Senate"];
-      const cards = chambers.map(chamber => {
-        const group = members.filter(m => (m.chamber || "").includes(
-          chamber === "House of Representatives" ? "House" : "Senate"
-        ));
-        const d = group.filter(m => partyCode(m.party) === "D").length;
-        const r = group.filter(m => partyCode(m.party) === "R").length;
-        const i = group.filter(m => partyCode(m.party) === "I").length;
-        const label = chamber === "House of Representatives" ? "House" : "Senate";
+      const chambers = [
+        { label: "Total Congress", filter: () => true },
+        { label: "House",          filter: m => /house/i.test(m.chamber || "") },
+        { label: "Senate",         filter: m => /senate/i.test(m.chamber || "") },
+      ];
+
+      const html = chambers.map(ch => {
+        const g = members.filter(ch.filter);
+        const d = g.filter(m => partyCode(m.party) === "D").length;
+        const r = g.filter(m => partyCode(m.party) === "R").length;
+        const i = g.filter(m => partyCode(m.party) === "I").length;
         return `
           <div class="summary-card">
-            <h3>${label} &mdash; ${group.length} members</h3>
-            <div class="party-row">
-              <span class="party-dot dot-dem"></span>
-              <span class="party-name">Democrat</span>
-              <span class="party-num">${d}</span>
-            </div>
-            <div class="party-row">
-              <span class="party-dot dot-rep"></span>
-              <span class="party-name">Republican</span>
-              <span class="party-num">${r}</span>
-            </div>
-            ${i ? `<div class="party-row">
-              <span class="party-dot dot-ind"></span>
-              <span class="party-name">Independent</span>
-              <span class="party-num">${i}</span>
-            </div>` : ""}
+            <h3>${ch.label} &mdash; ${g.length} members</h3>
+            <div class="party-row"><span class="party-dot dot-dem"></span><span class="party-name">Democrat</span><span class="party-num">${d}</span></div>
+            <div class="party-row"><span class="party-dot dot-rep"></span><span class="party-name">Republican</span><span class="party-num">${r}</span></div>
+            ${i ? `<div class="party-row"><span class="party-dot dot-ind"></span><span class="party-name">Independent</span><span class="party-num">${i}</span></div>` : ""}
             <div class="party-bar" aria-hidden="true">
               <div class="bar-dem" style="flex:${d}"></div>
               <div class="bar-rep" style="flex:${r}"></div>
@@ -486,53 +437,21 @@
             </div>
           </div>`;
       });
-
-      // Overall totals card
-      const total = members.length;
-      const dT = members.filter(m => partyCode(m.party) === "D").length;
-      const rT = members.filter(m => partyCode(m.party) === "R").length;
-      const iT = members.filter(m => partyCode(m.party) === "I").length;
-      cards.unshift(`
-        <div class="summary-card">
-          <h3>Total Congress &mdash; ${total} members</h3>
-          <div class="party-row">
-            <span class="party-dot dot-dem"></span>
-            <span class="party-name">Democrat</span>
-            <span class="party-num">${dT}</span>
-          </div>
-          <div class="party-row">
-            <span class="party-dot dot-rep"></span>
-            <span class="party-name">Republican</span>
-            <span class="party-num">${rT}</span>
-          </div>
-          ${iT ? `<div class="party-row">
-            <span class="party-dot dot-ind"></span>
-            <span class="party-name">Independent</span>
-            <span class="party-num">${iT}</span>
-          </div>` : ""}
-          <div class="party-bar" aria-hidden="true">
-            <div class="bar-dem" style="flex:${dT}"></div>
-            <div class="bar-rep" style="flex:${rT}"></div>
-            ${iT ? `<div class="bar-ind" style="flex:${iT}"></div>` : ""}
-          </div>
-        </div>`);
-
-      document.getElementById("summary").innerHTML = cards.join("");
+      document.getElementById("summary").innerHTML = html.join("");
     }
 
-    // ── State dropdown ───────────────────────────────────────────────────────
+    // ── State dropdown ────────────────────────────────────────────────────────
     function populateStates(members) {
       const states = [...new Set(members.map(m => m.state).filter(Boolean))].sort();
       const sel = document.getElementById("filter-state");
       states.forEach(s => {
         const opt = document.createElement("option");
-        opt.value = s;
-        opt.textContent = s;
+        opt.value = s; opt.textContent = s;
         sel.appendChild(opt);
       });
     }
 
-    // ── Filtering & rendering ────────────────────────────────────────────────
+    // ── Filtering & rendering ─────────────────────────────────────────────────
     let allMembers = [];
 
     function getFilters() {
@@ -547,14 +466,11 @@
     function applyFilters() {
       const { term, chamber, party, state } = getFilters();
       return allMembers.filter(m => {
-        if (chamber && !(m.chamber || "").includes(
-          chamber === "House of Representatives" ? "House" : "Senate"
-        )) return false;
-        if (party  && partyCode(m.party) !== party)  return false;
-        if (state  && m.state !== state)              return false;
+        if (chamber && !chamberShort(m.chamber).includes(chamber)) return false;
+        if (party  && partyCode(m.party) !== party) return false;
+        if (state  && m.state !== state) return false;
         if (term) {
-          const haystack = `${m.name} ${m.state}`.toLowerCase();
-          if (!haystack.includes(term)) return false;
+          if (!`${m.name} ${m.state}`.toLowerCase().includes(term)) return false;
         }
         return true;
       });
@@ -564,31 +480,161 @@
       const { term } = getFilters();
       const records = applyFilters();
       const tbody = document.getElementById("members-body");
-
       document.getElementById("record-count").textContent =
         records.length.toLocaleString() + " member" + (records.length !== 1 ? "s" : "");
 
       if (!records.length) {
-        tbody.innerHTML = '<tr><td colspan="5" class="state-msg">No members match the selected filters.</td></tr>';
+        tbody.innerHTML = '<tr><td colspan="6" class="state-msg">No members match the selected filters.</td></tr>';
         return;
       }
 
-      tbody.innerHTML = records.map(m => `
-        <tr>
-          <td>${highlight(m.name, term)}</td>
-          <td>${badgeHTML(m.party)}</td>
-          <td>${highlight(m.state, term)}</td>
-          <td><span class="chamber-pill">${escapeHTML(chamberShort(m.chamber))}</span></td>
-          <td class="hide-mobile">${escapeHTML(m.district ?? "—")}</td>
-        </tr>`).join("");
+      tbody.innerHTML = records.map((m, i) => {
+        // Find global index in allMembers for modal
+        const globalIdx = allMembers.indexOf(m);
+        return `
+          <tr>
+            <td><button class="member-btn" data-idx="${globalIdx}">${highlight(m.name, term)}</button></td>
+            <td>${badgeHTML(m.party)}</td>
+            <td>${highlight(m.state, term)}</td>
+            <td><span class="chamber-pill">${escapeHTML(chamberShort(m.chamber))}</span></td>
+            <td class="hide-mobile" style="color:var(--text-2);font-size:.8rem">${escapeHTML(districtLabel(m))}</td>
+            <td class="hide-mobile" style="color:var(--text-muted);font-size:.775rem">${escapeHTML(yearsInOffice(m.startYear))}</td>
+          </tr>`;
+      }).join("");
+
+      // Wire up name buttons
+      tbody.querySelectorAll(".member-btn").forEach(btn => {
+        btn.addEventListener("click", e => {
+          e.stopPropagation();
+          openModal(parseInt(btn.dataset.idx, 10));
+        });
+      });
     }
 
     ["search", "filter-chamber", "filter-party", "filter-state"].forEach(id =>
       document.getElementById(id).addEventListener("input", render)
     );
 
-    // ── Boot ─────────────────────────────────────────────────────────────────
+    // ── Modal ─────────────────────────────────────────────────────────────────
+    let financeData = [];
+
+    function findFinanceMatches(member) {
+      // Extract last name from "Adams, Alma S." format
+      const lastName = (member.name || "").split(",")[0].trim().toLowerCase();
+      if (!lastName || lastName.length < 3) return [];
+      // Match against committee_name (most reliable — e.g. "WARREN FOR SENATE")
+      return financeData
+        .filter(r => (r.committee_name || "").toLowerCase().includes(lastName))
+        .slice(0, 15);
+    }
+
+    function formatUSD(val) {
+      const n = parseFloat(val);
+      if (isNaN(n)) return "—";
+      return "$" + n.toLocaleString("en-US", { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+    }
+
+    function formatDate(str) {
+      if (!str) return "—";
+      const d = new Date(str + (str.length === 10 ? "T00:00:00Z" : ""));
+      return isNaN(d) ? str : d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+    }
+
+    function openModal(idx) {
+      const m = allMembers[idx];
+      if (!m) return;
+      const card = document.getElementById("modal-card");
+      const code = partyCode(m.party);
+      const partyLabel = { D: "Democrat", R: "Republican", I: "Independent" }[code] || m.party || "—";
+      const partyBadgeCls = { D: "badge-dem", R: "badge-rep", I: "badge-ind" }[code] || "badge-other";
+      const matches = findFinanceMatches(m);
+      const lastName = (m.name || "").split(",")[0].trim();
+
+      const financeSection = matches.length
+        ? `<div class="finance-table-wrap">
+            <table class="finance-table">
+              <thead>
+                <tr>
+                  <th>Donor</th>
+                  <th>Committee</th>
+                  <th>Amount</th>
+                  <th>Date</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${matches.map(r => `
+                  <tr>
+                    <td>${escapeHTML(r.contributor_name)}</td>
+                    <td style="font-size:.75rem;color:var(--text-muted)">${escapeHTML(r.committee_name)}</td>
+                    <td class="finance-amount">${formatUSD(r.contribution_receipt_amount)}</td>
+                    <td class="finance-date">${formatDate(r.contribution_receipt_date)}</td>
+                  </tr>`).join("")}
+              </tbody>
+            </table>
+          </div>`
+        : `<div class="no-finance">No campaign finance records found matching &ldquo;${escapeHTML(lastName)}&rdquo;</div>`;
+
+      card.innerHTML = `
+        <div class="modal-header">
+          <div class="modal-header-top">
+            <div class="modal-name" id="modal-member-name">${escapeHTML(m.name)}</div>
+            <button class="modal-close" id="modal-close" aria-label="Close">&times;</button>
+          </div>
+          <div class="modal-badges">
+            <span class="badge ${partyBadgeCls}">${escapeHTML(partyLabel)}</span>
+            <span class="chamber-pill">${escapeHTML(chamberShort(m.chamber))}</span>
+            ${m.state ? `<span style="font-size:.75rem;color:var(--text-muted)">${escapeHTML(m.state)}</span>` : ""}
+          </div>
+        </div>
+        <div class="modal-body">
+          <div class="modal-grid">
+            <div class="modal-field">
+              <label>State</label>
+              <span>${escapeHTML(m.state || "—")}</span>
+            </div>
+            <div class="modal-field">
+              <label>Chamber</label>
+              <span>${escapeHTML(chamberShort(m.chamber))}</span>
+            </div>
+            <div class="modal-field">
+              <label>District / Role</label>
+              <span>${escapeHTML(districtLabel(m))}</span>
+            </div>
+            <div class="modal-field">
+              <label>In Office Since</label>
+              <span>${escapeHTML(yearsInOffice(m.startYear))}</span>
+            </div>
+          </div>
+
+          <div class="modal-section-title">Campaign Finance Connections</div>
+          ${financeSection}
+        </div>`;
+
+      document.getElementById("modal-overlay").classList.add("open");
+
+      document.getElementById("modal-close").addEventListener("click", closeModal);
+    }
+
+    function closeModal() {
+      document.getElementById("modal-overlay").classList.remove("open");
+    }
+
+    document.getElementById("modal-overlay").addEventListener("click", e => {
+      if (e.target === document.getElementById("modal-overlay")) closeModal();
+    });
+
+    document.addEventListener("keydown", e => {
+      if (e.key === "Escape") closeModal();
+    });
+
+    // ── Boot ──────────────────────────────────────────────────────────────────
     async function init() {
+      // Load finance data in background for modal use
+      fetch("data/finance.json")
+        .then(r => r.ok ? r.json() : [])
+        .then(data => { financeData = data; })
+        .catch(() => {});
+
       try {
         const resp = await fetch("data/members.json");
         if (!resp.ok) throw new Error(resp.status);
@@ -599,7 +645,7 @@
       } catch {
         document.getElementById("summary").innerHTML = "";
         document.getElementById("members-body").innerHTML =
-          '<tr><td colspan="5" class="state-msg">Could not load members data. Run the fetch script first.</td></tr>';
+          '<tr><td colspan="6" class="state-msg">Could not load members data.</td></tr>';
       }
     }
 
