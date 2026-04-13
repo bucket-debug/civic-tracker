@@ -8,60 +8,72 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --navy: #1a2744;
-      --navy-light: #243360;
-      --accent: #3b82f6;
-      --accent-hover: #2563eb;
-      --text: #1e293b;
-      --text-muted: #64748b;
-      --border: #e2e8f0;
-      --card-bg: #ffffff;
-      --bg: #f8fafc;
+      --navy:          #0f1f3d;
+      --navy-mid:      #162035;
+      --accent:        #2563eb;
+      --accent-faint:  #eff6ff;
+      --accent-border: #bfdbfe;
+      --text:          #111827;
+      --text-2:        #374151;
+      --text-muted:    #6b7280;
+      --border:        #e5e7eb;
+      --border-2:      #d1d5db;
+      --bg:            #f1f5f9;
+      --surface:       #ffffff;
+      --surface-2:     #f8fafc;
     }
+
+    html { scroll-behavior: smooth; }
 
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                    "Helvetica Neue", Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
       display: flex;
       flex-direction: column;
+      font-size: 15px;
+      line-height: 1.5;
     }
 
-    /* ── Header ── */
+    /* ── Header ─────────────────────────────────── */
     header {
       background: var(--navy);
       color: #fff;
       padding: 0 1.5rem;
+      border-top: 3px solid var(--accent);
     }
 
     .header-inner {
       max-width: 1100px;
       margin: 0 auto;
-      padding: 1.75rem 0 1.25rem;
+      padding: 1.375rem 0 1.125rem;
     }
 
     header h1 {
-      font-size: 2rem;
+      font-size: 1.75rem;
       font-weight: 800;
-      letter-spacing: -0.5px;
+      letter-spacing: -0.04em;
+      line-height: 1;
     }
 
-    header h1 span {
-      color: var(--accent);
+    header h1 span { color: var(--accent); }
+
+    .tagline {
+      margin-top: 0.3rem;
+      font-size: 0.675rem;
+      font-weight: 600;
+      color: rgba(255,255,255,0.35);
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
     }
 
-    header p {
-      margin-top: 0.25rem;
-      font-size: 0.95rem;
-      color: #a8bbd4;
-    }
-
-    /* ── Nav ── */
+    /* ── Nav ─────────────────────────────────────── */
     nav {
-      background: var(--navy-light);
-      border-top: 1px solid rgba(255,255,255,0.07);
+      background: var(--navy-mid);
+      border-bottom: 1px solid rgba(0,0,0,0.15);
     }
 
     .nav-inner {
@@ -69,18 +81,18 @@
       margin: 0 auto;
       display: flex;
       flex-wrap: wrap;
-      gap: 0.25rem;
       padding: 0 1.5rem;
     }
 
     nav a {
       display: inline-block;
-      color: #c8d9ed;
+      color: rgba(255,255,255,0.45);
       text-decoration: none;
-      font-size: 0.875rem;
-      font-weight: 500;
-      padding: 0.65rem 1rem;
-      border-bottom: 3px solid transparent;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      padding: 0.7rem 1rem;
+      border-bottom: 2px solid transparent;
       transition: color 0.15s, border-color 0.15s;
     }
 
@@ -89,135 +101,155 @@
       border-bottom-color: var(--accent);
     }
 
-    /* ── Main ── */
+    /* ── Main ────────────────────────────────────── */
     main {
       flex: 1;
       max-width: 1100px;
       width: 100%;
       margin: 0 auto;
-      padding: 2rem 1.5rem;
+      padding: 2rem 1.5rem 3rem;
     }
 
-    /* ── Last updated bar ── */
+    /* ── Status pill ─────────────────────────────── */
     .last-updated {
-      display: flex;
+      display: inline-flex;
       align-items: center;
       gap: 0.5rem;
-      font-size: 0.8rem;
+      font-size: 0.725rem;
+      font-weight: 500;
       color: var(--text-muted);
       margin-bottom: 2rem;
+      padding: 0.4rem 0.875rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 100px;
     }
 
-    .last-updated .dot {
-      width: 8px;
-      height: 8px;
+    .dot {
+      width: 7px;
+      height: 7px;
       border-radius: 50%;
-      background: #94a3b8;
+      background: var(--border-2);
       flex-shrink: 0;
     }
+    .dot.ok   { background: #16a34a; box-shadow: 0 0 0 2px #dcfce7; }
+    .dot.fail { background: #dc2626; box-shadow: 0 0 0 2px #fee2e2; }
 
-    .last-updated .dot.ok   { background: #22c55e; }
-    .last-updated .dot.fail { background: #ef4444; }
+    /* ── Section label ───────────────────────────── */
+    .section-label {
+      font-size: 0.625rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--text-muted);
+      margin-bottom: 0.875rem;
+    }
 
-    /* ── Stat cards ── */
+    /* ── Stat cards ──────────────────────────────── */
     .cards {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 1.25rem;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+      gap: 1rem;
       margin-bottom: 2.5rem;
     }
 
     .card {
-      background: var(--card-bg);
+      background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1.5rem 1.75rem;
+      border-top: 3px solid var(--accent);
+      border-radius: 8px;
+      padding: 1.375rem 1.5rem 1.125rem;
       text-decoration: none;
       color: inherit;
-      display: flex;
-      flex-direction: column;
-      gap: 0.5rem;
-      transition: box-shadow 0.15s, transform 0.15s;
+      display: block;
+      transition: box-shadow 0.15s, transform 0.12s;
     }
 
     .card:hover {
-      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      box-shadow: 0 6px 28px rgba(15,31,61,0.1);
       transform: translateY(-2px);
     }
 
-    .card-icon {
-      font-size: 1.5rem;
-      line-height: 1;
+    .card-eyebrow {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.625rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--text-muted);
+      margin-bottom: 1rem;
     }
 
-    .card-label {
-      font-size: 0.8rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      color: var(--text-muted);
-    }
+    .card-icon { font-size: 1rem; opacity: 0.7; }
 
     .card-count {
-      font-size: 2.4rem;
+      font-size: 3rem;
       font-weight: 800;
       color: var(--navy);
       line-height: 1;
-      min-height: 2.4rem;
+      letter-spacing: -0.04em;
+      margin-bottom: 0.875rem;
+      min-height: 3rem;
+      display: flex;
+      align-items: center;
     }
 
     .card-count.loading::after {
       content: "";
-      display: inline-block;
       width: 1.5rem;
       height: 1.5rem;
-      border: 3px solid var(--border);
+      border: 2.5px solid var(--border);
       border-top-color: var(--accent);
       border-radius: 50%;
-      animation: spin 0.7s linear infinite;
-      vertical-align: middle;
+      animation: spin 0.75s linear infinite;
     }
 
-    .card-sublabel {
-      font-size: 0.75rem;
-      color: var(--text-muted);
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .card-cta {
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--accent);
+      letter-spacing: 0.01em;
     }
 
-    @keyframes spin {
-      to { transform: rotate(360deg); }
-    }
-
-    /* ── About blurb ── */
+    /* ── About ───────────────────────────────────── */
     .about {
-      background: var(--card-bg);
+      background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1.5rem 1.75rem;
-      max-width: 680px;
+      border-radius: 8px;
+      padding: 1.375rem 1.5rem;
+      max-width: 640px;
     }
 
     .about h2 {
-      font-size: 1rem;
+      font-size: 0.8rem;
       font-weight: 700;
-      margin-bottom: 0.5rem;
       color: var(--navy);
+      margin-bottom: 0.5rem;
+      letter-spacing: -0.01em;
     }
 
     .about p {
-      font-size: 0.875rem;
+      font-size: 0.825rem;
       color: var(--text-muted);
-      line-height: 1.6;
+      line-height: 1.7;
     }
 
-    .about p + p { margin-top: 0.5rem; }
+    .about p + p { margin-top: 0.4rem; }
+    .about a { color: var(--accent); text-decoration: none; }
+    .about a:hover { text-decoration: underline; }
 
-    /* ── Footer ── */
+    /* ── Footer ──────────────────────────────────── */
     footer {
       background: var(--navy);
-      color: #a8bbd4;
-      font-size: 0.8rem;
-      padding: 1.5rem;
+      color: rgba(255,255,255,0.3);
+      font-size: 0.725rem;
+      padding: 1.125rem 1.5rem;
       margin-top: auto;
+      border-top: 1px solid rgba(255,255,255,0.05);
     }
 
     .footer-inner {
@@ -225,7 +257,7 @@
       margin: 0 auto;
       display: flex;
       flex-wrap: wrap;
-      gap: 1rem;
+      gap: 0.75rem 2rem;
       align-items: center;
       justify-content: space-between;
     }
@@ -233,25 +265,18 @@
     .footer-links {
       display: flex;
       flex-wrap: wrap;
-      gap: 0.25rem 1.25rem;
+      gap: 0.25rem 1.5rem;
     }
 
-    footer a {
-      color: #c8d9ed;
-      text-decoration: none;
-    }
+    footer a { color: rgba(255,255,255,0.5); text-decoration: none; }
+    footer a:hover { color: rgba(255,255,255,0.85); }
+    .footer-disclaimer { max-width: 480px; line-height: 1.5; }
 
-    footer a:hover { color: #fff; text-decoration: underline; }
-
-    .footer-disclaimer {
-      color: #6d839e;
-      max-width: 480px;
-    }
-
-    /* ── Responsive ── */
-    @media (max-width: 480px) {
+    /* ── Responsive ──────────────────────────────── */
+    @media (max-width: 520px) {
       header h1 { font-size: 1.5rem; }
-      .card-count { font-size: 2rem; }
+      .card-count { font-size: 2.5rem; min-height: 2.5rem; }
+      main { padding: 1.5rem 1rem 2.5rem; }
     }
   </style>
 </head>
@@ -260,7 +285,7 @@
   <header>
     <div class="header-inner">
       <h1>Civic<span>Pulse</span></h1>
-      <p>Track your government, plainly.</p>
+      <p class="tagline">Track your government, plainly.</p>
     </div>
   </header>
 
@@ -277,43 +302,41 @@
 
     <div class="last-updated" id="last-updated">
       <span class="dot" id="status-dot"></span>
-      <span id="status-text">Loading last update&hellip;</span>
+      <span id="status-text">Loading&hellip;</span>
     </div>
+
+    <p class="section-label">Live Data</p>
 
     <div class="cards">
       <a class="card" href="bills.html" aria-label="View active bills">
-        <div class="card-icon">🏛️</div>
-        <div class="card-label">Active Bills</div>
+        <div class="card-eyebrow">Active Bills <span class="card-icon">🏛️</span></div>
         <div class="card-count loading" id="count-bills"></div>
-        <div class="card-sublabel">from congress.gov</div>
+        <div class="card-cta">Browse bills →</div>
       </a>
 
       <a class="card" href="finance.html" aria-label="View campaign finance records">
-        <div class="card-icon">💰</div>
-        <div class="card-label">Campaign Records</div>
+        <div class="card-eyebrow">Campaign Records <span class="card-icon">💰</span></div>
         <div class="card-count loading" id="count-finance"></div>
-        <div class="card-sublabel">from FEC</div>
+        <div class="card-cta">Explore donors →</div>
       </a>
 
       <a class="card" href="members.html" aria-label="View congress members">
-        <div class="card-icon">👥</div>
-        <div class="card-label">Congress Members</div>
+        <div class="card-eyebrow">Congress Members <span class="card-icon">👥</span></div>
         <div class="card-count loading" id="count-members"></div>
-        <div class="card-sublabel">from congress.gov</div>
+        <div class="card-cta">View members →</div>
       </a>
 
       <a class="card" href="news.html" aria-label="View news stories">
-        <div class="card-icon">📰</div>
-        <div class="card-label">News Stories</div>
+        <div class="card-eyebrow">News Stories <span class="card-icon">📰</span></div>
         <div class="card-count loading" id="count-news"></div>
-        <div class="card-sublabel">from NewsAPI</div>
+        <div class="card-cta">Read headlines →</div>
       </a>
     </div>
 
     <div class="about">
       <h2>About CivicPulse</h2>
-      <p>CivicPulse pulls from publicly available US government APIs every day at 07:00 UTC and presents the data in one place — no spin, no commentary.</p>
-      <p>Data sources: <a href="https://congress.gov">congress.gov</a> for legislation and membership, the <a href="https://fec.gov">Federal Election Commission</a> for campaign finance, and <a href="https://newsapi.org">NewsAPI</a> for headline coverage.</p>
+      <p>CivicPulse pulls from publicly available US government APIs every day at 07:00 UTC — legislation from <a href="https://congress.gov">congress.gov</a>, campaign donations from the <a href="https://fec.gov">Federal Election Commission</a>, and headline coverage from <a href="https://newsapi.org">NewsAPI</a>.</p>
+      <p>No spin, no commentary. Raw public record, presented plainly.</p>
     </div>
 
   </main>
@@ -354,19 +377,17 @@
     }
 
     async function init() {
-      // Last updated + overall status
       try {
         const meta = await loadJSON("data/last_updated.json");
         const allOk = Object.values(meta.status).every(v => v === "success");
         const dot = document.getElementById("status-dot");
         dot.classList.add(allOk ? "ok" : "fail");
         document.getElementById("status-text").textContent =
-          "Last updated: " + formatTimestamp(meta.timestamp);
+          "Last updated " + formatTimestamp(meta.timestamp);
       } catch {
         document.getElementById("status-text").textContent = "Last update time unavailable";
       }
 
-      // Stat counts — each independent so one failure doesn't block others
       const sources = [
         { id: "count-bills",   path: "data/bills.json" },
         { id: "count-finance", path: "data/finance.json" },

@@ -8,330 +8,334 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --navy: #1a2744;
-      --navy-light: #243360;
-      --accent: #3b82f6;
-      --text: #1e293b;
-      --text-muted: #64748b;
-      --border: #e2e8f0;
-      --bg: #f8fafc;
-      --dem: #2563eb;
-      --rep: #dc2626;
+      --navy:          #0f1f3d;
+      --navy-mid:      #162035;
+      --accent:        #2563eb;
+      --accent-faint:  #eff6ff;
+      --accent-border: #bfdbfe;
+      --text:          #111827;
+      --text-2:        #374151;
+      --text-muted:    #6b7280;
+      --border:        #e5e7eb;
+      --border-2:      #d1d5db;
+      --bg:            #f1f5f9;
+      --surface:       #ffffff;
+      --surface-2:     #f8fafc;
+      --dem:           #1d4ed8;
+      --dem-bg:        #dbeafe;
+      --rep:           #b91c1c;
+      --rep-bg:        #fee2e2;
+      --enacted:       #166534;
+      --enacted-bg:    #dcfce7;
+      --enacted-border:#bbf7d0;
     }
+
+    html { scroll-behavior: smooth; }
 
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
                    "Helvetica Neue", Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
       display: flex;
       flex-direction: column;
+      font-size: 15px;
+      line-height: 1.5;
     }
 
-    /* ── Header ── */
-    header {
-      background: var(--navy);
-      color: #fff;
-      padding: 0 1.5rem;
-    }
-
-    .header-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 1.75rem 0 1.25rem;
-    }
-
-    header h1 {
-      font-size: 2rem;
-      font-weight: 800;
-      letter-spacing: -0.5px;
-    }
-
+    /* ── Header ─────────────────────────────────── */
+    header { background: var(--navy); color: #fff; padding: 0 1.5rem; border-top: 3px solid var(--accent); }
+    .header-inner { max-width: 1100px; margin: 0 auto; padding: 1.375rem 0 1.125rem; }
+    header h1 { font-size: 1.75rem; font-weight: 800; letter-spacing: -0.04em; line-height: 1; }
+    header h1 a { color: inherit; text-decoration: none; }
     header h1 span { color: var(--accent); }
+    .tagline { margin-top: 0.3rem; font-size: 0.675rem; font-weight: 600; color: rgba(255,255,255,0.35); text-transform: uppercase; letter-spacing: 0.12em; }
 
-    header p {
-      margin-top: 0.25rem;
-      font-size: 0.95rem;
-      color: #a8bbd4;
-    }
+    /* ── Nav ─────────────────────────────────────── */
+    nav { background: var(--navy-mid); border-bottom: 1px solid rgba(0,0,0,0.15); }
+    .nav-inner { max-width: 1100px; margin: 0 auto; display: flex; flex-wrap: wrap; padding: 0 1.5rem; }
+    nav a { display: inline-block; color: rgba(255,255,255,0.45); text-decoration: none; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.05em; padding: 0.7rem 1rem; border-bottom: 2px solid transparent; transition: color 0.15s, border-color 0.15s; }
+    nav a:hover, nav a.active { color: #fff; border-bottom-color: var(--accent); }
 
-    /* ── Nav ── */
-    nav {
-      background: var(--navy-light);
-      border-top: 1px solid rgba(255,255,255,0.07);
-    }
+    /* ── Main ────────────────────────────────────── */
+    main { flex: 1; max-width: 1100px; width: 100%; margin: 0 auto; padding: 2rem 1.5rem 3rem; }
 
-    .nav-inner {
-      max-width: 1100px;
-      margin: 0 auto;
+    /* ── Section headings ────────────────────────── */
+    .bills-section { margin-bottom: 2.75rem; }
+
+    .section-hdr {
       display: flex;
-      flex-wrap: wrap;
-      gap: 0.25rem;
-      padding: 0 1.5rem;
+      align-items: baseline;
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 0.625rem;
+    }
+    .section-hdr h2 {
+      font-size: 1.05rem;
+      font-weight: 800;
+      color: var(--navy);
+      letter-spacing: -0.02em;
+    }
+    .section-hdr .count-pill {
+      font-size: 0.65rem;
+      font-weight: 700;
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 0.15rem 0.55rem;
+      border-radius: 100px;
+      letter-spacing: 0.03em;
     }
 
-    nav a {
-      display: inline-block;
-      color: #c8d9ed;
-      text-decoration: none;
-      font-size: 0.875rem;
-      font-weight: 500;
-      padding: 0.65rem 1rem;
-      border-bottom: 3px solid transparent;
-      transition: color 0.15s, border-color 0.15s;
+    /* ── Passed bills — card grid ────────────────── */
+    .passed-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1rem;
     }
 
-    nav a:hover, nav a.active {
-      color: #fff;
-      border-bottom-color: var(--accent);
+    .passed-card {
+      background: var(--surface);
+      border: 1px solid var(--enacted-border);
+      border-left: 4px solid var(--enacted);
+      border-radius: 8px;
+      padding: 1.125rem 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
     }
 
-    /* ── Main ── */
-    main {
-      flex: 1;
-      max-width: 1100px;
-      width: 100%;
-      margin: 0 auto;
-      padding: 2rem 1.5rem;
+    .passed-card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 0.5rem;
     }
 
-    .page-intro {
-      margin-bottom: 1.5rem;
+    .law-badge {
+      font-size: 0.6rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      background: var(--enacted-bg);
+      color: var(--enacted);
+      border: 1px solid var(--enacted-border);
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      white-space: nowrap;
     }
 
-    .page-intro h2 {
-      font-size: 1.4rem;
+    .bill-num-mono {
+      font-family: ui-monospace, "SF Mono", "Cascadia Code", monospace;
+      font-size: 0.8rem;
       font-weight: 700;
       color: var(--navy);
-      margin-bottom: 0.4rem;
+      white-space: nowrap;
     }
 
-    .page-intro p {
-      font-size: 0.9rem;
-      color: var(--text-muted);
+    .passed-title {
+      font-size: 0.875rem;
+      font-weight: 700;
+      color: var(--navy);
+      line-height: 1.4;
+      letter-spacing: -0.01em;
     }
 
-    /* ── Filter bar ── */
-    .filter-bar {
+    .passed-meta {
       display: flex;
       align-items: center;
       gap: 0.5rem;
-      margin-bottom: 1.25rem;
       flex-wrap: wrap;
     }
 
-    .filter-bar span {
-      font-size: 0.8rem;
-      font-weight: 600;
-      color: var(--text-muted);
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      margin-right: 0.25rem;
+    .passed-sponsor {
+      font-size: 0.75rem;
+      color: var(--text-2);
+      flex: 1;
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
 
-    .filter-btn {
-      padding: 0.35rem 1rem;
-      border-radius: 999px;
-      border: 1.5px solid var(--border);
-      background: #fff;
+    .passed-date {
+      font-size: 0.7rem;
       color: var(--text-muted);
-      font-size: 0.8rem;
+      white-space: nowrap;
+    }
+
+    /* ── Co-sponsor split bar ────────────────────── */
+    .co-wrap {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .co-bar {
+      display: flex;
+      height: 5px;
+      border-radius: 999px;
+      overflow: hidden;
+      background: var(--border);
+      width: 72px;
+      flex-shrink: 0;
+    }
+    .co-bar-dem { background: var(--dem); }
+    .co-bar-rep { background: var(--rep); }
+    .co-label {
+      font-size: 0.65rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+      font-variant-numeric: tabular-nums;
+    }
+    .co-dem-label { color: var(--dem); font-weight: 600; }
+    .co-rep-label { color: var(--rep); font-weight: 600; }
+
+    /* ── Filter bar ──────────────────────────────── */
+    .filter-bar {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+    .filter-label {
+      font-size: 0.625rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-muted);
+      margin-right: 0.25rem;
+    }
+    .filter-btn {
+      padding: 0.3rem 0.875rem;
+      border-radius: 100px;
+      border: 1.5px solid var(--border);
+      background: var(--surface);
+      color: var(--text-muted);
+      font-size: 0.75rem;
       font-weight: 600;
       cursor: pointer;
       transition: all 0.15s;
+      letter-spacing: 0.01em;
     }
-
-    .filter-btn:hover {
-      border-color: var(--accent);
-      color: var(--accent);
-    }
-
-    .filter-btn.active {
-      background: var(--navy);
-      border-color: var(--navy);
-      color: #fff;
-    }
-
+    .filter-btn:hover { border-color: var(--border-2); color: var(--text); }
+    .filter-btn.active { background: var(--navy); border-color: var(--navy); color: #fff; }
     .filter-btn.dem.active { background: var(--dem); border-color: var(--dem); }
     .filter-btn.rep.active { background: var(--rep); border-color: var(--rep); }
+    .filter-btn.bip.active { background: #7c3aed; border-color: #7c3aed; }
+    .record-count { font-size: 0.7rem; color: var(--text-muted); margin-left: auto; }
 
-    /* ── Record count ── */
-    .record-count {
-      font-size: 0.78rem;
-      color: var(--text-muted);
-      margin-left: auto;
-    }
-
-    /* ── Table wrapper ── */
+    /* ── Active bills table ──────────────────────── */
     .table-wrap {
-      background: #fff;
+      background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 12px;
+      border-radius: 8px;
       overflow: hidden;
+      box-shadow: 0 1px 4px rgba(15,31,61,0.05);
     }
 
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 0.875rem;
-    }
+    table { width: 100%; border-collapse: collapse; font-size: 0.825rem; }
 
-    thead {
-      background: var(--navy);
-      color: #fff;
-    }
-
+    thead { background: var(--navy); }
     thead th {
-      padding: 0.85rem 1rem;
+      padding: 0.7rem 1rem;
       text-align: left;
-      font-size: 0.75rem;
-      font-weight: 600;
+      font-size: 0.6rem;
+      font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: 0.06em;
+      letter-spacing: 0.09em;
+      color: rgba(255,255,255,0.65);
       white-space: nowrap;
     }
 
-    tbody tr.data-row {
-      border-top: 1px solid var(--border);
-      cursor: pointer;
-      transition: background 0.1s;
-    }
+    tbody tr.data-row { border-top: 1px solid var(--border); cursor: pointer; transition: background 0.1s; }
+    tbody tr.data-row:nth-child(4n+3) { background: var(--surface-2); }
+    tbody tr.data-row:hover { background: var(--accent-faint) !important; }
+    tbody tr.data-row.expanded { background: var(--accent-faint) !important; }
 
-    tbody tr.data-row:hover { background: #f1f5f9; }
-    tbody tr.data-row.expanded { background: #eff6ff; }
+    tbody td { padding: 0.65rem 1rem; vertical-align: middle; color: var(--text-2); }
 
-    tbody td {
-      padding: 0.75rem 1rem;
-      vertical-align: middle;
-    }
+    td.expand-cell { width: 2rem; text-align: center; color: var(--border-2); padding-right: 0; user-select: none; }
+    .chevron { display: inline-block; transition: transform 0.2s; font-style: normal; font-size: 0.85rem; }
+    tr.expanded .chevron { transform: rotate(90deg); color: var(--accent); }
 
-    /* expand indicator */
-    td.expand-cell {
-      width: 2rem;
-      text-align: center;
-      color: var(--text-muted);
-      font-size: 0.75rem;
-      user-select: none;
-    }
-
-    .chevron {
-      display: inline-block;
-      transition: transform 0.2s;
-    }
-
-    tr.expanded .chevron { transform: rotate(90deg); }
-
-    /* ── Expanded detail row ── */
-    tr.detail-row td {
-      padding: 0;
-      border-top: none;
-    }
-
+    tr.detail-row td { padding: 0; border-top: none; }
     .detail-inner {
-      padding: 0.85rem 1rem 0.85rem 3rem;
-      background: #eff6ff;
-      border-top: 1px dashed #bfdbfe;
-      font-size: 0.85rem;
-      color: var(--text);
-      line-height: 1.6;
+      padding: 0.875rem 1rem 0.875rem 2.75rem;
+      background: var(--accent-faint);
+      border-top: 1px solid var(--accent-border);
+      font-size: 0.8rem;
+      color: var(--text-2);
+      line-height: 1.65;
     }
+    .detail-inner strong { color: var(--navy); font-weight: 600; }
 
-    .detail-inner strong {
-      color: var(--navy);
-      font-weight: 600;
-    }
-
-    /* ── Party badge ── */
+    /* ── Badges ──────────────────────────────────── */
     .badge {
       display: inline-block;
-      padding: 0.2rem 0.55rem;
-      border-radius: 999px;
-      font-size: 0.7rem;
+      padding: 0.18rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.65rem;
       font-weight: 700;
-      letter-spacing: 0.04em;
+      letter-spacing: 0.03em;
       white-space: nowrap;
     }
+    .badge-dem { background: var(--dem-bg); color: var(--dem); }
+    .badge-rep { background: var(--rep-bg); color: var(--rep); }
+    .badge-ind { background: #ede9fe; color: #5b21b6; }
 
-    .badge-dem { background: #dbeafe; color: var(--dem); }
-    .badge-rep { background: #fee2e2; color: var(--rep); }
-    .badge-ind { background: #f1f5f9; color: #475569; }
-
-    /* ── Bill number ── */
-    .bill-num {
-      font-family: "Courier New", monospace;
-      font-size: 0.8rem;
-      font-weight: 700;
-      color: var(--navy);
-      white-space: nowrap;
-    }
-
-    /* ── Status ── */
     .status-pill {
       display: inline-block;
-      padding: 0.2rem 0.6rem;
-      border-radius: 999px;
-      font-size: 0.7rem;
+      padding: 0.18rem 0.55rem;
+      border-radius: 4px;
+      font-size: 0.65rem;
       font-weight: 600;
-      background: #f1f5f9;
-      color: #475569;
+      background: var(--surface-2);
+      color: var(--text-muted);
+      border: 1px solid var(--border);
       white-space: nowrap;
     }
 
-    /* ── Empty / error state ── */
-    .state-msg {
-      padding: 3rem 1.5rem;
+    /* ── Empty / error ───────────────────────────── */
+    .state-msg { padding: 2.5rem 1.5rem; text-align: center; color: var(--text-muted); font-size: 0.875rem; }
+    .passed-empty {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2rem 1.5rem;
       text-align: center;
       color: var(--text-muted);
-      font-size: 0.9rem;
+      font-size: 0.825rem;
     }
 
-    /* ── Overflow on mobile ── */
+    /* ── Responsive ──────────────────────────────── */
     @media (max-width: 700px) {
-      .table-wrap { border-radius: 8px; }
       .hide-mobile { display: none; }
-      tbody td { padding: 0.65rem 0.75rem; }
-      thead th { padding: 0.75rem; }
-      .detail-inner { padding-left: 1.5rem; }
+      tbody td { padding: 0.55rem 0.75rem; }
+      thead th { padding: 0.55rem 0.75rem; }
+      .detail-inner { padding-left: 1rem; }
+      main { padding: 1.5rem 1rem 2.5rem; }
+      .passed-grid { grid-template-columns: 1fr; }
     }
 
-    /* ── Footer ── */
-    footer {
-      background: var(--navy);
-      color: #a8bbd4;
-      font-size: 0.8rem;
-      padding: 1.5rem;
-      margin-top: auto;
-    }
-
-    .footer-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .footer-links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.25rem 1.25rem;
-    }
-
-    footer a { color: #c8d9ed; text-decoration: none; }
-    footer a:hover { color: #fff; text-decoration: underline; }
-
-    .footer-disclaimer { color: #6d839e; max-width: 480px; }
+    /* ── Footer ──────────────────────────────────── */
+    footer { background: var(--navy); color: rgba(255,255,255,0.3); font-size: 0.725rem; padding: 1.125rem 1.5rem; margin-top: auto; border-top: 1px solid rgba(255,255,255,0.05); }
+    .footer-inner { max-width: 1100px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 0.75rem 2rem; align-items: center; justify-content: space-between; }
+    .footer-links { display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; }
+    footer a { color: rgba(255,255,255,0.5); text-decoration: none; }
+    footer a:hover { color: rgba(255,255,255,0.85); }
+    .footer-disclaimer { max-width: 480px; line-height: 1.5; }
   </style>
 </head>
 <body>
 
   <header>
     <div class="header-inner">
-      <h1><a href="index.html" style="color:inherit;text-decoration:none;">Civic<span>Pulse</span></a></h1>
-      <p>Track your government, plainly.</p>
+      <h1><a href="index.html">Civic<span>Pulse</span></a></h1>
+      <p class="tagline">Track your government, plainly.</p>
     </div>
   </header>
 
@@ -345,37 +349,55 @@
   </nav>
 
   <main>
-    <div class="page-intro">
-      <h2>Active Bills</h2>
-      <p>The 20 most recently updated bills in Congress, sourced daily from congress.gov.</p>
-    </div>
 
-    <div class="filter-bar">
-      <span>Filter:</span>
-      <button class="filter-btn active" data-filter="all">All</button>
-      <button class="filter-btn dem" data-filter="D">Democrat</button>
-      <button class="filter-btn rep" data-filter="R">Republican</button>
-      <span class="record-count" id="record-count"></span>
-    </div>
+    <!-- ── Section 1: Recently Signed Into Law ───────────────────────────── -->
+    <section class="bills-section">
+      <div class="section-hdr">
+        <h2>Recently Signed Into Law</h2>
+        <span class="count-pill" id="passed-count">Loading…</span>
+      </div>
+      <div class="passed-grid" id="passed-grid">
+        <p class="passed-empty">Loading&hellip;</p>
+      </div>
+    </section>
 
-    <div class="table-wrap">
-      <table id="bills-table" aria-label="Active bills">
-        <thead>
-          <tr>
-            <th></th><!-- chevron -->
-            <th>Bill #</th>
-            <th>Title</th>
-            <th class="hide-mobile">Sponsor</th>
-            <th>Party</th>
-            <th class="hide-mobile">Status</th>
-            <th class="hide-mobile">Last Action</th>
-          </tr>
-        </thead>
-        <tbody id="bills-body">
-          <tr><td colspan="7" class="state-msg">Loading&hellip;</td></tr>
-        </tbody>
-      </table>
-    </div>
+    <!-- ── Section 2: Active Bills Being Debated ─────────────────────────── -->
+    <section class="bills-section">
+      <div class="section-hdr">
+        <h2>Active Bills Being Debated</h2>
+        <span class="count-pill" id="active-count">Loading…</span>
+      </div>
+
+      <div class="filter-bar">
+        <span class="filter-label">Filter by sponsor</span>
+        <button class="filter-btn active"  data-filter="all">All</button>
+        <button class="filter-btn dem"     data-filter="D">Democrat-led</button>
+        <button class="filter-btn rep"     data-filter="R">Republican-led</button>
+        <button class="filter-btn bip"     data-filter="bipartisan">Bipartisan</button>
+        <span class="record-count" id="record-count"></span>
+      </div>
+
+      <div class="table-wrap">
+        <table id="bills-table" aria-label="Active bills">
+          <thead>
+            <tr>
+              <th></th>
+              <th>Bill</th>
+              <th>Title</th>
+              <th class="hide-mobile">Sponsor</th>
+              <th>Party</th>
+              <th class="hide-mobile">Cosponsors</th>
+              <th class="hide-mobile">Status</th>
+              <th class="hide-mobile">Last Action</th>
+            </tr>
+          </thead>
+          <tbody id="bills-body">
+            <tr><td colspan="8" class="state-msg">Loading&hellip;</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
   </main>
 
   <footer>
@@ -385,21 +407,15 @@
         <a href="https://fec.gov" target="_blank" rel="noopener">fec.gov</a>
         <a href="https://govinfo.gov" target="_blank" rel="noopener">govinfo.gov</a>
       </div>
-      <p class="footer-disclaimer">
-        This site aggregates public government data. Non-partisan. No editorializing.
-      </p>
+      <p class="footer-disclaimer">This site aggregates public government data. Non-partisan. No editorializing.</p>
     </div>
   </footer>
 
   <script>
-    const PARTY_MAP = {
-      "Democrat": "D", "Democratic": "D", "D": "D",
-      "Republican": "R", "R": "R",
-      "Independent": "I", "I": "I",
-    };
+    // ── Helpers ───────────────────────────────────────────────────────────────
+    const PARTY_MAP = { D: "D", Democrat: "D", Democratic: "D", R: "R", Republican: "R", I: "I", Independent: "I" };
 
     function partyCode(sponsor) {
-      // Sponsor strings from congress.gov often look like "Rep. Jane Smith [D-CA]"
       if (!sponsor) return "?";
       const m = sponsor.match(/\[([A-Z]+)-/);
       if (m) return PARTY_MAP[m[1]] || m[1];
@@ -415,46 +431,128 @@
     function formatDate(str) {
       if (!str) return "—";
       const d = new Date(str + (str.length === 10 ? "T00:00:00Z" : ""));
-      return isNaN(d) ? str : d.toLocaleDateString("en-US", {
-        month: "short", day: "numeric", year: "numeric", timeZone: "UTC"
-      });
+      return isNaN(d) ? str : d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
     }
 
     function escapeHTML(str) {
-      return String(str ?? "—")
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;");
+      return String(str ?? "—").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
     }
 
     function truncate(str, n) {
       if (!str) return "—";
-      const clipped = str.length > n ? str.slice(0, n).trimEnd() + "…" : str;
-      return escapeHTML(clipped);
+      const s = str.length > n ? str.slice(0, n).trimEnd() + "…" : str;
+      return escapeHTML(s);
     }
 
     function deriveStatus(bill) {
-      const text = (bill.latestActionText || "").toLowerCase();
-      if (text.includes("signed by president") || text.includes("became public law")) return "Enacted";
-      if (text.includes("passed senate") && text.includes("passed house")) return "Passed Both";
-      if (text.includes("passed senate")) return "Passed Senate";
-      if (text.includes("passed house")) return "Passed House";
-      if (text.includes("referred to")) return "In Committee";
-      if (text.includes("introduced")) return "Introduced";
+      const t = ((bill.latestAction || {}).text || "").toLowerCase();
+      if (t.includes("signed by president") || t.includes("became public law")) return "Enacted";
+      if (t.includes("passed senate") && t.includes("passed house")) return "Passed Both";
+      if (t.includes("passed senate")) return "Passed Senate";
+      if (t.includes("passed house")) return "Passed House";
+      if (t.includes("vetoed")) return "Vetoed";
+      if (t.includes("referred to")) return "In Committee";
+      if (t.includes("introduced")) return "Introduced";
       return "Active";
     }
 
+    function parseLawNumber(text) {
+      const m = (text || "").match(/Public Law No[.:]\s*(\d+[-\u2013]\d+)/i);
+      return m ? "P.L. " + m[1] : null;
+    }
+
+    // ── Cosponsor split bar ───────────────────────────────────────────────────
+    function coBarHTML(dem, rep) {
+      const total = dem + rep;
+      if (total === 0) {
+        return `<div class="co-wrap">
+          <div class="co-bar"><div class="co-bar-dem" style="width:0%"></div></div>
+          <span class="co-label">—</span>
+        </div>`;
+      }
+      const demPct = Math.round((dem / total) * 100);
+      const repPct = 100 - demPct;
+      return `<div class="co-wrap">
+        <div class="co-bar">
+          <div class="co-bar-dem" style="width:${demPct}%"></div>
+          <div class="co-bar-rep" style="width:${repPct}%"></div>
+        </div>
+        <span class="co-label">
+          <span class="co-dem-label">D${dem}</span>/<span class="co-rep-label">R${rep}</span>
+        </span>
+      </div>`;
+    }
+
+    // ── Section 1: Recently Signed Into Law ───────────────────────────────────
+    async function loadPassed() {
+      const grid = document.getElementById("passed-grid");
+      const pill = document.getElementById("passed-count");
+      try {
+        const resp = await fetch("data/bills_passed.json");
+        if (!resp.ok) throw new Error(resp.status);
+        const bills = await resp.json();
+
+        pill.textContent = bills.length + " bill" + (bills.length !== 1 ? "s" : "");
+
+        if (!bills.length) {
+          grid.innerHTML = '<p class="passed-empty">No recently passed bills found. Run the fetch script to populate this section.</p>';
+          return;
+        }
+
+        grid.innerHTML = bills.map(b => {
+          const code = partyCode(b.sponsor);
+          const lawNum = parseLawNumber((b.latestAction || {}).text);
+          const actionDate = (b.latestAction || {}).actionDate;
+          const dem = b.democratCosponsors || 0;
+          const rep = b.republicanCosponsors || 0;
+          return `
+            <div class="passed-card">
+              <div class="passed-card-top">
+                <span class="bill-num-mono">${escapeHTML(b.type || "")}${escapeHTML(b.number || "—")}</span>
+                ${lawNum ? `<span class="law-badge">${escapeHTML(lawNum)}</span>` : ""}
+              </div>
+              <div class="passed-title">${escapeHTML(b.title || "Untitled")}</div>
+              <div class="passed-meta">
+                <span class="passed-sponsor">${truncate(b.sponsor, 50)}</span>
+                ${badgeHTML(code)}
+              </div>
+              ${coBarHTML(dem, rep)}
+              <div class="passed-date">Signed ${formatDate(actionDate)}</div>
+            </div>`;
+        }).join("");
+      } catch {
+        pill.textContent = "—";
+        grid.innerHTML = '<p class="passed-empty">Could not load passed bills data.</p>';
+      }
+    }
+
+    // ── Section 2: Active Bills ───────────────────────────────────────────────
     let allBills = [];
     let activeFilter = "all";
     let expandedIdx = null;
 
-    function render(bills) {
+    function filtered() {
+      return allBills.filter(b => {
+        if (activeFilter === "all") return true;
+        const code = partyCode(b.sponsor);
+        if (activeFilter === "D") return code === "D";
+        if (activeFilter === "R") return code === "R";
+        if (activeFilter === "bipartisan") {
+          return (b.democratCosponsors || 0) > 0 && (b.republicanCosponsors || 0) > 0;
+        }
+        return true;
+      });
+    }
+
+    function renderActive(bills) {
       const tbody = document.getElementById("bills-body");
       document.getElementById("record-count").textContent =
         bills.length + " record" + (bills.length !== 1 ? "s" : "");
+      document.getElementById("active-count").textContent =
+        allBills.length + " bill" + (allBills.length !== 1 ? "s" : "");
 
       if (!bills.length) {
-        tbody.innerHTML = '<tr><td colspan="7" class="state-msg">No records match this filter.</td></tr>';
+        tbody.innerHTML = '<tr><td colspan="8" class="state-msg">No bills match this filter.</td></tr>';
         return;
       }
 
@@ -462,24 +560,32 @@
       bills.forEach((bill, i) => {
         const code = partyCode(bill.sponsor);
         const status = deriveStatus(bill);
+        const actionDate = (bill.latestAction || {}).actionDate;
+        const actionText = (bill.latestAction || {}).text;
+        const dem = bill.democratCosponsors || 0;
+        const rep = bill.republicanCosponsors || 0;
         const isExpanded = expandedIdx === i;
 
         rows.push(`
           <tr class="data-row${isExpanded ? " expanded" : ""}" data-idx="${i}">
             <td class="expand-cell"><span class="chevron">›</span></td>
-            <td><span class="bill-num">${bill.type || ""}${bill.billNumber || "—"}</span></td>
-            <td>${truncate(bill.title, 80)}</td>
-            <td class="hide-mobile">${truncate(bill.sponsor, 36)}</td>
+            <td><span style="font-family:ui-monospace,'SF Mono',monospace;font-size:.775rem;font-weight:700;color:var(--navy)">${escapeHTML(bill.type || "")}${escapeHTML(bill.number || "—")}</span></td>
+            <td>${truncate(bill.title, 72)}</td>
+            <td class="hide-mobile" style="color:var(--text-2);font-size:.8rem">${truncate(bill.sponsor, 38)}</td>
             <td>${badgeHTML(code)}</td>
-            <td class="hide-mobile"><span class="status-pill">${status}</span></td>
-            <td class="hide-mobile">${formatDate(bill.latestActionDate)}</td>
+            <td class="hide-mobile">${coBarHTML(dem, rep)}</td>
+            <td class="hide-mobile"><span class="status-pill">${escapeHTML(status)}</span></td>
+            <td class="hide-mobile" style="color:var(--text-muted);font-size:.775rem">${formatDate(actionDate)}</td>
           </tr>
-          <tr class="detail-row" ${isExpanded ? "" : 'style="display:none"'}>
-            <td colspan="7">
+          <tr class="detail-row"${isExpanded ? "" : ' style="display:none"'}>
+            <td colspan="8">
               <div class="detail-inner">
-                <strong>Latest action:</strong>
-                ${escapeHTML(bill.latestActionText || "No action text available.")}
-                ${bill.latestActionDate ? ' <span style="color:var(--text-muted)">(' + formatDate(bill.latestActionDate) + ')</span>' : ""}
+                <strong>Latest action:</strong> ${escapeHTML(actionText || "No action text.")}
+                ${actionDate ? ' <span style="color:var(--text-muted)">(' + formatDate(actionDate) + ')</span>' : ""}
+                ${(dem + rep > 0) ? `<br><strong style="margin-top:.4rem;display:inline-block">Cosponsors:</strong>
+                  <span style="color:var(--dem)">&#9632; ${dem} Democrat${dem !== 1 ? "s" : ""}</span>
+                  &nbsp;·&nbsp;
+                  <span style="color:var(--rep)">&#9632; ${rep} Republican${rep !== 1 ? "s" : ""}</span>` : ""}
               </div>
             </td>
           </tr>`);
@@ -491,14 +597,9 @@
         row.addEventListener("click", () => {
           const idx = parseInt(row.dataset.idx, 10);
           expandedIdx = expandedIdx === idx ? null : idx;
-          render(filtered());
+          renderActive(filtered());
         });
       });
-    }
-
-    function filtered() {
-      if (activeFilter === "all") return allBills;
-      return allBills.filter(b => partyCode(b.sponsor) === activeFilter);
     }
 
     document.querySelectorAll(".filter-btn").forEach(btn => {
@@ -507,23 +608,26 @@
         btn.classList.add("active");
         activeFilter = btn.dataset.filter;
         expandedIdx = null;
-        render(filtered());
+        renderActive(filtered());
       });
     });
 
-    async function init() {
+    async function loadActive() {
       try {
         const resp = await fetch("data/bills.json");
         if (!resp.ok) throw new Error(resp.status);
         allBills = await resp.json();
-        render(filtered());
+        renderActive(filtered());
       } catch {
         document.getElementById("bills-body").innerHTML =
-          '<tr><td colspan="7" class="state-msg">Could not load bills data. Run the fetch script first.</td></tr>';
+          '<tr><td colspan="8" class="state-msg">Could not load bills data.</td></tr>';
+        document.getElementById("active-count").textContent = "—";
       }
     }
 
-    init();
+    // Load both sections in parallel
+    loadPassed();
+    loadActive();
   </script>
 
 </body>
