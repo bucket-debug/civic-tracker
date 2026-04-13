@@ -36,13 +36,12 @@ def log_response_error(label, resp):
 
 
 # 1. Congress bills
-# Note: requests encodes "+" in params values as "%2B"; to send "updateDate+desc"
-# (which congress.gov requires), pass a space — requests encodes space as "+".
+# Using format=json explicitly; no sort param (avoids %2B encoding issue)
 try:
     resp = requests.get(
         "https://api.congress.gov/v3/bill",
         params={
-            "sort": "updateDate desc",
+            "format": "json",
             "limit": 20,
             "api_key": CONGRESS_API_KEY,
         },
@@ -106,10 +105,12 @@ except Exception as e:
     print(f"[FAIL] finance      — {e}")
 
 # 3. Congress members
+# Using format=json explicitly; currentMember=true to get active members only
 try:
     resp = requests.get(
         "https://api.congress.gov/v3/member",
         params={
+            "format": "json",
             "currentMember": "true",
             "limit": 250,
             "api_key": CONGRESS_API_KEY,
@@ -142,9 +143,9 @@ except Exception as e:
 # 4. News via RSS feeds (replaces NewsAPI — free-tier developer keys block server requests)
 # Pulls from three reliable public RSS feeds; parses with stdlib xml.etree.ElementTree.
 RSS_FEEDS = [
-    ("NPR Politics",       "https://feeds.npr.org/1014/rss.xml"),
-    ("Politico",           "https://rss.politico.com/politics-news.rss"),
-    ("Washington Post",    "https://feeds.washingtonpost.com/rss/politics"),
+    ("NPR Politics",    "https://feeds.npr.org/1014/rss.xml"),
+    ("Politico",        "https://rss.politico.com/politics-news.rss"),
+    ("Washington Post", "https://feeds.washingtonpost.com/rss/politics"),
 ]
 
 try:
@@ -156,7 +157,6 @@ try:
                 log_response_error(f"news/{source_name}", resp)
                 continue
             root = ET.fromstring(resp.content)
-            # RSS 2.0: items live under channel/item
             items = root.findall("./channel/item")
             for item in items:
                 def text(tag):
@@ -164,14 +164,13 @@ try:
                     return el.text.strip() if el is not None and el.text else None
 
                 pub_date = text("pubDate")
-                # Normalise pubDate → ISO-8601 if possible
                 published_at = None
                 if pub_date:
                     try:
                         from email.utils import parsedate_to_datetime
                         published_at = parsedate_to_datetime(pub_date).isoformat()
                     except Exception:
-                        published_at = pub_date  # keep raw if parse fails
+                        published_at = pub_date
 
                 news.append({
                     "title": text("title"),
@@ -187,7 +186,6 @@ try:
     if not news:
         raise RuntimeError("All RSS feeds failed — no news items collected")
 
-    # Sort newest-first across all feeds
     news.sort(key=lambda a: a.get("publishedAt") or "", reverse=True)
     save("news.json", news)
     status["news"] = "success"
