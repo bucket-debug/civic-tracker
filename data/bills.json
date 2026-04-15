@@ -1,308 +1,126 @@
 [
   {
     "congress": 119,
-    "number": "4241",
-    "type": "S",
-    "title": "Boosting Housing Supply through Small Businesses Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-      "actionDate": "2026-03-26"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "8070",
+    "number": "8170",
     "type": "HR",
-    "title": "Child Suicide Prevention Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-03-25"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4210",
-    "type": "S",
-    "title": "Child Suicide Prevention Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-03-25"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4204",
-    "type": "S",
-    "title": "Rural Health Innovation Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-03-25"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4267",
-    "type": "S",
-    "title": "Strengthening American Nuclear Energy Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-      "actionDate": "2026-03-26"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4206",
-    "type": "S",
-    "title": "Know Your American Customer Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-03-25"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4208",
-    "type": "S",
-    "title": "Rural America Health Corps Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-03-25"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "1415",
-    "type": "S",
-    "title": "Housing Unhoused Disabled Veterans Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2025-04-10"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "965",
-    "type": "HR",
-    "title": "Housing Unhoused Disabled Veterans Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2025-02-11"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 15,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "40",
-    "type": "HCONRES",
-    "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+    "title": "MATCH Act",
     "latestAction": {
       "text": "Referred to the House Committee on Foreign Affairs.",
-      "actionDate": "2025-06-23"
+      "actionDate": "2026-04-02"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
+    "democratCosponsors": 5,
+    "republicanCosponsors": 7
   },
   {
     "congress": 119,
-    "number": "1809",
-    "type": "S",
-    "title": "Drone Espionage Act",
+    "number": "8251",
+    "type": "HR",
+    "title": "Protecting America\u2019s Orchardists and Nursery Tree Growers Act",
     "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 316.",
-      "actionDate": "2026-02-09"
+      "text": "Referred to the House Committee on Agriculture.",
+      "actionDate": "2026-04-13"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 1,
-    "republicanCosponsors": 12
-  },
-  {
-    "congress": 119,
-    "number": "1276",
-    "type": "HR",
-    "title": "To remove restrictions from a parcel of land in Paducah, Kentucky.",
-    "latestAction": {
-      "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
-      "actionDate": "2026-03-04"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "2450",
+    "number": "4234",
     "type": "S",
-    "title": "Biochar Research Network Act of 2025",
+    "title": "Healthy Watersheds, Healthy Communities Act of 2026",
     "latestAction": {
       "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-      "actionDate": "2025-07-24"
+      "actionDate": "2026-03-26"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2854",
-    "type": "S",
-    "title": "District of Columbia Judicial Nominations Reform Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2025-09-18"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "624",
-    "type": "SRES",
-    "title": "A resolution expressing support for the designation of the week of March 2 through March 6, 2026, as \"National Social and Emotional Learning Week\" to recognize the critical role social and emotional learning plays in supporting the academic success and overall well-being of students, educators, and families.",
+    "number": "4211",
+    "type": "S",
+    "title": "Consumer Data Privacy and Security Act of 2026",
     "latestAction": {
-      "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S734-735)",
-      "actionDate": "2026-03-02"
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-03-25"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
-    "democratCosponsors": 8,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "1047",
-    "type": "HRES",
-    "title": "Recognizing January 2026 as \"National Mentoring Month\".",
+    "number": "7165",
+    "type": "HR",
+    "title": "WATCH Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-02-09"
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-01-20"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
-    "democratCosponsors": 18,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4106",
+    "type": "S",
+    "title": "Rx ACCESS Act",
+    "latestAction": {
+      "text": "Star Print ordered on the bill.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "2351",
+    "type": "S",
+    "title": "Space Exploration Research Act",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 369.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 3,
     "republicanCosponsors": 2
   },
   {
     "congress": 119,
-    "number": "4164",
-    "type": "S",
-    "title": "A bill to make technical corrections to the National Defense Authorization Act for Fiscal Year 2026.",
+    "number": "162",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Bulletin 2015-07 re: in-person collection of consumer debt\".",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-03-24"
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
     },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3648",
-    "type": "S",
-    "title": "Immediate Access for the Terminally Ill Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-01-15"
-    },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "3437",
-    "type": "HR",
-    "title": "Insurance Data Protection Act",
+    "number": "159",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2022-05: Debt Collection and Consumer Reporting Practices Involving Invalid Nursing Home Debts\".",
     "latestAction": {
-      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-05-15"
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
     },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "4254",
-    "type": "S",
-    "title": "Health Workforce Innovation Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-03-26"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "1567",
-    "type": "S",
-    "title": "Jobs and Opportunity with Benefits and Services (JOBS) for Success Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-05-01"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8063",
-    "type": "HR",
-    "title": "SPARK Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Small Business.",
-      "actionDate": "2026-03-24"
-    },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
@@ -310,393 +128,575 @@
   {
     "congress": 119,
     "number": "163",
-    "type": "SRES",
-    "title": "A resolution recognizing the contributions of Clela Rorex, a pioneering county clerk who, in 1975, advanced civil rights for all couples seeking to be married.",
+    "type": "SJRES",
+    "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
     "latestAction": {
-      "text": "Referred to the Committee on the Judiciary. (text: CR S2528)",
-      "actionDate": "2025-04-09"
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-04-13"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
-    "democratCosponsors": 1,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "319",
-    "type": "HRES",
-    "title": "Recognizing the contributions of Clela Rorex, pioneering county clerk who advanced civil rights for all couples seeking to be married in 1975.",
+    "number": "161",
+    "type": "SJRES",
+    "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
     "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2025-04-09"
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-04-13"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "160",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2023-01: Unlawful Negative Option Marketing Practices\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "170",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Compliance Bulletin 2016-03: Detecting and Preventing Consumer Harm From Production Incentives\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "169",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2022-06: Unanticipated Overdraft Fee Assessment Practices\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "179",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Disclosure of Consumer Complaint Data\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "168",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2024-01: Preferencing and Steering Practices by Digital Intermediaries for Consumer Financial Products or Services\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "173",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2022-07: Reasonable Investigation of Consumer Reporting Disputes\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "171",
+    "type": "SJRES",
+    "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "172",
+    "type": "SJRES",
+    "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "174",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Bulletin 2022-04: Mitigating Harm From Repossession of Automobiles\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "165",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Bulletin 2015-02 re: Section 8 housing choice voucher homeownership program\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "164",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2022-04: Insufficient Data Protection or Security for Sensitive Consumer Information\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "180",
+    "type": "SJRES",
+    "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "167",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Information Requests to Large Banks and Credit Unions\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "183",
+    "type": "SJRES",
+    "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "177",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to \"Registry of Nonbank Covered Persons Subject to Certain Agency and Court Orders; Rescission\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "175",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2022-02: Deceptive Representations Involving the FDIC's Name or Logo or Deposit Insurance\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "176",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Disclosure of Consumer Complaint Narrative Data\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "182",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to \"William D. Ford Federal Direct Loan (Direct Loan) Program\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 18,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "181",
+    "type": "SJRES",
+    "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "178",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Procedures for Supervisory Designation Proceedings\".",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8211",
+    "type": "HR",
+    "title": "Army Security Agency Monument Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-04-09"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "8224",
+    "type": "HR",
+    "title": "National Veterans Strategy Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-04-09"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "3726",
+    "type": "S",
+    "title": "National Veterans Strategy Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2026-01-29"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "4225",
+    "type": "S",
+    "title": "DOULA for VA Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2026-03-26"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "4229",
+    "type": "S",
+    "title": "SCHEDULES Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2026-03-26"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4231",
+    "type": "S",
+    "title": "A bill to amend title 38, United States Code, to increase flexibility in the transferability of Post-9/11 Educational Assistance, and for other purposes.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2026-03-26"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4237",
+    "type": "S",
+    "title": "A bill to amend title 38, United States Code, to modify the eligibility requirements for transfer of unused entitlement to Post-9/11 Educational Assistance, and for other purposes.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2026-03-26"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4220",
+    "type": "S",
+    "title": "Veterans Health Administration Novel Therapeutics Preparedness Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2026-03-26"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "8214",
+    "type": "HR",
+    "title": "W.A.R. Act Wartime Anti-Profiteering and Relief Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-04-09"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8242",
+    "type": "HR",
+    "title": "Health Coverage Tax Credit Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-04-09"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "8221",
+    "type": "HR",
+    "title": "First-Time Homebuyer Savings Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-04-09"
+    },
+    "updateDate": "2026-04-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4222",
+    "type": "S",
+    "title": "End Polluter Welfare for Enhanced Oil Recovery Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-03-26"
+    },
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 4,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "1504",
+    "number": "4207",
     "type": "S",
-    "title": "Claiming Age Clarity Act",
+    "title": "American Innovation Act of 2026",
     "latestAction": {
       "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-04-29"
+      "actionDate": "2026-03-25"
     },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "7503",
-    "type": "HR",
-    "title": "Housing for Heroes Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2026-02-11"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2874",
-    "type": "HR",
-    "title": "Defense of Conscience in Health Care Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2025-04-10"
-    },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "8140",
+    "number": "1778",
     "type": "HR",
-    "title": "Money Where Our Mouths Are Act",
+    "title": "American Innovation Act of 2025",
     "latestAction": {
-      "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-03-27"
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-03-03"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5637",
-    "type": "HR",
-    "title": "No Work, No Pay Act of 2025",
-    "latestAction": {
-      "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-09-30"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2151",
-    "type": "HR",
-    "title": "Seizure Awareness and Preparedness Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2025-03-14"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2702",
-    "type": "HR",
-    "title": "FIRM Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 131.",
-      "actionDate": "2025-06-20"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
     "republicanCosponsors": 18
   },
   {
     "congress": 119,
-    "number": "8141",
+    "number": "8113",
     "type": "HR",
-    "title": "Fair Credit Reporting Reseller Accuracy Act",
+    "title": "To direct the Secretary of the Interior to carry out a feasibility study on a selective water withdrawal system at Glen Canyon Dam, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2026-03-27"
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-03-26"
     },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4277",
-    "type": "S",
-    "title": "10 Years of ICE Funding Act",
-    "latestAction": {
-      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 368.",
-      "actionDate": "2026-04-02"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "2046",
-    "type": "HR",
-    "title": "To require congressional approval before the sale, disposal, declaration of excess or surplus, transfer, or conveyance of Federal property with historical significance, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
-      "actionDate": "2025-03-11"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4002",
-    "type": "S",
-    "title": "Foreign Service Age Integration and Reform (FAIR) Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2026-03-05"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "2041",
-    "type": "HR",
-    "title": "Hidden Fee Disclosure Act of 2025",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2025-03-11"
-    },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "1856",
-    "type": "HR",
-    "title": "CASE LOAD Act of 2025",
+    "number": "3743",
+    "type": "S",
+    "title": "A bill to direct the Secretary of the Interior to carry out a feasibility study on a selective water withdrawal system at Glen Canyon Dam, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2025-03-05"
+      "text": "Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.",
+      "actionDate": "2026-03-17"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "1572",
-    "type": "HR",
-    "title": "World LEAP Act",
+    "number": "4238",
+    "type": "S",
+    "title": "Endless Mountains National Heritage Area Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2025-02-25"
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2026-03-26"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
-    "democratCosponsors": 9,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "1299",
-    "type": "S",
-    "title": "Housing Supply Frameworks Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2025-04-03"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "2840",
+    "number": "8114",
     "type": "HR",
-    "title": "Housing Supply Frameworks Act",
+    "title": "Endless Mountains National Heritage Area Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2025-04-10"
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-03-26"
     },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "1537",
-    "type": "HR",
-    "title": "District of Columbia Superior Court Jury Duty for Seniors Opt Out Act of 2025",
-    "latestAction": {
-      "text": "Referred to the House Committee on Oversight and Government Reform.",
-      "actionDate": "2025-02-24"
-    },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "2636",
-    "type": "HR",
-    "title": "Making Insulin Affordable for All Children Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-04-03"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "6255",
-    "type": "HR",
-    "title": "Affordable Insulin Now Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-11-21"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1047",
+    "number": "4252",
     "type": "S",
-    "title": "Assisting Small Businesses Not Fraudsters Act",
+    "title": "WIPP Economic Assistance Assurance Act of 2026",
     "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.",
-      "actionDate": "2025-04-01"
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2026-03-26"
     },
-    "updateDate": "2026-04-13",
+    "updateDate": "2026-04-15",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "825",
-    "type": "HR",
-    "title": "Assisting Small Businesses Not Fraudsters Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-      "actionDate": "2025-02-25"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2528",
-    "type": "HR",
-    "title": "Association Health Plans Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 357.",
-      "actionDate": "2025-12-15"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 19
-  },
-  {
-    "congress": 119,
-    "number": "1847",
-    "type": "S",
-    "title": "Association Health Plans Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-05-21"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "8191",
-    "type": "HR",
-    "title": "Immigration Status Notification and Transparency Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-04-02"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7504",
-    "type": "HR",
-    "title": "Housing for America\u2019s Middle Class Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-02-11"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8190",
-    "type": "HR",
-    "title": "Social Security Customer Service Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-04-02"
-    },
-    "updateDate": "2026-04-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
   }
 ]

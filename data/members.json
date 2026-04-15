@@ -1,5 +1,32 @@
 [
   {
+    "bioguideId": "S001193",
+    "name": "Swalwell, Eric",
+    "party": "Democratic",
+    "state": "California",
+    "district": 14,
+    "chamber": "House of Representatives",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "G000594",
+    "name": "Gonzales, Tony",
+    "party": "Republican",
+    "state": "Texas",
+    "district": 23,
+    "chamber": "House of Representatives",
+    "startYear": 2021
+  },
+  {
+    "bioguideId": "F000485",
+    "name": "Fuller, Clay",
+    "party": "Republican",
+    "state": "Georgia",
+    "district": 14,
+    "chamber": "House of Representatives",
+    "startYear": 2026
+  },
+  {
     "bioguideId": "C001091",
     "name": "Castro, Joaquin",
     "party": "Democratic",
@@ -2646,15 +2673,6 @@
     "startYear": 2021
   },
   {
-    "bioguideId": "G000594",
-    "name": "Gonzales, Tony",
-    "party": "Republican",
-    "state": "Texas",
-    "district": 23,
-    "chamber": "House of Representatives",
-    "startYear": 2021
-  },
-  {
     "bioguideId": "F000471",
     "name": "Fitzgerald, Scott",
     "party": "Republican",
@@ -2759,15 +2777,6 @@
     "party": "Republican",
     "state": "California",
     "district": 22,
-    "chamber": "House of Representatives",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "S001193",
-    "name": "Swalwell, Eric",
-    "party": "Democratic",
-    "state": "California",
-    "district": 14,
     "chamber": "House of Representatives",
     "startYear": 2013
   },
