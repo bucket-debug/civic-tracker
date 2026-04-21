@@ -1,5 +1,68 @@
 [
   {
+    "title": "Trial begins in Kabul airport attack; defense says U.S. \u2018got the wrong man\u2019",
+    "source": "Washington Post",
+    "description": "Federal prosecutors allege Mohammad Sharifullah helped orchestrate the 2021 bombing by scouting out a potential route for the suicide bomber on behalf of ISIS-K.",
+    "url": "https://www.washingtonpost.com/national-security/2026/04/20/kabul-airport-bombing-trial-virginia/",
+    "publishedAt": "2026-04-21T00:12:42+00:00"
+  },
+  {
+    "title": "Here are the results for Virginia's 2026 redistricting ballot measure",
+    "source": "NPR Politics",
+    "description": "Live election results: Get the latest on Virginia's special election on redistricting.",
+    "url": "https://www.npr.org/2026/04/21/g-s1-118123/virginia-special-election-redistricting-results-2026",
+    "publishedAt": "2026-04-21T00:01:00-04:00"
+  },
+  {
+    "title": "Trump\u2019s statements on Iran increasingly contradict each other",
+    "source": "Washington Post",
+    "description": "The president has made conflicting comments on questions both large and small related to the war.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/20/trump-iran-contradictory-statements/",
+    "publishedAt": "2026-04-20T23:03:27+00:00"
+  },
+  {
+    "title": "House Ethics panel makes rare request for information on sexual misconduct",
+    "source": "Washington Post",
+    "description": "The rare move comes after recent scandals raised questions from lawmakers and others about how Congress handles investigations involving its members.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/20/house-ethics-sexual-misconduct/",
+    "publishedAt": "2026-04-20T22:09:02+00:00"
+  },
+  {
+    "title": "ActBlue, Democratic fundraising engine, faces lawsuit over foreign donations",
+    "source": "Washington Post",
+    "description": "Texas Attorney General Ken Paxton (R) alleged in the lawsuit that ActBlue misled Congress and the public about its donor vetting process.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/20/actblue-ken-paxton-texas-lawsuit/",
+    "publishedAt": "2026-04-20T21:33:44+00:00"
+  },
+  {
+    "title": "Trump's labor secretary resigns amid investigation into misconduct",
+    "source": "NPR Politics",
+    "description": "Labor Secretary Lori Chavez-DeRemer, who was under internal investigation, is leaving her position. She becomes the third cabinet departure of President Trump's second term.",
+    "url": "https://www.npr.org/2026/04/20/nx-s1-5739251/labor-secretary-trump-chavez-deremer",
+    "publishedAt": "2026-04-20T17:43:38-04:00"
+  },
+  {
+    "title": "How Trump manages relations with allies",
+    "source": "NPR Politics",
+    "description": "NPR's Juana Summers talks with Richard Haass, president emeritus of the Council on Foreign Relations, about how President Trump treats U.S. allies, and how allies like Canada are responding.",
+    "url": "https://www.npr.org/2026/04/20/nx-s1-5791618/how-trump-manages-relations-with-allies",
+    "publishedAt": "2026-04-20T16:49:40-04:00"
+  },
+  {
+    "title": "Democrat in key race defended guns after mass shooting and insulted Kaepernick",
+    "source": "Washington Post",
+    "description": "Bob Brooks, a firefighter who appeals to the White working class, engaged with right-wing content. His endorsers in the Pennsylvania House race stand by him.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/20/bob-brooks-pennsylvania-democrat-facebook/",
+    "publishedAt": "2026-04-20T16:15:14+00:00"
+  },
+  {
+    "title": "What a candidate\u2019s old Facebook posts tell us about this moment for Democrats",
+    "source": "Washington Post",
+    "description": "The Washington Post\u2019s essential guide to power and influence in D.C.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/20/what-candidates-old-facebook-posts-tell-us-about-this-moment-democrats/",
+    "publishedAt": "2026-04-20T10:04:58+00:00"
+  },
+  {
     "title": "Uncertainty reigns at DOJ in the aftermath of Bondi\u2019s departure",
     "source": "Washington Post",
     "description": "Acting attorney general Todd Blanche has moved quickly to put his stamp on the department, but other Trump loyalists also appear to be vying for leading roles.",
@@ -7,21 +70,14 @@
     "publishedAt": "2026-04-20T09:00:57+00:00"
   },
   {
-    "title": "Democrat in key race defended guns after mass shooting and insulted Kaepernick",
-    "source": "Washington Post",
-    "description": "Bob Brooks, a firefighter who appeals to the White working class, engaged with right-wing content. His endorsers in the Pennsylvania House race stand by him.",
-    "url": "https://www.washingtonpost.com/politics/2026/04/20/bob-brooks-pennsylvania-democrat-facebook/",
-    "publishedAt": "2026-04-20T09:00:24+00:00"
-  },
-  {
-    "title": "KitKat, Gatorade or granola bars? What\u2019s banned under new SNAP rules are mixed.",
+    "title": "KitKat, Gatorade or granola bars? What\u2019s banned under new SNAP rules is mixed.",
     "source": "Washington Post",
     "description": "Many GOP states are enacting soda and candy bans for food stamp purchases amid MAHA\u2019s healthy food efforts. Some retailers and SNAP users find the new rules complicated.",
     "url": "https://www.washingtonpost.com/health/2026/04/20/candy-soda-ban-food-stamps-snap-maha/",
     "publishedAt": "2026-04-20T09:00:00+00:00"
   },
   {
-    "title": "Supreme Court justices are writing children\u2019s books \u2014 and earning big",
+    "title": "Supreme Court justices turn children\u2019s books into big paydays",
     "source": "Washington Post",
     "description": "The trend is fueled by their status as political celebrities in a deeply divided country.",
     "url": "https://www.washingtonpost.com/politics/2026/04/20/supreme-court-justices-childrens-books/",
@@ -30,7 +86,7 @@
   {
     "title": "Who owns presidential records? Trump's Justice Department says it's him",
     "source": "NPR Politics",
-    "description": "The Trump administration asserts a nearly 50-year-old law requiring the preservation of presidential records is unconstitutional. Historians warn important papers could be destroyed.",
+    "description": "The Trump administration asserts that a nearly 50-year-old law requiring the preservation of presidential records is unconstitutional. Historians warn important papers could be destroyed.",
     "url": "https://www.npr.org/2026/04/20/g-s1-117887/trump-justice-department-presidential-records-lawsuit",
     "publishedAt": "2026-04-20T05:00:00-04:00"
   },
@@ -63,13 +119,6 @@
     "publishedAt": "2026-04-19T09:00:45+00:00"
   },
   {
-    "title": "In Angola, love for an American pope but not for an American president",
-    "source": "Washington Post",
-    "description": "In Luanda, Catholics expressed love and admiration for Pope Leo XIV, the first American pope, but not so much for President Trump because of the war in Iran.",
-    "url": "https://www.washingtonpost.com/world/2026/04/19/pope-leo-africa-angola-trump/",
-    "publishedAt": "2026-04-19T09:00:31+00:00"
-  },
-  {
     "title": "Politics chat: Trump loses support of voters over war and high gas prices",
     "source": "NPR Politics",
     "description": "Between the war in Iran and high gas prices, President Trump needs to regain the voters' confidence ahead of the November midterm elections.",
@@ -84,25 +133,11 @@
     "publishedAt": "2026-04-19T07:12:37-04:00"
   },
   {
-    "title": "This tariff-refund portal is about to be America's hottest website",
+    "title": "Businesses race to apply for tariff refunds",
     "source": "NPR Politics",
-    "description": "Exactly two months after the Supreme Court struck down most of President Trump's tariffs, the U.S. government has set Monday as the day when some companies can begin requesting refunds.",
+    "description": "Exactly two months after the Supreme Court struck down most of President Trump's tariffs, businesses that paid those levies began requesting refunds Monday.",
     "url": "https://www.npr.org/2026/04/19/nx-s1-5786635/tariff-refunds-customs-ace-portal",
     "publishedAt": "2026-04-19T06:30:00-04:00"
-  },
-  {
-    "title": "Trump orders more access to psychedelics like LSD, psilocybin and ibogaine",
-    "source": "Washington Post",
-    "description": "The president is directing federal agencies to boost research into the drugs and support clinical trials, moves championed by Health Secretary Robert F. Kennedy Jr.",
-    "url": "https://www.washingtonpost.com/politics/2026/04/17/trump-psychedelics-psylocibin-research/",
-    "publishedAt": "2026-04-18T22:01:52+00:00"
-  },
-  {
-    "title": "Trump officials push Theodore Roosevelt for Pro Football Hall of Fame",
-    "source": "Washington Post",
-    "description": "\u201cI think we\u2019re going to see Theodore Roosevelt inducted,\u201d Interior Secretary Doug Burgum said at an event on Thursday.",
-    "url": "https://www.washingtonpost.com/politics/2026/04/18/nfl-hall-theodore-roosevelt-trump/",
-    "publishedAt": "2026-04-18T18:12:57+00:00"
   },
   {
     "title": "Trump signs order fast tracking review of psychedelics for mental health disorders",
@@ -110,26 +145,5 @@
     "description": "President endorses psilocybin and ibogaine: \"Can I have some, please?\"",
     "url": "https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health",
     "publishedAt": "2026-04-18T14:56:06-04:00"
-  },
-  {
-    "title": "Virginians will decide if the state redrafts its congressional voting map",
-    "source": "NPR Politics",
-    "description": "Virginians will decide whether the state will redraw its congressional voting map. A win would give Democrats an edge in four more seats, meaning they could hold 10 of Virginia's 11 seats in Congress.",
-    "url": "https://www.npr.org/2026/04/18/nx-s1-5786663-e1/virginians-will-decide-if-the-state-redrafts-its-congressional-voting-map",
-    "publishedAt": "2026-04-18T07:42:29-04:00"
-  },
-  {
-    "title": "A recap of Trump's appearance at the Turning Point Action event in Arizona",
-    "source": "NPR Politics",
-    "description": "With an appearance at a Turning Point USA event at a megachurch Arizona, President Trump is hitting the campaign trail in front of a friendly crowd at a time his approval ratings are at record lows.",
-    "url": "https://www.npr.org/2026/04/18/nx-s1-5786675/a-recap-of-trumps-appearance-at-the-turning-point-action-event-in-arizona",
-    "publishedAt": "2026-04-18T07:42:23-04:00"
-  },
-  {
-    "title": "Week in Politics: Iran war impact on upcoming midterm elections; MAGA base on Iran war",
-    "source": "NPR Politics",
-    "description": "We look at how the war on Iran might affect the upcoming midterm elections, as well as how a portion of President Trump's MAGA base sees U.S. involvement in another war in the Middle East.",
-    "url": "https://www.npr.org/2026/04/18/nx-s1-5785121/week-in-politics-iran-war-impact-on-upcoming-midterm-elections-maga-base-on-iran-war",
-    "publishedAt": "2026-04-18T07:42:18-04:00"
   }
 ]
