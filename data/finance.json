@@ -54,6 +54,12 @@
     "contribution_receipt_date": "2025-06-30"
   },
   {
+    "contributor_name": "MAJORITY FORWARD",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "SMP",
+    "contribution_receipt_date": "2026-03-30"
+  },
+  {
     "contributor_name": "A16Z CAPITAL MANAGEMENT LLC",
     "contribution_receipt_amount": 25000000.0,
     "committee_name": "LEADING THE FUTURE",
@@ -480,6 +486,12 @@
     "contribution_receipt_date": "2025-03-26"
   },
   {
+    "contributor_name": "DEMOCRACY PAC",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "SMP",
+    "contribution_receipt_date": "2026-01-15"
+  },
+  {
     "contributor_name": "YASS, JEFF MR.",
     "contribution_receipt_amount": 5000000.0,
     "committee_name": "SCHOOL FREEDOM FUND",
@@ -586,17 +598,5 @@
     "contribution_receipt_amount": 5000000.0,
     "committee_name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
     "contribution_receipt_date": "2025-12-19"
-  },
-  {
-    "contributor_name": "MUSK, ELON",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "CONGRESSIONAL LEADERSHIP FUND",
-    "contribution_receipt_date": "2025-12-15"
-  },
-  {
-    "contributor_name": "TRONE, DAVID",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "DAVID TRONE FOR MARYLAND, INC.",
-    "contribution_receipt_date": "2025-12-18"
   }
 ]
