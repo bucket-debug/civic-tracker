@@ -240,6 +240,12 @@
     "contribution_receipt_date": "2025-03-06"
   },
   {
+    "contributor_name": "ADELSON, MIRIAM DR.",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "CLF",
+    "contribution_receipt_date": "2026-03-11"
+  },
+  {
     "contributor_name": "YASS, JEFF MR.",
     "contribution_receipt_amount": 10000000.0,
     "committee_name": "CLUB FOR GROWTH ACTION",
@@ -316,6 +322,12 @@
     "contribution_receipt_amount": 8000000.0,
     "committee_name": "DEFEND AMERICAN JOBS",
     "contribution_receipt_date": "2026-02-09"
+  },
+  {
+    "contributor_name": "AMERICAN ACTION NETWORK",
+    "contribution_receipt_amount": 7500000.0,
+    "committee_name": "CLF",
+    "contribution_receipt_date": "2026-03-31"
   },
   {
     "contributor_name": "SECURING AMERICAN GREATNESS, INC.",
@@ -486,6 +498,12 @@
     "contribution_receipt_date": "2025-03-26"
   },
   {
+    "contributor_name": "SINGER, PAUL E.",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "CLF",
+    "contribution_receipt_date": "2026-03-31"
+  },
+  {
     "contributor_name": "DEMOCRACY PAC",
     "contribution_receipt_amount": 5000000.0,
     "committee_name": "SMP",
@@ -580,23 +598,5 @@
     "contribution_receipt_amount": 5000000.0,
     "committee_name": "RGA RIGHT DIRECTION PAC",
     "contribution_receipt_date": "2025-10-27"
-  },
-  {
-    "contributor_name": "BLOOMBERG, MICHAEL RUBENS",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "ONE GIANT LEAP PAC",
-    "contribution_receipt_date": "2025-10-23"
-  },
-  {
-    "contributor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "UNITED DEMOCRACY PROJECT ('UDP')",
-    "contribution_receipt_date": "2025-12-23"
-  },
-  {
-    "contributor_name": "EVERYTOWN FOR GUN SAFETY ACTION FUND INC",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
-    "contribution_receipt_date": "2025-12-19"
   }
 ]
