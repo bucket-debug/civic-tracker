@@ -36,6 +36,12 @@
     "contribution_receipt_date": "2025-12-31"
   },
   {
+    "contributor_name": "ADELSON, MIRIAM",
+    "contribution_receipt_amount": 30000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2026-03-11"
+  },
+  {
     "contributor_name": "AMERICAN PROSPERITY ALLIANCE",
     "contribution_receipt_amount": 27800000.0,
     "committee_name": "CONSERVATIVE AMERICANS PAC",
@@ -210,6 +216,12 @@
     "contribution_receipt_date": "2025-12-10"
   },
   {
+    "contributor_name": "ONE NATION",
+    "contribution_receipt_amount": 11180000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2026-03-31"
+  },
+  {
     "contributor_name": "MAKE AMERICA GREAT AGAIN, INC.",
     "contribution_receipt_amount": 10562090.31,
     "committee_name": "MAGA INC.",
@@ -238,6 +250,12 @@
     "contribution_receipt_amount": 10000000.0,
     "committee_name": "V-PAC: VICTORS, NOT VICTIMS",
     "contribution_receipt_date": "2025-03-06"
+  },
+  {
+    "contributor_name": "SINGER, PAUL ELLIOTT",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2026-03-31"
   },
   {
     "contributor_name": "ADELSON, MIRIAM DR.",
@@ -498,6 +516,12 @@
     "contribution_receipt_date": "2025-03-26"
   },
   {
+    "contributor_name": "DEMOCRACY PAC",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "STRATEGIC VICTORY FUND IE PAC",
+    "contribution_receipt_date": "2026-03-09"
+  },
+  {
     "contributor_name": "SINGER, PAUL E.",
     "contribution_receipt_amount": 5000000.0,
     "committee_name": "CLF",
@@ -574,29 +598,5 @@
     "contribution_receipt_amount": 5000000.0,
     "committee_name": "CONSTANTINO FOR CONGRESS, INC.",
     "contribution_receipt_date": "2025-11-21"
-  },
-  {
-    "contributor_name": "CHATZKY, PETER",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "CHATZKY FOR CONGRESS",
-    "contribution_receipt_date": "2025-12-29"
-  },
-  {
-    "contributor_name": "LEADING THE FUTURE",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "AMERICAN MISSION",
-    "contribution_receipt_date": "2025-12-15"
-  },
-  {
-    "contributor_name": "LEADING THE FUTURE",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "THINK BIG",
-    "contribution_receipt_date": "2025-12-15"
-  },
-  {
-    "contributor_name": "REPUBLICAN GOVERNORS ASSOCIATION",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "RGA RIGHT DIRECTION PAC",
-    "contribution_receipt_date": "2025-10-27"
   }
 ]
