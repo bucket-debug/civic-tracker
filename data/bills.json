@@ -1,6 +1,20 @@
 [
   {
     "congress": 119,
+    "number": "8495",
+    "type": "HR",
+    "title": "Financial Services and General Government Appropriations Act, 2027",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 540.",
+      "actionDate": "2026-04-24"
+    },
+    "updateDate": "2026-04-26",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "75",
     "type": "HCONRES",
     "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from hostilities against the Islamic Republic of Iran.",
@@ -57,20 +71,6 @@
   },
   {
     "congress": 119,
-    "number": "7688",
-    "type": "HR",
-    "title": "DPA Modernization Act of 2026",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 529.",
-      "actionDate": "2026-04-15"
-    },
-    "updateDate": "2026-04-25",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
     "number": "8133",
     "type": "HR",
     "title": "DPA Workforce and Skilled Labor Needs Act of 2026",
@@ -96,6 +96,34 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8053",
+    "type": "HR",
+    "title": "DPA Emerging Technology Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Financial Services.",
+      "actionDate": "2026-03-24"
+    },
+    "updateDate": "2026-04-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3542",
+    "type": "HR",
+    "title": "CLEAR (Committee Leadership and Enhanced Accountability for Resilience) Defense Production Act of 2025",
+    "latestAction": {
+      "text": "Referred to the House Committee on Financial Services.",
+      "actionDate": "2025-05-21"
+    },
+    "updateDate": "2026-04-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -127,31 +155,17 @@
   },
   {
     "congress": 119,
-    "number": "3542",
+    "number": "7688",
     "type": "HR",
-    "title": "CLEAR (Committee Leadership and Enhanced Accountability for Resilience) Defense Production Act of 2025",
+    "title": "DPA Modernization Act of 2026",
     "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2025-05-21"
+      "text": "Placed on the Union Calendar, Calendar No. 529.",
+      "actionDate": "2026-04-15"
     },
     "updateDate": "2026-04-25",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "8053",
-    "type": "HR",
-    "title": "DPA Emerging Technology Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2026-03-24"
-    },
-    "updateDate": "2026-04-25",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
   },
   {
     "congress": 119,
@@ -208,20 +222,6 @@
     "sponsor": null,
     "democratCosponsors": 2,
     "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "8495",
-    "type": "HR",
-    "title": "Financial Services and General Government Appropriations Act, 2027",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 540.",
-      "actionDate": "2026-04-24"
-    },
-    "updateDate": "2026-04-25",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
   },
   {
     "congress": 119,
