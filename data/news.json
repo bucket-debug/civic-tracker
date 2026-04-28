@@ -1,15 +1,407 @@
 [
   {
-    "title": "King Charles steps into U.K.-Trump standoff just as new security concerns arise",
+    "title": "Trump asks judge to let him build ballroom, citing correspondents\u2019 dinner attack",
     "source": "Washington Post",
-    "description": "His state visit begins after a gunman rattled Washington, but U.K. officials hope pomp can paper over an Iran war fracture and remind the president of the alliance\u2019s perks.",
-    "url": "https://www.washingtonpost.com/politics/2026/04/27/trump-king-charles-iran-tension/",
-    "publishedAt": "2026-04-27T09:00:31+00:00"
+    "description": "In a legal filing, the administration blamed historic preservationists who \u201csuffer from Trump Derangement Syndrome\u201d for seeking to block the project.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/28/trump-ballroom-filing-national-trust-lawsuit/",
+    "publishedAt": "2026-04-28T08:07:03+00:00"
   },
   {
-    "title": "Live updates: White House correspondents\u2019 dinner shooting suspect to appear in court, had denounced Trump",
+    "title": "Trump's embrace of King Charles comes at a fraught time for U.S.-UK relations",
+    "source": "NPR Politics",
+    "description": "Trump seems to be looking forward to hosting, in recent weeks bringing up the royal visit multiple times.",
+    "url": "https://www.npr.org/2026/04/28/nx-s1-5800874/trump-king-charles-relationship-congress-state-dinner",
+    "publishedAt": "2026-04-28T05:00:00-04:00"
+  },
+  {
+    "title": "Stuck in limbo: millions of professionals risk losing legal status under Trump pause",
+    "source": "NPR Politics",
+    "description": "Their experiences \u2014 of sudden financial insecurity, months of unemployment, and crippling anxiety \u2014 come as the administration seeks to restrict legal migration and boost mass deportation.",
+    "url": "https://www.npr.org/2026/04/28/nx-s1-5775869/trump-travel-ban-pause-limbo-professionals",
+    "publishedAt": "2026-04-28T05:00:00-04:00"
+  },
+  {
+    "title": "Could King Charles' Washington visit help mend U.S.-British relations?",
+    "source": "NPR Politics",
+    "description": "NPR's A Martinez speaks with Shannon Felton Spence, a former manager of high-profile diplomatic and political engagements for the British government, about King Charles' visit to Washington.",
+    "url": "https://www.npr.org/2026/04/28/nx-s1-5800791/could-king-charles-washington-visit-help-mend-u-s-british-relations",
+    "publishedAt": "2026-04-28T04:09:53-04:00"
+  },
+  {
+    "title": "DeSantis calls back lawmakers for Florida redistricting effort",
+    "source": "NPR Politics",
+    "description": "Florida's Republican governor, Ron DeSantis, has called lawmakers back to Tallahassee, where they could redraw the state's congressional maps to be even more favorable for the GOP.",
+    "url": "https://www.npr.org/2026/04/28/nx-s1-5798732/desantis-calls-back-lawmakers-for-florida-redistricting-effort",
+    "publishedAt": "2026-04-28T04:09:29-04:00"
+  },
+  {
+    "title": "White House to review security in light of shooting at correspondents\u2019 dinner",
     "source": "Washington Post",
-    "description": "The shooting prompted the evacuation of President Donald Trump and other high-profile guests from the White House Correspondents\u2019 Association dinner Saturday. The suspect is in custody.",
+    "description": "\u201cIf adjustments need to be made to protect the president, they will be made,\u201d White House press secretary Karoline Leavitt told reporters Monday.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/27/trump-security-review-correspondents-dinner/",
+    "publishedAt": "2026-04-28T00:28:37+00:00"
+  },
+  {
+    "title": "Absent GOP congressman says he\u2019s dealing with \u2018medical issue\u2019 in vague statement",
+    "source": "Washington Post",
+    "description": "Rep. Tom Kean Jr. of New Jersey said he will make a complete recovery but did not specify why he is missing or when he\u2019ll return to work.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/27/tom-kean-new-jersey-health-issues/",
+    "publishedAt": "2026-04-28T00:06:11+00:00"
+  },
+  {
+    "title": "Correspondents\u2019 dinner suspect charged with attempting to assassinate Trump",
+    "source": "Washington Post",
+    "description": "Cole Tomas Allen faces a potential life sentence, and prosecutors said he could face more charges.",
+    "url": "https://www.washingtonpost.com/national-security/2026/04/27/cole-allen-assassination-charge-trump/",
+    "publishedAt": "2026-04-27T23:23:56+00:00"
+  },
+  {
+    "title": "House may scrap DHS funding bill, likely extending agency\u2019s shutdown",
+    "source": "Washington Post",
+    "description": "House Speaker Mike Johnson argued the Senate\u2019s bill includes \u201cproblematic language\u201d that would \u201corphan\u201d the agency\u2019s immigration operations.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/27/house-immigration-funding-dhs-shutdown/",
+    "publishedAt": "2026-04-27T22:55:51+00:00"
+  },
+  {
+    "title": "Mapping where the redistricting fight stands and where it\u2019s headed",
+    "source": "Washington Post",
+    "description": "As Trump pushes for a more Republican-friendly House map, more than half a dozen states are potential targets for mid-decade tweaks to congressional boundaries.",
+    "url": "https://www.washingtonpost.com/politics/2025/08/20/congressional-redistricting-states-midterms/",
+    "publishedAt": "2026-04-27T21:19:50+00:00"
+  },
+  {
+    "title": "King Charles\u2019s rare state visit offers U.K. a chance to mend ties with Trump",
+    "source": "Washington Post",
+    "description": "The pageantry began Monday amid heightened security concerns and a growing rift over the Iran war. The U.K. hopes the president\u2019s love of pomp and the king\u2019s \u201cpoker face\u201d can help heal their alliance.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/27/trump-king-charles-iran-tension/",
+    "publishedAt": "2026-04-27T21:07:56+00:00"
+  },
+  {
+    "title": "Blanche accuses media of fueling rhetoric that leads to violence",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T20:57:21+00:00"
+  },
+  {
+    "title": "Correspondents\u2019 dinner shooting suspect charged with attempting to assassinate the president, two other felonies",
+    "source": "Washington Post",
+    "description": "In a message sent to family members, the 31-year-old suspect called himself a \u201cfriendly federal assassin\u201d and criticized the Trump administration.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/27/correspondents-dinner-shooting-trump-live-updates/",
+    "publishedAt": "2026-04-27T20:57:21+00:00"
+  },
+  {
+    "title": "Supreme Court considers blocking lawsuits alleging weed killer causes cancer",
+    "source": "Washington Post",
+    "description": "Thousands of cancer victims allege Roundup was responsible for their illness, in one of the largest waves of product liability litigation in U.S. history.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/27/roundup-cancer-warning-label-supreme-court-lawsuit/",
+    "publishedAt": "2026-04-27T20:53:09+00:00"
+  },
+  {
+    "title": "Jeffries stands by \u2018maximum warfare\u2019 quote, says Trump official used it first",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T20:17:24+00:00"
+  },
+  {
+    "title": "Suspect Cole Tomas Allen, in a letter sent to family members shortly before the attack on...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T20:01:23+00:00"
+  },
+  {
+    "title": "Acting attorney general Todd Blanche said investigators were still examining whether the bullet that struck a...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T19:51:33+00:00"
+  },
+  {
+    "title": "Supreme Court weighs whether police can demand Google location data",
+    "source": "Washington Post",
+    "description": "The justices are considering whether police can use \u201cgeofence\u201d warrants, which cover everyone who was in a certain place at a certain time.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/27/supreme-court-geofence-warrants/",
+    "publishedAt": "2026-04-27T19:36:18+00:00"
+  },
+  {
+    "title": "Jeanine Pirro, the U.S. attorney in D.C., said her office is likely to file charges against...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T19:35:02+00:00"
+  },
+  {
+    "title": "DeSantis floats Florida map that could give GOP up to four more House seats",
+    "source": "Washington Post",
+    "description": "The redistricting plan proposed by Gov. Ron DeSantis, if approved, would let Republicans regain their lead in the national gerrymandering arms race.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/27/redistricting-florida-desantis-trump-house/",
+    "publishedAt": "2026-04-27T19:26:07+00:00"
+  },
+  {
+    "title": "Acting attorney general Todd Blanche began by defending law enforcement\u2019s security performance at the White House...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T19:23:29+00:00"
+  },
+  {
+    "title": "Acting attorney general Todd Blanche, FBI Director Kash Patel and Jeanine Pirro, the U.S. attorney for...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T19:18:34+00:00"
+  },
+  {
+    "title": "Correspondents\u2019 dinner suspect charged security checkpoint with two guns, FBI says",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T19:17:04+00:00"
+  },
+  {
+    "title": "Sen. Chuck Grassley (R-Iowa) and Sen. Dick Durbin (Illinois), the chair and ranking Democrat on the...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T19:05:20+00:00"
+  },
+  {
+    "title": "First came the shooting. Then, the conspiracy theories.",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T18:58:48+00:00"
+  },
+  {
+    "title": "National Trust rejects Trump demand to drop ballroom suit in wake of shooting",
+    "source": "Washington Post",
+    "description": "The nonprofit pushed back against the Justice Department\u2019s claim that the lawsuit endangers Trump, calling it \u201cirresponsible,\u201d and said he must follow the law.",
+    "url": "https://www.washingtonpost.com/politics/2026/04/27/trump-ballroom-national-trust-lawsuit/",
+    "publishedAt": "2026-04-27T18:46:45+00:00"
+  },
+  {
+    "title": "The hearing just ended. Jocelyn Ballantine, a federal prosecutor, said suspect Cole Tomas Allen \u201cattempted to...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T18:10:58+00:00"
+  },
+  {
+    "title": "Cole Tomas Allen is being charged with three counts: attempting to assassinate the president, transporting a...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T18:03:30+00:00"
+  },
+  {
+    "title": "Cole Tomas Allen, the 31-year-old authorities have said stormed security at the White House correspondents\u2019 dinner...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T17:57:47+00:00"
+  },
+  {
+    "title": "Trump calls for ABC and Disney to fire Jimmy Kimmel over joke",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T17:57:02+00:00"
+  },
+  {
+    "title": "Threats of political violence have risen in recent years. According to Capitol Police, threats against members...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T17:36:27+00:00"
+  },
+  {
+    "title": "White House blames \u2018left-wing cult of hatred\u2019 for correspondents\u2019 dinner violence",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T17:34:52+00:00"
+  },
+  {
+    "title": "There will be \u201ca conversation\u201d about whether Vice President JD Vance should skip the White House...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T17:31:50+00:00"
+  },
+  {
+    "title": "White House defends Secret Service following criticism of security protocol",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T17:25:30+00:00"
+  },
+  {
+    "title": "The White House news briefing has started. Press secretary Karoline Leavitt had been set to go...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T17:08:48+00:00"
+  },
+  {
+    "title": "Supreme Court heard case on how to label risks of popular weed killer",
+    "source": "NPR Politics",
+    "description": "How the Supreme Court rules could have implications for tens of thousands of lawsuits against Roundup maker Monsanto, which is now owned by Bayer.",
+    "url": "https://www.npr.org/2026/04/27/nx-s1-5793804/supreme-court-monsanto-roundup-arguments",
+    "publishedAt": "2026-04-27T16:48:12-04:00"
+  },
+  {
+    "title": "More on the political left are embracing conspiracy theories",
+    "source": "NPR Politics",
+    "description": "NPR's Scott Detrow speaks with Slate staff writer Molly Olmstead about conspiracy theories from the political left following the White House Correspondents' Dinner shooting.",
+    "url": "https://www.npr.org/2026/04/27/nx-s1-5800827/more-on-the-political-left-are-embracing-conspiracy-theories",
+    "publishedAt": "2026-04-27T16:38:50-04:00"
+  },
+  {
+    "title": "Acting attorney general Todd Blanche, FBI Director Kash Patel and Jeanine Pirro, the U.S. attorney for...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T16:27:47+00:00"
+  },
+  {
+    "title": "DeSantis' new map for Florida seeks to give the GOP 4 more House seats",
+    "source": "NPR Politics",
+    "description": "Florida Gov. Ron DeSantis has proposed a redistricting map to try to pick up four more Republican House seats. It's the latest state to join the major parties' redistricting battle.",
+    "url": "https://www.npr.org/2026/04/27/nx-s1-5797890/desantis-new-map-for-florida-seeks-to-give-the-gop-4-more-house-seats",
+    "publishedAt": "2026-04-27T16:27:35-04:00"
+  },
+  {
+    "title": "Poll shows mixed faith in Secret Service\u2019s ability to protect president",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T16:17:01+00:00"
+  },
+  {
+    "title": "Melania Trump calls on ABC to punish Jimmy Kimmel after joke about her",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T16:08:11+00:00"
+  },
+  {
+    "title": "Group won\u2019t end ballroom lawsuit amid calls for construction to move forward",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T16:02:40+00:00"
+  },
+  {
+    "title": "Before Trump, a different president faced a threat at the Washington Hilton",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T15:39:46+00:00"
+  },
+  {
+    "title": "Here's a look inside security at the White House Correspondents' Association Dinner",
+    "source": "NPR Politics",
+    "description": "Saturday's shooting at the White House Correspondents' Association Dinner raised questions about how close the alleged gunman got to the president and what the Secret Service security looked like.",
+    "url": "https://www.npr.org/2026/04/27/nx-s1-5801476/whca-dinner-security-secret-service-president-trump",
+    "publishedAt": "2026-04-27T15:15:25-04:00"
+  },
+  {
+    "title": "Tracking who Trump is appointing to fill key administration roles",
+    "source": "Washington Post",
+    "description": "Follow President Trump\u2019s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/",
+    "publishedAt": "2026-04-27T15:10:43+00:00"
+  },
+  {
+    "title": "Mike Johnson says shooting shows need for Trump\u2019s ballroom",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T14:55:44+00:00"
+  },
+  {
+    "title": "Melania Trump wants ABC to 'take a stand' against Jimmy Kimmel after 'hateful' joke",
+    "source": "NPR Politics",
+    "description": "Two days before the White House Correspondents' Dinner ended in gunfire, Kimmel delivered a mock Correspondents' Dinner speech during a sketch on his show. The first lady said it was \"corrosive.\"",
+    "url": "https://www.npr.org/2026/04/27/nx-s1-5801448/melania-trump-jimmy-kimmel",
+    "publishedAt": "2026-04-27T14:26:22-04:00"
+  },
+  {
+    "title": "White House press secretary Karoline Leavitt will hold a news briefing at 1 p.m. Eastern time,...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T14:12:05+00:00"
+  },
+  {
+    "title": "White House to review security plans for future Trump events",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T13:45:40+00:00"
+  },
+  {
+    "title": "Republican lawmakers are expected to introduce legislation this week that would give congressional approval for President...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T13:36:14+00:00"
+  },
+  {
+    "title": "Suspected shooter Cole Tomas Allen\u2019s case is being charged in U.S. District Court in the District...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T13:08:54+00:00"
+  },
+  {
+    "title": "Acting attorney general Todd Blanche told CBS News\u2019s \u201cFace the Nation\u201d on Sunday that the suspect...",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T13:04:30+00:00"
+  },
+  {
+    "title": "Trump urges WHCA to reschedule dinner \u2018within 30 days\u2019",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T12:46:11+00:00"
+  },
+  {
+    "title": "Suspect scheduled to be arraigned in court Monday",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T12:23:54+00:00"
+  },
+  {
+    "title": "Suspect sprinted 60 feet, reached staircase leading to ballroom",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T12:19:00+00:00"
+  },
+  {
+    "title": "Suspect called himself \u2018friendly federal assassin\u2019",
+    "source": "Washington Post",
+    "description": null,
+    "url": "https://www.washingtonpost.com",
+    "publishedAt": "2026-04-27T12:18:49+00:00"
+  },
+  {
+    "title": "Florida's DeSantis unveils a voting map that could add to Trump's GOP redistricting",
+    "source": "NPR Politics",
+    "description": "Florida's governor has called lawmakers to meet starting Tuesday. They'll consider a fast-track redistricting that could flip some House seats held by Democrats to Republicans.",
+    "url": "https://www.npr.org/2026/04/27/nx-s1-5797938/floridas-desantis-unveils-a-voting-map-that-could-add-to-trumps-gop-redistricting",
+    "publishedAt": "2026-04-27T12:10:40-04:00"
+  },
+  {
+    "title": "White House correspondents\u2019 dinner shooting suspect had denounced Trump",
+    "source": "Washington Post",
+    "description": "Cole Tomas Allen, who will be charged with three counts, wrote a statement saying he wanted to target Trump administration members, according to law enforcement officials.",
     "url": "https://www.washingtonpost.com/politics/2026/04/26/trump-correspondents-dinner-shooting-live-updates/",
     "publishedAt": "2026-04-27T08:58:59+00:00"
   },
@@ -19,20 +411,6 @@
     "description": null,
     "url": "https://www.washingtonpost.com",
     "publishedAt": "2026-04-27T08:54:54+00:00"
-  },
-  {
-    "title": "Alleged White House Correspondents' Dinner shooter set to appear in federal court",
-    "source": "NPR Politics",
-    "description": "The suspected gunman will face charges, including assault on a federal officer using a dangerous weapon.",
-    "url": "https://www.npr.org/2026/04/27/nx-s1-5800175/white-house-correspondents-dinner-cole-allen-federal-court",
-    "publishedAt": "2026-04-27T05:00:00-04:00"
-  },
-  {
-    "title": "Congress under pressure to end DHS shutdown as it returns to session this week",
-    "source": "NPR Politics",
-    "description": "Congress returns this week with added pressure to find a deal to end the partial DHS shutdown. It also needs to find a way to end the impasse over FISA surveillance legislation.",
-    "url": "https://www.npr.org/2026/04/27/nx-s1-5798766/congress-under-pressure-to-end-dhs-shutdown-as-it-returns-to-session-this-week",
-    "publishedAt": "2026-04-27T04:57:14-04:00"
   },
   {
     "title": "Correspondents\u2019 dinner lacked highest security level despite presence of top officials",
@@ -119,20 +497,6 @@
     "publishedAt": "2026-04-26T18:20:32+00:00"
   },
   {
-    "title": "Details emerge on the suspect in the WHCD shooting",
-    "source": "NPR Politics",
-    "description": "The suspect of the shooting at Saturday's White House Correspondents Dinner is described as a \"very smart\" by students he mentored in Southern California.",
-    "url": "https://www.npr.org/2026/04/26/nx-s1-5800104/details-emerge-on-the-suspect-in-the-whcd-shooting",
-    "publishedAt": "2026-04-26T18:03:23-04:00"
-  },
-  {
-    "title": "WHCD shooting investigation underway: Here's what we know",
-    "source": "NPR Politics",
-    "description": "Hours after a gunman attempted to breach the White House Correspondents' Dinner, details are slowly emerging about who he is.",
-    "url": "https://www.npr.org/2026/04/26/nx-s1-5800124/whcd-shooting-investigation-underway-heres-what-we-know",
-    "publishedAt": "2026-04-26T18:03:16-04:00"
-  },
-  {
     "title": "Suspect\u2019s statement to family said he would target Trump, officials say",
     "source": "Washington Post",
     "description": null,
@@ -154,13 +518,6 @@
     "publishedAt": "2026-04-26T16:44:17+00:00"
   },
   {
-    "title": "A chaotic White House Correspondents' Dinner, as told by NPR reporters in the room",
-    "source": "NPR Politics",
-    "description": "Top government officials were rushed out of the Washington Hilton after gunshots were heard at the dinner. NPR journalists describe hiding under tables and scrambling for information as the night unfolded.",
-    "url": "https://www.npr.org/2026/04/26/nx-s1-5800105/white-house-correspondents-dinner-shooting-scene-trump",
-    "publishedAt": "2026-04-26T15:52:23-04:00"
-  },
-  {
     "title": "Sen. John Fetterman (D-Pennsylvania) is joining President Donald Trump and his Republican allies in citing Saturday\u2019s...",
     "source": "Washington Post",
     "description": null,
@@ -173,13 +530,6 @@
     "description": null,
     "url": "https://www.washingtonpost.com",
     "publishedAt": "2026-04-26T15:17:59+00:00"
-  },
-  {
-    "title": "What we know about Cole Allen, suspected White House Correspondents' dinner shooter",
-    "source": "NPR Politics",
-    "description": "The 31-year-old teacher and engineer from California sent an alleged message to family members saying that he wanted to target administration officials.",
-    "url": "https://www.npr.org/2026/04/26/g-s1-118826/cole-allen-suspected-white-house-correspondents-dinner-shooter-profile",
-    "publishedAt": "2026-04-26T15:05:06-04:00"
   },
   {
     "title": "Secret Service officer probably hit by suspect, not another officer, Blanche says",
@@ -259,20 +609,6 @@
     "publishedAt": "2026-04-26T12:19:27+00:00"
   },
   {
-    "title": "Photos: The aftermath of the White House Correspondents' Dinner shooting",
-    "source": "NPR Politics",
-    "description": "A suspect has been arrested after firing shots at a security screening area at the Washington Hilton on Saturday night.",
-    "url": "https://www.npr.org/sections/the-picture-show/2026/04/26/g-s1-118806/photos-the-aftermath-of-the-white-house-correspondents-dinner-shooting",
-    "publishedAt": "2026-04-26T11:59:00-04:00"
-  },
-  {
-    "title": "Details emerge of alleged shooter at White House correspondents' dinner",
-    "source": "NPR Politics",
-    "description": "The alleged gunman has been identified as Cole Allen, according to two sources familiar with the matter.",
-    "url": "https://www.npr.org/2026/04/26/g-s1-118807/trump-white-house-correspondents-dinner",
-    "publishedAt": "2026-04-26T11:20:28-04:00"
-  },
-  {
     "title": "Inside the chaotic correspondents\u2019 dinner shooting: \u2018Get down, get down!\u2019",
     "source": "Washington Post",
     "description": null,
@@ -292,341 +628,5 @@
     "description": null,
     "url": "https://www.washingtonpost.com",
     "publishedAt": "2026-04-26T09:42:24+00:00"
-  },
-  {
-    "title": "They left Congress in disgrace. Taxpayers could still pay their pensions.",
-    "source": "Washington Post",
-    "description": "To toughen how Congress polices itself, a bill would prohibit members from receiving pensions if they are convicted of crimes including rape and sexual assault.",
-    "url": "https://www.washingtonpost.com/politics/2026/04/26/congress-pensions-swalwell-gonzales/",
-    "publishedAt": "2026-04-26T09:00:17+00:00"
-  },
-  {
-    "title": "Shooting suspect identified as 31-year-old man from California, three officials say",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T08:29:50+00:00"
-  },
-  {
-    "title": "Congress reacts to the shooting outside the ballroom of the Washington Hilton",
-    "source": "NPR Politics",
-    "description": "The shooting at the White House Correspondent's Dinner comes at a time of increased threats towards lawmakers and fears of political violence.",
-    "url": "https://www.npr.org/2026/04/26/nx-s1-5799637/congress-reacts-to-the-shooting-outside-the-ballroom-of-the-washington-hilton",
-    "publishedAt": "2026-04-26T08:08:58-04:00"
-  },
-  {
-    "title": "Politics chat: Trump rushed away from the White House Correspondents' dinner",
-    "source": "NPR Politics",
-    "description": "President Trump was rushed away from the White House Correspondents' dinner on Saturday after shots were fired in the hotel. A man has been taken into custody.",
-    "url": "https://www.npr.org/2026/04/26/nx-s1-5795611/politics-chat-trump-rushed-away-from-the-white-house-correspondents-dinner",
-    "publishedAt": "2026-04-26T08:08:47-04:00"
-  },
-  {
-    "title": "Suspect to appear in court Monday with \u2018many\u2019 charges expected, Pirro says",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T07:36:48+00:00"
-  },
-  {
-    "title": "A Washington Post reporter describes hearing possible shots",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T05:33:39+00:00"
-  },
-  {
-    "title": "Trump says he sees shootings as a reflection of his impact",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T04:52:14+00:00"
-  },
-  {
-    "title": "Inside the chaotic correspondents\u2019 dinner shooting: \u2018Get down, get down!\u2019",
-    "source": "Washington Post",
-    "description": "For the third time in less than two years, President Donald Trump found himself under the threat of gunfire. This time, the Washington press corps was in the room.",
-    "url": "https://www.washingtonpost.com/politics/2026/04/26/trump-shooting-whcd/",
-    "publishedAt": "2026-04-26T04:50:29+00:00"
-  },
-  {
-    "title": "Trump says he sees shootings as a reflection of his impact",
-    "source": "Washington Post",
-    "description": "\u201cI hate to say I\u2019m honored,\u201d the president says of his repeated brushes with violence, including two assassination attempts during his 2024 campaign.",
-    "url": "https://www.washingtonpost.com/politics/2026/04/26/trump-violence-assassination-attempts/",
-    "publishedAt": "2026-04-26T04:43:09+00:00"
-  },
-  {
-    "title": "One attendee, Gavin Quinton, a reporting fellow for the Los Angeles Times, said he had to...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T04:05:10+00:00"
-  },
-  {
-    "title": "U.S. Secret Service Director Sean Curran defended the security setup at the event, and said the...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T03:38:31+00:00"
-  },
-  {
-    "title": "Interim D.C. police chief Jeffery Carroll said during a news conference that law enforcement believes the...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T03:35:05+00:00"
-  },
-  {
-    "title": "Law enforcement officials said they had no reason to believe that anyone else was involved in...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T03:26:18+00:00"
-  },
-  {
-    "title": "D.C. interim police chief Jeffery Carroll said the suspect was armed with a shotgun, a handgun...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T03:19:57+00:00"
-  },
-  {
-    "title": "Blanche says charges imminent in Washington Hilton shooting",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T03:04:41+00:00"
-  },
-  {
-    "title": "President Donald Trump at first thought the loud noises were of a tray falling.",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:59:05+00:00"
-  },
-  {
-    "title": "President Donald Trump told reporters that he intends to be part of another White House correspondents\u2019...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:56:19+00:00"
-  },
-  {
-    "title": "Speaking to reporters in the White House briefing room, President Donald Trump said one officer \u201cwas...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:53:37+00:00"
-  },
-  {
-    "title": "President Donald Trump used the shooting at the Washington Hilton to tout the need for a...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:48:05+00:00"
-  },
-  {
-    "title": "President Donald Trump delivered remarks at the White House press briefing room after Saturday\u2019s incident. \u201cThat...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:46:01+00:00"
-  },
-  {
-    "title": "Usually Washington is filled with after-parties following the correspondents\u2019 dinner. But given the evening\u2019s events, some...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:46:01+00:00"
-  },
-  {
-    "title": "For those in Butler for Trump assassination attempt, a painful parallel",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:21:05+00:00"
-  },
-  {
-    "title": "The suspect is alive and has been transported to a hospital, according one U.S. official and...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:14:46+00:00"
-  },
-  {
-    "title": "FBI Director Kash Patel left the Hilton through its front lobby at 10:02 p.m. Patel and...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:13:40+00:00"
-  },
-  {
-    "title": "The room is evacuating. Women in ball gowns and heels are slowly making their way up...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:03:08+00:00"
-  },
-  {
-    "title": "Weijia Jiang, president of the correspondents\u2019 association, has announced that everyone must evacuate. There was applause...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T02:00:26+00:00"
-  },
-  {
-    "title": "President Donald Trump said he will be giving a news conference in half an hour from...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:57:38+00:00"
-  },
-  {
-    "title": "Members of the audience Saturday included friends of slain conservative influencer Charlie Kirk and journalists and...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:56:58+00:00"
-  },
-  {
-    "title": "C-SPAN video shows Trump at moment loud noises are heard",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:51:36+00:00"
-  },
-  {
-    "title": "The U.S. Secret Service has confirmed it is investigating a shooting incident that took place near...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:49:35+00:00"
-  },
-  {
-    "title": "RFK Jr., seen limping, is \u2018fine\u2019, per his spokesman",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:47:30+00:00"
-  },
-  {
-    "title": "Jeanine Pirro, U.S. attorney for the District of Columbia, said she was evacuated from the main...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:45:52+00:00"
-  },
-  {
-    "title": "FBI says shooting suspect is in custody at Washington Hilton",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:40:53+00:00"
-  },
-  {
-    "title": "Trump says on Truth Social \u2018shooter has been apprehended\u2019",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:37:21+00:00"
-  },
-  {
-    "title": "Agents with FBI vests have started to arrive at the Washington Hilton and are headed to...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:35:04+00:00"
-  },
-  {
-    "title": "Many members of Trump\u2019s Cabinet were also present",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:33:56+00:00"
-  },
-  {
-    "title": "We have just been told to take our seats and that dinner service will resume. There...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:28:12+00:00"
-  },
-  {
-    "title": "Rep. Jared Moskowitz (D-Florida), who was also at the dinner, said on X that he was...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:24:45+00:00"
-  },
-  {
-    "title": "Rep. Andrew Ogles (R-Tennessee) said in a video shared on X that he and two other...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:23:00+00:00"
-  },
-  {
-    "title": "The White House press pool is still at the Washington Hilton, where Saturday\u2019s White House Correspondents\u2019...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:15:51+00:00"
-  },
-  {
-    "title": "Confusion after Trump evacuated from White House correspondents\u2019 dinner",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:15:12+00:00"
-  },
-  {
-    "title": "Organizers of the White House Correspondents\u2019 Association dinner are telling those still in the ballroom that...",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:14:40+00:00"
-  },
-  {
-    "title": "Cabinet secretaries rush from ballroom; Secret Service seen jumping on Trump",
-    "source": "Washington Post",
-    "description": null,
-    "url": "https://www.washingtonpost.com",
-    "publishedAt": "2026-04-26T01:07:44+00:00"
-  },
-  {
-    "title": "Top buyers of Trump meme coin join Mike Tyson, others at lavish Mar-a-Lago event",
-    "source": "Washington Post",
-    "description": "Top holders of Donald Trump\u2019s meme coin got a conference at Mar-a-Lago, featuring Trump-branded swag and potential facetime, even as the coin has lost value.",
-    "url": "https://www.washingtonpost.com/politics/2026/04/25/trump-crypto-meme-coin-conference/",
-    "publishedAt": "2026-04-25T20:14:57+00:00"
-  },
-  {
-    "title": "Trump ousts National Science Board members",
-    "source": "Washington Post",
-    "description": "Members of the independent board that guides the National Science Foundation said they received a notice from the White House that their position was being terminated.",
-    "url": "https://www.washingtonpost.com/science/2026/04/25/national-science-board-members-dismissed/",
-    "publishedAt": "2026-04-25T18:51:27+00:00"
-  },
-  {
-    "title": "Trump\u2019s changes to Reflecting Pool worry preservationists, locals",
-    "source": "Washington Post",
-    "description": "Some warned that the president\u2019s blue-tinted resurfacing would distort the experience for visitors and make the national symbol resemble a \u201clarge lap pool.\u201d",
-    "url": "https://www.washingtonpost.com/politics/2026/04/25/trump-reflection-pool-blue/",
-    "publishedAt": "2026-04-25T18:15:55+00:00"
-  },
-  {
-    "title": "Witkoff, Kushner expected in Pakistan for Iran talks without Vance",
-    "source": "Washington Post",
-    "description": "Iran\u2019s foreign minister arrived in Islamabad for talks with Pakistani officials. The White House said Steve Witkoff and Jared Kushner would leave for Islamabad on Saturday.",
-    "url": "https://www.washingtonpost.com/politics/2026/04/24/iran-talks-resume-no-vance/",
-    "publishedAt": "2026-04-25T10:05:11+00:00"
-  },
-  {
-    "title": "Democrats could actually retake the Senate. Here are the races to watch.",
-    "source": "Washington Post",
-    "description": "The map still favors Republicans, but Trump\u2019s declining popularity \u2014 particularly on the economy \u2014 makes Democrats\u2019 once long-shot bid to retake the Senate more feasible than ever before.",
-    "url": "https://www.washingtonpost.com/politics/2026/04/25/senate-trump-democrats-polling-economy/",
-    "publishedAt": "2026-04-25T10:00:24+00:00"
   }
 ]
