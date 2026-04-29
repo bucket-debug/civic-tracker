@@ -30,6 +30,12 @@
     "contribution_receipt_date": "2026-01-01"
   },
   {
+    "contributor_name": "FUND FOR POLICY REFORM",
+    "contribution_receipt_amount": 50000000.0,
+    "committee_name": "DEMOCRACY PAC",
+    "contribution_receipt_date": "2026-01-13"
+  },
+  {
     "contributor_name": "ONE NATION",
     "contribution_receipt_amount": 35270000.0,
     "committee_name": "SLF PAC",
@@ -58,6 +64,12 @@
     "contribution_receipt_amount": 27072484.0,
     "committee_name": "AMERICA PAC",
     "contribution_receipt_date": "2025-06-30"
+  },
+  {
+    "contributor_name": "A16Z CAPITAL MANAGEMENT LLC",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "LEADING THE FUTURE",
+    "contribution_receipt_date": "2026-02-11"
   },
   {
     "contributor_name": "MAJORITY FORWARD",
@@ -171,6 +183,18 @@
     "contributor_name": "HOROWITZ, BENJAMIN",
     "contribution_receipt_amount": 12500000.0,
     "committee_name": "LEADING THE FUTURE",
+    "contribution_receipt_date": "2026-02-11"
+  },
+  {
+    "contributor_name": "ANDREESSEN, MARC L.",
+    "contribution_receipt_amount": 12500000.0,
+    "committee_name": "LEADING THE FUTURE",
+    "contribution_receipt_date": "2026-02-11"
+  },
+  {
+    "contributor_name": "HOROWITZ, BENJAMIN",
+    "contribution_receipt_amount": 12500000.0,
+    "committee_name": "LEADING THE FUTURE",
     "contribution_receipt_date": "2025-08-22"
   },
   {
@@ -250,6 +274,24 @@
     "contribution_receipt_amount": 10000000.0,
     "committee_name": "V-PAC: VICTORS, NOT VICTIMS",
     "contribution_receipt_date": "2025-03-06"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "FIGHT FOR KENTUCKY",
+    "contribution_receipt_date": "2026-01-14"
+  },
+  {
+    "contributor_name": "WIN FOR AMERICA",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "AMERICAN CONSERVATIVE FUND",
+    "contribution_receipt_date": "2026-03-20"
+  },
+  {
+    "contributor_name": "CANTOR FITZGERALD",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "FELLOWSHIP PAC",
+    "contribution_receipt_date": "2026-01-23"
   },
   {
     "contributor_name": "SINGER, PAUL ELLIOTT",
@@ -366,6 +408,12 @@
     "contribution_receipt_date": "2025-01-31"
   },
   {
+    "contributor_name": "UIHLEIN, RICHARD E.",
+    "contribution_receipt_amount": 7281396.0,
+    "committee_name": "RESTORATION OF AMERICA PAC",
+    "contribution_receipt_date": "2026-03-12"
+  },
+  {
     "contributor_name": "FRIENDS OF RAJA FOR CONGRESS",
     "contribution_receipt_amount": 7173460.51,
     "committee_name": "RAJA FOR ILLINOIS",
@@ -390,10 +438,34 @@
     "contribution_receipt_date": "2025-06-26"
   },
   {
+    "contributor_name": "FANDUEL INC",
+    "contribution_receipt_amount": 6500000.0,
+    "committee_name": "WIN FOR AMERICA",
+    "contribution_receipt_date": "2026-01-23"
+  },
+  {
+    "contributor_name": "DK CROWN HOLDINGS INC.",
+    "contribution_receipt_amount": 6500000.0,
+    "committee_name": "WIN FOR AMERICA",
+    "contribution_receipt_date": "2026-01-14"
+  },
+  {
     "contributor_name": "HOUSE MAJORITY FORWARD",
     "contribution_receipt_amount": 6000000.0,
     "committee_name": "HMP",
     "contribution_receipt_date": "2025-06-26"
+  },
+  {
+    "contributor_name": "FANDUEL INC",
+    "contribution_receipt_amount": 6000000.0,
+    "committee_name": "WIN FOR AMERICA",
+    "contribution_receipt_date": "2026-02-24"
+  },
+  {
+    "contributor_name": "DK CROWN HOLDINGS INC.",
+    "contribution_receipt_amount": 6000000.0,
+    "committee_name": "WIN FOR AMERICA",
+    "contribution_receipt_date": "2026-02-18"
   },
   {
     "contributor_name": "COINBASE COMMERCE (EXCHANGE)",
@@ -412,6 +484,12 @@
     "contribution_receipt_amount": 5713325.45,
     "committee_name": "CAMPAIGN FOR DEMOCRACY PAC",
     "contribution_receipt_date": "2025-12-18"
+  },
+  {
+    "contributor_name": "UIHLEIN, RICHARD E.",
+    "contribution_receipt_amount": 5670498.0,
+    "committee_name": "RESTORATION OF AMERICA PAC",
+    "contribution_receipt_date": "2026-02-10"
   },
   {
     "contributor_name": "TRUMP NATIONAL COMMITTEE JFC, INC.",
@@ -516,87 +594,9 @@
     "contribution_receipt_date": "2025-03-26"
   },
   {
-    "contributor_name": "DEMOCRACY PAC",
+    "contributor_name": "KUA VENTURES LLC",
     "contribution_receipt_amount": 5000000.0,
-    "committee_name": "STRATEGIC VICTORY FUND IE PAC",
-    "contribution_receipt_date": "2026-03-09"
-  },
-  {
-    "contributor_name": "SINGER, PAUL E.",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "CLF",
-    "contribution_receipt_date": "2026-03-31"
-  },
-  {
-    "contributor_name": "DEMOCRACY PAC",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "SMP",
-    "contribution_receipt_date": "2026-01-15"
-  },
-  {
-    "contributor_name": "YASS, JEFF MR.",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "SCHOOL FREEDOM FUND",
-    "contribution_receipt_date": "2026-02-03"
-  },
-  {
-    "contributor_name": "GROSS, KEITH",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "KEITH GROSS FOR FLORIDA",
-    "contribution_receipt_date": "2026-03-30"
-  },
-  {
-    "contributor_name": "LEADING THE FUTURE",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "THINK BIG",
-    "contribution_receipt_date": "2026-02-24"
-  },
-  {
-    "contributor_name": "PRITZKER, JAY ROBERT",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "ILLINOIS FUTURE PAC",
-    "contribution_receipt_date": "2025-12-04"
-  },
-  {
-    "contributor_name": "LEADING THE FUTURE",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "AMERICAN MISSION",
-    "contribution_receipt_date": "2026-02-24"
-  },
-  {
-    "contributor_name": "FORIS DAX, INC.",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "MAGA INC.",
-    "contribution_receipt_date": "2026-01-23"
-  },
-  {
-    "contributor_name": "MUSK, ELON",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "SLF PAC",
-    "contribution_receipt_date": "2025-12-15"
-  },
-  {
-    "contributor_name": "SCHWARZMAN, STEPHEN A.",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "SLF PAC",
-    "contribution_receipt_date": "2025-12-11"
-  },
-  {
-    "contributor_name": "WYNN, STEPHEN A.",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "SLF PAC",
-    "contribution_receipt_date": "2025-11-06"
-  },
-  {
-    "contributor_name": "ODE, FRED",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "FRIENDS OF FRED ODE",
-    "contribution_receipt_date": "2025-08-29"
-  },
-  {
-    "contributor_name": "CONSTANTINO, ANTHONY THOMAS",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "CONSTANTINO FOR CONGRESS, INC.",
-    "contribution_receipt_date": "2025-11-21"
+    "committee_name": "RJC VICTORY FUND",
+    "contribution_receipt_date": "2026-01-05"
   }
 ]

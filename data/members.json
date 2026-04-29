@@ -1,5 +1,23 @@
 [
   {
+    "bioguideId": "S001150",
+    "name": "Schiff, Adam B.",
+    "party": "Democratic",
+    "state": "California",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2001
+  },
+  {
+    "bioguideId": "A000383",
+    "name": "Armstrong, Alan",
+    "party": "Republican",
+    "state": "Oklahoma",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2026
+  },
+  {
     "bioguideId": "M001246",
     "name": "Mejia, Analilia",
     "party": "Democratic",
@@ -43,15 +61,6 @@
     "district": 6,
     "chamber": "House of Representatives",
     "startYear": 2019
-  },
-  {
-    "bioguideId": "A000383",
-    "name": "Armstrong, Alan",
-    "party": "Republican",
-    "state": "Oklahoma",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2026
   },
   {
     "bioguideId": "K000401",
@@ -259,15 +268,6 @@
     "district": null,
     "chamber": "Senate",
     "startYear": 2023
-  },
-  {
-    "bioguideId": "S001150",
-    "name": "Schiff, Adam B.",
-    "party": "Democratic",
-    "state": "California",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2001
   },
   {
     "bioguideId": "S001194",
