@@ -372,6 +372,12 @@
     "contribution_receipt_date": "2025-07-30"
   },
   {
+    "contributor_name": "ACTBLUE",
+    "contribution_receipt_amount": 8254119.31,
+    "committee_name": "COOPER VICTORY FUND",
+    "contribution_receipt_date": "2026-03-31"
+  },
+  {
     "contributor_name": "COINBASE",
     "contribution_receipt_amount": 8092475.0,
     "committee_name": "FAIRSHAKE",
@@ -592,11 +598,5 @@
     "contribution_receipt_amount": 5000000.0,
     "committee_name": "LYNCH FOR SENATE",
     "contribution_receipt_date": "2025-03-26"
-  },
-  {
-    "contributor_name": "KUA VENTURES LLC",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "RJC VICTORY FUND",
-    "contribution_receipt_date": "2026-01-05"
   }
 ]
