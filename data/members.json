@@ -1,5 +1,14 @@
 [
   {
+    "bioguideId": "B001288",
+    "name": "Booker, Cory A.",
+    "party": "Democratic",
+    "state": "New Jersey",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
     "bioguideId": "S001150",
     "name": "Schiff, Adam B.",
     "party": "Democratic",
@@ -880,15 +889,6 @@
     "district": null,
     "chamber": "Senate",
     "startYear": 2001
-  },
-  {
-    "bioguideId": "B001288",
-    "name": "Booker, Cory A.",
-    "party": "Democratic",
-    "state": "New Jersey",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
   },
   {
     "bioguideId": "B001303",
