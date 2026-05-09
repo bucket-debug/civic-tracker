@@ -1,10 +1,101 @@
 [
   {
-    "title": "Trump says ceasefire is intact after U.S. and Iran exchange fire",
+    "title": "ABC argues Trump administration is trying to chill free speech",
+    "source": "NPR Politics",
+    "description": "In a filing, ABC accuses the Trump administration of trying to chill its constitutionally protected free speech. The point of contention: \"The View,\" and whether it's subject to equal time rules.",
+    "url": "https://www.npr.org/2026/05/09/nx-s1-5816844/abc-trump-administration-free-speech",
+    "publishedAt": "2026-05-09T00:37:43-04:00"
+  },
+  {
+    "title": "White House prepares to replace FDA leader Marty Makary amid agency turmoil",
     "source": "Washington Post",
-    "description": "The burst of violence cast fresh doubt on efforts by Washington and Tehran to reach a negotiated settlement that would end hostilities.",
+    "description": "FDA Commissioner Marty Makary has faced criticism over his leadership of the agency that oversees vaccine and drug approvals.",
+    "url": "https://www.washingtonpost.com/health/2026/05/08/fda-commissioner-marty-makary/",
+    "publishedAt": "2026-05-08T23:19:14+00:00"
+  },
+  {
+    "title": "Virginia\u2019s high court strikes down voter-passed House map favoring Democrats",
+    "source": "Washington Post",
+    "description": "The finding is a major setback for Democrats in their effort to counter GOP-led redistricting in other states. The measure approved April 21 gave Democrats an edge in four districts.",
+    "url": "https://www.washingtonpost.com/politics/2026/05/08/virginia-court-invalidates-redistricting-measure/",
+    "publishedAt": "2026-05-08T18:48:19+00:00"
+  },
+  {
+    "title": "Judge rules DOGE\u2019s cuts to humanities grants were unconstitutional",
+    "source": "Washington Post",
+    "description": "A federal judge said more than $100 million in cuts to NEH grants were discriminatory, ruling in a case that revealed the inner workings of DOGE.",
+    "url": "https://www.washingtonpost.com/politics/2026/05/07/doge-neh-humanities-grants-ruling/",
+    "publishedAt": "2026-05-08T18:02:50+00:00"
+  },
+  {
+    "title": "Virginia Supreme Court rules against voters' referendum on redistricting",
+    "source": "NPR Politics",
+    "description": "The Virginia Supreme Court has delivered a striking blow to Democrats in the redistricting battle they're waging against Republicans.",
+    "url": "https://www.npr.org/2026/05/08/nx-s1-5816178/virginia-supreme-court-rules-against-voters-referendum-on-redistricting",
+    "publishedAt": "2026-05-08T16:30:34-04:00"
+  },
+  {
+    "title": "Tennessee Democrat speaks about his erased district",
+    "source": "NPR Politics",
+    "description": "NPR's Ailsa Chang speaks with Democratic Congressman Steve Cohen of Tennessee, who represents that state's 9th Congressional district, which could be eliminated based on a new redistricting map.",
+    "url": "https://www.npr.org/2026/05/08/nx-s1-5816024/tennessee-democrat-speaks-about-his-erased-district",
+    "publishedAt": "2026-05-08T16:09:10-04:00"
+  },
+  {
+    "title": "What's behind Trump's pardons of people convicted of public corruption?",
+    "source": "NPR Politics",
+    "description": "President Trump has granted pardons to officials who were convicted of public corruption while also dismantling a federal office responsible for investigating and prosecuting corruption allegations.",
+    "url": "https://www.npr.org/2026/05/08/nx-s1-5815216/whats-behind-trumps-pardons-of-people-convicted-of-public-corruption",
+    "publishedAt": "2026-05-08T16:09:09-04:00"
+  },
+  {
+    "title": "Rubio charms in Rome, but he says Trump\u2019s verbal attacks may continue",
+    "source": "Washington Post",
+    "description": "The secretary of state held warm meetings with Prime Minister Giorgia Meloni and Pope Leo XIV after the president\u2019s repeated criticism of both leaders.",
+    "url": "https://www.washingtonpost.com/national-security/2026/05/08/rubio-italy-vatican-leo-meloni/",
+    "publishedAt": "2026-05-08T15:53:37+00:00"
+  },
+  {
+    "title": "Trump says ceasefire still intact after burst of violence with Iran",
+    "source": "Washington Post",
+    "description": "The president expressed optimism about reaching a deal despite the attacks. Secretary of State Marco Rubio said the U.S. is expecting a response from Iran on Friday.",
     "url": "https://www.washingtonpost.com/national-security/2026/05/07/us-strikes-iran-ceasefire/",
-    "publishedAt": "2026-05-08T07:35:13+00:00"
+    "publishedAt": "2026-05-08T12:27:14+00:00"
+  },
+  {
+    "title": "Court rejects Virginia redistricting in a blow to Democrats' counter to Trump, GOP",
+    "source": "NPR Politics",
+    "description": "Virginia voters approved redistricting that could help Democrats pick up four House seats. Democrats said it was to counter the gains that Trump and the GOP have picked up in Republican-led states.",
+    "url": "https://www.npr.org/2026/05/08/nx-s1-5805193/redistricting-virginia-trump-midterms",
+    "publishedAt": "2026-05-08T10:36:00-04:00"
+  },
+  {
+    "title": "Anti-woke Vivek Ramaswamy confronts racism in his run for Ohio governor",
+    "source": "Washington Post",
+    "description": "Vivek Ramaswamy built a political brand casting racism as an obsession of Democrats. As a Republican running for Ohio governor, he\u2019s facing racism on the right.",
+    "url": "https://www.washingtonpost.com/politics/2026/05/08/vivek-ramaswamy-racism-ohio-governor/",
+    "publishedAt": "2026-05-08T09:00:44+00:00"
+  },
+  {
+    "title": "The U.S. fires on Iranian tankers trying to evade its blockade amid a Hormuz standoff",
+    "source": "NPR Politics",
+    "description": "U.S. forces fired on two Iranian oil tankers after exchanging fire with Iranian forces in the Strait of Hormuz. And the United Arab Emirates reported another Iranian missile and drone attack.",
+    "url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
+    "publishedAt": "2026-05-08T06:44:36-04:00"
+  },
+  {
+    "title": "Trump's Truth Social lays bare narrow obsessions of an extremely online president",
+    "source": "NPR Politics",
+    "description": "The bulk of the president's social media posts don't make news. But taken together they show what's on his mind as he leads the nation through war and domestic turmoil.",
+    "url": "https://www.npr.org/2026/05/08/nx-s1-5749358/trump-truth-social-online-posts-iran-white-house-ballroom",
+    "publishedAt": "2026-05-08T05:00:00-04:00"
+  },
+  {
+    "title": "Tennessee Republicans pass new House map to break up state's lone Democratic seat",
+    "source": "NPR Politics",
+    "description": "Tennessee is the first state to draw a new U.S. House map after the Supreme Court's move last week to weaken the Voting Rights Act's protections against racial discrimination in redistricting.",
+    "url": "https://www.npr.org/2026/05/08/nx-s1-5815291/tennessee-republicans-pass-new-house-map-to-break-up-states-lone-democratic-seat",
+    "publishedAt": "2026-05-08T04:43:22-04:00"
   },
   {
     "title": "As Marcomentum sweeps the internet, Rubio, White House swear off 2028 talk",
@@ -12,13 +103,6 @@
     "description": "Secretary of State Marco Rubio has won over some former critics while Vice President JD Vance struggles with Trump\u2019s shadow.",
     "url": "https://www.washingtonpost.com/politics/2026/05/07/rubio-vance-2028-competition/",
     "publishedAt": "2026-05-08T02:00:21+00:00"
-  },
-  {
-    "title": "Judge rules DOGE\u2019s cuts to humanities grants were unconstitutional",
-    "source": "Washington Post",
-    "description": "A federal judge said more than $100 million in cuts to NEH grants were discriminatory, ruling in a case that revealed the inner workings of DOGE.",
-    "url": "https://www.washingtonpost.com/politics/2026/05/07/doge-neh-humanities-grants-ruling/",
-    "publishedAt": "2026-05-07T23:35:33+00:00"
   },
   {
     "title": "Aides cite friendly meeting as Rubio aims to mend U.S. ties with Pope Leo",
@@ -70,27 +154,6 @@
     "publishedAt": "2026-05-07T15:19:08+00:00"
   },
   {
-    "title": "DHS blames funding lapse for shutdown of internal detention oversight",
-    "source": "NPR Politics",
-    "description": "The office investigates detainee deaths and access to medical care, among other issues. It's being wound down, even as the number of detention deaths and length of detention stays has grown.",
-    "url": "https://www.npr.org/2026/05/07/g-s1-120834/trump-immigration-detention-ombudsman-shutdown",
-    "publishedAt": "2026-05-07T15:05:16-04:00"
-  },
-  {
-    "title": "A judge unsealed Epstein's purported 2019 suicide note. More documents could follow",
-    "source": "NPR Politics",
-    "description": "At the request of the <em>New York Times</em>, a judge unsealed a goodbye note that Jeffrey Epstein's former cellmate says he found after the convicted sex offender's first suicide attempt in July 2019.",
-    "url": "https://www.npr.org/2026/05/07/nx-s1-5814808/jeffrey-epstein-suicide-note",
-    "publishedAt": "2026-05-07T14:56:15-04:00"
-  },
-  {
-    "title": "Tennessee Republicans pass a map to break up the state's lone Democratic House seat",
-    "source": "NPR Politics",
-    "description": "Tennessee Republicans' map would crack Shelby County \u2014 home to majority-Black Memphis \u2014 into three different districts, in an effort to eliminate the state's lone remaining Democratic-held seat.",
-    "url": "https://www.npr.org/2026/05/07/nx-s1-5815023/tennessee-redistricting-map-passage",
-    "publishedAt": "2026-05-07T14:54:21-04:00"
-  },
-  {
     "title": "Democrats see Senate control within reach \u2014 but some big hurdles remain",
     "source": "Washington Post",
     "description": "The political terrain remains forbidding, but the president\u2019s crumbling approval ratings and the Iran war\u2019s weight on the economy offer the party an opening.",
@@ -110,124 +173,5 @@
     "description": "A year after the U.S. DOGE Service dramatically slashed the civil service, government workers are still spooked about getting on the Trump administration\u2019s bad side.",
     "url": "https://www.washingtonpost.com/politics/2026/05/07/federal-workers-awards-doge-trump-musk/",
     "publishedAt": "2026-05-07T09:00:03+00:00"
-  },
-  {
-    "title": "Rep. Chris Deluzio, D-Pa, on proposed legislation to cut off funding for Iran war",
-    "source": "NPR Politics",
-    "description": "NPR's Leila Fadel speaks with Democratic Congressman Chris Deluzio of Pennsylvania, one of 18 lawmakers backing new legislation that would cut off funding for the war in Iran.",
-    "url": "https://www.npr.org/2026/05/07/nx-s1-5813657/rep-chris-deluzio-d-pa-on-proposed-legislation-to-cut-off-funding-for-iran-war",
-    "publishedAt": "2026-05-07T06:51:02-04:00"
-  },
-  {
-    "title": "Psychiatrists say RFK Jr.'s take on SSRIs is an 'oversimplification' of the problem",
-    "source": "NPR Politics",
-    "description": "The American Psychiatric Association says too few patients can access comprehensive mental health care in the United States. It welcomes new investments in improving access to evidence-based care.",
-    "url": "https://www.npr.org/2026/05/07/nx-s1-5814083/rfk-jr-hhs-ssri-antidepressant-psychiatry-therapy-mental-health",
-    "publishedAt": "2026-05-07T06:00:00-04:00"
-  },
-  {
-    "title": "Border czar promises 'mass deportations are coming' to fulfill Trump's promises",
-    "source": "NPR Politics",
-    "description": "The remarks contrast with Border Czar Tom Homan's softer messaging earlier this year, after two U.S. citizens were killed by immigration officials in Minneapolis.",
-    "url": "https://www.npr.org/2026/05/07/g-s1-120580/trump-border-czar-mass-deportations",
-    "publishedAt": "2026-05-07T05:00:00-04:00"
-  },
-  {
-    "title": "In a new poll, Americans voice broad bipartisan support for age caps in Congress",
-    "source": "NPR Politics",
-    "description": "The vast majority of Americans \u2014 8 in 10 \u2014 say there should be age caps for members of Congress, as well as term limits, according to the latest NPR/PBS News/Marist poll.",
-    "url": "https://www.npr.org/2026/05/07/nx-s1-5806294/congress-age-caps-term-limits-npr-poll",
-    "publishedAt": "2026-05-07T05:00:00-04:00"
-  },
-  {
-    "title": "Campaign staffers tell NPR they make 'thousands' betting on their own candidates",
-    "source": "NPR Politics",
-    "description": "Campaign staffers are turning private polling data into personal paydays. They describe the election prediction market as a \"Wild West\" for staffers.",
-    "url": "https://www.npr.org/2026/05/07/nx-s1-5795891/prediction-markets-kalshi-polymarket-campaigns",
-    "publishedAt": "2026-05-07T05:00:00-04:00"
-  },
-  {
-    "title": "Judge denies request to return 2020 ballots seized from Fulton County, Georgia",
-    "source": "Washington Post",
-    "description": "The FBI\u2019s seizure of Fulton County\u2019s voting materials has stoked alarm among election officials and democracy advocates.",
-    "url": "https://www.washingtonpost.com/national-security/2026/05/06/fulton-ballots-investigation-trump/",
-    "publishedAt": "2026-05-07T01:51:35+00:00"
-  },
-  {
-    "title": "Court releases purported suicide note from Jeffrey Epstein",
-    "source": "Washington Post",
-    "description": "The note, which was discovered by Epstein\u2019s former cellmate, had been under seal for years. No court or investigative agency has vouched for its authenticity.",
-    "url": "https://www.washingtonpost.com/national-security/2026/05/06/jeffrey-epstein-suicide-note/",
-    "publishedAt": "2026-05-07T00:33:11+00:00"
-  },
-  {
-    "title": "FBI raids business of state Sen. L. Louise Lucas, a key Virginia Democrat",
-    "source": "Washington Post",
-    "description": "The offices of state Sen. L. Louise Lucas, a Democrat, as well as a cannabis dispensary she co-owns were raided. The exact nature and targets of the probe remain unclear.",
-    "url": "https://www.washingtonpost.com/politics/2026/05/06/virginia-fbi-raid-lucas-cannabis/",
-    "publishedAt": "2026-05-06T23:54:28+00:00"
-  },
-  {
-    "title": "Lutnick testifies before congressional panel investigating Epstein",
-    "source": "Washington Post",
-    "description": "The commerce secretary participated in a voluntary interview with the House Oversight Committee to explain his ties to the late financier and convicted sex offender.",
-    "url": "https://www.washingtonpost.com/politics/2026/05/06/lutnick-testifies-before-congressional-panel-investigating-epstein/",
-    "publishedAt": "2026-05-06T23:46:15+00:00"
-  },
-  {
-    "title": "Sen. Susan Collins discloses \u2018essential tremor\u2019 diagnosis to explain shaking",
-    "source": "Washington Post",
-    "description": "The Maine senator who is up for reelection this year described her condition as \u2018extremely common\u2019 with \u2018absolutely no impact on my ability to do my job.\u2019",
-    "url": "https://www.washingtonpost.com/politics/2026/05/06/susan-collins-essential-tremor-maine-senate/",
-    "publishedAt": "2026-05-06T23:42:25+00:00"
-  },
-  {
-    "title": "Justice Department launches civil rights probe into prosecutor in Virginia",
-    "source": "Washington Post",
-    "description": "Fairfax County Commonwealth\u2019s Attorney Steve Descano (D) has been under attack from Republicans over his handling of cases involving immigrant defendants.",
-    "url": "https://www.washingtonpost.com/dc-md-va/2026/05/06/steve-descano-justice-department-investigation/",
-    "publishedAt": "2026-05-06T22:36:16+00:00"
-  },
-  {
-    "title": "Trump hosts UFC fighters in Oval Office, touts Iran progress",
-    "source": "Washington Post",
-    "description": "The unusual White House scene highlighted President Donald Trump\u2019s diverse set of priorities as he juggles a war with event planning.",
-    "url": "https://www.washingtonpost.com/politics/2026/05/06/trump-ufc-iran/",
-    "publishedAt": "2026-05-06T21:02:24+00:00"
-  },
-  {
-    "title": "Trump lashes out at Pope Leo again ahead of Rubio trip to Rome",
-    "source": "Washington Post",
-    "description": "The criticism of the pontiff\u2019s stance on Iran highlighted what Vatican officials have described as an unprecedented low in relations with the United States.",
-    "url": "https://www.washingtonpost.com/world/2026/05/05/trump-rubio-pope-leo-rift/",
-    "publishedAt": "2026-05-06T12:00:18+00:00"
-  },
-  {
-    "title": "Poll finds broad rejection of religion-related messages from Trump, Hegseth",
-    "source": "Washington Post",
-    "description": "Americans rate Pope Leo positively but are deeply critical of the president\u2019s social media post that appeared to depict him as Jesus, the Post-ABC-Ipsos poll found.",
-    "url": "https://www.washingtonpost.com/religion/2026/05/06/poll-trump-leo-hegseth-approval/",
-    "publishedAt": "2026-05-06T10:00:00+00:00"
-  },
-  {
-    "title": "After defying Trump, a Republican lawmaker hangs on by a thread",
-    "source": "Washington Post",
-    "description": "Republicans in Indiana\u2019s Senate tested voters\u2019 tolerance for defying the president. Most lost in primaries amid a wave of threats, campaign cash and popular backlash.",
-    "url": "https://www.washingtonpost.com/politics/2026/05/06/indiana-senate-oppose-redistricting/",
-    "publishedAt": "2026-05-06T09:00:34+00:00"
-  },
-  {
-    "title": "The pro-Israel political consensus is collapsing in both parties",
-    "source": "Washington Post",
-    "description": "On the campaign trail and elsewhere, the alliance has gone from a bipartisan consensus to a subject of fierce debate among Republicans and Democrats alike.",
-    "url": "https://www.washingtonpost.com/politics/2026/05/06/israel-political-division-democrats-republicans/",
-    "publishedAt": "2026-05-06T09:00:25+00:00"
-  },
-  {
-    "title": "4 takeaways from the Indiana and Ohio primaries",
-    "source": "Washington Post",
-    "description": "Primaries in Indiana and Ohio reinforced President Donald Trump\u2019s power in the GOP and set the stakes for several top-tier midterm races.",
-    "url": "https://www.washingtonpost.com/politics/2026/05/06/ohio-indiana-ramaswamy-trump-redistricting/",
-    "publishedAt": "2026-05-06T09:00:14+00:00"
   }
 ]
