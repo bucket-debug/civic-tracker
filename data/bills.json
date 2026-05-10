@@ -1,96 +1,26 @@
 [
   {
     "congress": 119,
-    "number": "4400",
+    "number": "3981",
     "type": "S",
-    "title": "Optimizing the VA Workforce for Veterans Act of 2026",
-    "latestAction": {
-      "text": "Committee on Veterans' Affairs. Hearings held.",
-      "actionDate": "2026-04-29"
-    },
-    "updateDate": "2026-05-09",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4460",
-    "type": "S",
-    "title": "Rural Community Hospital Demonstration Program Reauthorization",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-04-30"
-    },
-    "updateDate": "2026-05-09",
-    "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "8689",
-    "type": "HR",
-    "title": "Strategic Export Controls and Border Security Enhancement Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Foreign Affairs.",
-      "actionDate": "2026-05-07"
-    },
-    "updateDate": "2026-05-09",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8707",
-    "type": "HR",
-    "title": "No Funds for Iran War Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-05-07"
-    },
-    "updateDate": "2026-05-09",
-    "sponsor": null,
-    "democratCosponsors": 17,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4439",
-    "type": "S",
-    "title": "Built To Last Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-04-29"
-    },
-    "updateDate": "2026-05-09",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4421",
-    "type": "S",
-    "title": "NOPE Act of 2026",
+    "title": "BRAVE Burma Act",
     "latestAction": {
       "text": "Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2026-04-28"
+      "actionDate": "2026-03-04"
     },
     "updateDate": "2026-05-09",
     "sponsor": null,
     "democratCosponsors": 3,
-    "republicanCosponsors": 4
+    "republicanCosponsors": 2
   },
   {
     "congress": 119,
-    "number": "4474",
+    "number": "4433",
     "type": "S",
-    "title": "Servicemember Civilian Transition Support Act",
+    "title": "Disaster Declaration Transparency Act of 2026",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Armed Services.",
-      "actionDate": "2026-04-30"
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-29"
     },
     "updateDate": "2026-05-09",
     "sponsor": null,
@@ -113,25 +43,25 @@
   },
   {
     "congress": 119,
-    "number": "4433",
+    "number": "4460",
     "type": "S",
-    "title": "Disaster Declaration Transparency Act of 2026",
+    "title": "Rural Community Hospital Demonstration Program Reauthorization",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-04-29"
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-04-30"
     },
     "updateDate": "2026-05-09",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
+    "democratCosponsors": 7,
+    "republicanCosponsors": 7
   },
   {
     "congress": 119,
-    "number": "8705",
+    "number": "8687",
     "type": "HR",
-    "title": "CHARLIE Act",
+    "title": "ENDS Chinese Vapes Act of 2026",
     "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
+      "text": "Referred to the House Committee on Ways and Means.",
       "actionDate": "2026-05-07"
     },
     "updateDate": "2026-05-09",
@@ -141,11 +71,95 @@
   },
   {
     "congress": 119,
-    "number": "8687",
-    "type": "HR",
-    "title": "ENDS Chinese Vapes Act of 2026",
+    "number": "4474",
+    "type": "S",
+    "title": "Servicemember Civilian Transition Support Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-04-30"
+    },
+    "updateDate": "2026-05-09",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4439",
+    "type": "S",
+    "title": "Built To Last Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-04-29"
+    },
+    "updateDate": "2026-05-09",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8707",
+    "type": "HR",
+    "title": "No Funds for Iran War Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-05-07"
+    },
+    "updateDate": "2026-05-09",
+    "sponsor": null,
+    "democratCosponsors": 17,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8689",
+    "type": "HR",
+    "title": "Strategic Export Controls and Border Security Enhancement Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Foreign Affairs.",
+      "actionDate": "2026-05-07"
+    },
+    "updateDate": "2026-05-09",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4421",
+    "type": "S",
+    "title": "NOPE Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-04-28"
+    },
+    "updateDate": "2026-05-09",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "4400",
+    "type": "S",
+    "title": "Optimizing the VA Workforce for Veterans Act of 2026",
+    "latestAction": {
+      "text": "Committee on Veterans' Affairs. Hearings held.",
+      "actionDate": "2026-04-29"
+    },
+    "updateDate": "2026-05-09",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8705",
+    "type": "HR",
+    "title": "CHARLIE Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
       "actionDate": "2026-05-07"
     },
     "updateDate": "2026-05-09",
@@ -183,6 +197,20 @@
   },
   {
     "congress": 119,
+    "number": "4408",
+    "type": "S",
+    "title": "Supporting Energy and Economic Development (SEED) Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-04-28"
+    },
+    "updateDate": "2026-05-09",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "4427",
     "type": "S",
     "title": "Heat Workforce Standards Act of 2026",
@@ -211,31 +239,17 @@
   },
   {
     "congress": 119,
-    "number": "4459",
+    "number": "4440",
     "type": "S",
-    "title": "Expanding Appalachia\u2019s Broadband Access Act",
+    "title": "Clinical Trial Modernization Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Environment and Public Works.",
-      "actionDate": "2026-04-30"
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-04-29"
     },
     "updateDate": "2026-05-09",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8479",
-    "type": "HR",
-    "title": "Protecting Consumers from Deceptive AI Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-04-23"
-    },
-    "updateDate": "2026-05-09",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -253,16 +267,16 @@
   },
   {
     "congress": 119,
-    "number": "4420",
-    "type": "S",
-    "title": "Physical Therapist Workforce and Patient Access Act of 2026",
+    "number": "8479",
+    "type": "HR",
+    "title": "Protecting Consumers from Deceptive AI Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-04-28"
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-04-23"
     },
     "updateDate": "2026-05-09",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 1,
     "republicanCosponsors": 1
   },
   {
@@ -281,20 +295,6 @@
   },
   {
     "congress": 119,
-    "number": "4440",
-    "type": "S",
-    "title": "Clinical Trial Modernization Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-04-29"
-    },
-    "updateDate": "2026-05-09",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "4413",
     "type": "S",
     "title": "Protecting America\u2019s Workers Act",
@@ -309,12 +309,26 @@
   },
   {
     "congress": 119,
-    "number": "8708",
-    "type": "HR",
-    "title": "Main Street BRIDGE Act",
+    "number": "4420",
+    "type": "S",
+    "title": "Physical Therapist Workforce and Patient Access Act of 2026",
     "latestAction": {
-      "text": "Referred to the Committee on Small Business, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-05-07"
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-04-28"
+    },
+    "updateDate": "2026-05-09",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "4459",
+    "type": "S",
+    "title": "Expanding Appalachia\u2019s Broadband Access Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Environment and Public Works.",
+      "actionDate": "2026-04-30"
     },
     "updateDate": "2026-05-09",
     "sponsor": null,
@@ -337,16 +351,16 @@
   },
   {
     "congress": 119,
-    "number": "4408",
-    "type": "S",
-    "title": "Supporting Energy and Economic Development (SEED) Act",
+    "number": "8708",
+    "type": "HR",
+    "title": "Main Street BRIDGE Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-04-28"
+      "text": "Referred to the Committee on Small Business, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-05-07"
     },
     "updateDate": "2026-05-09",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -683,20 +697,6 @@
     "updateDate": "2026-05-08",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4388",
-    "type": "S",
-    "title": "Housing Survivors of Major Disasters Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-04-27"
-    },
-    "updateDate": "2026-05-08",
-    "sponsor": null,
-    "democratCosponsors": 11,
     "republicanCosponsors": 0
   }
 ]
