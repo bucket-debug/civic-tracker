@@ -1,5 +1,14 @@
 [
   {
+    "bioguideId": "V000139",
+    "name": "Van Epps, Matt",
+    "party": "Republican",
+    "state": "Tennessee",
+    "district": 7,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
     "bioguideId": "B001288",
     "name": "Booker, Cory A.",
     "party": "Democratic",
@@ -1078,15 +1087,6 @@
     "district": 11,
     "chamber": "House of Representatives",
     "startYear": 1987
-  },
-  {
-    "bioguideId": "V000139",
-    "name": "Van Epps, Matt",
-    "party": "Republican",
-    "state": "Tennessee",
-    "district": 7,
-    "chamber": "House of Representatives",
-    "startYear": 2025
   },
   {
     "bioguideId": "G000606",

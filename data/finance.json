@@ -24,12 +24,6 @@
     "contribution_receipt_date": "2025-01-02"
   },
   {
-    "contributor_name": "CLEMENT, CHRISTINA REV DR",
-    "contribution_receipt_amount": 50250000.0,
-    "committee_name": "STATE OF LOC NATION FOR CLEMENT FOR SENATE",
-    "contribution_receipt_date": "2026-01-01"
-  },
-  {
     "contributor_name": "FUND FOR POLICY REFORM",
     "contribution_receipt_amount": 50000000.0,
     "committee_name": "DEMOCRACY PAC",
@@ -598,5 +592,11 @@
     "contribution_receipt_amount": 5000000.0,
     "committee_name": "DAVID TRONE FOR MARYLAND, INC.",
     "contribution_receipt_date": "2026-03-10"
+  },
+  {
+    "contributor_name": "LYNCH, MARK",
+    "contribution_receipt_amount": 5000000.0,
+    "committee_name": "LYNCH FOR SENATE",
+    "contribution_receipt_date": "2025-03-26"
   }
 ]
