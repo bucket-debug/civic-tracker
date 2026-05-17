@@ -8,7 +8,7 @@
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "actionDate": "2026-05-15"
     },
-    "updateDate": "2026-05-16",
+    "updateDate": "2026-05-17",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
@@ -22,6 +22,34 @@
       "text": "Placed on the Union Calendar, Calendar No. 567.",
       "actionDate": "2026-05-15"
     },
+    "updateDate": "2026-05-17",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3251",
+    "type": "HR",
+    "title": "Disaster Response Flexibility Act of 2025",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+      "actionDate": "2025-05-07"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "3347",
+    "type": "HR",
+    "title": "Sovereign States Emergency Management Act",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Emergency Management and Technology.",
+      "actionDate": "2025-05-14"
+    },
     "updateDate": "2026-05-16",
     "sponsor": null,
     "democratCosponsors": 0,
@@ -29,16 +57,44 @@
   },
   {
     "congress": 119,
-    "number": "8365",
+    "number": "2247",
     "type": "HR",
-    "title": "Monitor Accountability Act",
+    "title": "Airmen Certificate Accessibility Act",
     "latestAction": {
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "actionDate": "2026-05-14"
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-03-25"
     },
     "updateDate": "2026-05-16",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "6222",
+    "type": "HR",
+    "title": "ROTOR Act",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Aviation.",
+      "actionDate": "2025-11-21"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 11,
+    "republicanCosponsors": 9
+  },
+  {
+    "congress": 119,
+    "number": "2122",
+    "type": "HR",
+    "title": "IMPACT Act 2.0",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Highways and Transit.",
+      "actionDate": "2025-03-14"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 2
   },
   {
@@ -71,17 +127,31 @@
   },
   {
     "congress": 119,
-    "number": "8859",
+    "number": "8365",
     "type": "HR",
-    "title": "Creating Early Childhood Leaders Act",
+    "title": "Monitor Accountability Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2026-05-14"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "8867",
+    "type": "HR",
+    "title": "To direct the Secretary of Health and Human Services to develop and implement, as part of the National Clearinghouse for Long-Term Care Information, a public education initiative on the need for individuals to plan for their long-term care, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-05-15"
     },
     "updateDate": "2026-05-16",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -95,6 +165,104 @@
     "updateDate": "2026-05-16",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8869",
+    "type": "HR",
+    "title": "To amend the Public Health Service Act (42 U.S.C. 201 et seq.) to authorize research on the impacts of traumatic birth experiences and post-traumatic stress disorder on mothers, infants, and families, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8846",
+    "type": "HR",
+    "title": "To improve tornado detection, forecasting, warning dissemination, and community resilience, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8856",
+    "type": "HR",
+    "title": "To give priority consideration to units of local government that provide gang affiliation information in reports to the Federal Bureau of Investigation for the purpose of Byrne-JAG grants, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "8848",
+    "type": "HR",
+    "title": "To amend title 10, United States Code, to include the National Guard Relief Foundation in the definition of \"military welfare society\" in certain laws administered by the Secretaries of the military departments.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Armed Services.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8857",
+    "type": "HR",
+    "title": "To amend title XI of the Social Security Act to adjust which engineered cyclic peptides are qualifying single source drugs for purposes of the Drug Price Negotiation Program.",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "8847",
+    "type": "HR",
+    "title": "To amend the Immigration and Nationality Act to provide that aliens who have been convicted of or who have committed an offense that violates certain State or Federal hunting or fishing laws are inadmissible and deportable.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "8859",
+    "type": "HR",
+    "title": "Creating Early Childhood Leaders Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -113,11 +281,193 @@
   },
   {
     "congress": 119,
-    "number": "1295",
-    "type": "HRES",
-    "title": "Expressing support for the designation of May 17, 2026, as \"DIPG Awareness Day\" to raise awareness and encourage research into cures for diffuse intrinsic pontine glioma (DIPG) and pediatric cancers in general.",
+    "number": "8844",
+    "type": "HR",
+    "title": "To correct the inequitable denial of enhanced retirement and annuity benefits to certain U.S. Customs and Border Protection Officers.",
+    "latestAction": {
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8860",
+    "type": "HR",
+    "title": "To amend title 18, United States Code, to enhance prosecution of corporate crime.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8855",
+    "type": "HR",
+    "title": "To amend title 18, United States Code, to establish nationwide concealed carry reciprocity for certain members of the Armed Forces, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8854",
+    "type": "HR",
+    "title": "To establish a pilot program for the Secretary of Housing and Urban Development to evaluate the effectiveness of insuring mortgages made to finance improvements to convert basement spaces into safely habitable dwelling units, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Financial Services.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8850",
+    "type": "HR",
+    "title": "To create dedicated funds to conserve butterflies in North America, plants in the Pacific Islands, freshwater mussels in the United States, and desert fish in the Southwest United States, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8842",
+    "type": "HR",
+    "title": "To amend title 49, United States Code, to provide eligibility for Federal law enforcement officers for certain expedited security screening, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Homeland Security.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8862",
+    "type": "HR",
+    "title": "To amend title 18, United States Code, to waive immunity for certain acts committed by Federal law enforcement officers.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8852",
+    "type": "HR",
+    "title": "To amend the Public Health Service Act to direct the Director of the National Institutes of Health to design and implement a program to study the health effects of nuclear radiation on women, and for other purposes.",
     "latestAction": {
       "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8865",
+    "type": "HR",
+    "title": "To amend title XI of the Social Security Act to exclude providers convicted of certain fraud-related criminal offenses from participation in Federal health care programs on a permanent basis.",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8868",
+    "type": "HR",
+    "title": "To amend the Fair Labor Standards Act of 1938 to establish a minimum salary threshold for bona fide executive, administrative, and professional employees exempt from Federal overtime compensation requirements, and automatically update such threshold each year, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 20,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8866",
+    "type": "HR",
+    "title": "To amend the Stevenson-Wydler Technology Innovation Act of 1980 to reauthorize the regional innovation program, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "8861",
+    "type": "HR",
+    "title": "To amend title 18, United States Code, to provide post-employment limits for attorneys of the United States, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8851",
+    "type": "HR",
+    "title": "To amend title 51, United States Code, to direct the Secretary of Transportation to establish an electronic processing portal for licenses and other approvals related to commercial space launch activities, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8843",
+    "type": "HR",
+    "title": "To amend title 18, United States, to include property damage in acts that constitute domestic terrorism, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
       "actionDate": "2026-05-15"
     },
     "updateDate": "2026-05-16",
@@ -127,11 +477,53 @@
   },
   {
     "congress": 119,
-    "number": "8843",
+    "number": "8853",
     "type": "HR",
-    "title": "To amend title 18, United States, to include property damage in acts that constitute domestic terrorism, and for other purposes.",
+    "title": "To amend title 49, United States Code, to allow Amtrak to use grant funds to satisfy non-Federal share requirements of certain grant programs, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Transportation and Infrastructure.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8849",
+    "type": "HR",
+    "title": "To amend the Omnibus Crime Control and Safe Streets Act of 1968 to improve the COPS program with respect to training command-level personnel, and for other purposes.",
     "latestAction": {
       "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8858",
+    "type": "HR",
+    "title": "To allow Americans to sue federal officials for constitutional violations of voting rights and election law.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1295",
+    "type": "HRES",
+    "title": "Expressing support for the designation of May 17, 2026, as \"DIPG Awareness Day\" to raise awareness and encourage research into cures for diffuse intrinsic pontine glioma (DIPG) and pediatric cancers in general.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-05-15"
     },
     "updateDate": "2026-05-16",
@@ -152,34 +544,6 @@
     "sponsor": null,
     "democratCosponsors": 20,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7941",
-    "type": "HR",
-    "title": "Pay TSA Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Transportation and Maritime Security.",
-      "actionDate": "2026-03-17"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 11
-  },
-  {
-    "congress": 119,
-    "number": "7083",
-    "type": "HR",
-    "title": "CRUISE Act",
-    "latestAction": {
-      "text": "Ordered to be Reported in the Nature of a Substitute by Voice Vote.",
-      "actionDate": "2026-05-14"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -211,6 +575,34 @@
   },
   {
     "congress": 119,
+    "number": "7083",
+    "type": "HR",
+    "title": "CRUISE Act",
+    "latestAction": {
+      "text": "Ordered to be Reported in the Nature of a Substitute by Voice Vote.",
+      "actionDate": "2026-05-14"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "7941",
+    "type": "HR",
+    "title": "Pay TSA Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Transportation and Maritime Security.",
+      "actionDate": "2026-03-17"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
     "number": "6476",
     "type": "HR",
     "title": "Relief for Farmers Hit with PFAS Act",
@@ -222,48 +614,6 @@
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "5020",
-    "type": "HR",
-    "title": "Supporting Our Shelters Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
-      "actionDate": "2026-01-13"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8858",
-    "type": "HR",
-    "title": "To allow Americans to sue federal officials for constitutional violations of voting rights and election law.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-05-15"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7984",
-    "type": "HR",
-    "title": "DHS Use of Force Transparency Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
-      "actionDate": "2026-03-19"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -281,16 +631,30 @@
   },
   {
     "congress": 119,
-    "number": "8851",
+    "number": "5020",
     "type": "HR",
-    "title": "To amend title 51, United States Code, to direct the Secretary of Transportation to establish an electronic processing portal for licenses and other approvals related to commercial space launch activities, and for other purposes.",
+    "title": "Supporting Our Shelters Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Science, Space, and Technology.",
-      "actionDate": "2026-05-15"
+      "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+      "actionDate": "2026-01-13"
     },
     "updateDate": "2026-05-16",
     "sponsor": null,
-    "democratCosponsors": 1,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7984",
+    "type": "HR",
+    "title": "DHS Use of Force Transparency Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
+      "actionDate": "2026-03-19"
+    },
+    "updateDate": "2026-05-16",
+    "sponsor": null,
+    "democratCosponsors": 4,
     "republicanCosponsors": 0
   },
   {
@@ -323,20 +687,6 @@
   },
   {
     "congress": 119,
-    "number": "4987",
-    "type": "HR",
-    "title": "Food Date Labeling Act of 2025",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
-      "actionDate": "2026-01-13"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
     "number": "7950",
     "type": "HR",
     "title": "To amend title 38, United States Code, to establish the Office of Congressional and Legislative Affairs in the Department of Veterans Affairs, and for other purposes.",
@@ -348,355 +698,5 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8414",
-    "type": "HR",
-    "title": "DAIRY PRIDE Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-04-21"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "4971",
-    "type": "HR",
-    "title": "Terrorist Watchlist Data Accuracy and Transparency Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Counterterrorism and Intelligence.",
-      "actionDate": "2025-08-18"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1294",
-    "type": "HRES",
-    "title": "Supporting the designation of May 15, 2026, as \"Endangered Species Day\".",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-05-15"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "8853",
-    "type": "HR",
-    "title": "To amend title 49, United States Code, to allow Amtrak to use grant funds to satisfy non-Federal share requirements of certain grant programs, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Transportation and Infrastructure.",
-      "actionDate": "2026-05-15"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8411",
-    "type": "HR",
-    "title": "Original Legislation to Give TSA Employees a Raise",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Transportation and Maritime Security.",
-      "actionDate": "2026-04-22"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5241",
-    "type": "HR",
-    "title": "RTCP Revitalization Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
-      "actionDate": "2026-01-13"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "8861",
-    "type": "HR",
-    "title": "To amend title 18, United States Code, to provide post-employment limits for attorneys of the United States, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-05-15"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3180",
-    "type": "HR",
-    "title": "Taiwan Representative Office Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Foreign Affairs.",
-      "actionDate": "2025-05-05"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "4473",
-    "type": "HR",
-    "title": "BIRD Health Act of 2025",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2025-07-16"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "4892",
-    "type": "HR",
-    "title": "Seedlings for Sustainable Habitat Restoration Act of 2025",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Forestry and Horticulture.",
-      "actionDate": "2026-01-13"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2767",
-    "type": "HR",
-    "title": "BRAIN Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2025-04-09"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 17,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "6697",
-    "type": "HR",
-    "title": "EAT Healthy Foods from Local Farmers Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
-      "actionDate": "2026-01-13"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "5164",
-    "type": "HR",
-    "title": "Promoting American Competition in Aquaculture Research Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
-      "actionDate": "2026-01-13"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "6039",
-    "type": "HR",
-    "title": "Commonsense Legislating Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Health.",
-      "actionDate": "2025-11-20"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3891",
-    "type": "HR",
-    "title": "Northern Border Security and Staffing Reform Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
-      "actionDate": "2025-06-11"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "4679",
-    "type": "HR",
-    "title": "FASTER Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
-      "actionDate": "2025-07-24"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "7208",
-    "type": "HR",
-    "title": "PROTECT the Grid Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
-      "actionDate": "2026-01-23"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "7124",
-    "type": "HR",
-    "title": "Realigning Mobile Phone Biometrics for American Privacy Protection Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
-      "actionDate": "2026-01-16"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4078",
-    "type": "HR",
-    "title": "Stop Unlawful Detention and End Mistreatment Act of 2025",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
-      "actionDate": "2025-06-24"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7300",
-    "type": "HR",
-    "title": "Make Elections Great Again Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
-      "actionDate": "2026-02-02"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "2756",
-    "type": "HR",
-    "title": "National Biotechnology Initiative Act of 2025",
-    "latestAction": {
-      "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Foreign Affairs, Agriculture, Energy and Commerce, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-04-09"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 13,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "6457",
-    "type": "HR",
-    "title": "FAIR Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
-      "actionDate": "2026-01-13"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "6809",
-    "type": "HR",
-    "title": "Alyssa\u2019s Act of 2025",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Counterterrorism and Intelligence.",
-      "actionDate": "2025-12-18"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "6369",
-    "type": "HR",
-    "title": "Cutting COSTS Act of 2025",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
-      "actionDate": "2026-01-13"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "8662",
-    "type": "HR",
-    "title": "To provide assisted living assistance through Medicaid and low-income housing tax credit.",
-    "latestAction": {
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-05-04"
-    },
-    "updateDate": "2026-05-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
   }
 ]
