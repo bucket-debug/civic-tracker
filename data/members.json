@@ -1,5 +1,14 @@
 [
   {
+    "bioguideId": "F000483",
+    "name": "Friedman, Laura",
+    "party": "Democratic",
+    "state": "California",
+    "district": 30,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
     "bioguideId": "V000139",
     "name": "Van Epps, Matt",
     "party": "Republican",
@@ -1373,15 +1382,6 @@
     "party": "Republican",
     "state": "Texas",
     "district": 12,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "F000483",
-    "name": "Friedman, Laura",
-    "party": "Democratic",
-    "state": "California",
-    "district": 30,
     "chamber": "House of Representatives",
     "startYear": 2025
   },
