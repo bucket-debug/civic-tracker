@@ -1,5 +1,61 @@
 [
   {
+    "title": "Trump\u2019s doctor says he is in \u2018excellent health\u2019 after latest checkup",
+    "source": "Washington Post",
+    "description": "While the president\u2019s medical reports says he remains fit to serve, independent physicians have raised questions about the recurrent bruises on his hands and swelling in his legs.",
+    "url": "https://www.washingtonpost.com/politics/2026/05/30/trumps-doctor-says-his-health-is-excellent-after-walter-reed-visit/",
+    "publishedAt": "2026-05-30T04:17:07+00:00"
+  },
+  {
+    "title": "Pentagon recruiting troops to watch White House UFC fights, memos show",
+    "source": "Washington Post",
+    "description": "Internal messages reviewed by The Post stipulate that military personnel must pay their own ways and meet strict physical requirements to be eligible.",
+    "url": "https://www.washingtonpost.com/national-security/2026/05/29/pentagon-recruiting-troops-watch-white-house-ufc-fights-memos-show/",
+    "publishedAt": "2026-05-29T18:34:47+00:00"
+  },
+  {
+    "title": "How primaries are shaping Congress",
+    "source": "NPR Politics",
+    "description": "The Primary used to be just the first step in the electoral process \u2014 now the primary has transformed, in many places into the moment when the election is all but decided. It's shaping Congress.",
+    "url": "https://www.npr.org/2026/05/29/nx-s1-5836616/how-primaries-are-shaping-congress",
+    "publishedAt": "2026-05-29T16:45:22-04:00"
+  },
+  {
+    "title": "Trump's name must come off of the Kennedy Center, judge rules",
+    "source": "NPR Politics",
+    "description": "The judge wrote in his 94-page ruling that it was \"crystal clear\" that the arts complex was named for the late president John F. Kennedy. He also ruled that the center could not wind down its programming and close for two years of renovations \u2013 at least for now",
+    "url": "https://www.npr.org/2026/05/29/nx-s1-5839349/president-trump-kennedy-center-name-judge-order",
+    "publishedAt": "2026-05-29T16:33:21-04:00"
+  },
+  {
+    "title": "Tracking who Trump is appointing to fill key administration roles",
+    "source": "Washington Post",
+    "description": "Follow President Trump\u2019s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/",
+    "publishedAt": "2026-05-29T16:15:30+00:00"
+  },
+  {
+    "title": "What happened under Trump this week",
+    "source": "Washington Post",
+    "description": "He\u2019s fighting hard to restrict mail voting.",
+    "url": "https://www.washingtonpost.com/politics/2026/05/29/what-happened-under-trump-this-week/",
+    "publishedAt": "2026-05-29T15:14:55+00:00"
+  },
+  {
+    "title": "Louisiana lawmakers pass a congressional map to dismantle a majority-Black district",
+    "source": "NPR Politics",
+    "description": "Louisiana's Republican lawmakers raced to eliminate one of two majority-Black congressional seats in the state after the U.S. Supreme Court ruled the current map unconstitutional in a sweeping ruling.",
+    "url": "https://www.npr.org/2026/05/29/nx-s1-5826956/louisiana-new-congressional-map-redistricting",
+    "publishedAt": "2026-05-29T13:14:27-04:00"
+  },
+  {
+    "title": "A look at the race to become the next mayor of Los Angeles",
+    "source": "NPR Politics",
+    "description": "In the upcoming primary for mayor of Los Angeles, incumbent Karen Bass is defending from two main challengers: a conservative reality TV star and a progressive city council member.",
+    "url": "https://www.npr.org/2026/05/29/nx-s1-5838636/a-look-at-the-race-to-become-the-next-mayor-of-los-angeles",
+    "publishedAt": "2026-05-29T06:49:35-04:00"
+  },
+  {
     "title": "Replacing aging U.S. voting equipment will take years and billions of dollars",
     "source": "NPR Politics",
     "description": "America's voting systems are getting old. But unless Congress makes a massive financial commitment, a new report finds it could take decades before voting machines are widely replaced.",
@@ -7,9 +63,9 @@
     "publishedAt": "2026-05-29T05:00:00-04:00"
   },
   {
-    "title": "Former AG Pam Bondi to testify before Congress over handling of the Epstein files",
+    "title": "Bondi doubles down on her handling of Epstein files in testimony to Congress",
     "source": "NPR Politics",
-    "description": "Bondi was ousted from her role as attorney general in April. She will testify Friday in a closed-door hearing about the release of the Epstein files.",
+    "description": "In a closed-door interview, Bondi said there were redaction errors, but otherwise defended the Justice Department's release of files in the Epstein case. She was ousted as attorney general in April.",
     "url": "https://www.npr.org/2026/05/29/nx-s1-5836563/pam-bondi-epstein-congress",
     "publishedAt": "2026-05-29T05:00:00-04:00"
   },
@@ -39,7 +95,7 @@
     "source": "Washington Post",
     "description": "The vice president\u2019s speech to Air Force Academy graduates comes as the Pentagon moves forward with using AI in war.",
     "url": "https://www.washingtonpost.com/politics/2026/05/28/vance-says-military-should-never-let-ai-make-life-and-death-decisions/",
-    "publishedAt": "2026-05-28T19:19:58+00:00"
+    "publishedAt": "2026-05-28T19:24:00+00:00"
   },
   {
     "title": "Supreme Court sides with Mississippi man on death row in racial bias case",
@@ -82,47 +138,5 @@
     "description": "A federal judge in Washington, D.C., has declined to temporarily block President Trump's executive order that calls for restricting mail-in voting. Another judge may rule on the order soon.",
     "url": "https://www.npr.org/2026/05/28/nx-s1-5797889/trump-mail-in-voting-order",
     "publishedAt": "2026-05-28T07:13:55-04:00"
-  },
-  {
-    "title": "U.S. conducts another strike against Iran",
-    "source": "NPR Politics",
-    "description": "U.S. forces carried out new defensive strikes on Iran on Wednesday as President Trump insisted November's midterm elections won't make him rush to make a deal to end the Iran war.",
-    "url": "https://www.npr.org/2026/05/28/nx-s1-5836491/u-s-conducts-another-strike-against-iran",
-    "publishedAt": "2026-05-28T06:44:12-04:00"
-  },
-  {
-    "title": "An Ohio pastor-turned-lawmaker backs a Charlie Kirk American Heritage Act for schools",
-    "source": "NPR Politics",
-    "description": "The bill says it would permit the teaching of the positive impact of Judeo-Christian values in U.S. history. Opponents say it offers a skewed view of history.",
-    "url": "https://www.npr.org/2026/05/28/nx-s1-5798726/christian-conservative-church-state-charlie-kirk",
-    "publishedAt": "2026-05-28T06:00:00-04:00"
-  },
-  {
-    "title": "These swing voters are adding high gas prices into their political calculations",
-    "source": "NPR Politics",
-    "description": "As part of NPR's Swing Shift project checking in with swing voters, these Americans are split on who is to blame for high gas prices but they all agree it has an impact on their personal finances.",
-    "url": "https://www.npr.org/2026/05/28/nx-s1-5836714/swing-voters-gas-prices-trump-midterms",
-    "publishedAt": "2026-05-28T05:00:00-04:00"
-  },
-  {
-    "title": "Trump pledged to house 6,000 homeless vets. His budget funds zero",
-    "source": "NPR Politics",
-    "description": "Veterans groups hoped a Trump executive order would supercharge housing for homeless vets. That hasn't happened, and veterans' advocates want to know why.",
-    "url": "https://www.npr.org/2026/05/28/nx-s1-5836556/trump-homeless-veterans-la",
-    "publishedAt": "2026-05-28T05:00:00-04:00"
-  },
-  {
-    "title": "Trump is liberating his Republican critics in Congress",
-    "source": "Washington Post",
-    "description": "President Donald Trump, by endorsing challengers of Republican incumbents, is creating lame-duck senators who owe him nothing.",
-    "url": "https://www.washingtonpost.com/politics/2026/05/27/trump-is-creating-lame-duck-republicans-who-dont-owe-him-anything/",
-    "publishedAt": "2026-05-27T14:20:10+00:00"
-  },
-  {
-    "title": "Why Texas suddenly has such a competitive Senate race",
-    "source": "Washington Post",
-    "description": "Ken Paxton makes a win possible for Democrats.",
-    "url": "https://www.washingtonpost.com/politics/2026/05/27/why-texas-suddenly-has-such-competitive-senate-race/",
-    "publishedAt": "2026-05-27T14:02:45+00:00"
   }
 ]
