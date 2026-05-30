@@ -37,12 +37,10 @@ def log_response_error(label, resp):
 def congress_get(path, params=None):
     """GET a congress.gov v3 endpoint, injecting the API key."""
     full_params = {**(params or {}), "api_key": CONGRESS_API_KEY}
-    resp = requests.get(
-        f"https://api.congress.gov/v3/{path}",
-        params=full_params,
-        headers=HEADERS,
-        timeout=30,
-    )
+    url = f"https://api.congress.gov/v3/{path}"
+    display_params = {k: v for k, v in full_params.items() if k != "api_key"}
+    print(f"  [HTTP] GET {url}  params={display_params}")
+    resp = requests.get(url, params=full_params, headers=HEADERS, timeout=30)
     return resp
 
 
@@ -54,6 +52,7 @@ def fetch_cosponsor_breakdown(bill_type, bill_number):
             f"bill/119/{type_lower}/{bill_number}/cosponsors",
             {"format": "json"},
         )
+        print(f"    [cosponsor] {bill_type}{bill_number} → HTTP {resp.status_code}")
         if not resp.ok:
             return 0, 0
         cosponsors = resp.json().get("cosponsors", [])
@@ -101,11 +100,16 @@ try:
         "limit": 50,
         "sort": "updateDate desc",
     })
+    print(f"[bills] HTTP status: {resp.status_code}")
+    print(f"[bills] Response body (first 300 chars): {resp.text[:300]}")
     if not resp.ok:
         log_response_error("bills", resp)
         resp.raise_for_status()
 
     raw_bills = resp.json().get("bills", [])
+    print(f"[bills] Extracted {len(raw_bills)} bills from response")
+    if raw_bills:
+        print(f"[bills] First bill title: {raw_bills[0].get('title', '(no title)')}")
     bills = [shape_bill(b) for b in raw_bills]
     save("bills.json", bills)
     status["bills"] = "success"
@@ -184,12 +188,14 @@ try:
             "limit": limit,
             "offset": offset,
         })
+        print(f"[members] page {page} HTTP status: {resp.status_code}")
         if not resp.ok:
             log_response_error(f"members page {page}", resp)
             resp.raise_for_status()
 
         body = resp.json()
         batch = body.get("members", [])
+        print(f"[members] page {page} returned {len(batch)} members")
         if not batch:
             break
 
@@ -223,6 +229,7 @@ try:
 
     save("members.json", members)
     status["members"] = "success"
+    print(f"[members] Final total: {len(members)} members across {page} page(s)")
     print(f"[OK]   members                 — {len(members)} total → data/members.json")
 except Exception as e:
     print(f"[FAIL] members                 — {e}")
