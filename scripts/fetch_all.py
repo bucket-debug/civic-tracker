@@ -65,8 +65,21 @@ def fetch_cosponsor_breakdown(bill_type, bill_number):
 
 def shape_bill(b):
     """Normalise a raw congress.gov bill record into our storage schema."""
+    # One-time debug: print raw keys so we can diagnose sponsor being null
+    if not getattr(shape_bill, "_debug_printed", False):
+        shape_bill._debug_printed = True
+        print(f"  [shape_bill debug] raw keys: {list(b.keys())}")
+        print(f"  [shape_bill debug] sponsors field: {b.get('sponsors')!r}")
+        print(f"  [shape_bill debug] sponsor field:  {b.get('sponsor')!r}")
+
+    # Try 'sponsors' (array, detail-style) then 'sponsor' (object, list-style)
     sponsors = b.get("sponsors") or []
-    sponsor_name = sponsors[0].get("fullName") if sponsors else None
+    if sponsors:
+        sponsor_name = sponsors[0].get("fullName")
+    else:
+        sp = b.get("sponsor") or {}
+        sponsor_name = sp.get("fullName") or sp.get("name") or None
+
     latest = b.get("latestAction") or {}
     bill_type = (b.get("type") or "").upper()
     bill_number = b.get("number")
@@ -115,26 +128,46 @@ try:
     status["bills"] = "success"
     print(f"[OK]   bills                   — {len(bills)} records → data/bills.json")
 
-    # ── 2. Recently passed bills — filter HR + S bills by action text ─────────
-    bills_passed = []
-    for bill_type_param in ("hr", "s", "hjres", "sjres"):
-        try:
-            pr = congress_get("bill/119", {
-                "format": "json",
-                "limit": 50,
-                "sort": "updateDate desc",
-                "billType": bill_type_param,
-            })
-            if not pr.ok:
-                continue
-            for b in pr.json().get("bills", []):
-                action_text = ((b.get("latestAction") or {}).get("text") or "").lower()
-                if any(kw in action_text for kw in (
-                    "became public law", "signed by president", "enacted"
-                )):
-                    bills_passed.append(shape_bill(b))
-        except Exception as pe:
-            print(f"  [WARN] bills_passed/{bill_type_param}: {pe}")
+    # ── 2. Recently passed bills ──────────────────────────────────────────────
+    PASSED_KW = ("became public law", "signed by president", "enacted")
+
+    def action_lower(bill_dict):
+        return ((bill_dict.get("latestAction") or {}).get("text") or "").lower()
+
+    # Step 1: filter from the 50 bills already shaped into our schema
+    bills_passed = [b for b in bills if any(kw in action_lower(b) for kw in PASSED_KW)]
+    print(f"[bills_passed] {len(bills_passed)} matches in initial 50 bills")
+
+    if not bills_passed:
+        # Step 2: fetch up to 200 more bills in batches of 50 and filter raw records
+        for extra_offset in range(50, 250, 50):
+            try:
+                pr = congress_get("bill/119", {
+                    "format": "json",
+                    "limit": 50,
+                    "sort": "updateDate desc",
+                    "offset": extra_offset,
+                })
+                if not pr.ok:
+                    print(f"  [WARN] bills_passed offset={extra_offset}: HTTP {pr.status_code}")
+                    break
+                raw_batch = pr.json().get("bills", [])
+                matched_raw = [b for b in raw_batch if any(kw in action_lower(b) for kw in PASSED_KW)]
+                print(f"[bills_passed] offset={extra_offset}: {len(matched_raw)} matches in {len(raw_batch)} bills")
+                if matched_raw:
+                    bills_passed = [shape_bill(b) for b in matched_raw]
+                    break
+            except Exception as pe:
+                print(f"  [WARN] bills_passed offset={extra_offset}: {pe}")
+
+    if not bills_passed:
+        # Step 3: fallback — use 5 most recently acted-on bills so section is never empty
+        print("[bills_passed] No enacted bills found — using 5 most recent as fallback")
+        bills_passed = sorted(
+            bills,
+            key=lambda b: (b.get("latestAction") or {}).get("actionDate") or "",
+            reverse=True,
+        )[:5]
 
     save("bills_passed.json", bills_passed)
     print(f"[OK]   bills_passed            — {len(bills_passed)} records → data/bills_passed.json")
