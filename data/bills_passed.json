@@ -1,72 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "8873",
+    "number": "9075",
     "type": "HR",
-    "title": "Recover COVID Unemployment Fraud in Banks Act",
+    "title": "Tax the Grift Act",
     "latestAction": {
-      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 41 - 0.",
-      "actionDate": "2026-05-21"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "8872",
-    "type": "HR",
-    "title": "Preventing Waste, Fraud, and Abuse in TANF Act",
-    "latestAction": {
-      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 19.",
-      "actionDate": "2026-05-21"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
-    "number": "747",
-    "type": "SRES",
-    "title": "A resolution expressing support for the designation of May 2026 as \"Renewable Fuels Month\" to recognize the important role that renewable fuels play in lowering fuel prices for consumers, lessening reliance on foreign adversaries, supporting rural communities, and reducing carbon impacts.",
-    "latestAction": {
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S2435; text: CR S2445)",
-      "actionDate": "2026-05-21"
-    },
-    "updateDate": "2026-05-29",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "1315",
-    "type": "HRES",
-    "title": "Expressing support for the designation of May 2026 as \"Renewable Fuels Month\" to recognize the important role that renewable fuels play in lowering fuel prices for consumers, lessening reliance on foreign adversaries, supporting rural communities, and reducing carbon impacts.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-05-21"
-    },
-    "updateDate": "2026-05-29",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "4601",
-    "type": "S",
-    "title": "Chinese CBDC Prohibition Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-05-20"
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9076",
+    "type": "HR",
+    "title": "Postal Data Privacy Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1326",
+    "type": "HRES",
+    "title": "Denouncing corruption in all its forms.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1329",
+    "type": "HRES",
+    "title": "Expressing support for the designation of May 2026 as \"Mental Health Awareness Month\".",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 19,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "1328",
+    "type": "HRES",
+    "title": "Honoring the 80th anniversary of United States-Philippine relations.",
+    "latestAction": {
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 3
   }
 ]
