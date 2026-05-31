@@ -1,16 +1,58 @@
 [
   {
     "congress": 119,
-    "number": "9075",
+    "number": "8872",
     "type": "HR",
-    "title": "Tax the Grift Act",
+    "title": "Preventing Waste, Fraud, and Abuse in TANF Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
+      "text": "Placed on the Union Calendar, Calendar No. 584.",
       "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 8
+  },
+  {
+    "congress": 119,
+    "number": "8873",
+    "type": "HR",
+    "title": "Recover COVID Unemployment Fraud in Banks Act",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 585.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9066",
+    "type": "HR",
+    "title": "To authorize the Attorney General to establish a hate crime prevention grant, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9057",
+    "type": "HR",
+    "title": "To require origin and location disclosure for new products of Foreign origin offered for sale on the internet.",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -26,47 +68,5 @@
     "sponsor": null,
     "democratCosponsors": 4,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1326",
-    "type": "HRES",
-    "title": "Denouncing corruption in all its forms.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Oversight and Government Reform.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1329",
-    "type": "HRES",
-    "title": "Expressing support for the designation of May 2026 as \"Mental Health Awareness Month\".",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 19,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "1328",
-    "type": "HRES",
-    "title": "Honoring the 80th anniversary of United States-Philippine relations.",
-    "latestAction": {
-      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 3
   }
 ]
