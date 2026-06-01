@@ -8,7 +8,7 @@
       "text": "Placed on the Union Calendar, Calendar No. 584.",
       "actionDate": "2026-05-29"
     },
-    "updateDate": "2026-05-30",
+    "updateDate": "2026-06-01",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 8
@@ -29,17 +29,31 @@
   },
   {
     "congress": 119,
-    "number": "9066",
+    "number": "9077",
     "type": "HR",
-    "title": "To authorize the Attorney General to establish a hate crime prevention grant, and for other purposes.",
+    "title": "To direct the Director of the National Institutes of Health and the Secretary of Health and Human Services to evaluate hormone variability and hormone testing, respectively, in women with respect to perimenopause.",
     "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
+      "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9052",
+    "type": "HR",
+    "title": "To amend the Small Business Act to include requirements relating to apprenticeship program assistance for small business development centers, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Small Business.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -53,20 +67,6 @@
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9076",
-    "type": "HR",
-    "title": "Postal Data Privacy Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 4,
     "republicanCosponsors": 0
   }
 ]

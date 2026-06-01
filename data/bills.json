@@ -1,16 +1,86 @@
 [
   {
     "congress": 119,
-    "number": "2913",
+    "number": "8872",
     "type": "HR",
-    "title": "Ukraine Support Act",
+    "title": "Preventing Waste, Fraud, and Abuse in TANF Act",
     "latestAction": {
-      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Transportation and Infrastructure, Intelligence (Permanent Select), Ways and Means, Rules, the Judiciary, Financial Services, Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-04-14"
+      "text": "Placed on the Union Calendar, Calendar No. 584.",
+      "actionDate": "2026-05-29"
     },
-    "updateDate": "2026-05-30",
+    "updateDate": "2026-06-01",
     "sponsor": null,
-    "democratCosponsors": 20,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 8
+  },
+  {
+    "congress": 119,
+    "number": "2359",
+    "type": "HR",
+    "title": "Improve Transparency and Stability for Families and Children Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-03-26"
+    },
+    "updateDate": "2026-06-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "2242",
+    "type": "HR",
+    "title": "Eliminating Fraud and Improper Payments in TANF Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-03-21"
+    },
+    "updateDate": "2026-06-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "7892",
+    "type": "HR",
+    "title": "No Aid for Ghost Students Act of 2026",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 583.",
+      "actionDate": "2026-05-26"
+    },
+    "updateDate": "2026-06-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "4428",
+    "type": "S",
+    "title": "No Aid for Ghost Students Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-04-29"
+    },
+    "updateDate": "2026-06-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "518",
+    "type": "HRES",
+    "title": "Providing for consideration of the bill (H.R. 2913) to authorize support for Ukraine, and for other purposes.",
+    "latestAction": {
+      "text": "Motion to discharge the Committee on Rules filed by Mr. Meeks. Assigned to the Discharge Calendar, Calendar No. 6.",
+      "actionDate": "2026-05-13"
+    },
+    "updateDate": "2026-06-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -29,82 +99,26 @@
   },
   {
     "congress": 119,
-    "number": "8872",
+    "number": "2913",
     "type": "HR",
-    "title": "Preventing Waste, Fraud, and Abuse in TANF Act",
+    "title": "Ukraine Support Act",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 584.",
-      "actionDate": "2026-05-29"
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Transportation and Infrastructure, Intelligence (Permanent Select), Ways and Means, Rules, the Judiciary, Financial Services, Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2025-04-14"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
-    "number": "7891",
-    "type": "HR",
-    "title": "Student Aid Fraud Oversight and Accountability Act of 2026",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 582.",
-      "actionDate": "2026-05-26"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "7981",
-    "type": "HR",
-    "title": "Stop Secret Counseling of Students Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-03-18"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 20,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "1567",
-    "type": "S",
+    "number": "3156",
+    "type": "HR",
     "title": "Jobs and Opportunity with Benefits and Services (JOBS) for Success Act of 2025",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
+      "text": "Referred to the House Committee on Ways and Means.",
       "actionDate": "2025-05-01"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2397",
-    "type": "HR",
-    "title": "Targeting TANF to Families in Need Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2025-03-27"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2359",
-    "type": "HR",
-    "title": "Improve Transparency and Stability for Families and Children Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2025-03-26"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
@@ -113,12 +127,12 @@
   },
   {
     "congress": 119,
-    "number": "1156",
+    "number": "1163",
     "type": "HR",
-    "title": "Pandemic Unemployment Fraud Enforcement Act",
+    "title": "Prove It Act",
     "latestAction": {
-      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 29.",
-      "actionDate": "2025-03-13"
+      "text": "Placed on the Union Calendar, Calendar No. 552.",
+      "actionDate": "2026-05-04"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
@@ -141,31 +155,31 @@
   },
   {
     "congress": 119,
-    "number": "7892",
+    "number": "2397",
     "type": "HR",
-    "title": "No Aid for Ghost Students Act of 2026",
+    "title": "Targeting TANF to Families in Need Act",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 583.",
-      "actionDate": "2026-05-26"
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-03-27"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 4
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "2242",
+    "number": "1156",
     "type": "HR",
-    "title": "Eliminating Fraud and Improper Payments in TANF Act",
+    "title": "Pandemic Unemployment Fraud Enforcement Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2025-03-21"
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 29.",
+      "actionDate": "2025-03-13"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 3
+    "republicanCosponsors": 20
   },
   {
     "congress": 119,
@@ -183,17 +197,45 @@
   },
   {
     "congress": 119,
-    "number": "3156",
+    "number": "2108",
     "type": "HR",
-    "title": "Jobs and Opportunity with Benefits and Services (JOBS) for Success Act of 2025",
+    "title": "TANF State Expenditure Integrity Act of 2025",
     "latestAction": {
       "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-03-14"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1567",
+    "type": "S",
+    "title": "Jobs and Opportunity with Benefits and Services (JOBS) for Success Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
       "actionDate": "2025-05-01"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 2
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7981",
+    "type": "HR",
+    "title": "Stop Secret Counseling of Students Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-03-18"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -211,45 +253,31 @@
   },
   {
     "congress": 119,
-    "number": "2108",
+    "number": "7891",
     "type": "HR",
-    "title": "TANF State Expenditure Integrity Act of 2025",
+    "title": "Student Aid Fraud Oversight and Accountability Act of 2026",
     "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2025-03-14"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1163",
-    "type": "HR",
-    "title": "Prove It Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 552.",
-      "actionDate": "2026-05-04"
+      "text": "Placed on the Union Calendar, Calendar No. 582.",
+      "actionDate": "2026-05-26"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 20
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "7343",
+    "number": "7463",
     "type": "HR",
-    "title": "Foster Youth Workforce Opportunity Act",
+    "title": "Foster Youth Postsecondary Education Access and Success Act",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 556.",
-      "actionDate": "2026-05-11"
+      "text": "Placed on the Union Calendar, Calendar No. 555.",
+      "actionDate": "2026-05-07"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 4
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -267,17 +295,31 @@
   },
   {
     "congress": 119,
-    "number": "7463",
+    "number": "7529",
     "type": "HR",
-    "title": "Foster Youth Postsecondary Education Access and Success Act",
+    "title": "Fresh Starts for Foster Youth Act",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 555.",
-      "actionDate": "2026-05-07"
+      "text": "Placed on the Union Calendar, Calendar No. 557.",
+      "actionDate": "2026-05-11"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "7343",
+    "type": "HR",
+    "title": "Foster Youth Workforce Opportunity Act",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 556.",
+      "actionDate": "2026-05-11"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 4
   },
   {
     "congress": 119,
@@ -309,20 +351,6 @@
   },
   {
     "congress": 119,
-    "number": "7529",
-    "type": "HR",
-    "title": "Fresh Starts for Foster Youth Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 557.",
-      "actionDate": "2026-05-11"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
     "number": "1299",
     "type": "HRES",
     "title": "21st Century ROAD to Housing Act",
@@ -333,6 +361,20 @@
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8495",
+    "type": "HR",
+    "title": "Financial Services and General Government Appropriations Act, 2027",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 540.",
+      "actionDate": "2026-04-24"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -365,16 +407,16 @@
   },
   {
     "congress": 119,
-    "number": "8495",
-    "type": "HR",
-    "title": "Financial Services and General Government Appropriations Act, 2027",
+    "number": "1836",
+    "type": "S",
+    "title": "SMART Prices Act",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 540.",
-      "actionDate": "2026-04-24"
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-05-21"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 19,
     "republicanCosponsors": 0
   },
   {
@@ -393,25 +435,11 @@
   },
   {
     "congress": 119,
-    "number": "1836",
-    "type": "S",
-    "title": "SMART Prices Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-05-21"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 19,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9066",
+    "number": "9077",
     "type": "HR",
-    "title": "To authorize the Attorney General to establish a hate crime prevention grant, and for other purposes.",
+    "title": "To direct the Director of the National Institutes of Health and the Secretary of Health and Human Services to evaluate hormone variability and hormone testing, respectively, in women with respect to perimenopause.",
     "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
+      "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
@@ -421,53 +449,25 @@
   },
   {
     "congress": 119,
-    "number": "9057",
+    "number": "9052",
     "type": "HR",
-    "title": "To require origin and location disclosure for new products of Foreign origin offered for sale on the internet.",
+    "title": "To amend the Small Business Act to include requirements relating to apprenticeship program assistance for small business development centers, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "text": "Referred to the House Committee on Small Business.",
       "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 1,
-    "republicanCosponsors": 0
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "9076",
+    "number": "9057",
     "type": "HR",
-    "title": "Postal Data Privacy Act of 2026",
+    "title": "To require origin and location disclosure for new products of Foreign origin offered for sale on the internet.",
     "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9049",
-    "type": "HR",
-    "title": "To amend the Federal Election Campaign Act of 1971 to require political committees to file separate reports for contributions of $1,000 or more which are received fewer than 20 days before the date of any election in which the committee makes a contribution to, or an expenditure or electioneering communication on behalf of or in opposition to, a candidate or political party in the election, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on House Administration.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9055",
-    "type": "HR",
-    "title": "To amend title 38, United States Code, to increase burial and funeral expenses paid by the Secretary of Veterans Affairs in the case of death from a service-connected disability, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Veterans' Affairs.",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
@@ -491,58 +491,16 @@
   },
   {
     "congress": 119,
-    "number": "9075",
+    "number": "9055",
     "type": "HR",
-    "title": "Tax the Grift Act",
+    "title": "To amend title 38, United States Code, to increase burial and funeral expenses paid by the Secretary of Veterans Affairs in the case of death from a service-connected disability, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9078",
-    "type": "HR",
-    "title": "To amend the Omnibus Crime Control and Safe Streets Act to include reporting requirements of felony convictions related to animal cruelty, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "9048",
-    "type": "HR",
-    "title": "To amend the Federal Food, Drug, and Cosmetic Act to include gluten-containing grain in the definition of a major food allergen.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
+      "text": "Referred to the House Committee on Veterans' Affairs.",
       "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9046",
-    "type": "HR",
-    "title": "To require the Secretary of Defense to conduct a study on members of the Armed Forces who separated from the Armed Forces due to the mandate to receive the COVID-19 vaccine and the transfer of education benefits by such members, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Armed Services.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -561,16 +519,16 @@
   },
   {
     "congress": 119,
-    "number": "9077",
+    "number": "9049",
     "type": "HR",
-    "title": "To direct the Director of the National Institutes of Health and the Secretary of Health and Human Services to evaluate hormone variability and hormone testing, respectively, in women with respect to perimenopause.",
+    "title": "To amend the Federal Election Campaign Act of 1971 to require political committees to file separate reports for contributions of $1,000 or more which are received fewer than 20 days before the date of any election in which the committee makes a contribution to, or an expenditure or electioneering communication on behalf of or in opposition to, a candidate or political party in the election, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
+      "text": "Referred to the House Committee on House Administration.",
       "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 2,
     "republicanCosponsors": 0
   },
   {
@@ -589,17 +547,31 @@
   },
   {
     "congress": 119,
-    "number": "9050",
+    "number": "9045",
     "type": "HR",
-    "title": "To require the Administrator of the Small Business Administration to establish an Innovation Voucher Grant Program.",
+    "title": "To direct the Secretary of Health and Human Services to identify, review, and implement effective interventions in Head Start programs, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on Small Business.",
+      "text": "Referred to the House Committee on Education and Workforce.",
       "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9080",
+    "type": "HR",
+    "title": "To establish a contracting preference for public buildings that use innovative wood products in the construction of those buildings, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -617,9 +589,65 @@
   },
   {
     "congress": 119,
-    "number": "9045",
+    "number": "9078",
     "type": "HR",
-    "title": "To direct the Secretary of Health and Human Services to identify, review, and implement effective interventions in Head Start programs, and for other purposes.",
+    "title": "To amend the Omnibus Crime Control and Safe Streets Act to include reporting requirements of felony convictions related to animal cruelty, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "9072",
+    "type": "HR",
+    "title": "To amend the United States Housing Act of 1937 to alter the eligibility requirements for eligible youths to receive tenant-based rental assistance, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Financial Services.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "9064",
+    "type": "HR",
+    "title": "To amend the Internal Revenue Code of 1986 to temporarily increase the capital gains exclusion for any qualifying senior who sells a principal residence during a qualifying year, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9079",
+    "type": "HR",
+    "title": "To amend title 10, United States Code, to prohibit the appointment or enlistment into the Armed Forces of foreign nationals from certain adversary countries, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Armed Services.",
+      "actionDate": "2026-05-29"
+    },
+    "updateDate": "2026-05-30",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "9074",
+    "type": "HR",
+    "title": "To require an institution of higher education to file a disclosure report with the Secretary of Education whenever such institution receives a gift from or enters into a contract with a foreign source, the value of which is $50,000 or more, and for other purposes.",
     "latestAction": {
       "text": "Referred to the House Committee on Education and Workforce.",
       "actionDate": "2026-05-29"
@@ -645,11 +673,11 @@
   },
   {
     "congress": 119,
-    "number": "9067",
+    "number": "9046",
     "type": "HR",
-    "title": "To amend the Communications Act of 1934 to provide for a gender identity content descriptor for video programming, and for other purposes.",
+    "title": "To require the Secretary of Defense to conduct a study on members of the Armed Forces who separated from the Armed Forces due to the mandate to receive the COVID-19 vaccine and the transfer of education benefits by such members, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
+      "text": "Referred to the House Committee on Armed Services.",
       "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
@@ -659,39 +687,11 @@
   },
   {
     "congress": 119,
-    "number": "9070",
+    "number": "9082",
     "type": "HR",
-    "title": "To improve immigration enforcement transparency, preserve civil rights, and improve the accountability of immigration enforcement personnel, and for other purposes.",
+    "title": "To prohibit the use of prediction markets by Department of Defense personnel, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9081",
-    "type": "HR",
-    "title": "To amend the Employee Retirement Income Security Act of 1974 to allow health marketplace pools to be deemed an employer under section 3(5) of such Act for purposes of offering a group health plan or group health insurance coverage, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-05-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9064",
-    "type": "HR",
-    "title": "To amend the Internal Revenue Code of 1986 to temporarily increase the capital gains exclusion for any qualifying senior who sells a principal residence during a qualifying year, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
+      "text": "Referred to the House Committee on Armed Services.",
       "actionDate": "2026-05-29"
     },
     "updateDate": "2026-05-30",
