@@ -96,6 +96,12 @@
     "contribution_receipt_date": "2026-03-17"
   },
   {
+    "contributor_name": "HENDRICKS, DIANE",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2026-03-16"
+  },
+  {
     "contributor_name": "A16Z CAPITAL MANAGEMENT LLC",
     "contribution_receipt_amount": 25000000.0,
     "committee_name": "LEADING THE FUTURE",
@@ -498,6 +504,12 @@
     "contribution_receipt_date": "2025-06-26"
   },
   {
+    "contributor_name": "A16Z CAPITAL MANAGEMENT LLC",
+    "contribution_receipt_amount": 6000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2026-03-10"
+  },
+  {
     "contributor_name": "FANDUEL INC",
     "contribution_receipt_amount": 6000000.0,
     "committee_name": "WIN FOR AMERICA",
@@ -586,17 +598,5 @@
     "contribution_receipt_amount": 5000000.0,
     "committee_name": "MAGA INC.",
     "contribution_receipt_date": "2025-01-14"
-  },
-  {
-    "contributor_name": "TOOLS FOR HUMANITY CORPORATION",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "MAGA INC.",
-    "contribution_receipt_date": "2025-01-14"
-  },
-  {
-    "contributor_name": "SPRECHER, JEFFREY C",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "MAGA INC.",
-    "contribution_receipt_date": "2025-06-25"
   }
 ]

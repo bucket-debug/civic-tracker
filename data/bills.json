@@ -1,619 +1,171 @@
 [
   {
     "congress": 119,
-    "number": "7272",
-    "type": "HR",
-    "title": "Pipeline Cybersecurity Preparedness Act",
+    "number": "1299",
+    "type": "HRES",
+    "title": "21st Century ROAD to Housing Act",
     "latestAction": {
-      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
-      "actionDate": "2026-02-04"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "3766",
-    "type": "HR",
-    "title": "To prohibit the District of Columbia from requiring tribunals in court or administrative proceedings in the District of Columbia to defer to the Mayor of the District of Columbia's interpretation of statutes and regulations, and for other purposes.",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 565.",
-      "actionDate": "2026-05-13"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "7305",
-    "type": "HR",
-    "title": "Energy Threat Analysis Center Act of 2026",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 563.",
-      "actionDate": "2026-05-12"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2126",
-    "type": "S",
-    "title": "Integrated Ocean Observation System Reauthorization Act of 2025",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 405.",
-      "actionDate": "2026-05-11"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "7257",
-    "type": "HR",
-    "title": "SECURE Grid Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 561.",
-      "actionDate": "2026-05-11"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "7258",
-    "type": "HR",
-    "title": "Energy Emergency Leadership Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 562.",
-      "actionDate": "2026-05-11"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "2294",
-    "type": "HR",
-    "title": "To reauthorize the Integrated Coastal and Ocean Observation System Act of 2009.",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-03-17"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 14,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "7266",
-    "type": "HR",
-    "title": "Rural and Municipal Utility Cybersecurity Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 545.",
-      "actionDate": "2026-04-30"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4588",
-    "type": "S",
-    "title": "Taxing Buybacks from Big Oil Windfalls Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "actionDate": "2026-05-20"
     },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 15,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3682",
-    "type": "S",
-    "title": "Power for the People Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-      "actionDate": "2026-01-15"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4551",
-    "type": "S",
-    "title": "Restoring Overtime Pay Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-05-18"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3473",
-    "type": "S",
-    "title": "MAP for Care Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-12-15"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4367",
-    "type": "S",
-    "title": "Hot Rotisserie Chicken Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-      "actionDate": "2026-04-21"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "3452",
-    "type": "S",
-    "title": "Biological Intellectual Property Protection Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2025-12-11"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "3397",
-    "type": "S",
-    "title": "ECCHO Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-12-09"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "3332",
-    "type": "S",
-    "title": "More Homes on the Market Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-12-03"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
-    "number": "3581",
-    "type": "S",
-    "title": "No Settlements for January 6 Law Enforcement Assaulters Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-01-06"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2667",
-    "type": "S",
-    "title": "West Bank Violence Prevention Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2025-08-01"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2666",
-    "type": "S",
-    "title": "Foreign Robocall Elimination Act",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 422.",
-      "actionDate": "2026-06-01"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2831",
-    "type": "S",
-    "title": "Stand Strong for Medicare Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-09-17"
-    },
-    "updateDate": "2026-06-02",
+    "updateDate": "2026-06-03",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "3062",
-    "type": "S",
-    "title": "GUARD Act",
+    "number": "1041",
+    "type": "HR",
+    "title": "Veterans 2nd Amendment Protection Act",
     "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.",
-      "actionDate": "2026-05-11"
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2026-06-02"
     },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 14,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "3398",
-    "type": "S",
-    "title": "Stop Sextortion Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-12-09"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
-    "number": "3284",
-    "type": "S",
-    "title": "Streamline Transit Projects Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2025-12-01"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4480",
-    "type": "S",
-    "title": "Optimizing Postpartum Outcomes Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-05-11"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "3582",
-    "type": "S",
-    "title": "No Rewards for January 6 Rioters Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-01-06"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4329",
-    "type": "S",
-    "title": "Title X Abortion Provider Prohibition Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-04-16"
-    },
-    "updateDate": "2026-06-02",
+    "updateDate": "2026-06-03",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 20
   },
   {
     "congress": 119,
-    "number": "3209",
-    "type": "S",
-    "title": "NOPAIN for Veterans Act",
+    "number": "6644",
+    "type": "HR",
+    "title": "21st Century ROAD to Housing Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
-      "actionDate": "2025-11-19"
+      "text": "Message on House action received in Senate and at desk: House amendment to Senate amendment.",
+      "actionDate": "2026-06-02"
     },
-    "updateDate": "2026-06-02",
+    "updateDate": "2026-06-03",
     "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "4172",
-    "type": "S",
-    "title": "AFTER Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (Sponsor introductory remarks on measure: CR S1581-1582)",
-      "actionDate": "2026-03-24"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3394",
-    "type": "S",
-    "title": "SAFE Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-12-09"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "3267",
-    "type": "S",
-    "title": "ASAP Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S8278-8279)",
-      "actionDate": "2025-11-20"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 14
-  },
-  {
-    "congress": 119,
-    "number": "3220",
-    "type": "S",
-    "title": "VISIT USA Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2025-11-19"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "4009",
-    "type": "S",
-    "title": "Falun Gong and Victims of Forced Organ Harvesting Protection Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2026-03-05"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "494",
-    "type": "S",
-    "title": "National Plan for Epilepsy Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-02-10"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 14,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "2448",
-    "type": "S",
-    "title": "Health Care Fairness for Military Families Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Armed Services.",
-      "actionDate": "2025-07-24"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2096",
-    "type": "S",
-    "title": "Daniel J. Harvey, Jr. and Adam Lambert Improving Servicemember Transition to Reduce Veteran Suicide Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
-      "actionDate": "2025-06-17"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 14,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "2265",
-    "type": "S",
-    "title": "America's Olympic and Paralympic Games Commemorative Coins Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S4337-4338)",
-      "actionDate": "2025-07-14"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 12,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
-    "number": "323",
-    "type": "S",
-    "title": "PLAN for Broadband Act",
-    "latestAction": {
-      "text": "By Senator Cruz from Committee on Commerce, Science, and Transportation filed written report. Report No. 119-123. Minority views filed.",
-      "actionDate": "2026-06-01"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1441",
-    "type": "S",
-    "title": "SAVES Act of 2025",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.",
-      "actionDate": "2026-02-24"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 16,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "736",
-    "type": "S",
-    "title": "Lieutenant Osvaldo Albarati Stopping Prison Contraband Act",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 410.",
-      "actionDate": "2026-05-19"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
-    "number": "942",
-    "type": "S",
-    "title": "REDI Act",
-    "latestAction": {
-      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
-      "actionDate": "2026-03-19"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 12,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "1814",
-    "type": "S",
-    "title": "Supreme Court Ethics, Recusal, and Transparency Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-05-20"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 19,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1339",
-    "type": "S",
-    "title": "Stop CCP Money Laundering Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2025-04-08"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "1829",
-    "type": "S",
-    "title": "STOP CSAM Act of 2025",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 106.",
-      "actionDate": "2025-06-26"
-    },
-    "updateDate": "2026-06-02",
-    "sponsor": null,
-    "democratCosponsors": 8,
+    "democratCosponsors": 11,
     "republicanCosponsors": 9
   },
   {
     "congress": 119,
-    "number": "142",
-    "type": "S",
-    "title": "Wildland Firefighters Congressional Gold Medal Act",
+    "number": "6047",
+    "type": "HR",
+    "title": "Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S231-232)",
-      "actionDate": "2025-01-16"
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2026-06-02"
     },
-    "updateDate": "2026-06-02",
+    "updateDate": "2026-06-03",
     "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 8
+    "democratCosponsors": 0,
+    "republicanCosponsors": 14
+  },
+  {
+    "congress": 119,
+    "number": "4586",
+    "type": "S",
+    "title": "Blocking CCP Spy Tech Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Select Committee on Intelligence.",
+      "actionDate": "2026-05-20"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "4464",
+    "type": "S",
+    "title": "FAIR Labels Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "actionDate": "2026-04-30"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "4535",
+    "type": "S",
+    "title": "Strength in Diversity Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-05-14"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4454",
+    "type": "S",
+    "title": "Firearm Safety Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-04-30"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1716",
+    "type": "S",
+    "title": "Vision Lab Choice Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-05-12"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 10
+  },
+  {
+    "congress": 119,
+    "number": "3524",
+    "type": "S",
+    "title": "American Battlefield Protection Program Amendments Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2025-12-17"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "1296",
+    "type": "S",
+    "title": "DETERRENT Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-04-03"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 20
+  },
+  {
+    "congress": 119,
+    "number": "1404",
+    "type": "S",
+    "title": "Combating Organized Retail Crime Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2025-04-10"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 14
   },
   {
     "congress": 119,
@@ -624,38 +176,136 @@
       "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "actionDate": "2025-04-30"
     },
-    "updateDate": "2026-06-02",
+    "updateDate": "2026-06-03",
     "sponsor": null,
     "democratCosponsors": 9,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "4421",
+    "type": "S",
+    "title": "NOPE Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-04-28"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "1847",
+    "type": "S",
+    "title": "Association Health Plans Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-05-21"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 6
+  },
+  {
+    "congress": 119,
+    "number": "4121",
+    "type": "S",
+    "title": "Vote Without Fear Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-03-17"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3226",
+    "type": "S",
+    "title": "Bring Our Heroes Home Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2025-11-19"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "2355",
+    "type": "S",
+    "title": "Patients Deserve Price Tags Act",
+    "latestAction": {
+      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "actionDate": "2026-03-19"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 10,
     "republicanCosponsors": 10
   },
   {
     "congress": 119,
-    "number": "881",
+    "number": "3267",
     "type": "S",
-    "title": "Renewable Fuel for Ocean-Going Vessels Act",
+    "title": "ASAP Act",
     "latestAction": {
-      "text": "Committee on Environment and Public Works. Hearings held.",
-      "actionDate": "2025-09-10"
+      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S8278-8279)",
+      "actionDate": "2025-11-20"
     },
-    "updateDate": "2026-06-02",
+    "updateDate": "2026-06-03",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 3
+    "democratCosponsors": 6,
+    "republicanCosponsors": 14
   },
   {
     "congress": 119,
-    "number": "419",
+    "number": "1705",
     "type": "S",
-    "title": "Reauthorizing Support and Treatment for Officers in Crisis Act of 2025",
+    "title": "Chip Security Act",
     "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.",
-      "actionDate": "2025-05-20"
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2025-05-08"
     },
-    "updateDate": "2026-06-02",
+    "updateDate": "2026-06-03",
     "sponsor": null,
-    "democratCosponsors": 11,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 9
+  },
+  {
+    "congress": 119,
+    "number": "3981",
+    "type": "S",
+    "title": "BRAVE Burma Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-03-04"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 4,
     "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "1441",
+    "type": "S",
+    "title": "SAVES Act of 2025",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.",
+      "actionDate": "2026-02-24"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 16,
+    "republicanCosponsors": 3
   },
   {
     "congress": 119,
@@ -666,37 +316,387 @@
       "text": "Read twice and referred to the Committee on Finance.",
       "actionDate": "2025-06-12"
     },
-    "updateDate": "2026-06-02",
+    "updateDate": "2026-06-03",
     "sponsor": null,
     "democratCosponsors": 18,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "4616",
+    "number": "1182",
     "type": "S",
-    "title": "SLUSH FUND Act of 2026",
+    "title": "Stop Antisemitism on College Campuses Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-03-27"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 7
+  },
+  {
+    "congress": 119,
+    "number": "737",
+    "type": "S",
+    "title": "SCREEN Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2025-02-26"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "2903",
+    "type": "S",
+    "title": "Safe Step Act",
+    "latestAction": {
+      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "actionDate": "2026-03-19"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 13,
+    "republicanCosponsors": 7
+  },
+  {
+    "congress": 119,
+    "number": "1547",
+    "type": "S",
+    "title": "America the Beautiful Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2025-05-01"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 10
+  },
+  {
+    "congress": 119,
+    "number": "1335",
+    "type": "S",
+    "title": "Secure Family Futures Act of 2025",
     "latestAction": {
       "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-05-21"
+      "actionDate": "2025-04-08"
     },
-    "updateDate": "2026-06-02",
+    "updateDate": "2026-06-03",
     "sponsor": null,
-    "democratCosponsors": 2,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 6
+  },
+  {
+    "congress": 119,
+    "number": "180",
+    "type": "S",
+    "title": "Protecting First Responders from Secondary Exposure Act of 2025",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 77.",
+      "actionDate": "2025-05-20"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "1500",
+    "type": "S",
+    "title": "Access to Breast Cancer Diagnosis Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-04-28"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "1748",
+    "type": "S",
+    "title": "Kids Online Safety Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S2929-2930)",
+      "actionDate": "2025-05-14"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 10
+  },
+  {
+    "congress": 119,
+    "number": "2298",
+    "type": "S",
+    "title": "Asunci\u00f3n Valdivia Heat Illness, Injury, and Fatality Prevention Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S4421-4422)",
+      "actionDate": "2025-07-16"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 19,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "4567",
+    "number": "3323",
     "type": "S",
-    "title": "Loan Forgiveness for Educators Act of 2026",
+    "title": "Family Vaccine Protection Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-05-19"
+      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "actionDate": "2026-03-19"
     },
-    "updateDate": "2026-06-02",
+    "updateDate": "2026-06-03",
     "sponsor": null,
-    "democratCosponsors": 13,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1186",
+    "type": "S",
+    "title": "Lower Drug Costs for Families Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-03-27"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 12,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9103",
+    "type": "HR",
+    "title": "To prohibit Federal research agencies and recipients of Federal research grants from using a prohibited diversity, equity, or inclusion practice with respect to Federal research grants, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9099",
+    "type": "HR",
+    "title": "DHS Release Transparency Act",
+    "latestAction": {
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9094",
+    "type": "HR",
+    "title": "To appropriate sums for the Secretary of Agriculture to provide block grants to States for losses of revenue as a consequence of certain freezes or cold weather conditions.",
+    "latestAction": {
+      "text": "Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 13
+  },
+  {
+    "congress": 119,
+    "number": "9093",
+    "type": "HR",
+    "title": "To require a report regarding the scope of efforts by the People's Republic of China and Chinese Communist Party to utilize the Belt and Road Initiative to undermine the United States-led international world order and a detailed strategy regarding how the United States Government intends to counter such Initiative, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Foreign Affairs.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9084",
+    "type": "HR",
+    "title": "To increase transparency relating to the Department of Energy's authorizations of certain nuclear facilities.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9096",
+    "type": "HR",
+    "title": "To amend the Immigration and Nationality Act to revoke the citizenship of any naturalized United States citizen convicted of a terrorism-related crime.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9107",
+    "type": "HR",
+    "title": "To amend the Patient Protection and Affordable Care Act to provide that qualified health plans are not required to use a provider network.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "9100",
+    "type": "HR",
+    "title": "Modernizing Agricultural and Manufacturing Bonds Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9095",
+    "type": "HR",
+    "title": "To protect the constitutional right to trial and discourage imposition of extended sentences for defendants who elect to go to trial instead of accepting a plea offer, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9109",
+    "type": "HR",
+    "title": "To designate Antifa as a domestic terrorist organization, to counter domestic terrorism and organized political violence, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, Ways and Means, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9086",
+    "type": "HR",
+    "title": "Foreign Service Modernization Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "190",
+    "type": "HJRES",
+    "title": "Proposing an amendment to the Constitution of the United States to clarify the 14th amendment does not provide for automatic citizenship for the children of aliens.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9106",
+    "type": "HR",
+    "title": "To authorize the President to award the Medal of Honor to Robert Lodge for acts of valor as a member of the Air Force during the Vietnam War.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Armed Services.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "9105",
+    "type": "HR",
+    "title": "To reinstate criminal penalties for persons charging veterans unauthorized fees relating to claims for benefits under the laws administered by the Secretary of Veterans Affairs, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "9090",
+    "type": "HR",
+    "title": "Advancing Menopause Care and Mid-Life Women\u2019s Health Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9110",
+    "type": "HR",
+    "title": "To amend the Federal Election Campaign Act of 1971 to require a disclaimer for certain communications paid for by a political committee, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on House Administration.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-06-03",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   }
 ]
