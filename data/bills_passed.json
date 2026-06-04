@@ -1,72 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "1041",
-    "type": "HR",
-    "title": "Veterans 2nd Amendment Protection Act",
+    "number": "1333",
+    "type": "HRES",
+    "title": "Providing for consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 7726) to amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under such Act; providing for consideration of the bill (H.R. 7892) to amend the Higher Education Act of 1965 to require to the Secretary of Education to use an identity fraud detection system to review each FAFSA to determine whether the FAFSA presents a reasonable suspicion of identity fraud; and providing for consideration of the bill (H.R. 8872) to amend part A of title IV of the Social Security Act to target funds to low-income families, strengthen program integrity guardrails for State expenditure of funds, require measurement of improper payments, and establish goals for eliminating fraud and improper payments under the program of block grants to States for temporary assistance for needy families, and for other purposes.",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
-      "actionDate": "2026-06-02"
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2026-06-03"
     },
-    "updateDate": "2026-06-03",
+    "updateDate": "2026-06-04",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "6644",
-    "type": "HR",
-    "title": "21st Century ROAD to Housing Act",
-    "latestAction": {
-      "text": "Message on House action received in Senate and at desk: House amendment to Senate amendment.",
-      "actionDate": "2026-06-02"
-    },
-    "updateDate": "2026-06-03",
-    "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 9
-  },
-  {
-    "congress": 119,
-    "number": "6047",
-    "type": "HR",
-    "title": "Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
-      "actionDate": "2026-06-02"
-    },
-    "updateDate": "2026-06-03",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 14
-  },
-  {
-    "congress": 119,
-    "number": "9103",
-    "type": "HR",
-    "title": "To prohibit Federal research agencies and recipients of Federal research grants from using a prohibited diversity, equity, or inclusion practice with respect to Federal research grants, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Science, Space, and Technology.",
-      "actionDate": "2026-06-02"
-    },
-    "updateDate": "2026-06-03",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "9099",
-    "type": "HR",
-    "title": "DHS Release Transparency Act",
-    "latestAction": {
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-06-02"
-    },
-    "updateDate": "2026-06-03",
-    "sponsor": null,
-    "democratCosponsors": 8,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8646",
+    "type": "HR",
+    "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027",
+    "latestAction": {
+      "text": "Rules Committee Resolution H. Res. 1333 Reported to House. Rule provides for consideration of H.R. 8646, H.R. 7726, H.R. 7892 and H.R. 8872. The resolution provides for consideration of H.R. 8646 under a structured rule and H.R. 7726, H.R. 7892, and H.R. 8872 under a closed rule, with one hour of general debate on each bill. The resolution provides for one motion to recommit on each bill.",
+      "actionDate": "2026-06-03"
+    },
+    "updateDate": "2026-06-04",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7726",
+    "type": "HR",
+    "title": "No Funds for Repeat Child Care Violations Act of 2026",
+    "latestAction": {
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2026-06-03"
+    },
+    "updateDate": "2026-06-04",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7892",
+    "type": "HR",
+    "title": "No Aid for Ghost Students Act of 2026",
+    "latestAction": {
+      "text": "Rules Committee Resolution H. Res. 1333 Reported to House. Rule provides for consideration of H.R. 8646, H.R. 7726, H.R. 7892 and H.R. 8872. The resolution provides for consideration of H.R. 8646 under a structured rule and H.R. 7726, H.R. 7892, and H.R. 8872 under a closed rule, with one hour of general debate on each bill. The resolution provides for one motion to recommit on each bill.",
+      "actionDate": "2026-06-03"
+    },
+    "updateDate": "2026-06-04",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "9126",
+    "type": "HR",
+    "title": "HCBS Anti-Fraud Reporting Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-06-03"
+    },
+    "updateDate": "2026-06-04",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 3
   }
 ]
