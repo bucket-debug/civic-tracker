@@ -1,72 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "42",
-    "type": "HJRES",
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment\".",
+    "number": "7147",
+    "type": "HR",
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
     "latestAction": {
-      "text": "Became Public Law No: 119-8.",
-      "actionDate": "2025-05-09"
+      "text": "Became Public Law No: 119-86.",
+      "actionDate": "2026-04-30"
     },
-    "updateDate": "2026-06-05",
+    "updateDate": "2026-06-06",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "75",
-    "type": "HJRES",
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of Energy Efficiency and Renewable Energy, Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers\".",
-    "latestAction": {
-      "text": "Became Public Law No: 119-9.",
-      "actionDate": "2025-05-09"
-    },
-    "updateDate": "2026-06-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 13
-  },
-  {
-    "congress": 119,
-    "number": "24",
-    "type": "HJRES",
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers\".",
-    "latestAction": {
-      "text": "Became Public Law No: 119-7.",
-      "actionDate": "2025-05-09"
-    },
-    "updateDate": "2026-06-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "20",
-    "type": "HJRES",
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters\".",
-    "latestAction": {
-      "text": "Became Public Law No: 119-6.",
-      "actionDate": "2025-05-09"
-    },
-    "updateDate": "2026-06-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "35",
-    "type": "HJRES",
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\".",
-    "latestAction": {
-      "text": "Became Public Law No: 119-2.",
-      "actionDate": "2025-03-14"
-    },
-    "updateDate": "2026-06-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 19
+    "republicanCosponsors": 0
   }
 ]
