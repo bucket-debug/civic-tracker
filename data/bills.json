@@ -1,11 +1,25 @@
 [
   {
     "congress": 119,
-    "number": "9170",
+    "number": "618",
     "type": "HR",
-    "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2027",
+    "title": "Apex Area Technical Corrections Act",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 598.",
+      "text": "Became Public Law No: 119-24.",
+      "actionDate": "2025-07-15"
+    },
+    "updateDate": "2026-06-07",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9171",
+    "type": "HR",
+    "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2027",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 599.",
       "actionDate": "2026-06-05"
     },
     "updateDate": "2026-06-07",
@@ -15,11 +29,11 @@
   },
   {
     "congress": 119,
-    "number": "9171",
+    "number": "9170",
     "type": "HR",
-    "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2027",
+    "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2027",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 599.",
+      "text": "Placed on the Union Calendar, Calendar No. 598.",
       "actionDate": "2026-06-05"
     },
     "updateDate": "2026-06-07",
@@ -113,20 +127,6 @@
   },
   {
     "congress": 119,
-    "number": "9157",
-    "type": "HR",
-    "title": "To reform the H-1B process, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-06-04"
-    },
-    "updateDate": "2026-06-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
     "number": "9140",
     "type": "HR",
     "title": "To require the Secretary of Defense and the Secretary of Homeland Security to improve the transition of medics into the civilian workforce in certain health care occupations and to modify the assistance provided to separated members of the Armed Forces seeking employment with health care providers, and for other purposes.",
@@ -152,6 +152,20 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9157",
+    "type": "HR",
+    "title": "To reform the H-1B process, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-06-04"
+    },
+    "updateDate": "2026-06-06",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -337,20 +351,6 @@
   },
   {
     "congress": 119,
-    "number": "9148",
-    "type": "HR",
-    "title": "To direct the Secretary of the Interior to conduct a special resource study of the Scipio A. Jones House in Little Rock, Arkansas.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-06-04"
-    },
-    "updateDate": "2026-06-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "9154",
     "type": "HR",
     "title": "To direct the Secretary of Commerce to develop a methodology for identifying country of origin of shrimp, and for other purposes.",
@@ -365,11 +365,11 @@
   },
   {
     "congress": 119,
-    "number": "9145",
+    "number": "9148",
     "type": "HR",
-    "title": "To amend the Federal Lands Recreation Enhancement Act to provide for free annual passes to licensed foster families.",
+    "title": "To direct the Secretary of the Interior to conduct a special resource study of the Scipio A. Jones House in Little Rock, Arkansas.",
     "latestAction": {
-      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "text": "Referred to the House Committee on Natural Resources.",
       "actionDate": "2026-06-04"
     },
     "updateDate": "2026-06-06",
@@ -379,11 +379,11 @@
   },
   {
     "congress": 119,
-    "number": "9161",
+    "number": "9149",
     "type": "HR",
-    "title": "To require the United States International Trade Commission to investigate national security concerns regarding the exportation of aluminum scrap to countries of concern, and for other purposes.",
+    "title": "To establish the National Diabetes Project, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on Foreign Affairs.",
+      "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-06-04"
     },
     "updateDate": "2026-06-06",
@@ -421,16 +421,16 @@
   },
   {
     "congress": 119,
-    "number": "9150",
+    "number": "9161",
     "type": "HR",
-    "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide coverage for boxing-based exercise classes for veterans diagnosed with certain movement disorders, and for other purposes.",
+    "title": "To require the United States International Trade Commission to investigate national security concerns regarding the exportation of aluminum scrap to countries of concern, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on Veterans' Affairs.",
+      "text": "Referred to the House Committee on Foreign Affairs.",
       "actionDate": "2026-06-04"
     },
     "updateDate": "2026-06-06",
     "sponsor": null,
-    "democratCosponsors": 1,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -446,6 +446,20 @@
     "sponsor": null,
     "democratCosponsors": 6,
     "republicanCosponsors": 14
+  },
+  {
+    "congress": 119,
+    "number": "9145",
+    "type": "HR",
+    "title": "To amend the Federal Lands Recreation Enhancement Act to provide for free annual passes to licensed foster families.",
+    "latestAction": {
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-06-04"
+    },
+    "updateDate": "2026-06-06",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -468,6 +482,48 @@
     "title": "To require the Secretary of the Interior to transfer to the Secretary of the Navy administrative jurisdiction of certain land located on Adak Island, Alaska, and for other purposes.",
     "latestAction": {
       "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-06-04"
+    },
+    "updateDate": "2026-06-06",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9150",
+    "type": "HR",
+    "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide coverage for boxing-based exercise classes for veterans diagnosed with certain movement disorders, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Veterans' Affairs.",
+      "actionDate": "2026-06-04"
+    },
+    "updateDate": "2026-06-06",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9163",
+    "type": "HR",
+    "title": "To amend title XVIII of the Social Security Act to ensure that facilities do not lose critical access hospital status as a result of a roadway or transportation infrastructure improvement.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-04"
+    },
+    "updateDate": "2026-06-06",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9143",
+    "type": "HR",
+    "title": "To amend title 35, United State Code, to require the Director of the United States Patent and Trademark Office to require disclosures in patent applications regarding ties to the People's Republic of China and other foreign adversaries, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
       "actionDate": "2026-06-04"
     },
     "updateDate": "2026-06-06",
@@ -502,48 +558,6 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "9163",
-    "type": "HR",
-    "title": "To amend title XVIII of the Social Security Act to ensure that facilities do not lose critical access hospital status as a result of a roadway or transportation infrastructure improvement.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-06-04"
-    },
-    "updateDate": "2026-06-06",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9143",
-    "type": "HR",
-    "title": "To amend title 35, United State Code, to require the Director of the United States Patent and Trademark Office to require disclosures in patent applications regarding ties to the People's Republic of China and other foreign adversaries, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-06-04"
-    },
-    "updateDate": "2026-06-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9149",
-    "type": "HR",
-    "title": "To establish the National Diabetes Project, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-06-04"
-    },
-    "updateDate": "2026-06-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -684,19 +698,5 @@
     "sponsor": null,
     "democratCosponsors": 2,
     "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "9074",
-    "type": "HR",
-    "title": "Protecting Academic Integrity Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-05-29"
-    },
-    "updateDate": "2026-06-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
   }
 ]

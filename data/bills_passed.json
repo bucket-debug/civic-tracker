@@ -1,6 +1,20 @@
 [
   {
     "congress": 119,
+    "number": "618",
+    "type": "HR",
+    "title": "Apex Area Technical Corrections Act",
+    "latestAction": {
+      "text": "Became Public Law No: 119-24.",
+      "actionDate": "2025-07-15"
+    },
+    "updateDate": "2026-06-07",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
     "number": "7147",
     "type": "HR",
     "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
