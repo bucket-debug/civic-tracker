@@ -1,28 +1,70 @@
 [
   {
     "congress": 119,
-    "number": "618",
+    "number": "9176",
     "type": "HR",
-    "title": "Apex Area Technical Corrections Act",
+    "title": "PAR Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-24.",
-      "actionDate": "2025-07-15"
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-08"
     },
-    "updateDate": "2026-06-07",
+    "updateDate": "2026-06-09",
     "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "7147",
+    "number": "9173",
     "type": "HR",
-    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "title": "Charitable Deductions for Digital Asset Donations Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-86.",
-      "actionDate": "2026-04-30"
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-08"
     },
-    "updateDate": "2026-06-06",
+    "updateDate": "2026-06-09",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9175",
+    "type": "HR",
+    "title": "Tax Clarity for Mining and Staking Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-08"
+    },
+    "updateDate": "2026-06-09",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9174",
+    "type": "HR",
+    "title": "Digital Assets Voluntary Disclosure Program Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-08"
+    },
+    "updateDate": "2026-06-09",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9172",
+    "type": "HR",
+    "title": "Applying Existing Tax Anti-Abuse Rules to Digital Assets Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-08"
+    },
+    "updateDate": "2026-06-09",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
