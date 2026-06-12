@@ -1,44 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "7147",
-    "type": "HR",
-    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "number": "2",
+    "type": "S",
+    "title": "Secure America Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-86.",
-      "actionDate": "2026-04-30"
+      "text": "Became Public Law No: 119-98.",
+      "actionDate": "2026-06-10"
     },
-    "updateDate": "2026-06-11",
+    "updateDate": "2026-06-12",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7148",
-    "type": "HR",
-    "title": "Consolidated Appropriations Act, 2026",
-    "latestAction": {
-      "text": "Became Public Law No: 119-75.",
-      "actionDate": "2026-02-03"
-    },
-    "updateDate": "2026-06-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "140",
-    "type": "HJRES",
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Public Land Order No. 7917 for Withdrawal of Federal Lands; Cook, Lake, and Saint Louis Counties, MN.",
-    "latestAction": {
-      "text": "Became Public Law No: 119-85.",
-      "actionDate": "2026-04-27"
-    },
-    "updateDate": "2026-06-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 4
   }
 ]
