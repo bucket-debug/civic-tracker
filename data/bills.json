@@ -1,6 +1,34 @@
 [
   {
     "congress": 119,
+    "number": "1733",
+    "type": "S",
+    "title": "Highway Funding Transferability Improvement Act",
+    "latestAction": {
+      "text": "Committee on Environment and Public Works Senate Subcommittee on Transportation and Infrastructure. Hearings held.",
+      "actionDate": "2025-07-23"
+    },
+    "updateDate": "2026-06-14",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5656",
+    "type": "HR",
+    "title": "To amend title 49, United States Code, to grant the United States Virgin Islands and Puerto Rico eligibility to issue commercial driver's licenses, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Highways and Transit.",
+      "actionDate": "2025-12-01"
+    },
+    "updateDate": "2026-06-14",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
     "number": "9310",
     "type": "HR",
     "title": "Department of Homeland Security Appropriations Act, 2027",
@@ -99,20 +127,6 @@
   },
   {
     "congress": 119,
-    "number": "4446",
-    "type": "S",
-    "title": "PRESS Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-04-30"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
     "number": "4660",
     "type": "S",
     "title": "Economic Relief for Specialty Crops Act",
@@ -127,17 +141,17 @@
   },
   {
     "congress": 119,
-    "number": "4638",
+    "number": "4446",
     "type": "S",
-    "title": "Promoting Strong Native Families and Children Act",
+    "title": "PRESS Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-05-21"
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-04-30"
     },
     "updateDate": "2026-06-13",
     "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 1
+    "democratCosponsors": 0,
+    "republicanCosponsors": 3
   },
   {
     "congress": 119,
@@ -155,12 +169,12 @@
   },
   {
     "congress": 119,
-    "number": "4573",
+    "number": "4638",
     "type": "S",
-    "title": "Regional Great Lakes Partnership Act of 2026",
+    "title": "Promoting Strong Native Families and Children Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-05-19"
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-05-21"
     },
     "updateDate": "2026-06-13",
     "sponsor": null,
@@ -183,30 +197,128 @@
   },
   {
     "congress": 119,
-    "number": "4429",
+    "number": "4573",
     "type": "S",
-    "title": "Connected Vehicle Security Act of 2026",
+    "title": "Regional Great Lakes Partnership Act of 2026",
     "latestAction": {
       "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-04-29"
+      "actionDate": "2026-05-19"
     },
     "updateDate": "2026-06-13",
     "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 13
+    "democratCosponsors": 3,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "1805",
+    "number": "736",
     "type": "S",
-    "title": "Promoting Access to Diabetic Shoes Act",
+    "title": "Lieutenant Osvaldo Albarati Stopping Prison Contraband Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S2973-2974)",
-      "actionDate": "2025-05-19"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-06-12"
     },
     "updateDate": "2026-06-13",
     "sponsor": null,
-    "democratCosponsors": 6,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 8
+  },
+  {
+    "congress": 119,
+    "number": "1454",
+    "type": "S",
+    "title": "FIGHT Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "actionDate": "2025-04-10"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 11,
+    "republicanCosponsors": 9
+  },
+  {
+    "congress": 119,
+    "number": "1410",
+    "type": "S",
+    "title": "Find It Early Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-04-10"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "870",
+    "type": "S",
+    "title": "Native ELDER Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-03-05"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2828",
+    "type": "S",
+    "title": "Child Care Modernization Act of 2025",
+    "latestAction": {
+      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "actionDate": "2026-03-19"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "2033",
+    "type": "S",
+    "title": "Cross-Boundary Wildfire Solutions Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-06-12"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2195",
+    "type": "S",
+    "title": "WWII Nurses Congressional Gold Medal Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2025-06-26"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 6
+  },
+  {
+    "congress": 119,
+    "number": "4368",
+    "type": "S",
+    "title": "Agua Caliente Band of Cahuilla Indians Water Rights Settlement Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S1937)",
+      "actionDate": "2026-04-22"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 1
   },
   {
@@ -239,45 +351,17 @@
   },
   {
     "congress": 119,
-    "number": "2828",
+    "number": "1805",
     "type": "S",
-    "title": "Child Care Modernization Act of 2025",
+    "title": "Promoting Access to Diabetic Shoes Act",
     "latestAction": {
-      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
-      "actionDate": "2026-03-19"
+      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S2973-2974)",
+      "actionDate": "2025-05-19"
     },
     "updateDate": "2026-06-13",
     "sponsor": null,
-    "democratCosponsors": 3,
+    "democratCosponsors": 6,
     "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2356",
-    "type": "S",
-    "title": "ADAPT Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance. (text: CR S4459)",
-      "actionDate": "2025-07-17"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4394",
-    "type": "S",
-    "title": "Promoting Police Leadership Act",
-    "latestAction": {
-      "text": "Message on Senate action sent to the House.",
-      "actionDate": "2026-06-12"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 5
   },
   {
     "congress": 119,
@@ -295,90 +379,6 @@
   },
   {
     "congress": 119,
-    "number": "1377",
-    "type": "S",
-    "title": "Theodore Roosevelt National Park Wild Horses Protection Act",
-    "latestAction": {
-      "text": "Message on Senate action sent to the House.",
-      "actionDate": "2026-06-12"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3041",
-    "type": "S",
-    "title": "Tribal Warrant Fairness Act",
-    "latestAction": {
-      "text": "Message on Senate action sent to the House.",
-      "actionDate": "2026-06-12"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "3981",
-    "type": "S",
-    "title": "BRAVE Burma Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2026-03-04"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "639",
-    "type": "S",
-    "title": "Clergy Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-02-19"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4368",
-    "type": "S",
-    "title": "Agua Caliente Band of Cahuilla Indians Water Rights Settlement Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S1937)",
-      "actionDate": "2026-04-22"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "872",
-    "type": "S",
-    "title": "Stop Secret Spending Act of 2025",
-    "latestAction": {
-      "text": "Message on Senate action sent to the House.",
-      "actionDate": "2026-06-12"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
     "number": "4269",
     "type": "S",
     "title": "Restoring College Access and Affordability Act",
@@ -390,6 +390,34 @@
     "sponsor": null,
     "democratCosponsors": 5,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1289",
+    "type": "S",
+    "title": "25th Anniversary of 9/11 Commemorative Coin Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2025-04-03"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "3855",
+    "type": "S",
+    "title": "United States-Israel Framework for Upgraded Technologies, Unified Research, and Enhanced Security (FUTURES) Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-02-12"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 11
   },
   {
     "congress": 119,
@@ -407,23 +435,9 @@
   },
   {
     "congress": 119,
-    "number": "1454",
+    "number": "3041",
     "type": "S",
-    "title": "FIGHT Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-      "actionDate": "2025-04-10"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 9
-  },
-  {
-    "congress": 119,
-    "number": "736",
-    "type": "S",
-    "title": "Lieutenant Osvaldo Albarati Stopping Prison Contraband Act",
+    "title": "Tribal Warrant Fairness Act",
     "latestAction": {
       "text": "Message on Senate action sent to the House.",
       "actionDate": "2026-06-12"
@@ -431,20 +445,76 @@
     "updateDate": "2026-06-13",
     "sponsor": null,
     "democratCosponsors": 9,
-    "republicanCosponsors": 8
+    "republicanCosponsors": 6
   },
   {
     "congress": 119,
-    "number": "2033",
+    "number": "2356",
     "type": "S",
-    "title": "Cross-Boundary Wildfire Solutions Act",
+    "title": "ADAPT Act",
     "latestAction": {
-      "text": "Message on Senate action sent to the House.",
-      "actionDate": "2026-06-12"
+      "text": "Read twice and referred to the Committee on Finance. (text: CR S4459)",
+      "actionDate": "2025-07-17"
     },
     "updateDate": "2026-06-13",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3843",
+    "type": "S",
+    "title": "TEMP Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "actionDate": "2026-02-11"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "639",
+    "type": "S",
+    "title": "Clergy Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-02-19"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "4429",
+    "type": "S",
+    "title": "Connected Vehicle Security Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-04-29"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 13
+  },
+  {
+    "congress": 119,
+    "number": "2451",
+    "type": "S",
+    "title": "Pay Paraprofessionals and Support Staff Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-07-24"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 10,
     "republicanCosponsors": 0
   },
   {
@@ -463,90 +533,6 @@
   },
   {
     "congress": 119,
-    "number": "3855",
-    "type": "S",
-    "title": "United States-Israel Framework for Upgraded Technologies, Unified Research, and Enhanced Security (FUTURES) Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2026-02-12"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 11
-  },
-  {
-    "congress": 119,
-    "number": "870",
-    "type": "S",
-    "title": "Native ELDER Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-03-05"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2451",
-    "type": "S",
-    "title": "Pay Paraprofessionals and Support Staff Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-07-24"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1410",
-    "type": "S",
-    "title": "Find It Early Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-04-10"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "1289",
-    "type": "S",
-    "title": "25th Anniversary of 9/11 Commemorative Coin Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2025-04-03"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 11
-  },
-  {
-    "congress": 119,
-    "number": "2195",
-    "type": "S",
-    "title": "WWII Nurses Congressional Gold Medal Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2025-06-26"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
     "number": "3741",
     "type": "S",
     "title": "Biosecurity Modernization and Innovation Act of 2026",
@@ -561,17 +547,31 @@
   },
   {
     "congress": 119,
-    "number": "3843",
+    "number": "1377",
     "type": "S",
-    "title": "TEMP Act",
+    "title": "Theodore Roosevelt National Park Wild Horses Protection Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-      "actionDate": "2026-02-11"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-06-12"
     },
     "updateDate": "2026-06-13",
     "sponsor": null,
     "democratCosponsors": 1,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "872",
+    "type": "S",
+    "title": "Stop Secret Spending Act of 2025",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-06-12"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 3
   },
   {
     "congress": 119,
@@ -586,6 +586,34 @@
     "sponsor": null,
     "democratCosponsors": 6,
     "republicanCosponsors": 14
+  },
+  {
+    "congress": 119,
+    "number": "3981",
+    "type": "S",
+    "title": "BRAVE Burma Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-03-04"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "4394",
+    "type": "S",
+    "title": "Promoting Police Leadership Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-06-12"
+    },
+    "updateDate": "2026-06-13",
+    "sponsor": null,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 5
   },
   {
     "congress": 119,
@@ -670,33 +698,5 @@
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "766",
-    "type": "SRES",
-    "title": "A resolution acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
-    "latestAction": {
-      "text": "Referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S2766-2768)",
-      "actionDate": "2026-06-11"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 17,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "767",
-    "type": "SRES",
-    "title": "A resolution celebrating the historic significance of the 2026 Federation Internationale de Football Association (FIFA) World Cup and welcoming the international community to North America for the first tournament hosted by 3 nations.",
-    "latestAction": {
-      "text": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S2768)",
-      "actionDate": "2026-06-11"
-    },
-    "updateDate": "2026-06-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
   }
 ]
