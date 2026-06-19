@@ -1,16 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "618",
+    "number": "9341",
     "type": "HR",
-    "title": "Apex Area Technical Corrections Act",
+    "title": "AI-Ready Federal Data Guidelines Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-24.",
-      "actionDate": "2025-07-15"
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2026-06-18"
     },
-    "updateDate": "2026-06-17",
+    "updateDate": "2026-06-19",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9334",
+    "type": "HR",
+    "title": "Workforce for AI Trust Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2026-06-18"
+    },
+    "updateDate": "2026-06-19",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9333",
+    "type": "HR",
+    "title": "AI Flaw Reporting and Security Enhancement Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2026-06-18"
+    },
+    "updateDate": "2026-06-19",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9356",
+    "type": "HR",
+    "title": "Veteran Headstone Honor Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-18"
+    },
+    "updateDate": "2026-06-19",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9328",
+    "type": "HR",
+    "title": "Improving Travel for Military Members Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Homeland Security.",
+      "actionDate": "2026-06-18"
+    },
+    "updateDate": "2026-06-19",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   }
 ]
