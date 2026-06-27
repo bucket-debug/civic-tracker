@@ -1,72 +1,30 @@
 [
   {
     "congress": 119,
-    "number": "9457",
-    "type": "HR",
-    "title": "Diversity Visa Protection and Modernization Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-06-25"
-    },
-    "updateDate": "2026-06-26",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9489",
-    "type": "HR",
-    "title": "GRACE for Military Survivors Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-06-25"
-    },
-    "updateDate": "2026-06-26",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "198",
+    "number": "131",
     "type": "HJRES",
-    "title": "Proposing an amendment to the Constitution of the United States to repeal the seventeenth article of amendment.",
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Coastal Plain Oil and Gas Leasing Program Record of Decision.",
     "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-06-25"
+      "text": "Became Public Law No: 119-52.",
+      "actionDate": "2025-12-11"
     },
     "updateDate": "2026-06-26",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
-    "number": "1392",
-    "type": "HRES",
-    "title": "Supporting the designation of a \"National Learn to Swim Week\" beginning on the 4th Sunday in June.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-06-25"
-    },
-    "updateDate": "2026-06-26",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "1391",
-    "type": "HRES",
-    "title": "Impeaching Linda M. McMahon, Secretary of Education, for high crimes and misdemeanors.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-06-25"
-    },
-    "updateDate": "2026-06-26",
-    "sponsor": null,
-    "democratCosponsors": 16,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "201",
+    "type": "S",
+    "title": "ACES Act of 2025",
+    "latestAction": {
+      "text": "Became Public Law No: 119-32.",
+      "actionDate": "2025-08-14"
+    },
+    "updateDate": "2026-06-26",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
   }
 ]
