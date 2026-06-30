@@ -1,30 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "131",
-    "type": "HJRES",
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Coastal Plain Oil and Gas Leasing Program Record of Decision.",
+    "number": "9502",
+    "type": "HR",
+    "title": "Protect Seniors and Veterans from Health Care Fraud Act of 2026",
     "latestAction": {
-      "text": "Became Public Law No: 119-52.",
-      "actionDate": "2025-12-11"
+      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-06-29"
     },
-    "updateDate": "2026-06-26",
+    "updateDate": "2026-06-30",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "201",
-    "type": "S",
-    "title": "ACES Act of 2025",
+    "number": "9496",
+    "type": "HR",
+    "title": "End Tax Penalties on American Hostages Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-32.",
-      "actionDate": "2025-08-14"
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-29"
     },
-    "updateDate": "2026-06-26",
+    "updateDate": "2026-06-30",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9499",
+    "type": "HR",
+    "title": "Protecting Taxpayers from Ghost Preparers Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-29"
+    },
+    "updateDate": "2026-06-30",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9501",
+    "type": "HR",
+    "title": "AI Tax Integrity Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-06-29"
+    },
+    "updateDate": "2026-06-30",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "9528",
+    "type": "HR",
+    "title": "People Over Poison Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Agriculture.",
+      "actionDate": "2026-06-29"
+    },
+    "updateDate": "2026-06-30",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
   }
 ]
