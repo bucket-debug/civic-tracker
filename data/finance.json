@@ -180,6 +180,12 @@
     "contribution_receipt_date": "2025-08-19"
   },
   {
+    "contributor_name": "STAND TOGETHER INC.",
+    "contribution_receipt_amount": 18000000.0,
+    "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+    "contribution_receipt_date": "2026-05-27"
+  },
+  {
     "contributor_name": "YASS, JEFF",
     "contribution_receipt_amount": 15000000.0,
     "committee_name": "MAGA INC.",
@@ -592,11 +598,5 @@
     "contribution_receipt_amount": 5175000.0,
     "committee_name": "FAIRSHAKE",
     "contribution_receipt_date": "2025-07-10"
-  },
-  {
-    "contributor_name": "MUSK, ELON",
-    "contribution_receipt_amount": 5000000.0,
-    "committee_name": "CLF",
-    "contribution_receipt_date": "2025-06-27"
   }
 ]

@@ -1,72 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "9502",
-    "type": "HR",
-    "title": "Protect Seniors and Veterans from Health Care Fraud Act of 2026",
+    "number": "1398",
+    "type": "HRES",
+    "title": "Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8884) to amend title II of the Social Security Act to reauthorize demonstration authority for the disability insurance program; providing for consideration of the resolution (H. Res. 1383) commemorating the one-year anniversary of the enactment of the Working Families Tax Cuts; and for other purposes.",
     "latestAction": {
-      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-06-29"
+      "text": "POSTPONED PROCEEDINGS - The Chair put the question on motion to reconsider and by voice vote, announced the ayes had prevailed. Mr. McGovern demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.",
+      "actionDate": "2026-06-30"
     },
-    "updateDate": "2026-06-30",
+    "updateDate": "2026-07-01",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "9496",
+    "number": "8595",
     "type": "HR",
-    "title": "End Tax Penalties on American Hostages Act",
+    "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
     "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-06-29"
+      "text": "Rules Committee Resolution H. Res. 1398 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8595, H.R. 8884 and H. Res. 1383. The resolution provides for consideration of H.R. 8800 and H.R. 8595 under a structured rule, and H.R. 8884 and H. Res. 1383 under a closed rule. The resolution provides for one hour of general debate on each measure and one motion to recommit on H.R. 8800, H.R. 8595, and H.R. 8884.",
+      "actionDate": "2026-06-30"
     },
-    "updateDate": "2026-06-30",
+    "updateDate": "2026-07-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1400",
+    "type": "HRES",
+    "title": "Condemning the People's Republic of China's Law on the Promotion of Ethnic Unity and Progress and the Chinese Communist Party's campaign of forced assimilation against ethnic and religious minorities.",
+    "latestAction": {
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-06-30"
+    },
+    "updateDate": "2026-07-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "111",
+    "type": "HCONRES",
+    "title": "Recognizing the 25th anniversary of the terrorist attacks of September 11, 2001, honoring the memory of the victims, recognizing the courage and sacrifice of the heroes who answered the call to serve, acknowledging the charitable organizations that continue to support survivors and victims' families, and reaffirming the enduring commitment of the United States to defend freedom and never forget.",
+    "latestAction": {
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on the Judiciary, Armed Services, Transportation and Infrastructure, Veterans' Affairs, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-06-30"
+    },
+    "updateDate": "2026-07-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9556",
+    "type": "HR",
+    "title": "Support Our Miners Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-06-30"
+    },
+    "updateDate": "2026-07-01",
     "sponsor": null,
     "democratCosponsors": 2,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9499",
-    "type": "HR",
-    "title": "Protecting Taxpayers from Ghost Preparers Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-06-29"
-    },
-    "updateDate": "2026-06-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9501",
-    "type": "HR",
-    "title": "AI Tax Integrity Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-06-29"
-    },
-    "updateDate": "2026-06-30",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "9528",
-    "type": "HR",
-    "title": "People Over Poison Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Agriculture.",
-      "actionDate": "2026-06-29"
-    },
-    "updateDate": "2026-06-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
   }
 ]
