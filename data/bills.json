@@ -1,6 +1,20 @@
 [
   {
     "congress": 119,
+    "number": "4862",
+    "type": "HR",
+    "title": "LOAN Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2025-08-01"
+    },
+    "updateDate": "2026-07-06",
+    "sponsor": null,
+    "democratCosponsors": 20,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "9372",
     "type": "HR",
     "title": "Data Infrastructure Energy Measurement and Standards Act",
@@ -127,6 +141,20 @@
   },
   {
     "congress": 119,
+    "number": "7972",
+    "type": "HR",
+    "title": "Taxpayer Workforce Modernization Act",
+    "latestAction": {
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 24 - 16.",
+      "actionDate": "2026-07-01"
+    },
+    "updateDate": "2026-07-04",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "9504",
     "type": "HR",
     "title": "Tax Exempt Hospital Transparency Act",
@@ -141,16 +169,16 @@
   },
   {
     "congress": 119,
-    "number": "7972",
+    "number": "9498",
     "type": "HR",
-    "title": "Taxpayer Workforce Modernization Act",
+    "title": "Taxpayer Advocate Participation Act",
     "latestAction": {
-      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 24 - 16.",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 39 - 0.",
       "actionDate": "2026-07-01"
     },
     "updateDate": "2026-07-04",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -194,20 +222,6 @@
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "9498",
-    "type": "HR",
-    "title": "Taxpayer Advocate Participation Act",
-    "latestAction": {
-      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 39 - 0.",
-      "actionDate": "2026-07-01"
-    },
-    "updateDate": "2026-07-04",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -337,20 +351,6 @@
   },
   {
     "congress": 119,
-    "number": "9584",
-    "type": "HR",
-    "title": "To amend the United States Housing Act of 1937 to require the Secretary of Housing and Urban Development to reallocate unobligated funding for tenant-based assistance to public housing agencies which are in need of more funding for tenant-based assistance.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2026-07-02"
-    },
-    "updateDate": "2026-07-03",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "199",
     "type": "HJRES",
     "title": "Proposing an amendment to the Constitution of the United States to temporarily fill vacancies in the House of Representatives to further the continuity of Congress.",
@@ -365,16 +365,16 @@
   },
   {
     "congress": 119,
-    "number": "9590",
+    "number": "9584",
     "type": "HR",
-    "title": "To direct the Secretary of the Interior to conduct a study on alternative habitat for certain manatees, and for other purposes.",
+    "title": "To amend the United States Housing Act of 1937 to require the Secretary of Housing and Urban Development to reallocate unobligated funding for tenant-based assistance to public housing agencies which are in need of more funding for tenant-based assistance.",
     "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
+      "text": "Referred to the House Committee on Financial Services.",
       "actionDate": "2026-07-02"
     },
     "updateDate": "2026-07-03",
     "sponsor": null,
-    "democratCosponsors": 1,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -389,6 +389,20 @@
     "updateDate": "2026-07-03",
     "sponsor": null,
     "democratCosponsors": 6,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9590",
+    "type": "HR",
+    "title": "To direct the Secretary of the Interior to conduct a study on alternative habitat for certain manatees, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-07-02"
+    },
+    "updateDate": "2026-07-03",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -547,20 +561,6 @@
   },
   {
     "congress": 119,
-    "number": "9572",
-    "type": "HR",
-    "title": "To amend the Food Security Act of 1985 to clarify land eligible for enrollment in the conservation reserve program.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Agriculture.",
-      "actionDate": "2026-07-02"
-    },
-    "updateDate": "2026-07-03",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "9583",
     "type": "HR",
     "title": "To provide support for scaling up global access to multiple micronutrient supplements and other cost effective maternal and child interventions, and for other purposes.",
@@ -572,6 +572,20 @@
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9572",
+    "type": "HR",
+    "title": "To amend the Food Security Act of 1985 to clarify land eligible for enrollment in the conservation reserve program.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Agriculture.",
+      "actionDate": "2026-07-02"
+    },
+    "updateDate": "2026-07-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -684,19 +698,5 @@
     "sponsor": null,
     "democratCosponsors": 12,
     "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "9281",
-    "type": "HR",
-    "title": "To provide rental vouchers for the homeless, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-06-11"
-    },
-    "updateDate": "2026-07-03",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 0
   }
 ]
