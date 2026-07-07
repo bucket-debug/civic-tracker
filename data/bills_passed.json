@@ -1,14 +1,70 @@
 [
   {
     "congress": 119,
-    "number": "7148",
+    "number": "9600",
     "type": "HR",
-    "title": "Consolidated Appropriations Act, 2026",
+    "title": "To approve the location of a commemorative work for Thomas Paine, America's indispensable and unsung Founding Father.",
     "latestAction": {
-      "text": "Became Public Law No: 119-75.",
-      "actionDate": "2026-02-03"
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-07-06"
     },
-    "updateDate": "2026-07-04",
+    "updateDate": "2026-07-07",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9591",
+    "type": "HR",
+    "title": "To improve response to, and preparation for, extreme temperatures, in Federal correctional facilities.",
+    "latestAction": {
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-07-06"
+    },
+    "updateDate": "2026-07-07",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9598",
+    "type": "HR",
+    "title": "To prohibit the use of Federal, State, foreign, or private funds to install permanent fencing around Lafayette Square.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-07-06"
+    },
+    "updateDate": "2026-07-07",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9599",
+    "type": "HR",
+    "title": "To strengthen the 340B drug discount program.",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-07-06"
+    },
+    "updateDate": "2026-07-07",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "9601",
+    "type": "HR",
+    "title": "To direct the United States Trade Representative to initiate investigations to determine whether foreign countries, including Canada, have ceased importation and distribution of alcoholic beverage exports of the United States in a manner that is actionable under section 301 of the Trade Act of 1974, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-07-06"
+    },
+    "updateDate": "2026-07-07",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0

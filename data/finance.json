@@ -552,6 +552,12 @@
     "contribution_receipt_date": "2025-12-30"
   },
   {
+    "contributor_name": "ENVIRONMENTAL DEFENSE ACTION FUND",
+    "contribution_receipt_amount": 5750000.0,
+    "committee_name": "EDF ACTION VOTES",
+    "contribution_receipt_date": "2026-05-29"
+  },
+  {
     "contributor_name": "CAMPAIGN FOR DEMOCRACY COMMITTEE - UNITEMIZED",
     "contribution_receipt_amount": 5713325.45,
     "committee_name": "CAMPAIGN FOR DEMOCRACY PAC",
@@ -592,11 +598,5 @@
     "contribution_receipt_amount": 5200000.0,
     "committee_name": "HMP",
     "contribution_receipt_date": "2025-12-29"
-  },
-  {
-    "contributor_name": "COINBASE COMMERCE (EXCHANGE)",
-    "contribution_receipt_amount": 5175000.0,
-    "committee_name": "FAIRSHAKE",
-    "contribution_receipt_date": "2025-07-10"
   }
 ]
