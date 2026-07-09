@@ -324,6 +324,12 @@
     "contribution_receipt_date": "2025-03-06"
   },
   {
+    "contributor_name": "SINGER, PAUL ELLIOTT",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2026-03-31"
+  },
+  {
     "contributor_name": "ADELSON, MIRIAM DR.",
     "contribution_receipt_amount": 10000000.0,
     "committee_name": "CLF",
@@ -346,12 +352,6 @@
     "contribution_receipt_amount": 10000000.0,
     "committee_name": "FELLOWSHIP PAC",
     "contribution_receipt_date": "2026-01-23"
-  },
-  {
-    "contributor_name": "SINGER, PAUL ELLIOTT",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "SLF PAC",
-    "contribution_receipt_date": "2026-03-31"
   },
   {
     "contributor_name": "YASS, JEFF MR.",
@@ -394,6 +394,18 @@
     "contribution_receipt_amount": 9037303.52,
     "committee_name": "TEXANS FOR TRUTH AND LIBERTY PAC",
     "contribution_receipt_date": "2025-12-31"
+  },
+  {
+    "contributor_name": "FAIRSHAKE",
+    "contribution_receipt_amount": 9000000.0,
+    "committee_name": "PROTECT PROGRESS",
+    "contribution_receipt_date": "2026-05-05"
+  },
+  {
+    "contributor_name": "FAIRSHAKE",
+    "contribution_receipt_amount": 9000000.0,
+    "committee_name": "DEFEND AMERICAN JOBS",
+    "contribution_receipt_date": "2026-05-04"
   },
   {
     "contributor_name": "AMERICAN ACTION NETWORK",
@@ -586,17 +598,5 @@
     "contribution_receipt_amount": 5500000.0,
     "committee_name": "AMERICA PAC",
     "contribution_receipt_date": "2025-03-19"
-  },
-  {
-    "contributor_name": "CHATZKY, PETER",
-    "contribution_receipt_amount": 5500000.0,
-    "committee_name": "CHATZKY FOR CONGRESS",
-    "contribution_receipt_date": "2026-03-30"
-  },
-  {
-    "contributor_name": "HOUSE MAJORITY FORWARD",
-    "contribution_receipt_amount": 5200000.0,
-    "committee_name": "HMP",
-    "contribution_receipt_date": "2025-12-29"
   }
 ]
