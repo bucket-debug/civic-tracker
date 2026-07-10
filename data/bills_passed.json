@@ -1,16 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "1071",
-    "type": "S",
-    "title": "National Defense Authorization Act for Fiscal Year 2026",
+    "number": "9633",
+    "type": "HR",
+    "title": "To amend section 301 of the Immigration and Nationality Act to clarify those classes of individuals born in the United States who are not nationals or citizens of the United States at birth.",
     "latestAction": {
-      "text": "Became Public Law No: 119-60.",
-      "actionDate": "2025-12-18"
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-07-09"
     },
-    "updateDate": "2026-07-08",
+    "updateDate": "2026-07-10",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9605",
+    "type": "HR",
+    "title": "To ensure the Department of Health and Human Services will manage accreditation for foreign medical schools, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-07-09"
+    },
+    "updateDate": "2026-07-10",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8205",
+    "type": "HR",
+    "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 637.",
+      "actionDate": "2026-07-09"
+    },
+    "updateDate": "2026-07-10",
+    "sponsor": null,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "9603",
+    "type": "HR",
+    "title": "To ensure the Department of State will manage all international education and foreign language studies programs under Title VI of the Higher Education Act, as well as all Fulbright-Hays fellowships and scholarships, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-07-09"
+    },
+    "updateDate": "2026-07-10",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9640",
+    "type": "HR",
+    "title": "To amend the Infrastructure Investment and Jobs Act to reauthorize the Earth Mapping Resources Initiative, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-07-09"
+    },
+    "updateDate": "2026-07-10",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
   }
 ]
