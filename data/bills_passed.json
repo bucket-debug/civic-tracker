@@ -8,9 +8,23 @@
       "text": "Became Public Law No: 119-84.",
       "actionDate": "2026-04-18"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "80",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
+    "latestAction": {
+      "text": "Became Public Law No: 119-47.",
+      "actionDate": "2025-12-05"
+    },
+    "updateDate": "2026-07-12",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
   }
 ]

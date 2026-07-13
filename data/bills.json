@@ -1,426 +1,6 @@
 [
   {
     "congress": 119,
-    "number": "8340",
-    "type": "HR",
-    "title": "Taxpayer Funds Oversight and Accountability Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-06-11"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "832",
-    "type": "HR",
-    "title": "Small Business Advocacy Improvements Act of 2025",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-      "actionDate": "2025-02-25"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "8322",
-    "type": "HR",
-    "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through April 30, 2026, and for other purposes.",
-    "latestAction": {
-      "text": "Became Public Law No: 119-84.",
-      "actionDate": "2026-04-18"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "831",
-    "type": "HR",
-    "title": "Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025",
-    "latestAction": {
-      "text": "Received in the Senate.",
-      "actionDate": "2026-03-17"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "8312",
-    "type": "HR",
-    "title": "Fraud Prevention and Accountability Act",
-    "latestAction": {
-      "text": "Received in the Senate.",
-      "actionDate": "2026-06-11"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "828",
-    "type": "HR",
-    "title": "SERV Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-      "actionDate": "2025-02-25"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "826",
-    "type": "HR",
-    "title": "COVID Fraud Transparency Act of 2026",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-      "actionDate": "2026-06-24"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "825",
-    "type": "HR",
-    "title": "Assisting Small Businesses Not Fraudsters Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-      "actionDate": "2025-02-25"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "818",
-    "type": "HR",
-    "title": "SPUR Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-      "actionDate": "2025-02-25"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "8107",
-    "type": "HR",
-    "title": "Government Audit and Accountability of Federally Funded State-Administered Programs Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-06-09"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "804",
-    "type": "HR",
-    "title": "Rural Small Business Resilience Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-      "actionDate": "2025-02-26"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "8029",
-    "type": "HR",
-    "title": "Pay Our Homeland Defenders Act",
-    "latestAction": {
-      "text": "Received in the Senate.",
-      "actionDate": "2026-04-02"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7971",
-    "type": "HR",
-    "title": "Taxpayer Experience Improvement Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-04-28"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7959",
-    "type": "HR",
-    "title": "IRS Whistleblower Program Improvement Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-04-28"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "789",
-    "type": "HR",
-    "title": "Transparency and Predictability in Small Business Opportunities Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-      "actionDate": "2025-06-04"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "7892",
-    "type": "HR",
-    "title": "No Aid for Ghost Students Act of 2026",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-06-11"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "788",
-    "type": "HR",
-    "title": "DOE and SBA Research Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
-      "actionDate": "2025-02-26"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "787",
-    "type": "HR",
-    "title": "Plain Language in Contracting Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
-      "actionDate": "2025-06-04"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7831",
-    "type": "HR",
-    "title": "License to Drill Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
-      "actionDate": "2026-06-03"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "77",
-    "type": "HR",
-    "title": "Midnight Rules Relief Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2025-02-13"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 12
-  },
-  {
-    "congress": 119,
-    "number": "776",
-    "type": "HR",
-    "title": "Nutria Eradication and Control Reauthorization Act of 2025",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
-      "actionDate": "2025-02-05"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "7757",
-    "type": "HR",
-    "title": "KIDS Act",
-    "latestAction": {
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "actionDate": "2026-06-29"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7744",
-    "type": "HR",
-    "title": "Department of Homeland Security Appropriations Act, 2026",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Appropriations.",
-      "actionDate": "2026-03-09"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2256",
-    "type": "S",
-    "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2026",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 112.",
-      "actionDate": "2025-07-10"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2257",
-    "type": "S",
-    "title": "Legislative Branch Appropriations Act, 2026",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 113.",
-      "actionDate": "2025-07-10"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2431",
-    "type": "S",
-    "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2026",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.",
-      "actionDate": "2025-07-24"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2354",
-    "type": "S",
-    "title": "Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 122.",
-      "actionDate": "2025-07-17"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2465",
-    "type": "S",
-    "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2026",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 125.",
-      "actionDate": "2025-07-24"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2572",
-    "type": "S",
-    "title": "Department of Defense Appropriations Act, 2026",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 137.",
-      "actionDate": "2025-07-31"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2587",
-    "type": "S",
-    "title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2026",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 140.",
-      "actionDate": "2025-07-31"
-    },
-    "updateDate": "2026-07-12",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "877",
     "type": "HR",
     "title": "Deliver for Veterans Act",
@@ -428,7 +8,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
       "actionDate": "2025-04-08"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 7
@@ -442,7 +22,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
       "actionDate": "2025-06-27"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 20
@@ -456,7 +36,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "actionDate": "2025-03-04"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
@@ -470,7 +50,7 @@
       "text": "Received in the Senate.",
       "actionDate": "2025-04-29"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
@@ -484,7 +64,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
       "actionDate": "2026-06-09"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 7
@@ -498,7 +78,7 @@
       "text": "Received in the Senate.",
       "actionDate": "2026-06-08"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
@@ -512,7 +92,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "actionDate": "2025-03-11"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 5,
     "republicanCosponsors": 3
@@ -526,7 +106,7 @@
       "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.",
       "actionDate": "2025-04-30"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
@@ -540,7 +120,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "actionDate": "2025-03-04"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
@@ -554,7 +134,7 @@
       "text": "Received in the Senate.",
       "actionDate": "2026-05-20"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
@@ -568,7 +148,7 @@
       "text": "Received in the Senate.",
       "actionDate": "2026-06-11"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
@@ -582,7 +162,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "actionDate": "2026-06-09"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
@@ -596,7 +176,7 @@
       "text": "Received in the Senate.",
       "actionDate": "2026-06-11"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 2
@@ -610,7 +190,7 @@
       "text": "Received in the Senate.",
       "actionDate": "2026-06-09"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 2
@@ -624,7 +204,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
       "actionDate": "2025-12-18"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 20
@@ -638,7 +218,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "actionDate": "2026-06-09"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
@@ -652,7 +232,7 @@
       "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.",
       "actionDate": "2026-02-04"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
@@ -666,7 +246,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
       "actionDate": "2025-02-06"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 3,
     "republicanCosponsors": 2
@@ -680,7 +260,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
       "actionDate": "2026-05-18"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 2
@@ -694,9 +274,429 @@
       "text": "Received in the Senate.",
       "actionDate": "2026-04-28"
     },
-    "updateDate": "2026-07-12",
+    "updateDate": "2026-07-13",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "835",
+    "type": "HR",
+    "title": "9/11 Memorial and Museum Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2025-02-05"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "8352",
+    "type": "HR",
+    "title": "Criminal History Access Act of 2026",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-05-13"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8340",
+    "type": "HR",
+    "title": "Taxpayer Funds Oversight and Accountability Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2026-06-11"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "832",
+    "type": "HR",
+    "title": "Small Business Advocacy Improvements Act of 2025",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "actionDate": "2025-02-25"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "8322",
+    "type": "HR",
+    "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through April 30, 2026, and for other purposes.",
+    "latestAction": {
+      "text": "Became Public Law No: 119-84.",
+      "actionDate": "2026-04-18"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "831",
+    "type": "HR",
+    "title": "Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025",
+    "latestAction": {
+      "text": "Received in the Senate.",
+      "actionDate": "2026-03-17"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "8312",
+    "type": "HR",
+    "title": "Fraud Prevention and Accountability Act",
+    "latestAction": {
+      "text": "Received in the Senate.",
+      "actionDate": "2026-06-11"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "828",
+    "type": "HR",
+    "title": "SERV Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "actionDate": "2025-02-25"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "826",
+    "type": "HR",
+    "title": "COVID Fraud Transparency Act of 2026",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "actionDate": "2026-06-24"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "825",
+    "type": "HR",
+    "title": "Assisting Small Businesses Not Fraudsters Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "actionDate": "2025-02-25"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "818",
+    "type": "HR",
+    "title": "SPUR Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "actionDate": "2025-02-25"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "8107",
+    "type": "HR",
+    "title": "Government Audit and Accountability of Federally Funded State-Administered Programs Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2026-06-09"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "804",
+    "type": "HR",
+    "title": "Rural Small Business Resilience Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "actionDate": "2025-02-26"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "8029",
+    "type": "HR",
+    "title": "Pay Our Homeland Defenders Act",
+    "latestAction": {
+      "text": "Received in the Senate.",
+      "actionDate": "2026-04-02"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7971",
+    "type": "HR",
+    "title": "Taxpayer Experience Improvement Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-04-28"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7959",
+    "type": "HR",
+    "title": "IRS Whistleblower Program Improvement Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-04-28"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "789",
+    "type": "HR",
+    "title": "Transparency and Predictability in Small Business Opportunities Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "actionDate": "2025-06-04"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "7892",
+    "type": "HR",
+    "title": "No Aid for Ghost Students Act of 2026",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-06-11"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "788",
+    "type": "HR",
+    "title": "DOE and SBA Research Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2025-02-26"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "787",
+    "type": "HR",
+    "title": "Plain Language in Contracting Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "actionDate": "2025-06-04"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7831",
+    "type": "HR",
+    "title": "License to Drill Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2026-06-03"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "77",
+    "type": "HR",
+    "title": "Midnight Rules Relief Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2025-02-13"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 12
+  },
+  {
+    "congress": 119,
+    "number": "776",
+    "type": "HR",
+    "title": "Nutria Eradication and Control Reauthorization Act of 2025",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+      "actionDate": "2025-02-05"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "7757",
+    "type": "HR",
+    "title": "KIDS Act",
+    "latestAction": {
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2026-06-29"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7744",
+    "type": "HR",
+    "title": "Department of Homeland Security Appropriations Act, 2026",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Appropriations.",
+      "actionDate": "2026-03-09"
+    },
+    "updateDate": "2026-07-13",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "88",
+    "type": "SJRES",
+    "title": "A joint resolution terminating the national emergency declared to impose global tariffs.",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2025-10-31"
+    },
+    "updateDate": "2026-07-12",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "81",
+    "type": "SJRES",
+    "title": "A joint resolution terminating the national emergency declared to impose duties on articles imported from Brazil.",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2025-10-31"
+    },
+    "updateDate": "2026-07-12",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "80",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
+    "latestAction": {
+      "text": "Became Public Law No: 119-47.",
+      "actionDate": "2025-12-05"
+    },
+    "updateDate": "2026-07-12",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "7",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to \"Addressing the Homework Gap Through the E-Rate Program\".",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2025-05-09"
+    },
+    "updateDate": "2026-07-12",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 16
+  },
+  {
+    "congress": 119,
+    "number": "77",
+    "type": "SJRES",
+    "title": "A joint resolution terminating the national emergency declared to impose duties on articles imported from Canada.",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2025-10-31"
+    },
+    "updateDate": "2026-07-12",
+    "sponsor": null,
+    "democratCosponsors": 11,
+    "republicanCosponsors": 3
   }
 ]
