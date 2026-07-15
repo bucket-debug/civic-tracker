@@ -96,6 +96,12 @@
     "contribution_receipt_date": "2026-03-17"
   },
   {
+    "contributor_name": "ADELSON, MIRIAM O. DR.",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "MAGA INC.",
+    "contribution_receipt_date": "2026-05-05"
+  },
+  {
     "contributor_name": "HENDRICKS, DIANE",
     "contribution_receipt_amount": 25000000.0,
     "committee_name": "MAGA INC.",
@@ -592,11 +598,5 @@
     "contribution_receipt_amount": 5500000.0,
     "committee_name": "CLF",
     "contribution_receipt_date": "2025-06-17"
-  },
-  {
-    "contributor_name": "MUSK, ELON",
-    "contribution_receipt_amount": 5500000.0,
-    "committee_name": "AMERICA PAC",
-    "contribution_receipt_date": "2025-03-19"
   }
 ]

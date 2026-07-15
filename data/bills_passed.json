@@ -1,16 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "8322",
+    "number": "1181",
     "type": "HR",
-    "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through April 30, 2026, and for other purposes.",
+    "title": "Protecting Privacy in Purchases Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-84.",
-      "actionDate": "2026-04-18"
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2026-07-14"
     },
-    "updateDate": "2026-07-14",
+    "updateDate": "2026-07-15",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 20
+  },
+  {
+    "congress": 119,
+    "number": "9684",
+    "type": "HR",
+    "title": "To direct the Secretary of Labor to support the development of pre-apprenticeship programs in the building and construction trades that serve underrepresented populations, including individuals from low income and rural census tracts.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9677",
+    "type": "HR",
+    "title": "To require the Secretary of Housing and Urban Development to establish a program to provide housing assistance to graduate students.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Financial Services.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9683",
+    "type": "HR",
+    "title": "To direct the Comptroller General of the United States to submit a report to Congress on case management personnel turnover of the Federal Emergency Management Agency, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Transportation and Infrastructure.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-15",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9666",
+    "type": "HR",
+    "title": "To direct the Secretary of Veterans Affairs to establish a pilot program to use four-dimensional functional lung imaging software product to identify respiratory disorders and lung disease in veterans, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Veterans' Affairs.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-15",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   }
 ]
