@@ -1,16 +1,142 @@
 [
   {
     "congress": 119,
-    "number": "8322",
-    "type": "HR",
-    "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through April 30, 2026, and for other purposes.",
+    "number": "1071",
+    "type": "S",
+    "title": "National Defense Authorization Act for Fiscal Year 2026",
     "latestAction": {
-      "text": "Became Public Law No: 119-84.",
-      "actionDate": "2026-04-18"
+      "text": "Became Public Law No: 119-60.",
+      "actionDate": "2025-12-18"
     },
-    "updateDate": "2026-07-16",
+    "updateDate": "2026-07-17",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "2283",
+    "type": "S",
+    "title": "A bill to designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+    "latestAction": {
+      "text": "Became Public Law No: 119-59.",
+      "actionDate": "2025-12-18"
+    },
+    "updateDate": "2026-07-17",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "222",
+    "type": "S",
+    "title": "Whole Milk for Healthy Kids Act of 2025",
+    "latestAction": {
+      "text": "Became Public Law No: 119-69.",
+      "actionDate": "2026-01-14"
+    },
+    "updateDate": "2026-07-17",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 10
+  },
+  {
+    "congress": 119,
+    "number": "216",
+    "type": "S",
+    "title": "Save Our Seas 2.0 Amendments Act",
+    "latestAction": {
+      "text": "Became Public Law No: 119-65.",
+      "actionDate": "2025-12-26"
+    },
+    "updateDate": "2026-07-17",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "201",
+    "type": "S",
+    "title": "ACES Act of 2025",
+    "latestAction": {
+      "text": "Became Public Law No: 119-32.",
+      "actionDate": "2025-08-14"
+    },
+    "updateDate": "2026-07-17",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "1884",
+    "type": "S",
+    "title": "Holocaust Expropriated Art Recovery Act of 2025",
+    "latestAction": {
+      "text": "Became Public Law No: 119-82.",
+      "actionDate": "2026-04-13"
+    },
+    "updateDate": "2026-07-17",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 10
+  },
+  {
+    "congress": 119,
+    "number": "80",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
+    "latestAction": {
+      "text": "Became Public Law No: 119-47.",
+      "actionDate": "2025-12-05"
+    },
+    "updateDate": "2026-07-17",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "31",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act\".",
+    "latestAction": {
+      "text": "Became Public Law No: 119-20.",
+      "actionDate": "2025-06-20"
+    },
+    "updateDate": "2026-07-17",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "28",
+    "type": "SJRES",
+    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications\".",
+    "latestAction": {
+      "text": "Became Public Law No: 119-11.",
+      "actionDate": "2025-05-09"
+    },
+    "updateDate": "2026-07-17",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "18",
+    "type": "SJRES",
+    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
+    "latestAction": {
+      "text": "Became Public Law No: 119-10.",
+      "actionDate": "2025-05-09"
+    },
+    "updateDate": "2026-07-17",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 16
   }
 ]
