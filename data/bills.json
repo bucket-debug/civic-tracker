@@ -1,157 +1,17 @@
 [
   {
     "congress": 119,
-    "number": "2120",
-    "type": "S",
-    "title": "Older Americans Act Reauthorization Act of 2025",
+    "number": "3074",
+    "type": "HR",
+    "title": "Common Cents Act",
     "latestAction": {
-      "text": "Held at the desk.",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "actionDate": "2026-07-15"
     },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "7574",
-    "type": "HR",
-    "title": "ELO Realignment and Strategic Engagement Reform Act of 2026",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8738",
-    "type": "HR",
-    "title": "FEC Administrative Improvements Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "8770",
-    "type": "HR",
-    "title": "SAFEGUARDS Act of 2026",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "3106",
-    "type": "HR",
-    "title": "Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act of 2025",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3535",
-    "type": "HR",
-    "title": "Stop Foreign Funds in Elections Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8168",
-    "type": "HR",
-    "title": "Major Non-NATO Ally Terror Threat Assessment Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "6332",
-    "type": "HR",
-    "title": "To designate the facility of the United States Postal Service located at 10660 Page Avenue in Fairfax, Virginia, as the \"Congressman Gerald E. Connolly Post Office Building\".",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "1424",
-    "type": "HRES",
-    "title": "Expressing the profound sorrow of the House of Representatives on the death of the Honorable Lindsey Graham.",
-    "latestAction": {
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "actionDate": "2026-07-13"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9391",
-    "type": "HR",
-    "title": "Reimbursable Screening Services Program Extension Act of 2026",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7809",
-    "type": "HR",
-    "title": "To designate the facility of the United States Postal Service located at 201 East Grant Avenue in Georgetown, Ohio, as the \"Ulysses S. Grant Post Office Building\".",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 9
   },
   {
     "congress": 119,
@@ -162,21 +22,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "actionDate": "2026-07-15"
     },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3074",
-    "type": "HR",
-    "title": "Common Cents Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-07-15"
-    },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
@@ -190,7 +36,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "actionDate": "2026-07-15"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 20
@@ -204,7 +50,7 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "actionDate": "2026-07-15"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 20
@@ -218,10 +64,164 @@
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "actionDate": "2026-07-14"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2120",
+    "type": "S",
+    "title": "Older Americans Act Reauthorization Act of 2025",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2026-07-15"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 7
+  },
+  {
+    "congress": 119,
+    "number": "3106",
+    "type": "HR",
+    "title": "Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act of 2025",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7574",
+    "type": "HR",
+    "title": "ELO Realignment and Strategic Engagement Reform Act of 2026",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3535",
+    "type": "HR",
+    "title": "Stop Foreign Funds in Elections Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8770",
+    "type": "HR",
+    "title": "SAFEGUARDS Act of 2026",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "8738",
+    "type": "HR",
+    "title": "FEC Administrative Improvements Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "1424",
+    "type": "HRES",
+    "title": "Expressing the profound sorrow of the House of Representatives on the death of the Honorable Lindsey Graham.",
+    "latestAction": {
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2026-07-13"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "6332",
+    "type": "HR",
+    "title": "To designate the facility of the United States Postal Service located at 10660 Page Avenue in Fairfax, Virginia, as the \"Congressman Gerald E. Connolly Post Office Building\".",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 6
+  },
+  {
+    "congress": 119,
+    "number": "9391",
+    "type": "HR",
+    "title": "Reimbursable Screening Services Program Extension Act of 2026",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8168",
+    "type": "HR",
+    "title": "Major Non-NATO Ally Terror Threat Assessment Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7809",
+    "type": "HR",
+    "title": "To designate the facility of the United States Postal Service located at 201 East Grant Avenue in Georgetown, Ohio, as the \"Ulysses S. Grant Post Office Building\".",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 9
   },
   {
     "congress": 119,
@@ -232,24 +232,10 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "actionDate": "2026-07-14"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "8874",
-    "type": "HR",
-    "title": "Homeland Security Capabilities Preservation Reporting Act of 2026",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -260,7 +246,21 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "actionDate": "2026-07-14"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8897",
+    "type": "HR",
+    "title": "Improving Travel for American Families Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 2,
     "republicanCosponsors": 0
@@ -274,429 +274,429 @@
       "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "actionDate": "2026-07-14"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "8897",
+    "number": "8874",
     "type": "HR",
-    "title": "Improving Travel for American Families Act",
+    "title": "Homeland Security Capabilities Preservation Reporting Act of 2026",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "actionDate": "2026-07-14"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1071",
-    "type": "S",
-    "title": "National Defense Authorization Act for Fiscal Year 2026",
-    "latestAction": {
-      "text": "Became Public Law No: 119-60.",
-      "actionDate": "2025-12-18"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 1,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "2296",
-    "type": "S",
-    "title": "National Defense Authorization Act for Fiscal Year 2026",
+    "number": "8800",
+    "type": "HR",
+    "title": "National Defense Authorization Act for Fiscal Year 2027",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-11-12"
+      "text": "Rules Committee Resolution H. Res. 1398 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8595, H.R. 8884 and H. Res. 1383. The resolution provides for consideration of H.R. 8800 and H.R. 8595 under a structured rule, and H.R. 8884 and H. Res. 1383 under a closed rule. The resolution provides for one hour of general debate on each measure and one motion to recommit on H.R. 8800, H.R. 8595, and H.R. 8884.",
+      "actionDate": "2026-06-30"
     },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2283",
-    "type": "S",
-    "title": "A bill to designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
-    "latestAction": {
-      "text": "Became Public Law No: 119-59.",
-      "actionDate": "2025-12-18"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2280",
-    "type": "S",
-    "title": "A bill to transfer administrative jurisdiction over certain parcels of Federal land in Harpers Ferry, West Virginia, and for other purposes.",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-05-04"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2245",
-    "type": "S",
-    "title": "A bill to amend the Digital Coast Act to improve the acquisition, integration, and accessibility of data of the Digital Coast program and to extend the program.",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-03-03"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "2232",
-    "type": "S",
-    "title": "Expanding the Surety Bond Program Act of 2025",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-05-04"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "222",
-    "type": "S",
-    "title": "Whole Milk for Healthy Kids Act of 2025",
-    "latestAction": {
-      "text": "Became Public Law No: 119-69.",
-      "actionDate": "2026-01-14"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "216",
-    "type": "S",
-    "title": "Save Our Seas 2.0 Amendments Act",
-    "latestAction": {
-      "text": "Became Public Law No: 119-65.",
-      "actionDate": "2025-12-26"
-    },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "2144",
-    "type": "S",
-    "title": "A bill to improve the safety and security of Members of Congress, immediate family members of Members of Congress, and congressional staff.",
+    "number": "9640",
+    "type": "HR",
+    "title": "Earth MRI Reauthorization Act of 2026",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-10-10"
+      "text": "Referred to the Subcommittee on Energy and Mineral Resources.",
+      "actionDate": "2026-07-14"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9368",
+    "type": "HR",
+    "title": "Voter ID Act",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 653.",
+      "actionDate": "2026-07-15"
+    },
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 7
   },
   {
     "congress": 119,
-    "number": "2132",
-    "type": "S",
-    "title": "CLEAR Path Act",
+    "number": "1295",
+    "type": "HRES",
+    "title": "Expressing support for the designation of May 17, 2026, as \"DIPG Awareness Day\" to raise awareness and encourage research into cures for diffuse intrinsic pontine glioma (DIPG) and pediatric cancers in general.",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-04-22"
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-05-15"
     },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2110",
-    "type": "S",
-    "title": "REUSE Act of 2025",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-11-20"
-    },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "8843",
+    "type": "HR",
+    "title": "FAFO Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "7335",
+    "type": "HR",
+    "title": "Humanitarian Standards for Individuals in ICE and CBP Custody Act",
+    "latestAction": {
+      "text": "Sponsor introductory remarks on measure. (CR H2018)",
+      "actionDate": "2026-02-04"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 20,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7941",
+    "type": "HR",
+    "title": "Pay TSA Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Transportation and Maritime Security.",
+      "actionDate": "2026-03-17"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "7083",
+    "type": "HR",
+    "title": "CRUISE Act",
+    "latestAction": {
+      "text": "Ordered to be Reported in the Nature of a Substitute by Voice Vote.",
+      "actionDate": "2026-05-14"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "2074",
-    "type": "S",
-    "title": "Servicemembers\u2019 Credit Monitoring Enhancement Act",
+    "number": "3418",
+    "type": "HR",
+    "title": "Historic Preservation Fund Reauthorization Act",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-03-16"
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2025-05-14"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 14,
+    "republicanCosponsors": 6
+  },
+  {
+    "congress": 119,
+    "number": "924",
+    "type": "HR",
+    "title": "NO BAN Act",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
+      "actionDate": "2025-02-04"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 20,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7984",
+    "type": "HR",
+    "title": "DHS Use of Force Transparency Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
+      "actionDate": "2026-03-19"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "6476",
+    "type": "HR",
+    "title": "Relief for Farmers Hit with PFAS Act",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "actionDate": "2026-01-13"
+    },
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 2
   },
   {
     "congress": 119,
-    "number": "2033",
-    "type": "S",
-    "title": "Cross-Boundary Wildfire Solutions Act",
+    "number": "6436",
+    "type": "HR",
+    "title": "To amend the Agricultural Act of 2014 to allow for the advance payment of assistance under Tree Assistance Program, and for other purposes.",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-06-15"
+      "text": "Referred to the Subcommittee on Forestry and Horticulture.",
+      "actionDate": "2026-01-13"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5020",
+    "type": "HR",
+    "title": "Supporting Our Shelters Act",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+      "actionDate": "2026-01-13"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1298",
+    "type": "HRES",
+    "title": "Supporting the goals and ideals of \"National Charter Schools Week\", to be observed from May 10 through May 16, 2026.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "8858",
+    "type": "HR",
+    "title": "Protecting American Voters\u2019 Rights Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "201",
-    "type": "S",
-    "title": "ACES Act of 2025",
+    "number": "8851",
+    "type": "HR",
+    "title": "One Giant LEAP Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-32.",
-      "actionDate": "2025-08-14"
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2026-05-15"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "195",
-    "type": "S",
-    "title": "American Music Tourism Act of 2025",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-05-15"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "1890",
-    "type": "S",
-    "title": "Carla Walker Act",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-06-15"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "1884",
-    "type": "S",
-    "title": "Holocaust Expropriated Art Recovery Act of 2025",
-    "latestAction": {
-      "text": "Became Public Law No: 119-82.",
-      "actionDate": "2026-04-13"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "1872",
-    "type": "S",
-    "title": "Critical Infrastructure Manufacturing Feasibility Act",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-11-10"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 2,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "88",
-    "type": "SJRES",
-    "title": "A joint resolution terminating the national emergency declared to impose global tariffs.",
+    "number": "3464",
+    "type": "HR",
+    "title": "State Border Security Assistance Act",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-10-31"
+      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
+      "actionDate": "2025-05-16"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 1
+    "democratCosponsors": 1,
+    "republicanCosponsors": 7
   },
   {
     "congress": 119,
-    "number": "81",
-    "type": "SJRES",
-    "title": "A joint resolution terminating the national emergency declared to impose duties on articles imported from Brazil.",
+    "number": "7950",
+    "type": "HR",
+    "title": "To amend title 38, United States Code, to establish the Office of Congressional and Legislative Affairs in the Department of Veterans Affairs, and for other purposes.",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-10-31"
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 13 - 10.",
+      "actionDate": "2026-05-14"
     },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "80",
-    "type": "SJRES",
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
-    "latestAction": {
-      "text": "Became Public Law No: 119-47.",
-      "actionDate": "2025-12-05"
-    },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "7",
-    "type": "SJRES",
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to \"Addressing the Homework Gap Through the E-Rate Program\".",
+    "number": "4987",
+    "type": "HR",
+    "title": "Food Date Labeling Act of 2025",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-05-09"
+      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "actionDate": "2026-01-13"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 16
-  },
-  {
-    "congress": 119,
-    "number": "77",
-    "type": "SJRES",
-    "title": "A joint resolution terminating the national emergency declared to impose duties on articles imported from Canada.",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-10-31"
-    },
-    "updateDate": "2026-07-17",
-    "sponsor": null,
-    "democratCosponsors": 11,
+    "democratCosponsors": 6,
     "republicanCosponsors": 3
   },
   {
     "congress": 119,
-    "number": "55",
-    "type": "SJRES",
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Highway Traffic Safety Administration relating to \"Federal Motor Vehicle Safety Standards; Fuel System Integrity of Hydrogen Vehicles; Compressed Hydrogen Storage System Integrity; Incorporation by Reference\".",
+    "number": "8414",
+    "type": "HR",
+    "title": "DAIRY PRIDE Act",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-05-26"
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-04-21"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 10
+  },
+  {
+    "congress": 119,
+    "number": "4971",
+    "type": "HR",
+    "title": "Terrorist Watchlist Data Accuracy and Transparency Act",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Counterterrorism and Intelligence.",
+      "actionDate": "2025-08-18"
+    },
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "3",
-    "type": "SJRES",
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
+    "number": "8411",
+    "type": "HR",
+    "title": "Original Legislation to Give TSA Employees a Raise",
     "latestAction": {
-      "text": "Message received in Senate: Returned to the Senate pursuant to the provisions of H.Res. 212.",
-      "actionDate": "2025-03-12"
+      "text": "Referred to the Subcommittee on Transportation and Maritime Security.",
+      "actionDate": "2026-04-22"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 14
+    "democratCosponsors": 7,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "37",
-    "type": "SJRES",
-    "title": "A joint resolution terminating the national emergency declared to impose duties on articles imported from Canada.",
+    "number": "8853",
+    "type": "HR",
+    "title": "Amtrak Grant Flexibility Act",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-04-03"
+      "text": "Referred to the House Committee on Transportation and Infrastructure.",
+      "actionDate": "2026-05-15"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
-    "democratCosponsors": 7,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5241",
+    "type": "HR",
+    "title": "RTCP Revitalization Act",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+      "actionDate": "2026-01-13"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "1294",
+    "type": "HRES",
+    "title": "Supporting the designation of May 15, 2026, as \"Endangered Species Day\".",
+    "latestAction": {
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-07-18",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "31",
-    "type": "SJRES",
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act\".",
+    "number": "4892",
+    "type": "HR",
+    "title": "Seedlings for Sustainable Habitat Restoration Act of 2025",
     "latestAction": {
-      "text": "Became Public Law No: 119-20.",
-      "actionDate": "2025-06-20"
+      "text": "Referred to the Subcommittee on Forestry and Horticulture.",
+      "actionDate": "2026-01-13"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 5
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "28",
-    "type": "SJRES",
-    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications\".",
+    "number": "2767",
+    "type": "HR",
+    "title": "BRAIN Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-11.",
-      "actionDate": "2025-05-09"
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2025-04-09"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 5
+    "democratCosponsors": 17,
+    "republicanCosponsors": 3
   },
   {
     "congress": 119,
-    "number": "18",
-    "type": "SJRES",
-    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
+    "number": "8861",
+    "type": "HR",
+    "title": "Department of Justice Integrity Act of 2026",
     "latestAction": {
-      "text": "Became Public Law No: 119-10.",
-      "actionDate": "2025-05-09"
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-05-15"
     },
-    "updateDate": "2026-07-17",
+    "updateDate": "2026-07-18",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 16
+    "democratCosponsors": 5,
+    "republicanCosponsors": 0
   }
 ]
