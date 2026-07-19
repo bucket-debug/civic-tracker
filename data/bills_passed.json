@@ -1,72 +1,58 @@
 [
   {
     "congress": 119,
-    "number": "3074",
+    "number": "998",
     "type": "HR",
-    "title": "Common Cents Act",
+    "title": "Internal Revenue Service Math and Taxpayer Help Act",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-07-15"
+      "text": "Became Public Law No: 119-39.",
+      "actionDate": "2025-11-25"
     },
-    "updateDate": "2026-07-18",
+    "updateDate": "2026-07-19",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "6556",
+    "number": "983",
     "type": "HR",
-    "title": "Failing Bank Acquisition Fairness Act",
+    "title": "Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-07-15"
+      "text": "Became Public Law No: 119-55.",
+      "actionDate": "2025-12-12"
     },
-    "updateDate": "2026-07-18",
+    "updateDate": "2026-07-19",
     "sponsor": null,
-    "democratCosponsors": 1,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "139",
+    "number": "972",
     "type": "HR",
-    "title": "Sunshine Protection Act of 2025",
+    "title": "Sloan Canyon Conservation and Lateral Pipeline Act",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-07-15"
+      "text": "Became Public Law No: 119-91.",
+      "actionDate": "2026-05-19"
     },
-    "updateDate": "2026-07-18",
+    "updateDate": "2026-07-19",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 20
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "1181",
+    "number": "970",
     "type": "HR",
-    "title": "Protecting Privacy in Purchases Act",
+    "title": "Fairness for Servicemembers and their Families Act of 2025",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-07-15"
+      "text": "Became Public Law No: 119-54.",
+      "actionDate": "2025-12-12"
     },
-    "updateDate": "2026-07-18",
+    "updateDate": "2026-07-19",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "2120",
-    "type": "S",
-    "title": "Older Americans Act Reauthorization Act of 2025",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-07-15"
-    },
-    "updateDate": "2026-07-18",
-    "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 7
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
   }
 ]
