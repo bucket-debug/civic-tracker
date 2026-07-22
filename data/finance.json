@@ -390,6 +390,12 @@
     "contribution_receipt_date": "2025-09-12"
   },
   {
+    "contributor_name": "ACTBLUE",
+    "contribution_receipt_amount": 9492322.26,
+    "committee_name": "COOPER VICTORY FUND",
+    "contribution_receipt_date": "2026-06-30"
+  },
+  {
     "contributor_name": "TRUMP NATIONAL COMMITTEE JFC INC.",
     "contribution_receipt_amount": 9202731.19,
     "committee_name": "REPUBLICAN NATIONAL COMMITTEE",
@@ -592,11 +598,5 @@
     "contribution_receipt_amount": 5533924.6,
     "committee_name": "NEVER SURRENDER, INC.",
     "contribution_receipt_date": "2025-05-21"
-  },
-  {
-    "contributor_name": "AMERICAN ACTION NETWORK",
-    "contribution_receipt_amount": 5500000.0,
-    "committee_name": "CLF",
-    "contribution_receipt_date": "2025-06-17"
   }
 ]
