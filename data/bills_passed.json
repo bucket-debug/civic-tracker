@@ -1,72 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "1041",
-    "type": "S",
-    "title": "Affordable Prescriptions for Patients Act",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-07-22",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "37",
-    "type": "SCONRES",
-    "title": "",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-07-22",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9808",
+    "number": "8800",
     "type": "HR",
-    "title": "No Passes for Polluters Act of 2026",
+    "title": "National Defense Authorization Act for Fiscal Year 2027",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-07-21"
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2026-07-22"
     },
-    "updateDate": "2026-07-22",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1444",
-    "type": "HRES",
-    "title": "Expressing support for maintaining the designation of the Delaware Water Gap National Recreation Area.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-07-22",
+    "updateDate": "2026-07-23",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "114",
-    "type": "HCONRES",
-    "title": "Recognizing the significance of equal pay and the disparity in wages paid to men and to Black women.",
+    "number": "9875",
+    "type": "HR",
+    "title": "Protecting Childcare from Private Equity Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-07-21"
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-07-22"
     },
-    "updateDate": "2026-07-22",
+    "updateDate": "2026-07-23",
     "sponsor": null,
-    "democratCosponsors": 20,
+    "democratCosponsors": 5,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9837",
+    "type": "HR",
+    "title": "GET THE LEAD OUT Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-07-22"
+    },
+    "updateDate": "2026-07-23",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9848",
+    "type": "HR",
+    "title": "Military Spouse Employment and Child Care Readiness Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Armed Services.",
+      "actionDate": "2026-07-22"
+    },
+    "updateDate": "2026-07-23",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9867",
+    "type": "HR",
+    "title": "Expand the Behavioral Health Workforce Now Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-07-22"
+    },
+    "updateDate": "2026-07-23",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
   }
 ]
