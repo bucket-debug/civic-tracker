@@ -1,30 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "1",
+    "number": "8884",
     "type": "HR",
-    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+    "title": "Removing Barriers to Work for Disabled Americans Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-21.",
-      "actionDate": "2025-07-04"
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-07-23"
     },
-    "updateDate": "2026-07-23",
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9932",
+    "type": "HR",
+    "title": "Eleanor Smith Inclusive Home Design Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Financial Services.",
+      "actionDate": "2026-07-23"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1829",
+    "type": "HR",
+    "title": "Apache County and Navajo County Conveyance Act of 2026",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 493.",
+      "actionDate": "2026-07-23"
+    },
+    "updateDate": "2026-07-25",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "2",
-    "type": "S",
-    "title": "Secure America Act",
+    "number": "9933",
+    "type": "HR",
+    "title": "South Atlantic Red Snapper Fair Access Act of 2026",
     "latestAction": {
-      "text": "Became Public Law No: 119-98.",
-      "actionDate": "2026-06-10"
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-07-23"
     },
-    "updateDate": "2026-07-23",
+    "updateDate": "2026-07-25",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9922",
+    "type": "HR",
+    "title": "AI Transparency in Elections Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on House Administration.",
+      "actionDate": "2026-07-23"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 4,
     "republicanCosponsors": 0
   }
 ]
