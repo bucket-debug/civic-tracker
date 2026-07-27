@@ -1,6 +1,48 @@
 [
   {
     "congress": 119,
+    "number": "4655",
+    "type": "S",
+    "title": "Farm Credit Adjustment Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-07-27",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2283",
+    "type": "S",
+    "title": "A bill to designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+    "latestAction": {
+      "text": "Became Public Law No: 119-59.",
+      "actionDate": "2025-12-18"
+    },
+    "updateDate": "2026-07-26",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "4836",
+    "type": "HR",
+    "title": "To designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2025-08-01"
+    },
+    "updateDate": "2026-07-26",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
     "number": "9811",
     "type": "HR",
     "title": "Anti-Fraud Fund Act of 2026",
@@ -29,20 +71,6 @@
   },
   {
     "congress": 119,
-    "number": "3383",
-    "type": "S",
-    "title": "Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.",
-      "actionDate": "2026-07-16"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
     "number": "195",
     "type": "S",
     "title": "American Music Tourism Act of 2025",
@@ -57,16 +85,30 @@
   },
   {
     "congress": 119,
-    "number": "1322",
+    "number": "3383",
     "type": "S",
-    "title": "Family Notification of Death, Injury, or Illness in Custody Act of 2025",
+    "title": "Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-04-08"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.",
+      "actionDate": "2026-07-16"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "2132",
+    "type": "S",
+    "title": "CLEAR Path Act",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2026-04-22"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 3,
     "republicanCosponsors": 1
   },
   {
@@ -85,44 +127,16 @@
   },
   {
     "congress": 119,
-    "number": "2132",
+    "number": "1322",
     "type": "S",
-    "title": "CLEAR Path Act",
+    "title": "Family Notification of Death, Injury, or Illness in Custody Act of 2025",
     "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-04-22"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "5800",
-    "type": "HR",
-    "title": "SAFE Drivers Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Highways and Transit.",
-      "actionDate": "2025-12-01"
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2025-04-08"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "3029",
-    "type": "HR",
-    "title": "To amend the Research and Development, Competition, and Innovation Act to support nucleic acid screening, and for other purposes.",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 2,
     "republicanCosponsors": 1
   },
   {
@@ -155,73 +169,31 @@
   },
   {
     "congress": 119,
-    "number": "4709",
-    "type": "S",
-    "title": "UNLOCK AUKUS Act",
+    "number": "5800",
+    "type": "HR",
+    "title": "SAFE Drivers Act",
     "latestAction": {
-      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.",
-      "actionDate": "2026-06-17"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "4621",
-    "type": "S",
-    "title": "SILVER Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-      "actionDate": "2026-05-21"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "4767",
-    "type": "S",
-    "title": "Renewing the African American Civil Rights Network Act",
-    "latestAction": {
-      "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4528",
-    "type": "S",
-    "title": "IGNITE HBCU Excellence Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-05-14"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "4952",
-    "type": "S",
-    "title": "Protecting American Taxpayers Act",
-    "latestAction": {
-      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.",
-      "actionDate": "2026-07-14"
+      "text": "Referred to the Subcommittee on Highways and Transit.",
+      "actionDate": "2025-12-01"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 20
+  },
+  {
+    "congress": 119,
+    "number": "3029",
+    "type": "HR",
+    "title": "To amend the Research and Development, Competition, and Innovation Act to support nucleic acid screening, and for other purposes.",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-07-21"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -239,6 +211,34 @@
   },
   {
     "congress": 119,
+    "number": "4620",
+    "type": "S",
+    "title": "Mandatory E-Verify Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-05-21"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 12
+  },
+  {
+    "congress": 119,
+    "number": "4767",
+    "type": "S",
+    "title": "Renewing the African American Civil Rights Network Act",
+    "latestAction": {
+      "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "actionDate": "2026-07-21"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "4441",
     "type": "S",
     "title": "CREATE AI Act",
@@ -253,17 +253,31 @@
   },
   {
     "congress": 119,
-    "number": "4472",
+    "number": "4528",
     "type": "S",
-    "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
+    "title": "IGNITE HBCU Excellence Act",
     "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 461.",
-      "actionDate": "2026-07-16"
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-05-14"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 7
+    "democratCosponsors": 7,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "4621",
+    "type": "S",
+    "title": "SILVER Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "actionDate": "2026-05-21"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
   },
   {
     "congress": 119,
@@ -281,6 +295,34 @@
   },
   {
     "congress": 119,
+    "number": "4952",
+    "type": "S",
+    "title": "Protecting American Taxpayers Act",
+    "latestAction": {
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 20
+  },
+  {
+    "congress": 119,
+    "number": "4709",
+    "type": "S",
+    "title": "UNLOCK AUKUS Act",
+    "latestAction": {
+      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.",
+      "actionDate": "2026-06-17"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
     "number": "4593",
     "type": "S",
     "title": "Detention Authority Clarification Act",
@@ -295,20 +337,6 @@
   },
   {
     "congress": 119,
-    "number": "4620",
-    "type": "S",
-    "title": "Mandatory E-Verify Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-05-21"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 12
-  },
-  {
-    "congress": 119,
     "number": "4859",
     "type": "S",
     "title": "Pell Grant Preservation and Expansion Act of 2026",
@@ -320,6 +348,20 @@
     "sponsor": null,
     "democratCosponsors": 20,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4472",
+    "type": "S",
+    "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 461.",
+      "actionDate": "2026-07-16"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 7
   },
   {
     "congress": 119,
@@ -351,20 +393,6 @@
   },
   {
     "congress": 119,
-    "number": "4316",
-    "type": "S",
-    "title": "Sanctuary City Elimination Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-04-16"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
     "number": "3606",
     "type": "S",
     "title": "Fraud Accountability Act",
@@ -376,62 +404,6 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 17
-  },
-  {
-    "congress": 119,
-    "number": "3314",
-    "type": "S",
-    "title": "Written Informed Consent Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
-      "actionDate": "2025-12-02"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "3675",
-    "type": "S",
-    "title": "ICE Protection Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-01-15"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "3589",
-    "type": "S",
-    "title": "RISE Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-01-07"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "3909",
-    "type": "S",
-    "title": "Stop Illegal Alien Cops Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-02-25"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 6
   },
   {
     "congress": 119,
@@ -463,31 +435,31 @@
   },
   {
     "congress": 119,
-    "number": "4379",
+    "number": "3675",
     "type": "S",
-    "title": "Russia\u2019s War on Faith Act",
+    "title": "ICE Protection Act of 2026",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-04-22"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4418",
-    "type": "S",
-    "title": "Lowering Input Costs for American Farmers Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-04-28"
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-01-15"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 4
+    "republicanCosponsors": 7
+  },
+  {
+    "congress": 119,
+    "number": "3314",
+    "type": "S",
+    "title": "Written Informed Consent Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2025-12-02"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 7
   },
   {
     "congress": 119,
@@ -505,26 +477,40 @@
   },
   {
     "congress": 119,
-    "number": "3054",
+    "number": "3909",
     "type": "S",
-    "title": "Kayla Hamilton Act",
+    "title": "Stop Illegal Alien Cops Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-10-23"
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-02-25"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 13
+    "republicanCosponsors": 6
   },
   {
     "congress": 119,
-    "number": "1952",
+    "number": "4316",
     "type": "S",
-    "title": "Protecting Law Enforcement from Doxxing Act",
+    "title": "Sanctuary City Elimination Act",
     "latestAction": {
       "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-06-04"
+      "actionDate": "2026-04-16"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 8
+  },
+  {
+    "congress": 119,
+    "number": "4418",
+    "type": "S",
+    "title": "Lowering Input Costs for American Farmers Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-04-28"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
@@ -533,17 +519,31 @@
   },
   {
     "congress": 119,
-    "number": "1517",
+    "number": "4379",
     "type": "S",
-    "title": "BE GONE Act",
+    "title": "Russia\u2019s War on Faith Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-04-29"
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-22"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 18
+    "democratCosponsors": 3,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "3589",
+    "type": "S",
+    "title": "RISE Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-01-07"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 4
   },
   {
     "congress": 119,
@@ -553,6 +553,20 @@
     "latestAction": {
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "actionDate": "2025-10-30"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 12
+  },
+  {
+    "congress": 119,
+    "number": "3197",
+    "type": "S",
+    "title": "Flight Risk Reduction Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2025-11-19"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
@@ -589,17 +603,31 @@
   },
   {
     "congress": 119,
-    "number": "3197",
+    "number": "1952",
     "type": "S",
-    "title": "Flight Risk Reduction Act",
+    "title": "Protecting Law Enforcement from Doxxing Act",
     "latestAction": {
       "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-11-19"
+      "actionDate": "2025-06-04"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 12
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "3054",
+    "type": "S",
+    "title": "Kayla Hamilton Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-10-23"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 13
   },
   {
     "congress": 119,
@@ -617,6 +645,20 @@
   },
   {
     "congress": 119,
+    "number": "1517",
+    "type": "S",
+    "title": "BE GONE Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2025-04-29"
+    },
+    "updateDate": "2026-07-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 18
+  },
+  {
+    "congress": 119,
     "number": "2223",
     "type": "S",
     "title": "Investing in Main Street Act of 2025",
@@ -628,34 +670,6 @@
     "sponsor": null,
     "democratCosponsors": 3,
     "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "494",
-    "type": "S",
-    "title": "National Plan for Epilepsy Act",
-    "latestAction": {
-      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 14,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "185",
-    "type": "S",
-    "title": "Justice for Victims of Sanctuary Cities Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-01-22"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 11
   },
   {
     "congress": 119,
@@ -673,30 +687,16 @@
   },
   {
     "congress": 119,
-    "number": "142",
+    "number": "494",
     "type": "S",
-    "title": "Wildland Firefighters Congressional Gold Medal Act",
+    "title": "National Plan for Epilepsy Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S231-232)",
-      "actionDate": "2025-01-16"
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "actionDate": "2026-07-22"
     },
     "updateDate": "2026-07-25",
     "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
-    "number": "1169",
-    "type": "S",
-    "title": "Freedom from Unfair Gun Taxes Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-03-27"
-    },
-    "updateDate": "2026-07-25",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 14
+    "democratCosponsors": 14,
+    "republicanCosponsors": 6
   }
 ]
