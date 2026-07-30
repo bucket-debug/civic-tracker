@@ -42,6 +42,12 @@
     "contribution_receipt_date": "2026-03-11"
   },
   {
+    "contributor_name": "MAJORITY FORWARD",
+    "contribution_receipt_amount": 28000000.0,
+    "committee_name": "SMP",
+    "contribution_receipt_date": "2026-06-30"
+  },
+  {
     "contributor_name": "AMERICAN PROSPERITY ALLIANCE",
     "contribution_receipt_amount": 27800000.0,
     "committee_name": "CONSERVATIVE AMERICANS PAC",
@@ -138,6 +144,12 @@
     "contribution_receipt_date": "2025-09-25"
   },
   {
+    "contributor_name": "ONE NATION",
+    "contribution_receipt_amount": 24290000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2026-06-30"
+  },
+  {
     "contributor_name": "AH CAPITAL MANAGEMENT",
     "contribution_receipt_amount": 23800000.0,
     "committee_name": "FAIRSHAKE",
@@ -172,6 +184,12 @@
     "contribution_receipt_amount": 23000000.0,
     "committee_name": "FAIRSHAKE",
     "contribution_receipt_date": "2024-12-20"
+  },
+  {
+    "contributor_name": "AMERICAN ACTION NETWORK",
+    "contribution_receipt_amount": 20000000.0,
+    "committee_name": "CLF",
+    "contribution_receipt_date": "2026-06-30"
   },
   {
     "contributor_name": "JOSEPH LUIZ GONZAGA  NNE",
@@ -334,6 +352,18 @@
     "contribution_receipt_amount": 10000000.0,
     "committee_name": "V-PAC: VICTORS, NOT VICTIMS",
     "contribution_receipt_date": "2025-03-06"
+  },
+  {
+    "contributor_name": "GRIFFIN, KENNETH C.",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2026-04-29"
+  },
+  {
+    "contributor_name": "HOFFMAN, REID",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "LONE STAR RISING PAC",
+    "contribution_receipt_date": "2026-06-30"
   },
   {
     "contributor_name": "SINGER, PAUL ELLIOTT",
@@ -504,6 +534,12 @@
     "contribution_receipt_date": "2025-06-30"
   },
   {
+    "contributor_name": "SCHWARZMAN, STEPHEN A.",
+    "contribution_receipt_amount": 7000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2026-06-26"
+  },
+  {
     "contributor_name": "RESPONSIVE GOVERNMENT ACTION",
     "contribution_receipt_amount": 7000000.0,
     "committee_name": "GOVERNMENT THAT WORKS PAC",
@@ -540,6 +576,12 @@
     "contribution_receipt_date": "2025-06-26"
   },
   {
+    "contributor_name": "ECONOMIC OPPORTUNITY FUND",
+    "contribution_receipt_amount": 6500000.0,
+    "committee_name": "FORWARD MAJORITY ACTION",
+    "contribution_receipt_date": "2026-04-01"
+  },
+  {
     "contributor_name": "FANDUEL INC",
     "contribution_receipt_amount": 6500000.0,
     "committee_name": "WIN FOR AMERICA",
@@ -556,47 +598,5 @@
     "contribution_receipt_amount": 6000000.0,
     "committee_name": "HMP",
     "contribution_receipt_date": "2025-06-26"
-  },
-  {
-    "contributor_name": "A16Z CAPITAL MANAGEMENT LLC",
-    "contribution_receipt_amount": 6000000.0,
-    "committee_name": "MAGA INC.",
-    "contribution_receipt_date": "2026-03-10"
-  },
-  {
-    "contributor_name": "FANDUEL INC",
-    "contribution_receipt_amount": 6000000.0,
-    "committee_name": "WIN FOR AMERICA",
-    "contribution_receipt_date": "2026-02-24"
-  },
-  {
-    "contributor_name": "DK CROWN HOLDINGS INC.",
-    "contribution_receipt_amount": 6000000.0,
-    "committee_name": "WIN FOR AMERICA",
-    "contribution_receipt_date": "2026-02-18"
-  },
-  {
-    "contributor_name": "COINBASE COMMERCE (EXCHANGE)",
-    "contribution_receipt_amount": 6000000.0,
-    "committee_name": "FAIRSHAKE",
-    "contribution_receipt_date": "2025-07-13"
-  },
-  {
-    "contributor_name": "MAJORITY FORWARD",
-    "contribution_receipt_amount": 6000000.0,
-    "committee_name": "SMP",
-    "contribution_receipt_date": "2025-12-30"
-  },
-  {
-    "contributor_name": "ENVIRONMENTAL DEFENSE ACTION FUND",
-    "contribution_receipt_amount": 5750000.0,
-    "committee_name": "EDF ACTION VOTES",
-    "contribution_receipt_date": "2026-05-29"
-  },
-  {
-    "contributor_name": "CAMPAIGN FOR DEMOCRACY COMMITTEE - UNITEMIZED",
-    "contribution_receipt_amount": 5713325.45,
-    "committee_name": "CAMPAIGN FOR DEMOCRACY PAC",
-    "contribution_receipt_date": "2025-12-18"
   }
 ]

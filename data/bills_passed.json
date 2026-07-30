@@ -1,58 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "629",
+    "number": "1582",
     "type": "S",
-    "title": "Emergency Conservation Program Improvement Act of 2025",
+    "title": "GENIUS Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-102.",
-      "actionDate": "2026-07-12"
+      "text": "Became Public Law No: 119-27.",
+      "actionDate": "2025-07-18"
     },
-    "updateDate": "2026-07-28",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "972",
-    "type": "HR",
-    "title": "Sloan Canyon Conservation and Lateral Pipeline Act",
-    "latestAction": {
-      "text": "Became Public Law No: 119-91.",
-      "actionDate": "2026-05-19"
-    },
-    "updateDate": "2026-07-28",
+    "updateDate": "2026-07-29",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1071",
-    "type": "S",
-    "title": "National Defense Authorization Act for Fiscal Year 2026",
-    "latestAction": {
-      "text": "Became Public Law No: 119-60.",
-      "actionDate": "2025-12-18"
-    },
-    "updateDate": "2026-07-28",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "3490",
-    "type": "HR",
-    "title": "Gerald E. Connolly Esophageal Cancer Awareness Act of 2025",
-    "latestAction": {
-      "text": "Became Public Law No: 119-96.",
-      "actionDate": "2026-06-09"
-    },
-    "updateDate": "2026-07-28",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 5
   }
 ]
