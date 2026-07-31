@@ -1,16 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "1582",
-    "type": "S",
-    "title": "GENIUS Act",
+    "number": "2483",
+    "type": "HR",
+    "title": "SUPPORT for Patients and Communities Reauthorization Act of 2025",
     "latestAction": {
-      "text": "Became Public Law No: 119-27.",
-      "actionDate": "2025-07-18"
+      "text": "Became Public Law No: 119-44.",
+      "actionDate": "2025-12-01"
     },
-    "updateDate": "2026-07-29",
+    "updateDate": "2026-07-30",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 5
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
   }
 ]

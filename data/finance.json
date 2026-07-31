@@ -348,6 +348,12 @@
     "contribution_receipt_date": "2025-06-12"
   },
   {
+    "contributor_name": "SINGER, PAUL ELLIOTT",
+    "contribution_receipt_amount": 10000000.0,
+    "committee_name": "STW PAC, INC.",
+    "contribution_receipt_date": "2026-04-01"
+  },
+  {
     "contributor_name": "YASS, JEFF",
     "contribution_receipt_amount": 10000000.0,
     "committee_name": "V-PAC: VICTORS, NOT VICTIMS",
@@ -592,11 +598,5 @@
     "contribution_receipt_amount": 6500000.0,
     "committee_name": "WIN FOR AMERICA",
     "contribution_receipt_date": "2026-01-14"
-  },
-  {
-    "contributor_name": "HOUSE MAJORITY FORWARD",
-    "contribution_receipt_amount": 6000000.0,
-    "committee_name": "HMP",
-    "contribution_receipt_date": "2025-06-26"
   }
 ]
