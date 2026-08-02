@@ -1,6 +1,76 @@
 [
   {
     "congress": 119,
+    "number": "347",
+    "type": "S",
+    "title": "Brownfields Reauthorization Act of 2025",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.",
+      "actionDate": "2025-02-05"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9010",
+    "type": "HR",
+    "title": "Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2027, and for other purposes.",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 580.",
+      "actionDate": "2026-05-22"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "6432",
+    "type": "HR",
+    "title": "Brownfields Reauthorization Act of 2025",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Water Resources and Environment.",
+      "actionDate": "2026-02-02"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "4355",
+    "type": "S",
+    "title": "Drug Deal Disclosure Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-04-21"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 17,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8739",
+    "type": "HR",
+    "title": "Brownfields Revitalization for a Better Tomorrow Act",
+    "latestAction": {
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "actionDate": "2026-05-14"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "9335",
     "type": "HR",
     "title": "Advanced Transmission Technology to Reduce Rates Act",
@@ -253,34 +323,6 @@
   },
   {
     "congress": 119,
-    "number": "9986",
-    "type": "HR",
-    "title": "Read for Reentry Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-07-30"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9978",
-    "type": "HR",
-    "title": "Homeowners Premium Tax Reduction Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-07-30"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "9981",
     "type": "HR",
     "title": "Foodborne Illness Rapid Response Act",
@@ -292,6 +334,20 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9986",
+    "type": "HR",
+    "title": "Read for Reentry Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-07-30"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -320,6 +376,20 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "9978",
+    "type": "HR",
+    "title": "Homeowners Premium Tax Reduction Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-07-30"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -627,76 +697,6 @@
     "updateDate": "2026-08-01",
     "sponsor": null,
     "democratCosponsors": 15,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "9797",
-    "type": "HR",
-    "title": "RESILIENCE Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Homeland Security.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9792",
-    "type": "HR",
-    "title": "Employee Ownership Fairness Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-07-20"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1727",
-    "type": "S",
-    "title": "Employee Ownership Fairness Act of 2025",
-    "latestAction": {
-      "text": "Referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-05-13"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9856",
-    "type": "HR",
-    "title": "Prediction Markets Are Gambling Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Agriculture.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4160",
-    "type": "S",
-    "title": "Prediction Markets Are Gambling Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-      "actionDate": "2026-03-23"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 1,
     "republicanCosponsors": 1
   }
 ]
