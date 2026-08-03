@@ -1,16 +1,100 @@
 [
   {
     "congress": 119,
-    "number": "347",
-    "type": "S",
-    "title": "Brownfields Reauthorization Act of 2025",
+    "number": "817",
+    "type": "SRES",
+    "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
     "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.",
-      "actionDate": "2025-02-05"
+      "text": "Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
+      "actionDate": "2026-07-30"
     },
-    "updateDate": "2026-08-01",
+    "updateDate": "2026-08-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5007",
+    "type": "S",
+    "title": "SEARCH Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-07-15"
+    },
+    "updateDate": "2026-08-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "5051",
+    "type": "S",
+    "title": "AI AGENT Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-07-21"
+    },
+    "updateDate": "2026-08-03",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1451",
+    "type": "HRES",
+    "title": "Recognizing Charleston as the appropriate host city for the 2027 annual meeting of the Organization for Security and Cooperation in Europe Parliamentary Assembly.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Foreign Affairs.",
+      "actionDate": "2026-07-23"
+    },
+    "updateDate": "2026-08-03",
+    "sponsor": null,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "5123",
+    "type": "S",
+    "title": "Lunar Landing Day Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-07-30"
+    },
+    "updateDate": "2026-08-03",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "5005",
+    "type": "S",
+    "title": "Epstein Files Transparency Act II",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-07-15"
+    },
+    "updateDate": "2026-08-03",
     "sponsor": null,
     "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9694",
+    "type": "HR",
+    "title": "Epstein Files Transparency Act II",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-07-15"
+    },
+    "updateDate": "2026-08-03",
+    "sponsor": null,
+    "democratCosponsors": 3,
     "republicanCosponsors": 0
   },
   {
@@ -67,6 +151,20 @@
     "updateDate": "2026-08-01",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "347",
+    "type": "S",
+    "title": "Brownfields Reauthorization Act of 2025",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.",
+      "actionDate": "2025-02-05"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -183,20 +281,6 @@
   },
   {
     "congress": 119,
-    "number": "2004",
-    "type": "HR",
-    "title": "Tyler\u2019s Law",
-    "latestAction": {
-      "text": "Ordered to be Reported by the Yeas and Nays: 46 - 0.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 12,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
     "number": "9339",
     "type": "HR",
     "title": "Affordable Innovation for the Grid Act",
@@ -208,6 +292,20 @@
     "sponsor": null,
     "democratCosponsors": 3,
     "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "2004",
+    "type": "HR",
+    "title": "Tyler\u2019s Law",
+    "latestAction": {
+      "text": "Ordered to be Reported by the Yeas and Nays: 46 - 0.",
+      "actionDate": "2026-07-21"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 12,
+    "republicanCosponsors": 8
   },
   {
     "congress": 119,
@@ -253,20 +351,6 @@
   },
   {
     "congress": 119,
-    "number": "9616",
-    "type": "HR",
-    "title": "EMRTAI Authorization Act of 2026",
-    "latestAction": {
-      "text": "Ordered to be Reported by the Yeas and Nays: 48 - 0.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "9795",
     "type": "HR",
     "title": "To expand the temporary borrowing authority and mandatory distribution for the United States Victims of State Sponsored Terrorism Fund.",
@@ -278,6 +362,20 @@
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "9616",
+    "type": "HR",
+    "title": "EMRTAI Authorization Act of 2026",
+    "latestAction": {
+      "text": "Ordered to be Reported by the Yeas and Nays: 48 - 0.",
+      "actionDate": "2026-07-21"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -323,6 +421,20 @@
   },
   {
     "congress": 119,
+    "number": "9957",
+    "type": "HR",
+    "title": "Time for Completion Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-07-27"
+    },
+    "updateDate": "2026-08-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
     "number": "9981",
     "type": "HR",
     "title": "Foodborne Illness Rapid Response Act",
@@ -351,11 +463,11 @@
   },
   {
     "congress": 119,
-    "number": "10011",
+    "number": "9978",
     "type": "HR",
-    "title": "No PREJUDICE Act",
+    "title": "Homeowners Premium Tax Reduction Act of 2026",
     "latestAction": {
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "text": "Referred to the House Committee on Ways and Means.",
       "actionDate": "2026-07-30"
     },
     "updateDate": "2026-08-01",
@@ -365,25 +477,11 @@
   },
   {
     "congress": 119,
-    "number": "9957",
+    "number": "10011",
     "type": "HR",
-    "title": "Time for Completion Act",
+    "title": "No PREJUDICE Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-07-27"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "9978",
-    "type": "HR",
-    "title": "Homeowners Premium Tax Reduction Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-07-30"
     },
     "updateDate": "2026-08-01",
@@ -599,104 +697,6 @@
     "updateDate": "2026-08-01",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "9794",
-    "type": "HR",
-    "title": "To direct the Secretary of Defense to establish the Senator Robert J. Dole Greatest Generation Education Program.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Armed Services.",
-      "actionDate": "2026-07-20"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8800",
-    "type": "HR",
-    "title": "National Defense Authorization Act for Fiscal Year 2027",
-    "latestAction": {
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4976",
-    "type": "S",
-    "title": "Native Children\u2019s Commission Implementation Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Indian Affairs.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "811",
-    "type": "SRES",
-    "title": "A resolution expressing the sense of the Senate regarding the adverse impacts on the United States of the recent Canadian wildfires and the importance of the Government of Canada to take responsibility for such impacts by increasing efforts to extinguish these fires and prevent their recurrence.",
-    "latestAction": {
-      "text": "Referred to the Committee on Foreign Relations. (text: CR S4233)",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5040",
-    "type": "S",
-    "title": "A bill to amend the Internal Revenue Code of 1986 to impose limitations on high-income taxpayers with large retirement account balances.",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4998",
-    "type": "S",
-    "title": "Fourth Amendment Restoration and Protection Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-07-15"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "89",
-    "type": "HCONRES",
-    "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
-    "latestAction": {
-      "text": "Received in the Senate and referred to the Committee on Foreign Relations.",
-      "actionDate": "2026-07-23"
-    },
-    "updateDate": "2026-08-01",
-    "sponsor": null,
-    "democratCosponsors": 15,
     "republicanCosponsors": 1
   }
 ]
