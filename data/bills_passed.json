@@ -1,54 +1,12 @@
 [
   {
     "congress": 119,
-    "number": "10019",
-    "type": "HR",
-    "title": "Incentivizing Value Capture for Greener Transportation Act",
+    "number": "2393",
+    "type": "S",
+    "title": "Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Transportation and Infrastructure.",
-      "actionDate": "2026-08-03"
-    },
-    "updateDate": "2026-08-04",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "208",
-    "type": "HJRES",
-    "title": "Proposing an amendment to the Constitution of the United States to require the United States and the States to jointly ensure a high-quality education to all persons within the United States.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-08-03"
-    },
-    "updateDate": "2026-08-04",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1476",
-    "type": "HRES",
-    "title": "Supporting the designation of the week of August 2 through August 8, 2026, as \"National Farmers Market Week\".",
-    "latestAction": {
-      "text": "Referred to the House Committee on Agriculture.",
-      "actionDate": "2026-08-03"
-    },
-    "updateDate": "2026-08-04",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "1469",
-    "type": "HRES",
-    "title": "Condemning a legal opinion issued by the U.S. Department of Justice on June 18, 2026, regarding the Olmstead v. L.C., the 1999 Supreme Court decision that recognized institutional isolation of people with disabilities as discrimination under the Americans with Disabilities Act.",
-    "latestAction": {
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-08-03"
+      "text": "Became Public Law No: 119-97.",
+      "actionDate": "2026-06-09"
     },
     "updateDate": "2026-08-04",
     "sponsor": null,
@@ -57,16 +15,30 @@
   },
   {
     "congress": 119,
-    "number": "1472",
-    "type": "HRES",
-    "title": "Impeaching Allison Dale Burroughs, a judge of the United States District Court for the District of Massachusetts, for high crimes and misdemeanors.",
+    "number": "1003",
+    "type": "S",
+    "title": "Lulu\u2019s Law",
     "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-08-03"
+      "text": "Became Public Law No: 119-100.",
+      "actionDate": "2026-06-26"
+    },
+    "updateDate": "2026-08-04",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "254",
+    "type": "S",
+    "title": "ARTIST Act",
+    "latestAction": {
+      "text": "Became Public Law No: 119-99.",
+      "actionDate": "2026-06-12"
     },
     "updateDate": "2026-08-04",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "republicanCosponsors": 1
   }
 ]
