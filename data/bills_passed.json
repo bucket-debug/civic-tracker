@@ -1,44 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "2393",
+    "number": "3097",
     "type": "S",
-    "title": "Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act",
+    "title": "Health Information Privacy Reform Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-97.",
-      "actionDate": "2026-06-09"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 538.",
+      "actionDate": "2026-08-04"
     },
-    "updateDate": "2026-08-04",
+    "updateDate": "2026-08-06",
     "sponsor": null,
-    "democratCosponsors": 1,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "1003",
+    "number": "2511",
     "type": "S",
-    "title": "Lulu\u2019s Law",
+    "title": "College Transparency Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-100.",
-      "actionDate": "2026-06-26"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.",
+      "actionDate": "2026-08-04"
     },
-    "updateDate": "2026-08-04",
+    "updateDate": "2026-08-06",
     "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 5
+    "democratCosponsors": 10,
+    "republicanCosponsors": 10
   },
   {
     "congress": 119,
-    "number": "254",
+    "number": "5046",
     "type": "S",
-    "title": "ARTIST Act",
+    "title": "A bill to prohibit the transfer of certain offices and functions of the Department of Education to other Federal agencies, and for other purposes.",
     "latestAction": {
-      "text": "Became Public Law No: 119-99.",
-      "actionDate": "2026-06-12"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 541.",
+      "actionDate": "2026-08-04"
     },
-    "updateDate": "2026-08-04",
+    "updateDate": "2026-08-06",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "6500",
+    "type": "HR",
+    "title": "AGOA Extension Act",
+    "latestAction": {
+      "text": "Motion to proceed to measure considered in Senate. (CR S4415)",
+      "actionDate": "2026-08-04"
+    },
+    "updateDate": "2026-08-05",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "494",
+    "type": "S",
+    "title": "National Plan for Epilepsy Act",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
+      "actionDate": "2026-08-04"
+    },
+    "updateDate": "2026-08-05",
+    "sponsor": null,
+    "democratCosponsors": 14,
+    "republicanCosponsors": 6
   }
 ]
