@@ -1,72 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "3097",
-    "type": "S",
-    "title": "Health Information Privacy Reform Act",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 538.",
-      "actionDate": "2026-08-04"
-    },
-    "updateDate": "2026-08-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2511",
-    "type": "S",
-    "title": "College Transparency Act",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.",
-      "actionDate": "2026-08-04"
-    },
-    "updateDate": "2026-08-06",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "5046",
-    "type": "S",
-    "title": "A bill to prohibit the transfer of certain offices and functions of the Department of Education to other Federal agencies, and for other purposes.",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 541.",
-      "actionDate": "2026-08-04"
-    },
-    "updateDate": "2026-08-06",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "6500",
+    "number": "6644",
     "type": "HR",
-    "title": "AGOA Extension Act",
+    "title": "21st Century ROAD to Housing Act",
     "latestAction": {
-      "text": "Motion to proceed to measure considered in Senate. (CR S4415)",
-      "actionDate": "2026-08-04"
+      "text": "Became Public Law No: 119-101.",
+      "actionDate": "2026-07-11"
     },
-    "updateDate": "2026-08-05",
+    "updateDate": "2026-08-06",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "494",
-    "type": "S",
-    "title": "National Plan for Epilepsy Act",
-    "latestAction": {
-      "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
-      "actionDate": "2026-08-04"
-    },
-    "updateDate": "2026-08-05",
-    "sponsor": null,
-    "democratCosponsors": 14,
-    "republicanCosponsors": 6
+    "democratCosponsors": 11,
+    "republicanCosponsors": 9
   }
 ]
