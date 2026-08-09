@@ -1,42 +1,70 @@
 [
   {
     "congress": 119,
-    "number": "20",
-    "type": "HJRES",
-    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters\".",
+    "number": "6500",
+    "type": "HR",
+    "title": "Continuing Appropriations and Extensions Act, 2027",
     "latestAction": {
-      "text": "Became Public Law No: 119-6.",
-      "actionDate": "2025-05-09"
+      "text": "Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 90 - 6. Record Vote Number: 228.",
+      "actionDate": "2026-08-08"
     },
-    "updateDate": "2026-08-07",
+    "updateDate": "2026-08-08",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 20
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "356",
-    "type": "S",
-    "title": "Secure Rural Schools Reauthorization Act of 2025",
+    "number": "5334",
+    "type": "HR",
+    "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
     "latestAction": {
-      "text": "Became Public Law No: 119-58.",
-      "actionDate": "2025-12-18"
+      "text": "Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86 - 11. Record Vote Number: 224.",
+      "actionDate": "2026-08-07"
     },
-    "updateDate": "2026-08-07",
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 16,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "4189",
+    "type": "S",
+    "title": "INSULIN Act of 2026",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.",
+      "actionDate": "2026-08-07"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "3897",
+    "type": "S",
+    "title": "Officer John Barnes and Chief Michael Ansbro Public Safety Officers' Benefit Program Expansion Act of 2026",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-08-07"
+    },
+    "updateDate": "2026-08-08",
     "sponsor": null,
     "democratCosponsors": 10,
-    "republicanCosponsors": 10
+    "republicanCosponsors": 4
   },
   {
     "congress": 119,
-    "number": "98",
+    "number": "4850",
     "type": "S",
-    "title": "Rural Broadband Protection Act of 2025",
+    "title": "Diversity Jurisdiction Inflation Adjustment Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-89.",
-      "actionDate": "2026-05-11"
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "actionDate": "2026-08-07"
     },
-    "updateDate": "2026-08-07",
+    "updateDate": "2026-08-08",
     "sponsor": null,
     "democratCosponsors": 3,
     "republicanCosponsors": 1

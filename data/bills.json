@@ -1,101 +1,129 @@
 [
   {
     "congress": 119,
-    "number": "8535",
+    "number": "6500",
     "type": "HR",
-    "title": "Measuring Illicit Fentanyl Trafficking Act",
+    "title": "Continuing Appropriations and Extensions Act, 2027",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-07-14"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "8428",
-    "type": "HR",
-    "title": "Federal Fraud Prevention Workforce Training Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-06-09"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7432",
-    "type": "HR",
-    "title": "Fostering the Future Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-05-20"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "6916",
-    "type": "HR",
-    "title": "Federal Program Integrity and Fraud Prevention Act of 2026",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-06-09"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1525",
-    "type": "S",
-    "title": "Common Cents Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2025-04-30"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "6297",
-    "type": "HR",
-    "title": "PEACE Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2026-06-09"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "2542",
-    "type": "S",
-    "title": "Federal Building Threat Notification Act",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 545.",
-      "actionDate": "2026-08-06"
+      "text": "Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 90 - 6. Record Vote Number: 228.",
+      "actionDate": "2026-08-08"
     },
     "updateDate": "2026-08-08",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "699",
+    "type": "S",
+    "title": "Purchased and Referred Care Improvement Act of 2025",
+    "latestAction": {
+      "text": "Committee on Indian Affairs. Hearings held.",
+      "actionDate": "2026-02-04"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 3,
     "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "411",
+    "type": "HR",
+    "title": "Keweenaw Bay Indian Community Land Claim Settlement Act of 2025",
+    "latestAction": {
+      "text": "Subcommittee Hearings Held",
+      "actionDate": "2025-06-11"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3620",
+    "type": "HR",
+    "title": "Southcentral Foundation Land Transfer Act of 2025",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 535.",
+      "actionDate": "2026-08-03"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2098",
+    "type": "S",
+    "title": "Southcentral Foundation Land Transfer Act of 2025",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 534.",
+      "actionDate": "2026-08-03"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "3670",
+    "type": "HR",
+    "title": "IHS Provider Expansion Act",
+    "latestAction": {
+      "text": "Subcommittee Hearings Held",
+      "actionDate": "2025-06-11"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2916",
+    "type": "HR",
+    "title": "To authorize, ratify, and confirm the Agreement of Settlement and Compromise to Resolve the Akwesasne Mohawk Land Claim in the State of New York, and for other purposes.",
+    "latestAction": {
+      "text": "Committee on Indian Affairs. Hearings held.",
+      "actionDate": "2026-06-03"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "719",
+    "type": "S",
+    "title": "Tribal Forest Protection Act Amendments Act of 2025",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2025-12-15"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "1055",
+    "type": "S",
+    "title": "Indian Health Service Emergency Claims Parity Act",
+    "latestAction": {
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.",
+      "actionDate": "2026-08-05"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -103,8 +131,8 @@
     "type": "HR",
     "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
     "latestAction": {
-      "text": "Measure laid before Senate by motion. (consideration: CR S4323)",
-      "actionDate": "2026-07-29"
+      "text": "Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86 - 11. Record Vote Number: 224.",
+      "actionDate": "2026-08-07"
     },
     "updateDate": "2026-08-08",
     "sponsor": null,
@@ -113,152 +141,292 @@
   },
   {
     "congress": 119,
-    "number": "7008",
-    "type": "HR",
-    "title": "Stop Insider Trading Act",
-    "latestAction": {
-      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.",
-      "actionDate": "2026-08-06"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "833",
-    "type": "SRES",
-    "title": "A resolution recognizing the 1960 University of Missouri Tigers Football Team for its undefeated regular season, Orange Bowl victory, and claim to the 1960 National Championship.",
-    "latestAction": {
-      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4498-4499; text: CR S4523)",
-      "actionDate": "2026-08-06"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4505",
+    "number": "5185",
     "type": "S",
-    "title": "A bill to require the United States Postal Service to designate ZIP Codes for certain communities.",
+    "title": "Audit the Pentagon Act",
     "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 546.",
-      "actionDate": "2026-08-06"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "836",
-    "type": "SRES",
-    "title": "A resolution designating August 16, 2026, as \"National Airborne Day\".",
-    "latestAction": {
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4530; text: CR S4524)",
-      "actionDate": "2026-08-06"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "211",
-    "type": "SJRES",
-    "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2026-08-06"
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-07-30"
     },
     "updateDate": "2026-08-08",
     "sponsor": null,
     "democratCosponsors": 10,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "4983",
+    "type": "S",
+    "title": "Harry Reid Immigration Stabilization Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-07-15"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "4436",
+    "type": "S",
+    "title": "Protecting Human Rights and Public Health in Foreign Assistance Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-04-29"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 19,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "5220",
+    "number": "5048",
     "type": "S",
-    "title": "Clean Transportation Jobs and Development Act of 2026",
+    "title": "Hydropower Licensing Affordability Act",
     "latestAction": {
       "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2026-07-21"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "4023",
+    "type": "S",
+    "title": "America\u2019s Living Library Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2026-03-05"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "4297",
+    "type": "S",
+    "title": "Keep Public Funds in Public Schools Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-04-15"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 18,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3345",
+    "type": "S",
+    "title": "PBM Price Transparency and Accountability Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-12-04"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 10
+  },
+  {
+    "congress": 119,
+    "number": "3267",
+    "type": "S",
+    "title": "ASAP Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S8278-8279)",
+      "actionDate": "2025-11-20"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 14
+  },
+  {
+    "congress": 119,
+    "number": "4009",
+    "type": "S",
+    "title": "Falun Gong and Victims of Forced Organ Harvesting Protection Act",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.",
+      "actionDate": "2026-07-27"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "4189",
+    "type": "S",
+    "title": "INSULIN Act of 2026",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.",
+      "actionDate": "2026-08-07"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "3900",
+    "type": "S",
+    "title": "Iran Human Rights, Internet Freedom, and Accountability Act of 2026",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 504.",
+      "actionDate": "2026-07-27"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 9
+  },
+  {
+    "congress": 119,
+    "number": "3623",
+    "type": "S",
+    "title": "Credit Card Competition Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-01-13"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "5223",
+    "type": "S",
+    "title": "NO PROFIT Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "actionDate": "2026-08-03"
     },
     "updateDate": "2026-08-08",
     "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "207",
-    "type": "SJRES",
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle Pollution Control Standards; Notice of Decision Granting a Waiver of Clean Air Act Preemption for California's Advanced Clean Car Program and a Within the Scope Conformation for California's Zero Emission Vehicle Amendments for 2017 and Earlier Model Years\".",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Environment and Public Works.",
-      "actionDate": "2026-08-05"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "840",
-    "type": "SRES",
-    "title": "A resolution to authorize testimony and representation by the Senate Legal Counsel.",
-    "latestAction": {
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4530; text: CR S4525)",
-      "actionDate": "2026-08-06"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "210",
-    "type": "SJRES",
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating \"California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision\".",
+    "number": "3897",
+    "type": "S",
+    "title": "Officer John Barnes and Chief Michael Ansbro Public Safety Officers' Benefit Program Expansion Act of 2026",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Environment and Public Works.",
-      "actionDate": "2026-08-06"
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-08-07"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "5036",
+    "type": "S",
+    "title": "Judicial Integrity Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-07-20"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5148",
+    "type": "S",
+    "title": "BOASBERG Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-07-28"
     },
     "updateDate": "2026-08-08",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "838",
-    "type": "SRES",
-    "title": "A resolution commemorating the first anniversary of the mass shooting at Fort Stewart, Georgia, on August 6, 2025.",
+    "number": "4944",
+    "type": "S",
+    "title": "American Energy and Mineral Infrastructure Act of 2026",
     "latestAction": {
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4530; text: CR S4525)",
-      "actionDate": "2026-08-06"
+      "text": "Read twice and referred to the Committee on Environment and Public Works.",
+      "actionDate": "2026-06-24"
     },
     "updateDate": "2026-08-08",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
+    "democratCosponsors": 0,
+    "republicanCosponsors": 17
   },
   {
     "congress": 119,
-    "number": "209",
-    "type": "SJRES",
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision\".",
+    "number": "3643",
+    "type": "S",
+    "title": "Special Inspector General for Program Fraud Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Environment and Public Works.",
-      "actionDate": "2026-08-06"
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-01-14"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "4850",
+    "type": "S",
+    "title": "Diversity Jurisdiction Inflation Adjustment Act",
+    "latestAction": {
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "actionDate": "2026-08-07"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "5057",
+    "type": "S",
+    "title": "Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2026-07-21"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "3416",
+    "type": "S",
+    "title": "Safeguarding U.S. Rulemaking Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2025-12-10"
     },
     "updateDate": "2026-08-08",
     "sponsor": null,
@@ -267,409 +435,101 @@
   },
   {
     "congress": 119,
-    "number": "837",
-    "type": "SRES",
-    "title": "A resolution designating the week of August 22 through August 30, 2026, as \"National Park Week\".",
+    "number": "4379",
+    "type": "S",
+    "title": "Russia\u2019s War on Faith Act",
     "latestAction": {
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4530; text: CR S4524-4525)",
-      "actionDate": "2026-08-06"
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2026-04-22"
     },
     "updateDate": "2026-08-08",
     "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "1379",
-    "type": "HRES",
-    "title": "Condemning Lebanese Hezbollah's repeated violations of ceasefire agreements and calling for the Lebanese Government to ensure Lebanese Hezbollah immediately ceases all attacks and disarms, in accordance with the ceasefire.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Foreign Affairs.",
-      "actionDate": "2026-06-23"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
     "democratCosponsors": 6,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "797",
-    "type": "SRES",
-    "title": "A resolution requesting information on Israel's human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.",
-    "latestAction": {
-      "text": "Referred to the Committee on Foreign Relations. (text: CR S3220)",
-      "actionDate": "2026-06-24"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1269",
-    "type": "HRES",
-    "title": "Recognizing the cultural and historical significance of the Cinco de Mayo holiday.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Foreign Affairs.",
-      "actionDate": "2026-05-07"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5116",
-    "type": "S",
-    "title": "MERIT Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-07-23"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "5114",
-    "type": "S",
-    "title": "PATH Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-07-23"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5108",
-    "type": "S",
-    "title": "Right to IVF Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-07-23"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5073",
-    "type": "S",
-    "title": "Tax Complexity and Fraud Prevention Review Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "3931",
-    "type": "S",
-    "title": "TAS Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-02-26"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5063",
-    "type": "S",
-    "title": "FIRST Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "8648",
-    "type": "HR",
-    "title": "FORGE Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Foreign Affairs.",
-      "actionDate": "2026-05-04"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "5072",
-    "type": "S",
-    "title": "Taxpayer Transparency and Notice Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "1416",
-    "type": "HRES",
-    "title": "Reaffirming the consent of the governed as the United States marks 250 years of independence.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-07-02"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9830",
-    "type": "HR",
-    "title": "Lawful Hemp Protection Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "3050",
-    "type": "S",
-    "title": "PAID OFF Act of 2025",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 500.",
-      "actionDate": "2026-07-27"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "1459",
-    "type": "HRES",
-    "title": "Expressing support for the designation of July 2026 as \"American Grown Flower and Foliage Month\".",
-    "latestAction": {
-      "text": "Referred to the House Committee on Agriculture.",
-      "actionDate": "2026-07-27"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "822",
-    "type": "SRES",
-    "title": "A resolution designating July 2026 as \"American Grown Flower and Foliage Month\".",
-    "latestAction": {
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4365; text: CR S4391-4392)",
-      "actionDate": "2026-07-30"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "367",
-    "type": "SRES",
-    "title": "A resolution designating July 2025 as \"American Grown Flower and Foliage Month\".",
-    "latestAction": {
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5475; text: CR S5212)",
-      "actionDate": "2025-08-01"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "616",
-    "type": "HRES",
-    "title": "Expressing support for the designation of July 2025 as \"American Grown Flower and Foliage Month\".",
-    "latestAction": {
-      "text": "Referred to the House Committee on Agriculture.",
-      "actionDate": "2025-07-29"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 2,
     "republicanCosponsors": 3
   },
   {
     "congress": 119,
-    "number": "9839",
-    "type": "HR",
-    "title": "STRONG Kids Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9840",
-    "type": "HR",
-    "title": "S Corporation Modernization Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2017",
+    "number": "3852",
     "type": "S",
-    "title": "S Corporation Modernization Act of 2025",
+    "title": "GRID Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-06-10"
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2026-02-11"
     },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9820",
-    "type": "HR",
-    "title": "CDC Tribal Public Health Security and Preparedness Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-08-07",
+    "updateDate": "2026-08-08",
     "sponsor": null,
     "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "815",
-    "type": "SRES",
-    "title": "A resolution commending the Chicago Cubs baseball teams as it celebrates its 150th anniversary on August 29, 2026.",
-    "latestAction": {
-      "text": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4271)",
-      "actionDate": "2026-07-23"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1442",
-    "type": "S",
-    "title": "Combating Trafficking in Transportation Act",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 184.",
-      "actionDate": "2025-10-14"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 3,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "4214",
-    "type": "HR",
-    "title": "Clean Air and Building Infrastructure Improvement Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 543.",
-      "actionDate": "2026-04-28"
-    },
-    "updateDate": "2026-08-07",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "3977",
+    "number": "3038",
     "type": "S",
-    "title": "Bankruptcy Threshold Adjustment Act of 2026",
+    "title": "Health Care Workforce Real-Time Data Dashboard Act",
     "latestAction": {
-      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4412; text: CR S4412)",
-      "actionDate": "2026-08-03"
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-10-23"
     },
-    "updateDate": "2026-08-07",
+    "updateDate": "2026-08-08",
     "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 2
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "9972",
-    "type": "HR",
-    "title": "American Patients First Act of 2026",
+    "number": "4981",
+    "type": "S",
+    "title": "Living Wage For All Act",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-07-27"
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-07-14"
     },
-    "updateDate": "2026-08-07",
+    "updateDate": "2026-08-08",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 4,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "2398",
+    "number": "1525",
     "type": "S",
-    "title": "Kay Hagan Tick Reauthorization Act",
+    "title": "Common Cents Act",
     "latestAction": {
-      "text": "Passed Senate with an amendment by Voice Vote. (consideration: CR S4494-4495; text: CR S4494-4495)",
-      "actionDate": "2026-08-06"
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-08-07"
     },
-    "updateDate": "2026-08-07",
+    "updateDate": "2026-08-08",
     "sponsor": null,
-    "democratCosponsors": 12,
-    "republicanCosponsors": 7
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "1540",
+    "type": "S",
+    "title": "Fairness for Victims of SNAP Skimming Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "actionDate": "2025-04-30"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2715",
+    "type": "S",
+    "title": "FAIR Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-09-04"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 3
   },
   {
     "congress": 119,
@@ -680,23 +540,163 @@
       "text": "Passed Senate with an amendment by Unanimous Consent. (text: CR S4493-4494)",
       "actionDate": "2026-08-06"
     },
-    "updateDate": "2026-08-07",
+    "updateDate": "2026-08-08",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 2
   },
   {
     "congress": 119,
-    "number": "3266",
+    "number": "2542",
     "type": "S",
-    "title": "USMMA Athletics Act of 2026",
+    "title": "Federal Building Threat Notification Act",
     "latestAction": {
-      "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4492-4493; text: CR S4492-4493)",
-      "actionDate": "2026-08-06"
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-08-07"
     },
-    "updateDate": "2026-08-07",
+    "updateDate": "2026-08-08",
     "sponsor": null,
-    "democratCosponsors": 1,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "1247",
+    "type": "S",
+    "title": "Public Safety Free Speech Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-04-02"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
+    "number": "1001",
+    "type": "S",
+    "title": "Crucial Communism Teaching Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-03-12"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "1547",
+    "type": "S",
+    "title": "America the Beautiful Act",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 439.",
+      "actionDate": "2026-06-17"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 10
+  },
+  {
+    "congress": 119,
+    "number": "2821",
+    "type": "S",
+    "title": "American Tech Workforce Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2025-09-16"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "995",
+    "type": "S",
+    "title": "Choice in Automobile Retail Sales Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Environment and Public Works.",
+      "actionDate": "2025-03-12"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 20
+  },
+  {
+    "congress": 119,
+    "number": "427",
+    "type": "S",
+    "title": "TAILOR Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2025-02-05"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 7
+  },
+  {
+    "congress": 119,
+    "number": "1289",
+    "type": "S",
+    "title": "25th Anniversary of 9/11 Commemorative Coin Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "actionDate": "2025-04-03"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "2898",
+    "type": "S",
+    "title": "Dennis John Benigno Traumatic Brain Injury Program Reauthorization Act of 2025",
+    "latestAction": {
+      "text": "Star Print ordered on the bill.",
+      "actionDate": "2025-10-08"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "2530",
+    "type": "S",
+    "title": "CREATE Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-07-30"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 3,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "489",
+    "type": "S",
+    "title": "Air Guard STATUS Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2025-02-06"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
   }
 ]
