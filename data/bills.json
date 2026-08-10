@@ -1,6 +1,20 @@
 [
   {
     "congress": 119,
+    "number": "5334",
+    "type": "HR",
+    "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+    "latestAction": {
+      "text": "Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86 - 11. Record Vote Number: 224.",
+      "actionDate": "2026-08-07"
+    },
+    "updateDate": "2026-08-09",
+    "sponsor": null,
+    "democratCosponsors": 16,
+    "republicanCosponsors": 4
+  },
+  {
+    "congress": 119,
     "number": "6500",
     "type": "HR",
     "title": "Continuing Appropriations and Extensions Act, 2027",
@@ -29,6 +43,48 @@
   },
   {
     "congress": 119,
+    "number": "1055",
+    "type": "S",
+    "title": "Indian Health Service Emergency Claims Parity Act",
+    "latestAction": {
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.",
+      "actionDate": "2026-08-05"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2916",
+    "type": "HR",
+    "title": "To authorize, ratify, and confirm the Agreement of Settlement and Compromise to Resolve the Akwesasne Mohawk Land Claim in the State of New York, and for other purposes.",
+    "latestAction": {
+      "text": "Committee on Indian Affairs. Hearings held.",
+      "actionDate": "2026-06-03"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3670",
+    "type": "HR",
+    "title": "IHS Provider Expansion Act",
+    "latestAction": {
+      "text": "Subcommittee Hearings Held",
+      "actionDate": "2025-06-11"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "411",
     "type": "HR",
     "title": "Keweenaw Bay Indian Community Land Claim Settlement Act of 2025",
@@ -40,6 +96,20 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "719",
+    "type": "S",
+    "title": "Tribal Forest Protection Act Amendments Act of 2025",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2025-12-15"
+    },
+    "updateDate": "2026-08-08",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -68,76 +138,6 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "3670",
-    "type": "HR",
-    "title": "IHS Provider Expansion Act",
-    "latestAction": {
-      "text": "Subcommittee Hearings Held",
-      "actionDate": "2025-06-11"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2916",
-    "type": "HR",
-    "title": "To authorize, ratify, and confirm the Agreement of Settlement and Compromise to Resolve the Akwesasne Mohawk Land Claim in the State of New York, and for other purposes.",
-    "latestAction": {
-      "text": "Committee on Indian Affairs. Hearings held.",
-      "actionDate": "2026-06-03"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "719",
-    "type": "S",
-    "title": "Tribal Forest Protection Act Amendments Act of 2025",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-12-15"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "1055",
-    "type": "S",
-    "title": "Indian Health Service Emergency Claims Parity Act",
-    "latestAction": {
-      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.",
-      "actionDate": "2026-08-05"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5334",
-    "type": "HR",
-    "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
-    "latestAction": {
-      "text": "Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86 - 11. Record Vote Number: 224.",
-      "actionDate": "2026-08-07"
-    },
-    "updateDate": "2026-08-08",
-    "sponsor": null,
-    "democratCosponsors": 16,
-    "republicanCosponsors": 4
   },
   {
     "congress": 119,
