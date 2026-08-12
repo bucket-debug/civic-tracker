@@ -1,12 +1,26 @@
 [
   {
     "congress": 119,
-    "number": "10067",
-    "type": "HR",
-    "title": "Ride in Freedom Act",
+    "number": "35",
+    "type": "HJRES",
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\".",
     "latestAction": {
-      "text": "Referred to the House Committee on Oversight and Government Reform.",
-      "actionDate": "2026-08-06"
+      "text": "Became Public Law No: 119-2.",
+      "actionDate": "2025-03-14"
+    },
+    "updateDate": "2026-08-11",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 19
+  },
+  {
+    "congress": 119,
+    "number": "131",
+    "type": "HJRES",
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Coastal Plain Oil and Gas Leasing Program Record of Decision.",
+    "latestAction": {
+      "text": "Became Public Law No: 119-52.",
+      "actionDate": "2025-12-11"
     },
     "updateDate": "2026-08-11",
     "sponsor": null,
@@ -15,58 +29,30 @@
   },
   {
     "congress": 119,
-    "number": "10056",
-    "type": "HR",
-    "title": "Nurse Overtime and Patient Safety Act of 2026",
+    "number": "87",
+    "type": "HJRES",
+    "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision\".",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-08-06"
+      "text": "Became Public Law No: 119-15.",
+      "actionDate": "2025-06-12"
     },
     "updateDate": "2026-08-11",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 20
   },
   {
     "congress": 119,
-    "number": "5328",
-    "type": "S",
-    "title": "Empowering States to Serve Veterans Act",
+    "number": "89",
+    "type": "HJRES",
+    "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The \"Omnibus\" Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
-      "actionDate": "2026-08-06"
+      "text": "Became Public Law No: 119-17.",
+      "actionDate": "2025-06-12"
     },
     "updateDate": "2026-08-11",
     "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5325",
-    "type": "S",
-    "title": "Delaney Hall Closure Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-08-06"
-    },
-    "updateDate": "2026-08-11",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5327",
-    "type": "S",
-    "title": "Constructing the Path to Suicide Prevention Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-08-06"
-    },
-    "updateDate": "2026-08-11",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 0
+    "democratCosponsors": 0,
+    "republicanCosponsors": 20
   }
 ]
