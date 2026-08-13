@@ -186,6 +186,12 @@
     "contribution_receipt_date": "2024-12-20"
   },
   {
+    "contributor_name": "KOCH INC.",
+    "contribution_receipt_amount": 20000000.0,
+    "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+    "contribution_receipt_date": "2026-06-12"
+  },
+  {
     "contributor_name": "AMERICAN ACTION NETWORK",
     "contribution_receipt_amount": 20000000.0,
     "committee_name": "CLF",
@@ -592,11 +598,5 @@
     "contribution_receipt_amount": 6500000.0,
     "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
     "contribution_receipt_date": "2025-06-26"
-  },
-  {
-    "contributor_name": "ECONOMIC OPPORTUNITY FUND",
-    "contribution_receipt_amount": 6500000.0,
-    "committee_name": "FORWARD MAJORITY ACTION",
-    "contribution_receipt_date": "2026-04-01"
   }
 ]
