@@ -1,72 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "10081",
+    "number": "6644",
     "type": "HR",
-    "title": "No Utility Junk Fees Act",
+    "title": "21st Century ROAD to Housing Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-08-10"
+      "text": "Became Public Law No: 119-101.",
+      "actionDate": "2026-07-11"
     },
     "updateDate": "2026-08-13",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10080",
-    "type": "HR",
-    "title": "Energy Utility Lobbying Ban Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-08-10"
-    },
-    "updateDate": "2026-08-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10077",
-    "type": "HR",
-    "title": "Safety Starts at the Top Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Transportation and Infrastructure.",
-      "actionDate": "2026-08-10"
-    },
-    "updateDate": "2026-08-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10075",
-    "type": "HR",
-    "title": "First-Time Homebuyer Affordability Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-08-10"
-    },
-    "updateDate": "2026-08-13",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10072",
-    "type": "HR",
-    "title": "Hardworking Seniors Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-08-10"
-    },
-    "updateDate": "2026-08-13",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "democratCosponsors": 11,
+    "republicanCosponsors": 9
   }
 ]
