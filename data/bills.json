@@ -1,6 +1,48 @@
 [
   {
     "congress": 119,
+    "number": "4809",
+    "type": "S",
+    "title": "Venezuela Democratic Transition Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-06-17"
+    },
+    "updateDate": "2026-08-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7674",
+    "type": "HR",
+    "title": "Venezuela Democratic Transition Strategy Act",
+    "latestAction": {
+      "text": "Ordered to be Reported by the Yeas and Nays: 41 - 5.",
+      "actionDate": "2026-03-26"
+    },
+    "updateDate": "2026-08-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "829",
+    "type": "SRES",
+    "title": "A resolution reaffirming the policy of the United States to support a peaceful democratic transition in Venezuela through free and fair elections.",
+    "latestAction": {
+      "text": "Referred to the Committee on Foreign Relations. (text: CR S4436)",
+      "actionDate": "2026-08-04"
+    },
+    "updateDate": "2026-08-15",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
     "number": "5316",
     "type": "S",
     "title": "BINSA Act",
@@ -99,12 +141,12 @@
   },
   {
     "congress": 119,
-    "number": "4213",
+    "number": "7744",
     "type": "HR",
     "title": "Department of Homeland Security Appropriations Act, 2026",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 139.",
-      "actionDate": "2025-06-26"
+      "text": "Received in the Senate and Read twice and referred to the Committee on Appropriations.",
+      "actionDate": "2026-03-09"
     },
     "updateDate": "2026-08-14",
     "sponsor": null,
@@ -127,6 +169,20 @@
   },
   {
     "congress": 119,
+    "number": "7147",
+    "type": "HR",
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "latestAction": {
+      "text": "Became Public Law No: 119-86.",
+      "actionDate": "2026-04-30"
+    },
+    "updateDate": "2026-08-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "9250",
     "type": "HR",
     "title": "Great American Outdoors Act 250",
@@ -141,26 +197,12 @@
   },
   {
     "congress": 119,
-    "number": "7744",
+    "number": "4213",
     "type": "HR",
     "title": "Department of Homeland Security Appropriations Act, 2026",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Appropriations.",
-      "actionDate": "2026-03-09"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7147",
-    "type": "HR",
-    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
-    "latestAction": {
-      "text": "Became Public Law No: 119-86.",
-      "actionDate": "2026-04-30"
+      "text": "Placed on the Union Calendar, Calendar No. 139.",
+      "actionDate": "2025-06-26"
     },
     "updateDate": "2026-08-14",
     "sponsor": null,
@@ -463,11 +505,11 @@
   },
   {
     "congress": 119,
-    "number": "10103",
+    "number": "10087",
     "type": "HR",
-    "title": "To direct the Secretary of Housing and Urban Development to establish a grant program to award grants to units of general local government to establish or expand eviction diversion programs, and for other purposes.",
+    "title": "Cancer Care Planning and Communications Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-08-13"
     },
     "updateDate": "2026-08-14",
@@ -477,87 +519,17 @@
   },
   {
     "congress": 119,
-    "number": "10083",
+    "number": "10099",
     "type": "HR",
-    "title": "Water Technology and Resilience Reauthorization Act",
+    "title": "To direct the Administrator of the Federal Motor Carrier Safety Administration to issue certain regulations to extend the time period for the waiver of the commercial driver's license skills test for certain members of the military, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-08-13"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10092",
-    "type": "HR",
-    "title": "To prohibit National Laboratories from admitting certain foreign nationals, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "text": "Referred to the House Committee on Transportation and Infrastructure.",
       "actionDate": "2026-08-13"
     },
     "updateDate": "2026-08-14",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10097",
-    "type": "HR",
-    "title": "To establish a matched savings program for low-income students.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-08-13"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "10094",
-    "type": "HR",
-    "title": "Affordable Pricing for Taxpayer-Funded Prescription Drugs Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-08-13"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10104",
-    "type": "HR",
-    "title": "To amend the Internal Revenue Code of 1986 to eliminate the penalties for sale for use and use of dyed fuel in taxable use.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-08-13"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10086",
-    "type": "HR",
-    "title": "Diabetes Prevention Program Reauthorization Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-08-13"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -572,20 +544,6 @@
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10102",
-    "type": "HR",
-    "title": "Data Center Community Reinvestment Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-08-13"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -617,6 +575,104 @@
   },
   {
     "congress": 119,
+    "number": "10094",
+    "type": "HR",
+    "title": "Affordable Pricing for Taxpayer-Funded Prescription Drugs Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-08-13"
+    },
+    "updateDate": "2026-08-14",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10107",
+    "type": "HR",
+    "title": "Families Deserve to Know Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-08-13"
+    },
+    "updateDate": "2026-08-14",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10102",
+    "type": "HR",
+    "title": "Data Center Community Reinvestment Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-08-13"
+    },
+    "updateDate": "2026-08-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10097",
+    "type": "HR",
+    "title": "To establish a matched savings program for low-income students.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-08-13"
+    },
+    "updateDate": "2026-08-14",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "10083",
+    "type": "HR",
+    "title": "Water Technology and Resilience Reauthorization Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-08-13"
+    },
+    "updateDate": "2026-08-14",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10086",
+    "type": "HR",
+    "title": "Diabetes Prevention Program Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-08-13"
+    },
+    "updateDate": "2026-08-14",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10092",
+    "type": "HR",
+    "title": "To prohibit National Laboratories from admitting certain foreign nationals, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2026-08-13"
+    },
+    "updateDate": "2026-08-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "10090",
     "type": "HR",
     "title": "To amend the Internal Revenue Code of 1986 to impose an excise tax on certain institutions of higher education that allow male participation in female intercollegiate athletic programs or events.",
@@ -631,67 +687,11 @@
   },
   {
     "congress": 119,
-    "number": "10096",
-    "type": "HR",
-    "title": "To establish the Task Force on the Impact of the Affordable Housing Crisis, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2026-08-13"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10108",
-    "type": "HR",
-    "title": "Hazardous Materials Transparency Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Armed Services.",
-      "actionDate": "2026-08-13"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "10089",
     "type": "HR",
     "title": "Representation Act",
     "latestAction": {
       "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-08-13"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10100",
-    "type": "HR",
-    "title": "To amend titles XVIII and XIX of the Social Security Act and title XXVII of the Public Health Service Act to provide for no-cost coverage for annual screening mammography beginning at 30 years of age.",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-08-13"
-    },
-    "updateDate": "2026-08-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10084",
-    "type": "HR",
-    "title": "First Time Homebuyer Debt Reduction Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
       "actionDate": "2026-08-13"
     },
     "updateDate": "2026-08-14",
