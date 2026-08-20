@@ -1,6 +1,20 @@
 [
   {
     "congress": 119,
+    "number": "10115",
+    "type": "HR",
+    "title": "Radiation Exposure Compensation Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-08-17"
+    },
+    "updateDate": "2026-08-20",
+    "sponsor": null,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
     "number": "10112",
     "type": "HR",
     "title": "Empowering States to Protect Seniors from Bad Actors Act",
@@ -15,12 +29,12 @@
   },
   {
     "congress": 119,
-    "number": "10110",
+    "number": "10077",
     "type": "HR",
-    "title": "Housing Price Transparency Act",
+    "title": "Safety Starts at the Top Act of 2026",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-08-17"
+      "text": "Referred to the House Committee on Transportation and Infrastructure.",
+      "actionDate": "2026-08-10"
     },
     "updateDate": "2026-08-19",
     "sponsor": null,
@@ -29,44 +43,30 @@
   },
   {
     "congress": 119,
-    "number": "10116",
+    "number": "10079",
     "type": "HR",
-    "title": "Lifeline for First Responders Act",
+    "title": "Beverage Regulatory Parity Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Transportation and Infrastructure.",
-      "actionDate": "2026-08-17"
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-08-10"
     },
     "updateDate": "2026-08-19",
     "sponsor": null,
     "democratCosponsors": 1,
-    "republicanCosponsors": 2
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "10117",
+    "number": "10073",
     "type": "HR",
-    "title": "GATOR Act of 2026",
+    "title": "Critically Endangered Animals Conservation Act of 2026",
     "latestAction": {
       "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-08-17"
+      "actionDate": "2026-08-10"
     },
     "updateDate": "2026-08-19",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10113",
-    "type": "HR",
-    "title": "New IDEA Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-08-17"
-    },
-    "updateDate": "2026-08-19",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
   }
 ]
