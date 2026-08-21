@@ -1,72 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "10115",
+    "number": "7008",
     "type": "HR",
-    "title": "Radiation Exposure Compensation Reauthorization Act of 2026",
+    "title": "Stop Insider Trading Act",
     "latestAction": {
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-08-17"
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.",
+      "actionDate": "2026-08-06"
     },
     "updateDate": "2026-08-20",
     "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 1
+    "democratCosponsors": 0,
+    "republicanCosponsors": 20
   },
   {
     "congress": 119,
-    "number": "10112",
+    "number": "4541",
     "type": "HR",
-    "title": "Empowering States to Protect Seniors from Bad Actors Act",
+    "title": "To reauthorize the Young Women\u2019s Breast Health Education and Awareness Requires Learning Young Act of 2009.",
     "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2026-08-17"
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-07-27"
     },
-    "updateDate": "2026-08-19",
+    "updateDate": "2026-08-20",
+    "sponsor": null,
+    "democratCosponsors": 15,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "8884",
+    "type": "HR",
+    "title": "Removing Barriers to Work for Disabled Americans Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "actionDate": "2026-07-23"
+    },
+    "updateDate": "2026-08-20",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "10077",
-    "type": "HR",
-    "title": "Safety Starts at the Top Act of 2026",
+    "number": "113",
+    "type": "HCONRES",
+    "title": "Establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036.",
     "latestAction": {
-      "text": "Referred to the House Committee on Transportation and Infrastructure.",
-      "actionDate": "2026-08-10"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 468.",
+      "actionDate": "2026-07-23"
     },
-    "updateDate": "2026-08-19",
+    "updateDate": "2026-08-20",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "10079",
+    "number": "309",
     "type": "HR",
-    "title": "Beverage Regulatory Parity Act",
+    "title": "National Law Enforcement Officers Remembrance, Support, and Community Outreach Act",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-08-10"
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
+      "actionDate": "2026-07-22"
     },
-    "updateDate": "2026-08-19",
+    "updateDate": "2026-08-21",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10073",
-    "type": "HR",
-    "title": "Critically Endangered Animals Conservation Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-08-10"
-    },
-    "updateDate": "2026-08-19",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 2
+    "democratCosponsors": 8,
+    "republicanCosponsors": 12
   }
 ]
