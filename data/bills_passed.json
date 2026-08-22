@@ -1,72 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "7008",
-    "type": "HR",
-    "title": "Stop Insider Trading Act",
+    "number": "2",
+    "type": "S",
+    "title": "Secure America Act",
     "latestAction": {
-      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.",
-      "actionDate": "2026-08-06"
-    },
-    "updateDate": "2026-08-20",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "4541",
-    "type": "HR",
-    "title": "To reauthorize the Young Women\u2019s Breast Health Education and Awareness Requires Learning Young Act of 2009.",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-07-27"
-    },
-    "updateDate": "2026-08-20",
-    "sponsor": null,
-    "democratCosponsors": 15,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "8884",
-    "type": "HR",
-    "title": "Removing Barriers to Work for Disabled Americans Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-07-23"
-    },
-    "updateDate": "2026-08-20",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "113",
-    "type": "HCONRES",
-    "title": "Establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036.",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 468.",
-      "actionDate": "2026-07-23"
-    },
-    "updateDate": "2026-08-20",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "309",
-    "type": "HR",
-    "title": "National Law Enforcement Officers Remembrance, Support, and Community Outreach Act",
-    "latestAction": {
-      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
-      "actionDate": "2026-07-22"
+      "text": "Became Public Law No: 119-98.",
+      "actionDate": "2026-06-10"
     },
     "updateDate": "2026-08-21",
     "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 12
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   }
 ]
