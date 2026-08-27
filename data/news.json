@@ -1,10 +1,227 @@
 [
   {
-    "title": "CIA director makes rare, unannounced visit to Moscow",
+    "title": "Trump signs order renaming Lake Ontario as Lake America, escalating Canada feud",
     "source": "Washington Post",
-    "description": "The trip came as Ukrainian forces have stepped up attacks deep inside Russia, including in the capital.",
+    "description": "President Donald Trump said he's making the change because \u201cCanada has been ripping us off for a long time on trade, very sadly.\u201d",
+    "url": "https://www.washingtonpost.com/politics/2026/08/27/trump-signs-order-changing-name-lake-ontario/",
+    "publishedAt": "2026-08-27T17:55:47+00:00"
+  },
+  {
+    "title": "Karoline Leavitt says she\u2019ll miss the press on her last day at White House",
+    "source": "Washington Post",
+    "description": "A replacement press secretary may not be named for a while, advisers suggest.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/27/karoline-leavitt-says-shell-miss-press-her-last-day-white-house/",
+    "publishedAt": "2026-08-27T16:50:54+00:00"
+  },
+  {
+    "title": "Pirro\u2019s special grand jury probing D.C. schools, city oversight of youth",
+    "source": "Washington Post",
+    "description": "The unusual investigation appears to have a broad scope. Prosecutors have contacted D.C. Public Schools personnel to question them about truancy and graduation rates.",
+    "url": "https://www.washingtonpost.com/national-security/2026/08/27/pirros-special-grand-jury-probing-dc-schools-city-oversight-youth/",
+    "publishedAt": "2026-08-27T15:49:49+00:00"
+  },
+  {
+    "title": "New coalition fights Trump\u2019s efforts to weaken protections for historic sites",
+    "source": "Washington Post",
+    "description": "A coalition of preservation groups says the regulatory, legislative and executive efforts pose the greatest threat in 60 years to a law requiring federal agencies to avoid harm to historic sites.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/27/600-groups-urge-congress-block-trump-overhaul-historic-reviews/",
+    "publishedAt": "2026-08-27T15:28:51+00:00"
+  },
+  {
+    "title": "We know you care about the environment because you\u2019re sweating",
+    "source": "Washington Post",
+    "description": "A novel study compared the issues survey respondents said were important to their physiological reactions in a lab.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/27/how-emotional-responses-can-reveal-true-priorities-polls/",
+    "publishedAt": "2026-08-27T15:23:04+00:00"
+  },
+  {
+    "title": "World\u2019s nuclear watchdog endorses Trump\u2019s push for Kim Jong Un meeting",
+    "source": "Washington Post",
+    "description": "In an interview with The Washington Post, Rafael Mariano Grossi, one of the world\u2019s most respected arms control experts, backed the case for dialogue.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/27/worlds-nuclear-watchdog-endorses-trumps-push-kim-jong-un-meeting/",
+    "publishedAt": "2026-08-27T12:50:08+00:00"
+  },
+  {
+    "title": "A former Mike Collins staffer posted KKK and Nazi images. Some Republicans see a pattern.",
+    "source": "Washington Post",
+    "description": "Rep. Mike Collins (R-Georgia) is challenging Sen. Jon Ossoff (D). The former Collins staffer posted a swastika and shared an image of himself in what appear to be KKK robes.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/27/mike-collinss-former-staffer-posted-kkk-nazi-imagery/",
+    "publishedAt": "2026-08-27T10:00:01+00:00"
+  },
+  {
+    "title": "El-Sayed\u2019s ties to firebrand influencer threaten Democrats\u2019 path to control Senate",
+    "source": "Washington Post",
+    "description": "Senate nominee Abdul El-Sayed (D) has close political ties to political commentator Hasan Piker, who has been accused of antisemitism. Piker says his comments against Israel have been misunderstood.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/27/democrats-odds-michigan-over-el-sayeds-ties-controversial-streamer/",
+    "publishedAt": "2026-08-27T10:00:00+00:00"
+  },
+  {
+    "title": "One Florida primary exposes Democrats\u2019 dilemma over race, power and the House",
+    "source": "Washington Post",
+    "description": "In their bid to counter GOP redistricting, Democrats debate breaking up Black-held districts.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/27/congress-could-get-lot-whiter-with-democratic-redistricting/",
+    "publishedAt": "2026-08-27T09:00:00+00:00"
+  },
+  {
+    "title": "Trump keeps boosting data centers, even as other Republicans grow critical",
+    "source": "Washington Post",
+    "description": "The president is defending the data center boom as GOP officials across the country turn against projects that have angered voters.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/27/trump-champions-data-centers-republicans-turn-against-them/",
+    "publishedAt": "2026-08-27T09:00:00+00:00"
+  },
+  {
+    "title": "Trump under pressure at home and abroad as midterms approach",
+    "source": "NPR Politics",
+    "description": "President Trump is under pressure internationally and domestically as the year's primary elections near an end.",
+    "url": "https://www.npr.org/2026/08/27/nx-s1-5945291/trump-under-pressure-at-home-and-abroad-as-midterms-approach",
+    "publishedAt": "2026-08-27T06:45:40-04:00"
+  },
+  {
+    "title": "A look at Trump's inner circle and the increased resistance from some of his allies",
+    "source": "NPR Politics",
+    "description": "NPR's A Mart\u00ednez asks Chris Whipple, the Vanity Fair writer who spent time inside the Trump administration, why the president is experiencing increasing resistance to his plans.",
+    "url": "https://www.npr.org/2026/08/27/nx-s1-5945134/a-look-at-trumps-inner-circle-and-the-increased-resistance-from-some-of-his-allies",
+    "publishedAt": "2026-08-27T06:45:36-04:00"
+  },
+  {
+    "title": "NDAs are hiding data center deals, drawing ire from locals \u2014 and attention from lawmakers",
+    "source": "NPR Politics",
+    "description": "Nondisclosure agreements covered up negotiations between a tech company and several local and state officials, surprising local residents. It's a tactic used around the country in data center deals.",
+    "url": "https://www.npr.org/2026/08/27/nx-s1-5879528/data-center-nda-disclosure-louisiana",
+    "publishedAt": "2026-08-27T05:00:00-04:00"
+  },
+  {
+    "title": "Jon Ossoff, usually a head down senator, has found a formula to excite Democrats",
+    "source": "NPR Politics",
+    "description": "Ossoff should be among the most vulnerable Senate incumbents this year. Instead, the Georgia Democrat has opened a steady lead in polls and is increasingly seen as a potential 2028 contender.",
+    "url": "https://www.npr.org/2026/08/27/nx-s1-5935282/jon-ossoff-georgia-senate-race",
+    "publishedAt": "2026-08-27T05:00:00-04:00"
+  },
+  {
+    "title": "Andrew Tate is seeking bail in his extradition fight. Here's why that's unlikely",
+    "source": "NPR Politics",
+    "description": "There's a fear that people facing international extradition granted bail could flee. Andrew Tate and his brother face a total of 59 criminal charges in the U.K., including rape and human trafficking.",
+    "url": "https://www.npr.org/2026/08/27/nx-s1-5918058/andrew-tate-extradition",
+    "publishedAt": "2026-08-27T05:00:00-04:00"
+  },
+  {
+    "title": "Fired FEMA crew leader defends skipping homes with Trump campaign signs",
+    "source": "Washington Post",
+    "description": "Marni Washington said she was following protocol to keep field workers safe in a politicized environment following 2024\u2019s Hurricane Milton.",
+    "url": "https://www.washingtonpost.com/weather/2026/08/26/fired-fema-crew-leader-defends-skipping-homes-with-trump-campaign-signs/",
+    "publishedAt": "2026-08-26T21:00:00+00:00"
+  },
+  {
+    "title": "Judge lifts block on Trump changes to mail voting, though legal fights continue",
+    "source": "Washington Post",
+    "description": "The president\u2019s executive order is now in effect for the midterm elections, but the ruling leaves the door open to renewed challenges from rights groups.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/26/judge-lifts-block-trump-changes-mail-voting-though-legal-fights-continue/",
+    "publishedAt": "2026-08-26T20:31:00+00:00"
+  },
+  {
+    "title": "Alaska\u2019s weird (and important) Senate race",
+    "source": "Washington Post",
+    "description": "There will be two Dan Sullivans on the ballot, which greatly benefits Democrats.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/26/alaskas-weird-important-senate-race/",
+    "publishedAt": "2026-08-26T19:38:58+00:00"
+  },
+  {
+    "title": "Trump visa restrictions will worsen strains on the economy, experts say",
+    "source": "Washington Post",
+    "description": "Several Trump administration moves to restrict legal immigration, including a pause in visa appointments and the cancellation of tourism and business visas, will harm the economy and workforce, experts say.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/26/trump-visa-restrictions-will-worsen-strains-economy-experts-say/",
+    "publishedAt": "2026-08-26T19:32:00+00:00"
+  },
+  {
+    "title": "Case against lawmaker charged in Delaney Hall clash can proceed, appeals court rules",
+    "source": "Washington Post",
+    "description": "Rep. LaMonica McIver (D-New Jersey) has denied the allegations that she assaulted federal agents during a scuffle outside an immigration detention facility last spring.",
+    "url": "https://www.washingtonpost.com/national-security/2026/08/26/case-against-lawmaker-charged-delaney-hall-clash-can-proceed-appeals-court-rules/",
+    "publishedAt": "2026-08-26T18:48:47+00:00"
+  },
+  {
+    "title": "Ex-DOD worker admits trying to trade classified info for foreign citizenship",
+    "source": "Washington Post",
+    "description": "Cybersecurity specialist Nathan Vilas Laatsch, 29, had expressed disagreement with the Trump administration, court records state.",
+    "url": "https://www.washingtonpost.com/national-security/2026/08/26/ex-dod-worker-admits-trying-trade-classified-info-foreign-citizenship/",
+    "publishedAt": "2026-08-26T17:07:42+00:00"
+  },
+  {
+    "title": "The White House's preferred economic tools are hitting snags",
+    "source": "NPR Politics",
+    "description": "Tariffs and export controls have been the Trump administration's main economic security tools. Neither is working very well right now.",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5928351/white-house-tarifffs-snags",
+    "publishedAt": "2026-08-26T16:29:45-04:00"
+  },
+  {
+    "title": "Trump touts power of his endorsement following South Sen. Darline Graham's primary win",
+    "source": "NPR Politics",
+    "description": "Darline Graham won her primary runoff in the race to replace her late brother in the US Senate. And President Trump can again tout the power of his endorsement.",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5945088/trump-touts-power-of-his-endorsement-following-south-sen-darline-grahams-primary-win",
+    "publishedAt": "2026-08-26T16:14:48-04:00"
+  },
+  {
+    "title": "In Texas Senate race, Talarico seeks depositions that could damage Paxton",
+    "source": "Washington Post",
+    "description": "Democrat James Talarico has leaned into Texas Attorney General Ken Paxton\u2019s past legal scandals to try to win over moderate Republicans.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/26/texas-senate-race-talarico-seeks-depositions-that-could-damage-paxton/",
+    "publishedAt": "2026-08-26T14:33:00+00:00"
+  },
+  {
+    "title": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now",
+    "source": "NPR Politics",
+    "description": "A federal judge in Boston canceled a nationwide ruling that blocked U.S. Postal Service work on President Trump's order to limit mail-in voting for the midterm election. But a new block may come soon.",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
+    "publishedAt": "2026-08-26T13:15:17-04:00"
+  },
+  {
+    "title": "Democrats target Republicans who voted for SNAP cuts with billboards",
+    "source": "Washington Post",
+    "description": "The Democratic Congressional Campaign Committee is rolling out mobile billboards aimed at a handful of GOP lawmakers in swing districts.",
+    "url": "https://www.washingtonpost.com/elections/2026/08/26/democrats-target-vulnerable-republicans-who-voted-snap-cuts/",
+    "publishedAt": "2026-08-26T12:00:00+00:00"
+  },
+  {
+    "title": "Before Hegseth fired him, top general was advised to drop Kid Rock probe",
+    "source": "Washington Post",
+    "description": "Gen. Randy George appeared troubled by the encounter with Gen. Chris LaNeve, the Army\u2019s No. 2 officer now favored for the service\u2019s top job, people familiar with the matter told The Post.",
+    "url": "https://www.washingtonpost.com/national-security/2026/08/26/before-hegseth-fired-him-top-general-was-advised-drop-kid-rock-investigation/",
+    "publishedAt": "2026-08-26T11:00:00+00:00"
+  },
+  {
+    "title": "CIA director\u2019s secretive visit to Moscow stirs mystery",
+    "source": "Washington Post",
+    "description": "A Kremlin spokesman said John Ratcliffe did not meet with Vladimir Putin and that it was \"premature\" to say whether the trip would affect fraught U.S.-Russia relations.",
     "url": "https://www.washingtonpost.com/national-security/2026/08/25/cia-director-moscow-rare-unannounced-trip/",
-    "publishedAt": "2026-08-25T23:27:50+00:00"
+    "publishedAt": "2026-08-26T10:39:40+00:00"
+  },
+  {
+    "title": "Dan Sullivan joins Dan Sullivan on the November ballot in confusing Alaska race",
+    "source": "Washington Post",
+    "description": "A retired teacher with the same name as the incumbent senator could pose trouble for Republicans in the competitive Senate race.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/26/another-dan-sullivan-advances-alaska-senate-primary/",
+    "publishedAt": "2026-08-26T10:20:24+00:00"
+  },
+  {
+    "title": "Lawyers gear up as Trump administration threatens election officials with arrest",
+    "source": "Washington Post",
+    "description": "Private voting rights attorneys and Democratic attorneys general are preparing to defend election officials and file lawsuits against the federal government.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/26/lawyers-gear-up-trump-administration-threatens-election-officials-with-arrest/",
+    "publishedAt": "2026-08-26T10:00:00+00:00"
+  },
+  {
+    "title": "Takeaways from the latest primaries as Trump reverses a losing streak",
+    "source": "Washington Post",
+    "description": "Victories for Sen. Darline Graham in South Carolina and Mike Mazzei in Oklahoma showed the president\u2019s backing still carries clout.",
+    "url": "https://www.washingtonpost.com/politics/2026/08/26/trumps-endorsement-helps-darline-graham-win-south-carolina/",
+    "publishedAt": "2026-08-26T09:00:00+00:00"
+  },
+  {
+    "title": "The impact of the trade war between the U.S. and Canada",
+    "source": "NPR Politics",
+    "description": "NPR's Steve Inskeep speaks with Democractic Congresswoman Debbie Dingell of Michigan about the trade war between the U.S. and Canada.",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5944299/the-impact-of-the-trade-war-between-the-u-s-and-canada",
+    "publishedAt": "2026-08-26T07:13:13-04:00"
   },
   {
     "title": "Judge issues setback to Trump administration plans to restrict mail-in ballots",
@@ -54,124 +271,5 @@
     "description": "In a major win for President Trump who went all in for the political newcomer, Sen. Darline Graham beat out longtime Congressman Ralph Norman in a special election primary runoff in South Carolina.",
     "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
     "publishedAt": "2026-08-25T16:47:54-04:00"
-  },
-  {
-    "title": "Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war",
-    "source": "Washington Post",
-    "description": "The president cited his tariff fight in a social media post, saying the United States doesn\u2019t expect to be \u201cdoing much business with Ontario any longer.\u201d",
-    "url": "https://www.washingtonpost.com/politics/2026/08/25/trump-says-us-could-rename-lake-ontario-amid-canada-trade-war/",
-    "publishedAt": "2026-08-25T16:25:46+00:00"
-  },
-  {
-    "title": "Secret Service says it is aware of Iranian state media video threatening Barron Trump",
-    "source": "Washington Post",
-    "description": "The footage, reportedly released by media linked to Iran\u2019s Islamic Revolutionary Guard Corps, claimed a $10 million bounty had been placed on the president\u2019s youngest son.",
-    "url": "https://www.washingtonpost.com/politics/2026/08/25/secret-service-says-it-is-aware-iranian-state-media-video-threatening-barron-trump/",
-    "publishedAt": "2026-08-25T14:17:59+00:00"
-  },
-  {
-    "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
-    "source": "NPR Politics",
-    "description": "The Trump administration claimed to have found 250,000 noncitizens on the voter rolls in four states. But the agency's communications with states since then indicate that data was preliminary.",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
-    "publishedAt": "2026-08-25T14:15:23-04:00"
-  },
-  {
-    "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-    "source": "NPR Politics",
-    "description": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-    "publishedAt": "2026-08-25T11:20:18-04:00"
-  },
-  {
-    "title": "Several states will decide voter ID ballot measures this year",
-    "source": "NPR Politics",
-    "description": "Voters in at least six states will soon decide ballot measures related to voter ID \u2014 the largest number of voter ID measures in a single year. The tally includes three prominent swing states.",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
-    "publishedAt": "2026-08-25T10:40:36-04:00"
-  },
-  {
-    "title": "As U.S.-Canada tensions escalate, Republicans could face political consequences",
-    "source": "Washington Post",
-    "description": "The threat of higher prices for gas, cars, hockey sticks and more gave fresh life to Democratic arguments that the president is destabilizing the economy.",
-    "url": "https://www.washingtonpost.com/politics/2026/08/25/trump-tariffs-canada-risks-political-fallout-republicans/",
-    "publishedAt": "2026-08-25T09:00:00+00:00"
-  },
-  {
-    "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
-    "source": "NPR Politics",
-    "description": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran \u2014 and years of economic pressure on the country.",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
-    "publishedAt": "2026-08-25T05:07:09-04:00"
-  },
-  {
-    "title": "U.K. will help Ukraine make long-range missiles by sharing classified tech information",
-    "source": "NPR Politics",
-    "description": "Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
-    "publishedAt": "2026-08-25T01:14:03-04:00"
-  },
-  {
-    "title": "Trump administration plans to revoke up to 200,000 visas, official says",
-    "source": "NPR Politics",
-    "description": "The 200,000 revocations will not happen in one fell swoop, but on a rolling basis, the Trump administration source said. But experts suggest that the revocation, while potentially precedent setting, is largely performative.",
-    "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
-    "publishedAt": "2026-08-25T00:56:29-04:00"
-  },
-  {
-    "title": "Log Cabin Republicans remove reference to trans people on website",
-    "source": "Washington Post",
-    "description": "The Republican gay rights group has decided to no longer focus on transgender issues.",
-    "url": "https://www.washingtonpost.com/politics/2026/08/24/log-cabin-republicans-remove-reference-trans-people-website/",
-    "publishedAt": "2026-08-24T21:37:09+00:00"
-  },
-  {
-    "title": "Trump moves to reshape White House\u2019s South Lawn",
-    "source": "Washington Post",
-    "description": "The president's latest construction project involves changing the lawn's slope to bring it flush with his new helipad.",
-    "url": "https://www.washingtonpost.com/politics/2026/08/24/trump-moves-re-slope-white-houses-south-lawn/",
-    "publishedAt": "2026-08-24T21:03:22+00:00"
-  },
-  {
-    "title": "What\u2019s happening between the U.S. and Canada",
-    "source": "Washington Post",
-    "description": "And what it could mean for the American economy.",
-    "url": "https://www.washingtonpost.com/politics/2026/08/24/whats-happening-between-us-canada/",
-    "publishedAt": "2026-08-24T19:46:06+00:00"
-  },
-  {
-    "title": "An aluminum smelter becomes part of Oklahoma Republican governor runoff election",
-    "source": "NPR Politics",
-    "description": "A proposed $4 billion aluminum smelter pushed by President Trump is splitting Oklahoma Republicans.",
-    "url": "https://www.npr.org/2026/08/24/nx-s1-5936546/an-aluminum-smelter-becomes-part-of-oklahoma-republican-governor-runoff-election",
-    "publishedAt": "2026-08-24T17:17:29-04:00"
-  },
-  {
-    "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
-    "source": "NPR Politics",
-    "description": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide.",
-    "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-    "publishedAt": "2026-08-24T16:53:45-04:00"
-  },
-  {
-    "title": "A Census Bureau report on noncitizen voting has ties to a Trump-aligned think tank",
-    "source": "NPR Politics",
-    "description": "A Trump-aligned think tank has ties to a highly unusual Census Bureau report that the president is using to renew false claims of widespread voting by non-U.S. citizens in 2020, NPR has learned.",
-    "url": "https://www.npr.org/2026/08/24/nx-s1-5938799-e1/a-census-bureau-report-on-noncitizen-voting-has-ties-to-a-trump-aligned-think-tank",
-    "publishedAt": "2026-08-24T16:40:33-04:00"
-  },
-  {
-    "title": "See photos from the first IndyCar race in Washington",
-    "source": "Washington Post",
-    "description": "Drivers are dashing around the National Mall at speeds expected to exceed 185 mph.",
-    "url": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/",
-    "publishedAt": "2026-08-24T13:59:21+00:00"
-  },
-  {
-    "title": "This not-so-secret document is inspiring the left \u2014 and tripping up its candidates",
-    "source": "Washington Post",
-    "description": "The Democratic Socialists of America platform aims to upend the status quo. That can mean a bumpy ride for those trying to win in the short term.",
-    "url": "https://www.washingtonpost.com/politics/2026/08/24/democratic-socialists-biggest-challenge-their-own-platform/",
-    "publishedAt": "2026-08-24T10:00:01+00:00"
   }
 ]
