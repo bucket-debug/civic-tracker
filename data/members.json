@@ -90,24 +90,6 @@
     "startYear": 2025
   },
   {
-    "bioguideId": "S001229",
-    "name": "Shreve, Jefferson",
-    "party": "Republican",
-    "state": "Indiana",
-    "district": 6,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "S001228",
-    "name": "Schmidt, Derek",
-    "party": "Republican",
-    "state": "Kansas",
-    "district": 2,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
     "bioguideId": "R000622",
     "name": "Riley, Josh",
     "party": "Democratic",
@@ -126,24 +108,6 @@
     "startYear": 2025
   },
   {
-    "bioguideId": "O000176",
-    "name": "Olszewski, Johnny",
-    "party": "Democratic",
-    "state": "Maryland",
-    "district": 2,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "M001240",
-    "name": "McDowell, Addison P.",
-    "party": "Republican",
-    "state": "North Carolina",
-    "district": 6,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
     "bioguideId": "M001239",
     "name": "McGuire, John J.",
     "party": "Republican",
@@ -153,47 +117,11 @@
     "startYear": 2025
   },
   {
-    "bioguideId": "M001237",
-    "name": "McDonald Rivet, Kristen",
-    "party": "Democratic",
-    "state": "Michigan",
-    "district": 8,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
     "bioguideId": "M001236",
     "name": "Moore, Tim",
     "party": "Republican",
     "state": "North Carolina",
     "district": 14,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "M001235",
-    "name": "Moore, Riley M.",
-    "party": "Republican",
-    "state": "West Virginia",
-    "district": 2,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "M001233",
-    "name": "Messmer, Mark B.",
-    "party": "Republican",
-    "state": "Indiana",
-    "district": 8,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "M001232",
-    "name": "McClain Delaney, April",
-    "party": "Democratic",
-    "state": "Maryland",
-    "district": 6,
     "chamber": "House of Representatives",
     "startYear": 2025
   },
@@ -261,24 +189,6 @@
     "startYear": 2025
   },
   {
-    "bioguideId": "H001102",
-    "name": "Harris, Mark",
-    "party": "Republican",
-    "state": "North Carolina",
-    "district": 8,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "H001101",
-    "name": "Harrigan, Pat",
-    "party": "Republican",
-    "state": "North Carolina",
-    "district": 10,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
     "bioguideId": "G000604",
     "name": "Goodlander, Maggie",
     "party": "Democratic",
@@ -315,15 +225,6 @@
     "startYear": 2025
   },
   {
-    "bioguideId": "F000483",
-    "name": "Friedman, Laura",
-    "party": "Democratic",
-    "state": "California",
-    "district": 30,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
     "bioguideId": "F000482",
     "name": "Fedorchak, Julie",
     "party": "Republican",
@@ -333,29 +234,11 @@
     "startYear": 2025
   },
   {
-    "bioguideId": "E000301",
-    "name": "Elfreth, Sarah",
-    "party": "Democratic",
-    "state": "Maryland",
-    "district": 3,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
     "bioguideId": "D000635",
     "name": "Dexter, Maxine",
     "party": "Democratic",
     "state": "Oregon",
     "district": 3,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "D000634",
-    "name": "Downing, Troy",
-    "party": "Republican",
-    "state": "Montana",
-    "district": 2,
     "chamber": "House of Representatives",
     "startYear": 2025
   },
@@ -405,38 +288,29 @@
     "startYear": 2025
   },
   {
-    "bioguideId": "B001321",
-    "name": "Barrett, Tom",
-    "party": "Republican",
-    "state": "Michigan",
-    "district": 7,
-    "chamber": "House of Representatives",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "S001188",
-    "name": "Stutzman, Marlin A.",
-    "party": "Republican",
-    "state": "Indiana",
-    "district": 3,
-    "chamber": "House of Representatives",
-    "startYear": 2010
-  },
-  {
-    "bioguideId": "F000110",
-    "name": "Fields, Cleo",
-    "party": "Democratic",
-    "state": "Louisiana",
-    "district": 6,
-    "chamber": "House of Representatives",
-    "startYear": 1993
-  },
-  {
     "bioguideId": "G000606",
     "name": "Grijalva, Adelita S.",
     "party": "Democratic",
     "state": "Arizona",
     "district": 7,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "S001229",
+    "name": "Shreve, Jefferson",
+    "party": "Republican",
+    "state": "Indiana",
+    "district": 6,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "S001228",
+    "name": "Schmidt, Derek",
+    "party": "Republican",
+    "state": "Kansas",
+    "district": 2,
     "chamber": "House of Representatives",
     "startYear": 2025
   },
@@ -450,6 +324,24 @@
     "startYear": 2025
   },
   {
+    "bioguideId": "O000176",
+    "name": "Olszewski, Johnny",
+    "party": "Democratic",
+    "state": "Maryland",
+    "district": 2,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "M001240",
+    "name": "McDowell, Addison P.",
+    "party": "Republican",
+    "state": "North Carolina",
+    "district": 6,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
     "bioguideId": "M001238",
     "name": "McBride, Sarah",
     "party": "Democratic",
@@ -459,11 +351,47 @@
     "startYear": 2025
   },
   {
+    "bioguideId": "M001237",
+    "name": "McDonald Rivet, Kristen",
+    "party": "Democratic",
+    "state": "Michigan",
+    "district": 8,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "M001235",
+    "name": "Moore, Riley M.",
+    "party": "Republican",
+    "state": "West Virginia",
+    "district": 2,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
     "bioguideId": "M001234",
     "name": "Morrison, Kelly",
     "party": "Democratic",
     "state": "Minnesota",
     "district": 3,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "M001233",
+    "name": "Messmer, Mark B.",
+    "party": "Republican",
+    "state": "Indiana",
+    "district": 8,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "M001232",
+    "name": "McClain Delaney, April",
+    "party": "Democratic",
+    "state": "Maryland",
+    "district": 6,
     "chamber": "House of Representatives",
     "startYear": 2025
   },
@@ -486,11 +414,38 @@
     "startYear": 2025
   },
   {
+    "bioguideId": "H001102",
+    "name": "Harris, Mark",
+    "party": "Republican",
+    "state": "North Carolina",
+    "district": 8,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "H001101",
+    "name": "Harrigan, Pat",
+    "party": "Republican",
+    "state": "North Carolina",
+    "district": 10,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
     "bioguideId": "H001099",
     "name": "Haridopolos, Mike",
     "party": "Republican",
     "state": "Florida",
     "district": 8,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "F000483",
+    "name": "Friedman, Laura",
+    "party": "Democratic",
+    "state": "California",
+    "district": 30,
     "chamber": "House of Representatives",
     "startYear": 2025
   },
@@ -504,6 +459,15 @@
     "startYear": 2025
   },
   {
+    "bioguideId": "E000301",
+    "name": "Elfreth, Sarah",
+    "party": "Democratic",
+    "state": "Maryland",
+    "district": 3,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
     "bioguideId": "E000300",
     "name": "Evans, Gabe",
     "party": "Republican",
@@ -513,11 +477,29 @@
     "startYear": 2025
   },
   {
+    "bioguideId": "D000634",
+    "name": "Downing, Troy",
+    "party": "Republican",
+    "state": "Montana",
+    "district": 2,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
     "bioguideId": "C001137",
     "name": "Crank, Jeff",
     "party": "Republican",
     "state": "Colorado",
     "district": 5,
+    "chamber": "House of Representatives",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "B001321",
+    "name": "Barrett, Tom",
+    "party": "Republican",
+    "state": "Michigan",
+    "district": 7,
     "chamber": "House of Representatives",
     "startYear": 2025
   },
@@ -855,15 +837,6 @@
     "startYear": 2023
   },
   {
-    "bioguideId": "D000230",
-    "name": "Davis, Donald G.",
-    "party": "Democratic",
-    "state": "North Carolina",
-    "district": 1,
-    "chamber": "House of Representatives",
-    "startYear": 2023
-  },
-  {
     "bioguideId": "C001130",
     "name": "Crockett, Jasmine",
     "party": "Democratic",
@@ -990,6 +963,15 @@
     "startYear": 2013
   },
   {
+    "bioguideId": "S001188",
+    "name": "Stutzman, Marlin A.",
+    "party": "Republican",
+    "state": "Indiana",
+    "district": 3,
+    "chamber": "House of Representatives",
+    "startYear": 2010
+  },
+  {
     "bioguideId": "N000002",
     "name": "Nadler, Jerrold",
     "party": "Democratic",
@@ -1006,6 +988,15 @@
     "district": 9,
     "chamber": "House of Representatives",
     "startYear": 2005
+  },
+  {
+    "bioguideId": "F000110",
+    "name": "Fields, Cleo",
+    "party": "Democratic",
+    "state": "Louisiana",
+    "district": 6,
+    "chamber": "House of Representatives",
+    "startYear": 1993
   },
   {
     "bioguideId": "D000399",
@@ -1233,6 +1224,15 @@
     "startYear": 2023
   },
   {
+    "bioguideId": "D000230",
+    "name": "Davis, Donald G.",
+    "party": "Democratic",
+    "state": "North Carolina",
+    "district": 1,
+    "chamber": "House of Representatives",
+    "startYear": 2023
+  },
+  {
     "bioguideId": "C001132",
     "name": "Crane, Elijah",
     "party": "Republican",
@@ -1337,6 +1337,33 @@
     "party": "Democratic",
     "state": "Ohio",
     "district": 11,
+    "chamber": "House of Representatives",
+    "startYear": 2021
+  },
+  {
+    "bioguideId": "E000071",
+    "name": "Ellzey, Jake",
+    "party": "Republican",
+    "state": "Texas",
+    "district": 6,
+    "chamber": "House of Representatives",
+    "startYear": 2021
+  },
+  {
+    "bioguideId": "S001218",
+    "name": "Stansbury, Melanie A.",
+    "party": "Democratic",
+    "state": "New Mexico",
+    "district": 1,
+    "chamber": "House of Representatives",
+    "startYear": 2021
+  },
+  {
+    "bioguideId": "C001125",
+    "name": "Carter, Troy A.",
+    "party": "Democratic",
+    "state": "Louisiana",
+    "district": 2,
     "chamber": "House of Representatives",
     "startYear": 2021
   },
@@ -1735,33 +1762,6 @@
     "district": 18,
     "chamber": "House of Representatives",
     "startYear": 1995
-  },
-  {
-    "bioguideId": "E000071",
-    "name": "Ellzey, Jake",
-    "party": "Republican",
-    "state": "Texas",
-    "district": 6,
-    "chamber": "House of Representatives",
-    "startYear": 2021
-  },
-  {
-    "bioguideId": "S001218",
-    "name": "Stansbury, Melanie A.",
-    "party": "Democratic",
-    "state": "New Mexico",
-    "district": 1,
-    "chamber": "House of Representatives",
-    "startYear": 2021
-  },
-  {
-    "bioguideId": "C001125",
-    "name": "Carter, Troy A.",
-    "party": "Democratic",
-    "state": "Louisiana",
-    "district": 2,
-    "chamber": "House of Representatives",
-    "startYear": 2021
   },
   {
     "bioguideId": "L000595",
@@ -2385,6 +2385,15 @@
     "startYear": 2019
   },
   {
+    "bioguideId": "S001214",
+    "name": "Steube, W. Gregory",
+    "party": "Republican",
+    "state": "Florida",
+    "district": 17,
+    "chamber": "House of Representatives",
+    "startYear": 2019
+  },
+  {
     "bioguideId": "H001081",
     "name": "Hayes, Jahana",
     "party": "Democratic",
@@ -2410,6 +2419,60 @@
     "district": 2,
     "chamber": "House of Representatives",
     "startYear": 2019
+  },
+  {
+    "bioguideId": "L000593",
+    "name": "Levin, Mike",
+    "party": "Democratic",
+    "state": "California",
+    "district": 49,
+    "chamber": "House of Representatives",
+    "startYear": 2019
+  },
+  {
+    "bioguideId": "H001082",
+    "name": "Hern, Kevin",
+    "party": "Republican",
+    "state": "Oklahoma",
+    "district": 1,
+    "chamber": "House of Representatives",
+    "startYear": 2018
+  },
+  {
+    "bioguideId": "M001206",
+    "name": "Morelle, Joseph D.",
+    "party": "Democratic",
+    "state": "New York",
+    "district": 25,
+    "chamber": "House of Representatives",
+    "startYear": 2018
+  },
+  {
+    "bioguideId": "B001306",
+    "name": "Balderson, Troy",
+    "party": "Republican",
+    "state": "Ohio",
+    "district": 12,
+    "chamber": "House of Representatives",
+    "startYear": 2018
+  },
+  {
+    "bioguideId": "C001115",
+    "name": "Cloud, Michael",
+    "party": "Republican",
+    "state": "Texas",
+    "district": 27,
+    "chamber": "House of Representatives",
+    "startYear": 2018
+  },
+  {
+    "bioguideId": "G000585",
+    "name": "Gomez, Jimmy",
+    "party": "Democratic",
+    "state": "California",
+    "district": 34,
+    "chamber": "House of Representatives",
+    "startYear": 2017
   },
   {
     "bioguideId": "S001199",
@@ -2536,69 +2599,6 @@
     "district": 3,
     "chamber": "House of Representatives",
     "startYear": 2025
-  },
-  {
-    "bioguideId": "S001214",
-    "name": "Steube, W. Gregory",
-    "party": "Republican",
-    "state": "Florida",
-    "district": 17,
-    "chamber": "House of Representatives",
-    "startYear": 2019
-  },
-  {
-    "bioguideId": "L000593",
-    "name": "Levin, Mike",
-    "party": "Democratic",
-    "state": "California",
-    "district": 49,
-    "chamber": "House of Representatives",
-    "startYear": 2019
-  },
-  {
-    "bioguideId": "H001082",
-    "name": "Hern, Kevin",
-    "party": "Republican",
-    "state": "Oklahoma",
-    "district": 1,
-    "chamber": "House of Representatives",
-    "startYear": 2018
-  },
-  {
-    "bioguideId": "M001206",
-    "name": "Morelle, Joseph D.",
-    "party": "Democratic",
-    "state": "New York",
-    "district": 25,
-    "chamber": "House of Representatives",
-    "startYear": 2018
-  },
-  {
-    "bioguideId": "B001306",
-    "name": "Balderson, Troy",
-    "party": "Republican",
-    "state": "Ohio",
-    "district": 12,
-    "chamber": "House of Representatives",
-    "startYear": 2018
-  },
-  {
-    "bioguideId": "C001115",
-    "name": "Cloud, Michael",
-    "party": "Republican",
-    "state": "Texas",
-    "district": 27,
-    "chamber": "House of Representatives",
-    "startYear": 2018
-  },
-  {
-    "bioguideId": "G000585",
-    "name": "Gomez, Jimmy",
-    "party": "Democratic",
-    "state": "California",
-    "district": 34,
-    "chamber": "House of Representatives",
-    "startYear": 2017
   },
   {
     "bioguideId": "N000190",
@@ -3087,6 +3087,15 @@
     "startYear": 2013
   },
   {
+    "bioguideId": "W000812",
+    "name": "Wagner, Ann",
+    "party": "Republican",
+    "state": "Missouri",
+    "district": 2,
+    "chamber": "House of Representatives",
+    "startYear": 2013
+  },
+  {
     "bioguideId": "S001195",
     "name": "Smith, Jason",
     "party": "Republican",
@@ -3112,6 +3121,42 @@
     "district": 10,
     "chamber": "House of Representatives",
     "startYear": 2013
+  },
+  {
+    "bioguideId": "B001285",
+    "name": "Brownley, Julia",
+    "party": "Democratic",
+    "state": "California",
+    "district": 26,
+    "chamber": "House of Representatives",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "H001068",
+    "name": "Huffman, Jared",
+    "party": "Democratic",
+    "state": "California",
+    "district": 2,
+    "chamber": "House of Representatives",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "D000617",
+    "name": "DelBene, Suzan K.",
+    "party": "Democratic",
+    "state": "Washington",
+    "district": 1,
+    "chamber": "House of Representatives",
+    "startYear": 2012
+  },
+  {
+    "bioguideId": "M001184",
+    "name": "Massie, Thomas",
+    "party": "Republican",
+    "state": "Kentucky",
+    "district": 4,
+    "chamber": "House of Representatives",
+    "startYear": 2012
   },
   {
     "bioguideId": "K000375",
@@ -3373,51 +3418,6 @@
     "district": 3,
     "chamber": "House of Representatives",
     "startYear": 2025
-  },
-  {
-    "bioguideId": "W000812",
-    "name": "Wagner, Ann",
-    "party": "Republican",
-    "state": "Missouri",
-    "district": 2,
-    "chamber": "House of Representatives",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "B001285",
-    "name": "Brownley, Julia",
-    "party": "Democratic",
-    "state": "California",
-    "district": 26,
-    "chamber": "House of Representatives",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "H001068",
-    "name": "Huffman, Jared",
-    "party": "Democratic",
-    "state": "California",
-    "district": 2,
-    "chamber": "House of Representatives",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "D000617",
-    "name": "DelBene, Suzan K.",
-    "party": "Democratic",
-    "state": "Washington",
-    "district": 1,
-    "chamber": "House of Representatives",
-    "startYear": 2012
-  },
-  {
-    "bioguideId": "M001184",
-    "name": "Massie, Thomas",
-    "party": "Republican",
-    "state": "Kentucky",
-    "district": 4,
-    "chamber": "House of Representatives",
-    "startYear": 2012
   },
   {
     "bioguideId": "B001278",
@@ -3726,6 +3726,15 @@
     "startYear": 1993
   },
   {
+    "bioguideId": "R000395",
+    "name": "Rogers, Harold",
+    "party": "Republican",
+    "state": "Kentucky",
+    "district": 5,
+    "chamber": "House of Representatives",
+    "startYear": 1981
+  },
+  {
     "bioguideId": "B000490",
     "name": "Bishop, Sanford D.",
     "party": "Democratic",
@@ -3892,15 +3901,6 @@
     "name": "Hoyer, Steny H.",
     "party": "Democratic",
     "state": "Maryland",
-    "district": 5,
-    "chamber": "House of Representatives",
-    "startYear": 1981
-  },
-  {
-    "bioguideId": "R000395",
-    "name": "Rogers, Harold",
-    "party": "Republican",
-    "state": "Kentucky",
     "district": 5,
     "chamber": "House of Representatives",
     "startYear": 1981
