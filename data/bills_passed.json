@@ -1,30 +1,58 @@
 [
   {
     "congress": 119,
-    "number": "4795",
+    "number": "10158",
     "type": "HR",
-    "title": "Protect Economic and Academic Freedom Act of 2026",
+    "title": "Automotive National and Economic Security Act of 2026",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 681.",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-08-27"
     },
-    "updateDate": "2026-08-28",
+    "updateDate": "2026-08-29",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "9436",
+    "number": "10170",
     "type": "HR",
-    "title": "Northeast Lobsterman Protection Act of 2026",
+    "title": "Memory Chip Competitiveness Assessment Act of 2026",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 667.",
+      "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-08-27"
     },
-    "updateDate": "2026-08-28",
+    "updateDate": "2026-08-29",
     "sponsor": null,
     "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10163",
+    "type": "HR",
+    "title": "American Quantum Competitiveness Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-08-27"
+    },
+    "updateDate": "2026-08-29",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10152",
+    "type": "HR",
+    "title": "Open-Source AI Leadership Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-08-27"
+    },
+    "updateDate": "2026-08-29",
+    "sponsor": null,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -36,37 +64,9 @@
       "text": "Referred to the Committee on House Administration, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-08-27"
     },
-    "updateDate": "2026-08-28",
+    "updateDate": "2026-08-29",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7730",
-    "type": "HR",
-    "title": "Bankruptcy Threshold Adjustment Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 684.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-08-28",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "2555",
-    "type": "HR",
-    "title": "Freedom of Association in Higher Education Act of 2026",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 682.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-08-28",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 17
   }
 ]
