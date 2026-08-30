@@ -1,30 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "10158",
+    "number": "10152",
     "type": "HR",
-    "title": "Automotive National and Economic Security Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-08-29",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10170",
-    "type": "HR",
-    "title": "Memory Chip Competitiveness Assessment Act of 2026",
+    "title": "Open-Source AI Leadership Act",
     "latestAction": {
       "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-08-27"
     },
     "updateDate": "2026-08-29",
     "sponsor": null,
-    "democratCosponsors": 1,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -43,16 +29,30 @@
   },
   {
     "congress": 119,
-    "number": "10152",
+    "number": "10170",
     "type": "HR",
-    "title": "Open-Source AI Leadership Act",
+    "title": "Memory Chip Competitiveness Assessment Act of 2026",
     "latestAction": {
       "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-08-27"
     },
     "updateDate": "2026-08-29",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10158",
+    "type": "HR",
+    "title": "Automotive National and Economic Security Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-08-27"
+    },
+    "updateDate": "2026-08-29",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {

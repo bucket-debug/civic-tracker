@@ -1,6 +1,20 @@
 [
   {
     "congress": 119,
+    "number": "9497",
+    "type": "HR",
+    "title": "Water Resources Development Act of 2026",
+    "latestAction": {
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 66 - 0.",
+      "actionDate": "2026-07-14"
+    },
+    "updateDate": "2026-08-29",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
     "number": "1498",
     "type": "HRES",
     "title": "In the matter of allegations relating to Representative Chuck Edwards.",
@@ -12,20 +26,6 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3348",
-    "type": "S",
-    "title": "Dream Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary. (text: CR S8509-8512)",
-      "actionDate": "2025-12-04"
-    },
-    "updateDate": "2026-08-29",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -43,6 +43,20 @@
   },
   {
     "congress": 119,
+    "number": "3348",
+    "type": "S",
+    "title": "Dream Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary. (text: CR S8509-8512)",
+      "actionDate": "2025-12-04"
+    },
+    "updateDate": "2026-08-29",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
     "number": "93",
     "type": "S",
     "title": "Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2025",
@@ -57,30 +71,16 @@
   },
   {
     "congress": 119,
-    "number": "10158",
+    "number": "10152",
     "type": "HR",
-    "title": "Automotive National and Economic Security Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-08-29",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10170",
-    "type": "HR",
-    "title": "Memory Chip Competitiveness Assessment Act of 2026",
+    "title": "Open-Source AI Leadership Act",
     "latestAction": {
       "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-08-27"
     },
     "updateDate": "2026-08-29",
     "sponsor": null,
-    "democratCosponsors": 1,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -99,26 +99,40 @@
   },
   {
     "congress": 119,
+    "number": "10170",
+    "type": "HR",
+    "title": "Memory Chip Competitiveness Assessment Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-08-27"
+    },
+    "updateDate": "2026-08-29",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10158",
+    "type": "HR",
+    "title": "Automotive National and Economic Security Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-08-27"
+    },
+    "updateDate": "2026-08-29",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "5383",
     "type": "S",
     "title": "End Gas Station Heroin Act",
     "latestAction": {
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "actionDate": "2026-08-08"
-    },
-    "updateDate": "2026-08-29",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10152",
-    "type": "HR",
-    "title": "Open-Source AI Leadership Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-08-27"
     },
     "updateDate": "2026-08-29",
     "sponsor": null,
@@ -631,44 +645,30 @@
   },
   {
     "congress": 119,
-    "number": "10179",
+    "number": "10153",
     "type": "HR",
-    "title": "To amend the charter of the Reserve Organization of the United States, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-08-28",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10168",
-    "type": "HR",
-    "title": "To authorize the Secretary of Housing and Urban Development to establish a pilot program to recapture and reallocate rental assistance for veterans, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-08-28",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10175",
-    "type": "HR",
-    "title": "To repeal section 338 of the Tariff Act of 1930 and nullify certain Presidential proclamations imposing a tariff or other duty pursuant to such section, and for other purposes.",
+    "title": "To amend the Internal Revenue Code of 1986 to treat income earned by United States merchant mariners as foreign earned income.",
     "latestAction": {
       "text": "Referred to the House Committee on Ways and Means.",
       "actionDate": "2026-08-27"
     },
     "updateDate": "2026-08-28",
     "sponsor": null,
-    "democratCosponsors": 7,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10165",
+    "type": "HR",
+    "title": "To permanently reform quorum requirements for the Board of Directors of the Export-Import Bank of the United States to ensure continuity of operations.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Financial Services.",
+      "actionDate": "2026-08-27"
+    },
+    "updateDate": "2026-08-28",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -687,16 +687,16 @@
   },
   {
     "congress": 119,
-    "number": "10182",
+    "number": "10156",
     "type": "HR",
-    "title": "To amend the Public Works and Economic Development Act of 1965 to require eligible recipients of certain grants to develop a comprehensive economic development strategy that directly or indirectly increases the accessibility of affordable, quality care-based services, and for other purposes.",
+    "title": "To authorize workforce development innovation grants for the implementation, expansion, and evaluation of evidence-based workforce programs, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "text": "Referred to the House Committee on Education and Workforce.",
       "actionDate": "2026-08-27"
     },
     "updateDate": "2026-08-28",
     "sponsor": null,
-    "democratCosponsors": 4,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   }
 ]
