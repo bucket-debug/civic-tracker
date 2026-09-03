@@ -1,72 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "1506",
-    "type": "HRES",
-    "title": "Expressing support for the designation of September 2026 as \"National Prostate Cancer Awareness Month\".",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-09-01"
-    },
-    "updateDate": "2026-09-02",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "10204",
+    "number": "6500",
     "type": "HR",
-    "title": "Legislative Branch Agencies Clarification Act",
+    "title": "Continuing Appropriations and Extensions Act, 2027",
     "latestAction": {
-      "text": "Referred to the Committee on House Administration, and in addition to the Committees on the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-01"
+      "text": "Signed by President.",
+      "actionDate": "2026-09-02"
     },
-    "updateDate": "2026-09-02",
+    "updateDate": "2026-09-03",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10203",
-    "type": "HR",
-    "title": "Improving Access to Higher Education Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-09-01"
-    },
-    "updateDate": "2026-09-02",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10208",
-    "type": "HR",
-    "title": "To provide for the continued use of certain trust land in San Diego County for healthcare purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-09-01"
-    },
-    "updateDate": "2026-09-02",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9436",
-    "type": "HR",
-    "title": "Northeast Lobsterman Protection Act of 2026",
-    "latestAction": {
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "actionDate": "2026-09-01"
-    },
-    "updateDate": "2026-09-02",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
+    "republicanCosponsors": 1
   }
 ]
