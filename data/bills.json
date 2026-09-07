@@ -1,6 +1,118 @@
 [
   {
     "congress": 119,
+    "number": "1107",
+    "type": "HR",
+    "title": "Protecting Veteran Access to Telemedicine Services Act of 2025",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2025-09-16"
+    },
+    "updateDate": "2026-09-07",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 13
+  },
+  {
+    "congress": 119,
+    "number": "1736",
+    "type": "HR",
+    "title": "Generative AI Terrorism Risk Assessment Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2025-11-20"
+    },
+    "updateDate": "2026-09-07",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "1005",
+    "type": "HR",
+    "title": "Combating the Lies of Authoritarians in School Systems Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-12-04"
+    },
+    "updateDate": "2026-09-07",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "4183",
+    "type": "HR",
+    "title": "Federal Maritime Commission Reauthorization Act of 2025",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2025-12-16"
+    },
+    "updateDate": "2026-09-07",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "3633",
+    "type": "HR",
+    "title": "Digital Asset Market Clarity Act",
+    "latestAction": {
+      "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4557)",
+      "actionDate": "2026-08-08"
+    },
+    "updateDate": "2026-09-07",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 14
+  },
+  {
+    "congress": 119,
+    "number": "4490",
+    "type": "HR",
+    "title": "PARTNER Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2025-09-03"
+    },
+    "updateDate": "2026-09-07",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "1693",
+    "type": "HR",
+    "title": "To redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \"Barbara L. Cubin National Historic Trails Interpretive Center\".",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 671.",
+      "actionDate": "2026-08-27"
+    },
+    "updateDate": "2026-09-06",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1869",
+    "type": "HR",
+    "title": "Protecting American Industry and Labor from International Trade Crimes Act of 2026",
+    "latestAction": {
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2026-08-31"
+    },
+    "updateDate": "2026-09-06",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 10
+  },
+  {
+    "congress": 119,
     "number": "7487",
     "type": "HR",
     "title": "Rural Jobs and Hydropower Expansion Act",
@@ -26,34 +138,6 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "1869",
-    "type": "HR",
-    "title": "Protecting American Industry and Labor from International Trade Crimes Act of 2026",
-    "latestAction": {
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "actionDate": "2026-08-31"
-    },
-    "updateDate": "2026-09-06",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "1693",
-    "type": "HR",
-    "title": "To redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \"Barbara L. Cubin National Historic Trails Interpretive Center\".",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 671.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-09-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -85,30 +169,16 @@
   },
   {
     "congress": 119,
-    "number": "10291",
+    "number": "10273",
     "type": "HR",
-    "title": "JARED Act",
+    "title": "Fairness for Farm Workers Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "text": "Referred to the House Committee on Education and Workforce.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10279",
-    "type": "HR",
-    "title": "To designate the facility of the United States Postal Service located at 9995 Southeast Federal Highway in Hobe Sound, Florida, as the \"Special Operations Chief Petty Officer Aaron Carson Vaughn Post Office Building\".",
-    "latestAction": {
-      "text": "Referred to the House Committee on Oversight and Government Reform.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 9,
     "republicanCosponsors": 0
   },
   {
@@ -127,30 +197,16 @@
   },
   {
     "congress": 119,
-    "number": "10268",
+    "number": "10291",
     "type": "HR",
-    "title": "Ending Restaurant Purchases with SNAP Act of 2026",
+    "title": "JARED Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Agriculture.",
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "10273",
-    "type": "HR",
-    "title": "Fairness for Farm Workers Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 9,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -169,16 +225,44 @@
   },
   {
     "congress": 119,
-    "number": "10297",
+    "number": "10280",
     "type": "HR",
-    "title": "El Salvador TPS Act of 2026",
+    "title": "9\u20138\u20138 Implementation Act of 2026",
     "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Armed Services, Veterans' Affairs, Oversight and Government Reform, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
-    "democratCosponsors": 20,
+    "democratCosponsors": 14,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10241",
+    "type": "HR",
+    "title": "I\u201347 Future Interstate Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Transportation and Infrastructure.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "10279",
+    "type": "HR",
+    "title": "To designate the facility of the United States Postal Service located at 9995 Southeast Federal Highway in Hobe Sound, Florida, as the \"Special Operations Chief Petty Officer Aaron Carson Vaughn Post Office Building\".",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -197,291 +281,39 @@
   },
   {
     "congress": 119,
-    "number": "10241",
+    "number": "10297",
     "type": "HR",
-    "title": "I\u201347 Future Interstate Act of 2026",
+    "title": "El Salvador TPS Act of 2026",
     "latestAction": {
-      "text": "Referred to the House Committee on Transportation and Infrastructure.",
+      "text": "Referred to the House Committee on the Judiciary.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "10280",
-    "type": "HR",
-    "title": "9\u20138\u20138 Implementation Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Armed Services, Veterans' Affairs, Oversight and Government Reform, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 14,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10276",
-    "type": "HR",
-    "title": "Ballots by Election Day Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on House Administration.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 20,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "10295",
+    "number": "10268",
     "type": "HR",
-    "title": "9-8-8 Call Center Improvement Act",
+    "title": "Ending Restaurant Purchases with SNAP Act of 2026",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10254",
-    "type": "HR",
-    "title": "MORE Savings Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "text": "Referred to the House Committee on Agriculture.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "republicanCosponsors": 7
   },
   {
     "congress": 119,
-    "number": "10283",
+    "number": "10243",
     "type": "HR",
-    "title": "Congressional Pension Accountability Act",
-    "latestAction": {
-      "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10248",
-    "type": "HR",
-    "title": "To amend the Immigration and Nationality Act to establish a new class of nonimmigrant visas for public service employees and authorize lawful permanent resident status for certain individuals holding public service jobs who entered the United States as children, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10267",
-    "type": "HR",
-    "title": "To improve the safety of the air supply on aircraft, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Transportation and Infrastructure.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10294",
-    "type": "HR",
-    "title": "Better Pay for American Workers Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10247",
-    "type": "HR",
-    "title": "Future of America\u2019s Workforce Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10281",
-    "type": "HR",
-    "title": "FEMA for Safe Recovery Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10244",
-    "type": "HR",
-    "title": "No Taxpayer Funds for Congressional First Class Flights Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on House Administration.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10289",
-    "type": "HR",
-    "title": "Government Travel Transparency Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Oversight and Government Reform.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10275",
-    "type": "HR",
-    "title": "Puerto Rico Energy Opportunity and Geothermal Assessment Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10260",
-    "type": "HR",
-    "title": "Reducing Arbitrary Barriers to Apprenticeship Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10277",
-    "type": "HR",
-    "title": "Access to School Supplies Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 15,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10264",
-    "type": "HR",
-    "title": "American Made Federal Uniforms and Apparel Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Oversight and Government Reform.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10250",
-    "type": "HR",
-    "title": "No Preference Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "10251",
-    "type": "HR",
-    "title": "Back-to-School Supplies Affordability Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10258",
-    "type": "HR",
-    "title": "PROOF Act",
+    "title": "Protecting Elders From Government Error Act",
     "latestAction": {
       "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10292",
-    "type": "HR",
-    "title": "Southern Nevada Wastewater Infrastructure Lands Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
@@ -505,73 +337,17 @@
   },
   {
     "congress": 119,
-    "number": "10266",
+    "number": "10251",
     "type": "HR",
-    "title": "No Elite Athletes Using X-pro status to ensure Prioritizing Recruitment Of Student-athletes (NEAUX PROS) Act",
+    "title": "Back-to-School Supplies Affordability Act",
     "latestAction": {
-      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 8,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10243",
-    "type": "HR",
-    "title": "Protecting Elders From Government Error Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10293",
-    "type": "HR",
-    "title": "Rural Emergency Hospital Designation Improvement Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "10259",
-    "type": "HR",
-    "title": "DHS Community Consultation Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10262",
-    "type": "HR",
-    "title": "21st Century SPR Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -589,16 +365,16 @@
   },
   {
     "congress": 119,
-    "number": "10245",
+    "number": "10266",
     "type": "HR",
-    "title": "9\u20138\u20138 and 9\u20131\u20131 Integration Act",
+    "title": "No Elite Athletes Using X-pro status to ensure Prioritizing Recruitment Of Student-athletes (NEAUX PROS) Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
-    "democratCosponsors": 6,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -631,44 +407,184 @@
   },
   {
     "congress": 119,
-    "number": "10270",
+    "number": "10283",
     "type": "HR",
-    "title": "Supporting 9\u20138\u20138 Crisis Stabilization Act",
+    "title": "Congressional Pension Accountability Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
+      "text": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 0
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "10246",
+    "number": "10293",
     "type": "HR",
-    "title": "9\u20138\u20138 Community Infrastructure Act",
+    "title": "Rural Emergency Hospital Designation Improvement Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 0
+    "democratCosponsors": 2,
+    "republicanCosponsors": 3
   },
   {
     "congress": 119,
-    "number": "10274",
+    "number": "10275",
     "type": "HR",
-    "title": "Partnerships for Better Health Act",
+    "title": "Puerto Rico Energy Opportunity and Geothermal Assessment Act of 2026",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "text": "Referred to the House Committee on Natural Resources.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10267",
+    "type": "HR",
+    "title": "To improve the safety of the air supply on aircraft, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Transportation and Infrastructure.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10255",
+    "type": "HR",
+    "title": "Penalties for Polluters Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 19,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10295",
+    "type": "HR",
+    "title": "9-8-8 Call Center Improvement Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10292",
+    "type": "HR",
+    "title": "Southern Nevada Wastewater Infrastructure Lands Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10250",
+    "type": "HR",
+    "title": "No Preference Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "10264",
+    "type": "HR",
+    "title": "American Made Federal Uniforms and Apparel Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10289",
+    "type": "HR",
+    "title": "Government Travel Transparency Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10296",
+    "type": "HR",
+    "title": "To designate the facility of the United States Postal Service located at 4650 East Rosedale Street in Fort Worth, Texas, as the \"Dionne Phillips Bagsby Post Office Building\".",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 6
+  },
+  {
+    "congress": 119,
+    "number": "10257",
+    "type": "HR",
+    "title": "To require the United States Postal Service to designate ZIP Codes for certain communities.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 7
+  },
+  {
+    "congress": 119,
+    "number": "10260",
+    "type": "HR",
+    "title": "Reducing Arbitrary Barriers to Apprenticeship Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -687,16 +603,100 @@
   },
   {
     "congress": 119,
-    "number": "10296",
+    "number": "10248",
     "type": "HR",
-    "title": "To designate the facility of the United States Postal Service located at 4650 East Rosedale Street in Fort Worth, Texas, as the \"Dionne Phillips Bagsby Post Office Building\".",
+    "title": "To amend the Immigration and Nationality Act to establish a new class of nonimmigrant visas for public service employees and authorize lawful permanent resident status for certain individuals holding public service jobs who entered the United States as children, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10270",
+    "type": "HR",
+    "title": "Supporting 9\u20138\u20138 Crisis Stabilization Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-09-03"
     },
     "updateDate": "2026-09-05",
     "sponsor": null,
     "democratCosponsors": 5,
-    "republicanCosponsors": 6
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10276",
+    "type": "HR",
+    "title": "Ballots by Election Day Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on House Administration.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10274",
+    "type": "HR",
+    "title": "Partnerships for Better Health Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10245",
+    "type": "HR",
+    "title": "9\u20138\u20138 and 9\u20131\u20131 Integration Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10281",
+    "type": "HR",
+    "title": "FEMA for Safe Recovery Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10254",
+    "type": "HR",
+    "title": "MORE Savings Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   }
 ]
