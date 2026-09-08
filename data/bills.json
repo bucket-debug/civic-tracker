@@ -1,17 +1,17 @@
 [
   {
     "congress": 119,
-    "number": "1107",
+    "number": "6021",
     "type": "HR",
-    "title": "Protecting Veteran Access to Telemedicine Services Act of 2025",
+    "title": "Archie Cavanaugh Migratory Bird Treaty Clarification Act",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
-      "actionDate": "2025-09-16"
+      "text": "Placed on the Union Calendar, Calendar No. 675.",
+      "actionDate": "2026-08-27"
     },
-    "updateDate": "2026-09-07",
+    "updateDate": "2026-09-08",
     "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 13
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -43,6 +43,34 @@
   },
   {
     "congress": 119,
+    "number": "1107",
+    "type": "HR",
+    "title": "Protecting Veteran Access to Telemedicine Services Act of 2025",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+      "actionDate": "2025-09-16"
+    },
+    "updateDate": "2026-09-07",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 13
+  },
+  {
+    "congress": 119,
+    "number": "4490",
+    "type": "HR",
+    "title": "PARTNER Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2025-09-03"
+    },
+    "updateDate": "2026-09-07",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
     "number": "4183",
     "type": "HR",
     "title": "Federal Maritime Commission Reauthorization Act of 2025",
@@ -71,17 +99,31 @@
   },
   {
     "congress": 119,
-    "number": "4490",
-    "type": "HR",
-    "title": "PARTNER Act",
+    "number": "790",
+    "type": "S",
+    "title": "A bill to redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \"Barbara L. Cubin National Historic Trails Interpretive Center\".",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2025-09-03"
+      "text": "Held at the desk.",
+      "actionDate": "2026-05-20"
     },
-    "updateDate": "2026-09-07",
+    "updateDate": "2026-09-06",
     "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 3
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "7487",
+    "type": "HR",
+    "title": "Rural Jobs and Hydropower Expansion Act",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 676.",
+      "actionDate": "2026-08-27"
+    },
+    "updateDate": "2026-09-06",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -110,34 +152,6 @@
     "sponsor": null,
     "democratCosponsors": 10,
     "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "7487",
-    "type": "HR",
-    "title": "Rural Jobs and Hydropower Expansion Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 676.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-09-06",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "790",
-    "type": "S",
-    "title": "A bill to redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \"Barbara L. Cubin National Historic Trails Interpretive Center\".",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-05-20"
-    },
-    "updateDate": "2026-09-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -365,20 +379,6 @@
   },
   {
     "congress": 119,
-    "number": "10266",
-    "type": "HR",
-    "title": "No Elite Athletes Using X-pro status to ensure Prioritizing Recruitment Of Student-athletes (NEAUX PROS) Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "10269",
     "type": "HR",
     "title": "Stop Auto Fraud Act of 2026",
@@ -418,6 +418,20 @@
     "sponsor": null,
     "democratCosponsors": 2,
     "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10266",
+    "type": "HR",
+    "title": "No Elite Athletes Using X-pro status to ensure Prioritizing Recruitment Of Student-athletes (NEAUX PROS) Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -519,6 +533,20 @@
   },
   {
     "congress": 119,
+    "number": "10260",
+    "type": "HR",
+    "title": "Reducing Arbitrary Barriers to Apprenticeship Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "10264",
     "type": "HR",
     "title": "American Made Federal Uniforms and Apparel Act of 2026",
@@ -572,20 +600,6 @@
     "sponsor": null,
     "democratCosponsors": 3,
     "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "10260",
-    "type": "HR",
-    "title": "Reducing Arbitrary Barriers to Apprenticeship Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -645,20 +659,6 @@
   },
   {
     "congress": 119,
-    "number": "10274",
-    "type": "HR",
-    "title": "Partnerships for Better Health Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "10245",
     "type": "HR",
     "title": "9\u20138\u20138 and 9\u20131\u20131 Integration Act",
@@ -669,6 +669,20 @@
     "updateDate": "2026-09-05",
     "sponsor": null,
     "democratCosponsors": 6,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10274",
+    "type": "HR",
+    "title": "Partnerships for Better Health Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-03"
+    },
+    "updateDate": "2026-09-05",
+    "sponsor": null,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -684,19 +698,5 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10254",
-    "type": "HR",
-    "title": "MORE Savings Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-03"
-    },
-    "updateDate": "2026-09-05",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
   }
 ]
