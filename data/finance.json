@@ -102,6 +102,12 @@
     "contribution_receipt_date": "2026-03-17"
   },
   {
+    "contributor_name": "RIPPLE LABS INC.",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2025-08-29"
+  },
+  {
     "contributor_name": "ADELSON, MIRIAM O. DR.",
     "contribution_receipt_amount": 25000000.0,
     "committee_name": "MAGA INC.",
@@ -130,12 +136,6 @@
     "contribution_receipt_amount": 25000000.0,
     "committee_name": "LEADING THE FUTURE",
     "contribution_receipt_date": "2025-08-22"
-  },
-  {
-    "contributor_name": "RIPPLE LABS INC.",
-    "contribution_receipt_amount": 25000000.0,
-    "committee_name": "FAIRSHAKE",
-    "contribution_receipt_date": "2025-08-29"
   },
   {
     "contributor_name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE",
@@ -168,22 +168,34 @@
     "contribution_receipt_date": "2024-12-20"
   },
   {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 23000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2024-12-20"
+  },
+  {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 23000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2024-12-20"
+  },
+  {
+    "contributor_name": "COINBASE",
+    "contribution_receipt_amount": 23000000.0,
+    "committee_name": "FAIRSHAKE",
+    "contribution_receipt_date": "2024-12-20"
+  },
+  {
     "contributor_name": "RIPPLE LABS INC.",
     "contribution_receipt_amount": 23000000.0,
     "committee_name": "FAIRSHAKE",
     "contribution_receipt_date": "2025-01-21"
   },
   {
-    "contributor_name": "COINBASE",
-    "contribution_receipt_amount": 23000000.0,
-    "committee_name": "FAIRSHAKE",
-    "contribution_receipt_date": "2024-12-20"
-  },
-  {
-    "contributor_name": "COINBASE",
-    "contribution_receipt_amount": 23000000.0,
-    "committee_name": "FAIRSHAKE",
-    "contribution_receipt_date": "2024-12-20"
+    "contributor_name": "HOUSE MAJORITY FORWARD",
+    "contribution_receipt_amount": 20000000.0,
+    "committee_name": "HMP",
+    "contribution_receipt_date": "2026-07-31"
   },
   {
     "contributor_name": "KOCH INC.",
@@ -458,6 +470,12 @@
   {
     "contributor_name": "FAIRSHAKE",
     "contribution_receipt_amount": 9000000.0,
+    "committee_name": "DEFEND AMERICAN JOBS",
+    "contribution_receipt_date": "2026-07-13"
+  },
+  {
+    "contributor_name": "FAIRSHAKE",
+    "contribution_receipt_amount": 9000000.0,
     "committee_name": "PROTECT PROGRESS",
     "contribution_receipt_date": "2026-05-05"
   },
@@ -504,10 +522,10 @@
     "contribution_receipt_date": "2026-03-31"
   },
   {
-    "contributor_name": "COINBASE",
-    "contribution_receipt_amount": 8092475.0,
+    "contributor_name": "COINBASE COMMERCE (EXCHANGE)",
+    "contribution_receipt_amount": 8125000.0,
     "committee_name": "FAIRSHAKE",
-    "contribution_receipt_date": "2025-10-07"
+    "contribution_receipt_date": "2025-10-05"
   },
   {
     "contributor_name": "FAIRSHAKE",
@@ -580,23 +598,5 @@
     "contribution_receipt_amount": 7000000.0,
     "committee_name": "PROTECT PROGRESS",
     "contribution_receipt_date": "2026-04-10"
-  },
-  {
-    "contributor_name": "PROTECT FLORIDA PAC",
-    "contribution_receipt_amount": 6689413.83,
-    "committee_name": "STRONGER SAFER NATION",
-    "contribution_receipt_date": "2025-03-20"
-  },
-  {
-    "contributor_name": "TRUMP NATIONAL COMMITTEE JFC INC.",
-    "contribution_receipt_amount": 6680351.66,
-    "committee_name": "REPUBLICAN NATIONAL COMMITTEE",
-    "contribution_receipt_date": "2025-02-18"
-  },
-  {
-    "contributor_name": "STAND TOGETHER CHAMBER OF COMMERCE INC",
-    "contribution_receipt_amount": 6500000.0,
-    "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
-    "contribution_receipt_date": "2025-06-26"
   }
 ]
