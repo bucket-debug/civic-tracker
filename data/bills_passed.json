@@ -1,16 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "6644",
+    "number": "10344",
     "type": "HR",
-    "title": "21st Century ROAD to Housing Act",
+    "title": "To amend the Internal Revenue Code of 1986 to require the disclosure of return information to the Small Business Administration for the purposes of carrying out the Disaster Loan Program.",
     "latestAction": {
-      "text": "Became Public Law No: 119-101.",
-      "actionDate": "2026-07-11"
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-09-10"
     },
-    "updateDate": "2026-09-09",
+    "updateDate": "2026-09-11",
     "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 9
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10350",
+    "type": "HR",
+    "title": "To protect elders from wire fraud by imposing requirements on covered financial institutions, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Financial Services.",
+      "actionDate": "2026-09-10"
+    },
+    "updateDate": "2026-09-11",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10329",
+    "type": "HR",
+    "title": "To require the Administrator of the Small Business Administration to disseminate information on foreign adversary conduct that poses material harm to small business concerns, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Small Business.",
+      "actionDate": "2026-09-10"
+    },
+    "updateDate": "2026-09-11",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10339",
+    "type": "HR",
+    "title": "To amend the Terrorism Risk Insurance Act of 2002 to clarify the timing of the assessment with respect to the status of whether an entity is an agency or instrumentality of a terrorist party.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-09-10"
+    },
+    "updateDate": "2026-09-11",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10330",
+    "type": "HR",
+    "title": "To amend the Internal Revenue Code of 1986 to impose restrictions on university tax inquiries and examinations, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-09-10"
+    },
+    "updateDate": "2026-09-11",
+    "sponsor": null,
+    "democratCosponsors": 17,
+    "republicanCosponsors": 0
   }
 ]
