@@ -1,6 +1,34 @@
 [
   {
     "congress": 119,
+    "number": "5198",
+    "type": "S",
+    "title": "Build to Scale Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-07-30"
+    },
+    "updateDate": "2026-09-12",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8866",
+    "type": "HR",
+    "title": "Build to Scale Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2026-05-15"
+    },
+    "updateDate": "2026-09-12",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
     "number": "8960",
     "type": "HR",
     "title": "Local Beef Marketing Incentive Act of 2026",
@@ -11,6 +39,20 @@
     "updateDate": "2026-09-12",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9057",
+    "type": "HR",
+    "title": "COOL Online Act",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "actionDate": "2026-06-15"
+    },
+    "updateDate": "2026-09-12",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -29,11 +71,11 @@
   },
   {
     "congress": 119,
-    "number": "9057",
+    "number": "8771",
     "type": "HR",
-    "title": "COOL Online Act",
+    "title": "Campaign Event Contract Integrity Act",
     "latestAction": {
-      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
       "actionDate": "2026-06-15"
     },
     "updateDate": "2026-09-12",
@@ -57,12 +99,26 @@
   },
   {
     "congress": 119,
-    "number": "8771",
+    "number": "9128",
     "type": "HR",
-    "title": "Campaign Event Contract Integrity Act",
+    "title": "CFTC Protection of Information and Data Act of 2026",
     "latestAction": {
       "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
       "actionDate": "2026-06-15"
+    },
+    "updateDate": "2026-09-12",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1051",
+    "type": "S",
+    "title": "Historic Greenwood District\u2014Black Wall Street National Monument Establishment Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-09-10"
     },
     "updateDate": "2026-09-12",
     "sponsor": null,
@@ -85,20 +141,6 @@
   },
   {
     "congress": 119,
-    "number": "9128",
-    "type": "HR",
-    "title": "CFTC Protection of Information and Data Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
-      "actionDate": "2026-06-15"
-    },
-    "updateDate": "2026-09-12",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "7547",
     "type": "HR",
     "title": "DOD and USDA Interagency Research Act",
@@ -109,20 +151,6 @@
     "updateDate": "2026-09-12",
     "sponsor": null,
     "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1051",
-    "type": "S",
-    "title": "Historic Greenwood District\u2014Black Wall Street National Monument Establishment Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-09-10"
-    },
-    "updateDate": "2026-09-12",
-    "sponsor": null,
-    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -169,20 +197,6 @@
   },
   {
     "congress": 119,
-    "number": "9342",
-    "type": "HR",
-    "title": "GPO Modernization Act of 2026",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 708.",
-      "actionDate": "2026-09-10"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "9490",
     "type": "HR",
     "title": "Bank Failure Accountability Act",
@@ -193,6 +207,20 @@
     "updateDate": "2026-09-11",
     "sponsor": null,
     "democratCosponsors": 3,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9342",
+    "type": "HR",
+    "title": "GPO Modernization Act of 2026",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 708.",
+      "actionDate": "2026-09-10"
+    },
+    "updateDate": "2026-09-11",
+    "sponsor": null,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -211,6 +239,20 @@
   },
   {
     "congress": 119,
+    "number": "7488",
+    "type": "HR",
+    "title": "CFTC Office of the Chief Economist Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+      "actionDate": "2026-03-20"
+    },
+    "updateDate": "2026-09-11",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
     "number": "5346",
     "type": "HR",
     "title": "Fair and Accountable IRS Reviews Act",
@@ -221,20 +263,6 @@
     "updateDate": "2026-09-11",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "9331",
-    "type": "HR",
-    "title": "STOP Payments Fraud Act of 2026",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 692.",
-      "actionDate": "2026-09-01"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 2,
     "republicanCosponsors": 1
   },
   {
@@ -253,6 +281,34 @@
   },
   {
     "congress": 119,
+    "number": "9722",
+    "type": "HR",
+    "title": "Fair Treatment of Religious Organizations Act of 2026",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 680.",
+      "actionDate": "2026-08-27"
+    },
+    "updateDate": "2026-09-11",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "9331",
+    "type": "HR",
+    "title": "STOP Payments Fraud Act of 2026",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 692.",
+      "actionDate": "2026-09-01"
+    },
+    "updateDate": "2026-09-11",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
     "number": "2555",
     "type": "HR",
     "title": "Freedom of Association in Higher Education Act of 2026",
@@ -267,20 +323,6 @@
   },
   {
     "congress": 119,
-    "number": "7488",
-    "type": "HR",
-    "title": "CFTC Office of the Chief Economist Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
-      "actionDate": "2026-03-20"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
     "number": "7683",
     "type": "HR",
     "title": "VA Fiscal Management Modernization Act",
@@ -292,20 +334,6 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9722",
-    "type": "HR",
-    "title": "Fair Treatment of Religious Organizations Act of 2026",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 680.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 11
   },
   {
     "congress": 119,
@@ -631,20 +659,6 @@
   },
   {
     "congress": 119,
-    "number": "4551",
-    "type": "HR",
-    "title": "Employee Paycheck and Small Business Protection Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-07-21"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "2039",
     "type": "HR",
     "title": "Protecting the Right to Keep and Bear Arms Act of 2025",
@@ -656,20 +670,6 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "9771",
-    "type": "HR",
-    "title": "Stopping Foreign Influence in Elections Act of 2026",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 669.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -687,16 +687,16 @@
   },
   {
     "congress": 119,
-    "number": "7436",
+    "number": "4551",
     "type": "HR",
-    "title": "Department of Homeland Security Intelligence and Analysis Training Act",
+    "title": "Employee Paycheck and Small Business Protection Act",
     "latestAction": {
-      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 0.",
-      "actionDate": "2026-06-24"
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2025-07-21"
     },
     "updateDate": "2026-09-11",
     "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   }
 ]
