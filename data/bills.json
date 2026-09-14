@@ -1,6 +1,90 @@
 [
   {
     "congress": 119,
+    "number": "5063",
+    "type": "HR",
+    "title": "Safe Beaches, Safe Swimmers Act",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 673.",
+      "actionDate": "2026-08-27"
+    },
+    "updateDate": "2026-09-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5366",
+    "type": "HR",
+    "title": "Doug LaMalfa Federal Disaster Tax Relief Certainty Act",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-09-11"
+    },
+    "updateDate": "2026-09-14",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 6
+  },
+  {
+    "congress": 119,
+    "number": "2196",
+    "type": "HR",
+    "title": "National Emergency Medical Services Memorial Extension Act",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-09-11"
+    },
+    "updateDate": "2026-09-14",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "2069",
+    "type": "HR",
+    "title": "Stop Secret Spending Act of 2025",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-09-11"
+    },
+    "updateDate": "2026-09-14",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "1276",
+    "type": "HR",
+    "title": "To remove restrictions from a parcel of land in Paducah, Kentucky.",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-09-11"
+    },
+    "updateDate": "2026-09-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7454",
+    "type": "HR",
+    "title": "USMCA Travel and Tourism Resiliency Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-02-09"
+    },
+    "updateDate": "2026-09-14",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
     "number": "5198",
     "type": "S",
     "title": "Build to Scale Reauthorization Act of 2026",
@@ -29,6 +113,34 @@
   },
   {
     "congress": 119,
+    "number": "9057",
+    "type": "HR",
+    "title": "COOL Online Act",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "actionDate": "2026-06-15"
+    },
+    "updateDate": "2026-09-12",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "8953",
+    "type": "HR",
+    "title": "Preserving Community Food Assistance Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "actionDate": "2026-06-15"
+    },
+    "updateDate": "2026-09-12",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "8960",
     "type": "HR",
     "title": "Local Beef Marketing Incentive Act of 2026",
@@ -43,11 +155,11 @@
   },
   {
     "congress": 119,
-    "number": "9057",
+    "number": "8771",
     "type": "HR",
-    "title": "COOL Online Act",
+    "title": "Campaign Event Contract Integrity Act",
     "latestAction": {
-      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
       "actionDate": "2026-06-15"
     },
     "updateDate": "2026-09-12",
@@ -71,12 +183,12 @@
   },
   {
     "congress": 119,
-    "number": "8771",
-    "type": "HR",
-    "title": "Campaign Event Contract Integrity Act",
+    "number": "1377",
+    "type": "S",
+    "title": "Theodore Roosevelt National Park Wild Horses Protection Act",
     "latestAction": {
-      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
-      "actionDate": "2026-06-15"
+      "text": "Referred to the House Committee on Natural Resources.",
+      "actionDate": "2026-09-10"
     },
     "updateDate": "2026-09-12",
     "sponsor": null,
@@ -85,16 +197,16 @@
   },
   {
     "congress": 119,
-    "number": "8953",
+    "number": "7547",
     "type": "HR",
-    "title": "Preserving Community Food Assistance Act of 2026",
+    "title": "DOD and USDA Interagency Research Act",
     "latestAction": {
-      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
       "actionDate": "2026-06-15"
     },
     "updateDate": "2026-09-12",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 2,
     "republicanCosponsors": 0
   },
   {
@@ -138,34 +250,6 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "7547",
-    "type": "HR",
-    "title": "DOD and USDA Interagency Research Act",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
-      "actionDate": "2026-06-15"
-    },
-    "updateDate": "2026-09-12",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1377",
-    "type": "S",
-    "title": "Theodore Roosevelt National Park Wild Horses Protection Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-09-10"
-    },
-    "updateDate": "2026-09-12",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -253,20 +337,6 @@
   },
   {
     "congress": 119,
-    "number": "5346",
-    "type": "HR",
-    "title": "Fair and Accountable IRS Reviews Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-12-02"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
     "number": "4508",
     "type": "HR",
     "title": "BURDEN Act",
@@ -281,20 +351,6 @@
   },
   {
     "congress": 119,
-    "number": "9722",
-    "type": "HR",
-    "title": "Fair Treatment of Religious Organizations Act of 2026",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 680.",
-      "actionDate": "2026-08-27"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 11
-  },
-  {
-    "congress": 119,
     "number": "9331",
     "type": "HR",
     "title": "STOP Payments Fraud Act of 2026",
@@ -305,6 +361,34 @@
     "updateDate": "2026-09-11",
     "sponsor": null,
     "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "7683",
+    "type": "HR",
+    "title": "VA Fiscal Management Modernization Act",
+    "latestAction": {
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 13 - 9.",
+      "actionDate": "2026-05-14"
+    },
+    "updateDate": "2026-09-11",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5346",
+    "type": "HR",
+    "title": "Fair and Accountable IRS Reviews Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-12-02"
+    },
+    "updateDate": "2026-09-11",
+    "sponsor": null,
+    "democratCosponsors": 0,
     "republicanCosponsors": 1
   },
   {
@@ -323,17 +407,17 @@
   },
   {
     "congress": 119,
-    "number": "7683",
+    "number": "9722",
     "type": "HR",
-    "title": "VA Fiscal Management Modernization Act",
+    "title": "Fair Treatment of Religious Organizations Act of 2026",
     "latestAction": {
-      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 13 - 9.",
-      "actionDate": "2026-05-14"
+      "text": "Placed on the Union Calendar, Calendar No. 680.",
+      "actionDate": "2026-08-27"
     },
     "updateDate": "2026-09-11",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "republicanCosponsors": 11
   },
   {
     "congress": 119,
@@ -505,62 +589,6 @@
   },
   {
     "congress": 119,
-    "number": "5366",
-    "type": "HR",
-    "title": "Doug LaMalfa Federal Disaster Tax Relief Certainty Act",
-    "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-09-11"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "2196",
-    "type": "HR",
-    "title": "National Emergency Medical Services Memorial Extension Act",
-    "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-09-11"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2069",
-    "type": "HR",
-    "title": "Stop Secret Spending Act of 2025",
-    "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-09-11"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "1276",
-    "type": "HR",
-    "title": "To remove restrictions from a parcel of land in Paducah, Kentucky.",
-    "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-09-11"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "858",
     "type": "S",
     "title": "Hershel \u2018Woody' Williams National Medal of Honor Monument Location Act",
@@ -670,33 +698,5 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "1483",
-    "type": "HR",
-    "title": "Protecting Investors\u2019 Personally Identifiable Information Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 687.",
-      "actionDate": "2026-09-01"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "4551",
-    "type": "HR",
-    "title": "Employee Paycheck and Small Business Protection Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-07-21"
-    },
-    "updateDate": "2026-09-11",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
   }
 ]
