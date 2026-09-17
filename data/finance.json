@@ -228,6 +228,12 @@
     "contribution_receipt_date": "2026-05-27"
   },
   {
+    "contributor_name": "NATIONAL ASSOCIATION OF REALTORS",
+    "contribution_receipt_amount": 16000000.0,
+    "committee_name": "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND",
+    "contribution_receipt_date": "2026-08-31"
+  },
+  {
     "contributor_name": "YASS, JEFF",
     "contribution_receipt_amount": 15000000.0,
     "committee_name": "MAGA INC.",
@@ -592,11 +598,5 @@
     "contribution_receipt_amount": 7000000.0,
     "committee_name": "DEFEND AMERICAN JOBS",
     "contribution_receipt_date": "2026-04-13"
-  },
-  {
-    "contributor_name": "FAIRSHAKE",
-    "contribution_receipt_amount": 7000000.0,
-    "committee_name": "PROTECT PROGRESS",
-    "contribution_receipt_date": "2026-04-10"
   }
 ]
