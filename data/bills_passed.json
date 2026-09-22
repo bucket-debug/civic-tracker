@@ -1,44 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "6644",
+    "number": "10525",
     "type": "HR",
-    "title": "21st Century ROAD to Housing Act",
+    "title": "Tropospheric Ozone Research Act of 2026",
     "latestAction": {
-      "text": "Became Public Law No: 119-101.",
-      "actionDate": "2026-07-11"
+      "text": "Referred to the House Committee on Science, Space, and Technology.",
+      "actionDate": "2026-09-21"
     },
-    "updateDate": "2026-09-21",
+    "updateDate": "2026-09-22",
     "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 9
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "5334",
+    "number": "10518",
     "type": "HR",
-    "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+    "title": "Diversify Act",
     "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-09-18"
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-21"
     },
-    "updateDate": "2026-09-21",
+    "updateDate": "2026-09-22",
     "sponsor": null,
-    "democratCosponsors": 16,
-    "republicanCosponsors": 4
+    "democratCosponsors": 12,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "3497",
-    "type": "HR",
-    "title": "Medal of Sacrifice Act",
+    "number": "1572",
+    "type": "HRES",
+    "title": "Encouraging the recognition of a \"National LGBTQ+ Servicemembers and Veterans Day\".",
     "latestAction": {
-      "text": "Became Public Law No: 119-94.",
-      "actionDate": "2026-05-28"
+      "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-21"
     },
-    "updateDate": "2026-09-19",
+    "updateDate": "2026-09-22",
     "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 17
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1571",
+    "type": "HRES",
+    "title": "Expressing support for the designation of September 23, 2026, as \"Mary Church Terrell Day\", and calling on Congress to recognize Mary Church Terrell's lasting contributions to the civil rights and women's rights movements.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2026-09-21"
+    },
+    "updateDate": "2026-09-22",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1570",
+    "type": "HRES",
+    "title": "Marking the eighth anniversary of the unjust imprisonment of Dr. Gulshan Abbas by the Government of the People's Republic of China, condemning the use of transnational repression to retaliate against the exercise of free speech in the United States, and calling for her immediate and unconditional release.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Foreign Affairs.",
+      "actionDate": "2026-09-21"
+    },
+    "updateDate": "2026-09-22",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
   }
 ]
