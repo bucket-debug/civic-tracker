@@ -1,16 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "89",
-    "type": "HJRES",
-    "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The 'Omnibus' Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
+    "number": "3404",
+    "type": "S",
+    "title": "Satellite Cybersecurity Act of 2025",
     "latestAction": {
-      "text": "Became Public Law No: 119-17.",
-      "actionDate": "2025-06-12"
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-09-23"
     },
-    "updateDate": "2026-09-23",
+    "updateDate": "2026-09-24",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 20
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "2933",
+    "type": "S",
+    "title": "A bill to redesignate a playground in the New River Gorge National Park and Preserve in the State of West Virginia as the \"Hearts of Gold Playground: In Honor of West Virginia Children and Families Impacted by Childhood Cancer\".",
+    "latestAction": {
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "actionDate": "2026-09-23"
+    },
+    "updateDate": "2026-09-24",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "1962",
+    "type": "S",
+    "title": "Secure Space Act of 2026",
+    "latestAction": {
+      "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
+      "actionDate": "2026-09-23"
+    },
+    "updateDate": "2026-09-24",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1363",
+    "type": "S",
+    "title": "New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-09-23"
+    },
+    "updateDate": "2026-09-24",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4668",
+    "type": "S",
+    "title": "Protect College Sports Act of 2026",
+    "latestAction": {
+      "text": "Considered by Senate.",
+      "actionDate": "2026-09-23"
+    },
+    "updateDate": "2026-09-24",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 4
   }
 ]
