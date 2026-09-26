@@ -1,40 +1,12 @@
 [
   {
     "congress": 119,
-    "number": "3257",
+    "number": "790",
     "type": "S",
-    "title": "John A. Hauser Mental Health in Aviation Act",
+    "title": "A bill to redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \"Barbara L. Cubin National Historic Trails Interpretive Center\".",
     "latestAction": {
-      "text": "Passed Senate with an amendment by Unanimous Consent.",
-      "actionDate": "2026-09-24"
-    },
-    "updateDate": "2026-09-25",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "4668",
-    "type": "S",
-    "title": "Protect College Sports Act of 2026",
-    "latestAction": {
-      "text": "The committee substitute withdrawn by Voice Vote.",
-      "actionDate": "2026-09-24"
-    },
-    "updateDate": "2026-09-25",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "3404",
-    "type": "S",
-    "title": "Satellite Cybersecurity Act of 2025",
-    "latestAction": {
-      "text": "Message on Senate action sent to the House.",
-      "actionDate": "2026-09-24"
+      "text": "Signed by President.",
+      "actionDate": "2026-09-25"
     },
     "updateDate": "2026-09-25",
     "sponsor": null,
@@ -43,30 +15,72 @@
   },
   {
     "congress": 119,
-    "number": "5354",
+    "number": "759",
     "type": "S",
-    "title": "Native American Housing Assistance and Self-Determination Modernization Act of 2026",
+    "title": "Modernizing Access to Our Public Oceans Act",
     "latestAction": {
-      "text": "Committee on Indian Affairs. Ordered to be reported with an amendment favorably.",
-      "actionDate": "2026-09-23"
+      "text": "Signed by President.",
+      "actionDate": "2026-09-25"
     },
     "updateDate": "2026-09-25",
     "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 3
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "4395",
+    "number": "603",
     "type": "S",
-    "title": "Terrorism Risk Insurance Program Reauthorization Act of 2026",
+    "title": "A bill to designate the General George C. Marshall House, in the Commonwealth of Virginia, as an affiliated area of the National Park System, and for other purposes.",
     "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 672.",
-      "actionDate": "2026-09-22"
+      "text": "Signed by President.",
+      "actionDate": "2026-09-25"
     },
     "updateDate": "2026-09-25",
     "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "550",
+    "type": "S",
+    "title": "A bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-09-25"
+    },
+    "updateDate": "2026-09-25",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7250",
+    "type": "HR",
+    "title": "To reauthorize the Fort Peck Reservation Rural Water System Act of 2000.",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-09-25"
+    },
+    "updateDate": "2026-09-25",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3657",
+    "type": "HR",
+    "title": "Hydropower Licensing Transparency Act",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-09-25"
+    },
+    "updateDate": "2026-09-25",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
   }
 ]
