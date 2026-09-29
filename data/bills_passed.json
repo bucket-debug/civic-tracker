@@ -1,72 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "3657",
-    "type": "HR",
-    "title": "Hydropower Licensing Transparency Act",
-    "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-09-25"
-    },
-    "updateDate": "2026-09-28",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "7250",
-    "type": "HR",
-    "title": "To reauthorize the Fort Peck Reservation Rural Water System Act of 2000.",
-    "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-09-25"
-    },
-    "updateDate": "2026-09-28",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "603",
+    "number": "239",
     "type": "S",
-    "title": "A bill to designate the General George C. Marshall House, in the Commonwealth of Virginia, as an affiliated area of the National Park System, and for other purposes.",
+    "title": "A bill to take certain mineral interests into trust for the benefit of the Crow Tribe of Montana, and for other purposes.",
     "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-09-25"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 686.",
+      "actionDate": "2026-09-28"
     },
-    "updateDate": "2026-09-28",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "759",
-    "type": "S",
-    "title": "Modernizing Access to Our Public Oceans Act",
-    "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-09-25"
-    },
-    "updateDate": "2026-09-28",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "790",
-    "type": "S",
-    "title": "A bill to redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \"Barbara L. Cubin National Historic Trails Interpretive Center\".",
-    "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-09-25"
-    },
-    "updateDate": "2026-09-28",
+    "updateDate": "2026-09-29",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "240",
+    "type": "S",
+    "title": "A bill to amend the Crow Tribe Water Rights Settlement Act of 2010 to make improvements to that Act, and for other purposes.",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-09-28"
+    },
+    "updateDate": "2026-09-29",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "997",
+    "type": "HR",
+    "title": "National Taxpayer Advocate Enhancement Act of 2025",
+    "latestAction": {
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "actionDate": "2026-09-28"
+    },
+    "updateDate": "2026-09-29",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "283",
+    "type": "S",
+    "title": "A bill to require the Under Secretary of Commerce for Standards and Technology and the Administrator of National Oceanic and Atmospheric Administration to develop a standard methodology for identifying the country of origin of seafood to support enforcement against illegal, unreported, and unregulated fishing, and for other purposes.",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-09-28"
+    },
+    "updateDate": "2026-09-29",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "2388",
+    "type": "HR",
+    "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-09-28"
+    },
+    "updateDate": "2026-09-29",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   }
 ]
