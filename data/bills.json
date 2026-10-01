@@ -1,157 +1,605 @@
 [
   {
     "congress": 119,
-    "number": "9464",
+    "number": "5089",
     "type": "HR",
-    "title": "To prohibit the Secretary of Agriculture from closing any research and development facility of the Forest Service.",
+    "title": "Weather Act Reauthorization Act of 2025",
     "latestAction": {
-      "text": "Referred to the House Committee on Agriculture.",
-      "actionDate": "2026-06-25"
+      "text": "Ordered to be Reported (Amended) by Voice Vote.",
+      "actionDate": "2025-09-10"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
+    "democratCosponsors": 11,
+    "republicanCosponsors": 9
   },
   {
     "congress": 119,
-    "number": "675",
-    "type": "HR",
-    "title": "Domestic SUPPLY Act of 2025",
+    "number": "236",
+    "type": "S",
+    "title": "A bill to amend the Act of August 9, 1955 (commonly known as the \"Long-Term Leasing Act\"), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes.",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-01-23"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.",
+      "actionDate": "2026-09-14"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "1508",
+    "type": "S",
+    "title": "Shivwits Band of Paiutes Jurisdictional Clarity Act",
+    "latestAction": {
+      "text": "Committee on Indian Affairs. Hearings held.",
+      "actionDate": "2025-12-17"
+    },
+    "updateDate": "2026-10-01",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "9489",
-    "type": "HR",
-    "title": "GRACE for Military Survivors Act",
+    "number": "2735",
+    "type": "S",
+    "title": "Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
     "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-06-25"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 674.",
+      "actionDate": "2026-09-22"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
     "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 11
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "2458",
-    "type": "HR",
-    "title": "Secure Space Act of 2025",
+    "number": "1513",
+    "type": "S",
+    "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2025-04-29"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 554.",
+      "actionDate": "2026-09-14"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3654",
+    "type": "HR",
+    "title": "TERRA Act",
+    "latestAction": {
+      "text": "Subcommittee Hearings Held",
+      "actionDate": "2025-09-09"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "3903",
+    "type": "HR",
+    "title": "Chugach Alaska Land Exchange Oil Spill Recovery Act of 2025",
+    "latestAction": {
+      "text": "Received in the Senate.",
+      "actionDate": "2026-03-04"
+    },
+    "updateDate": "2026-10-01",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "1962",
-    "type": "S",
-    "title": "Secure Space Act of 2026",
-    "latestAction": {
-      "text": "Message on Senate action sent to the House.",
-      "actionDate": "2026-09-24"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5093",
-    "type": "S",
-    "title": "PROKID Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "9360",
+    "number": "10492",
     "type": "HR",
-    "title": "Advisory Committee on the Records of Congress Sunset Act",
+    "title": "Wildland Firefighter Health and Safety Act",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-17"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "3925",
+    "type": "HR",
+    "title": "Yuhaaviatam of San Manuel Nation Land Exchange Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.",
       "actionDate": "2026-09-15"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "9687",
+    "number": "681",
     "type": "HR",
-    "title": "Blocking CCP Spy Tech Act of 2026",
+    "title": "To amend the Act of August 9, 1955 (commonly known as the \u201cLong-Term Leasing Act\u201d), to authorize leases of up to 99 years for land in the Mashpee Wampanoag Tribe Reservation and land held in trust for the Wampanoag Tribe of Gay Head (Aquinnah), and for other purposes",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-07-14"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 555.",
+      "actionDate": "2026-09-14"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "3257",
+    "number": "5601",
     "type": "S",
-    "title": "John A. Hauser Mental Health in Aviation Act",
+    "title": "A bill to require the Secretary of Defense to establish reporting requirements and voluntary guidance for large artificial intelligence contractors.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-09-29"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "9615",
+    "type": "HR",
+    "title": "BRACE Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+      "actionDate": "2026-09-16"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "4463",
+    "type": "HR",
+    "title": "To amend the Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993.",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.",
+      "actionDate": "2026-06-03"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "2302",
+    "type": "HR",
+    "title": "Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 675.",
+      "actionDate": "2026-09-22"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "6093",
+    "type": "HR",
+    "title": "Agricultural Cooperative Energy Savings Act of 2025",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+      "actionDate": "2025-12-02"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "3923",
+    "type": "S",
+    "title": "Weather Research and Forecasting Innovation Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 685.",
+      "actionDate": "2026-09-28"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "850",
+    "type": "S",
+    "title": "Northern Border Security Enhancement and Review Act",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2026-08-10"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "5559",
+    "type": "S",
+    "title": "A bill to provide for the basic needs of students at institutions of higher education.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S5004)",
+      "actionDate": "2026-09-24"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2388",
+    "type": "HR",
+    "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
     "latestAction": {
       "text": "Message on Senate action sent to the House.",
       "actionDate": "2026-09-28"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
     "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "2591",
+    "number": "5517",
     "type": "HR",
-    "title": "Mental Health in Aviation Act of 2025",
+    "title": "Northern Border Security Enhancement and Review Act",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2025-09-09"
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 628.",
+      "actionDate": "2026-09-16"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
     "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
+    "democratCosponsors": 0,
+    "republicanCosponsors": 20
   },
   {
     "congress": 119,
-    "number": "5600",
+    "number": "1514",
     "type": "S",
-    "title": "Dennis John Benigno Traumatic Brain Injury Program Reauthorization Act of 2026",
+    "title": "Quinault Indian Nation Land Transfer Act",
     "latestAction": {
-      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.",
-      "actionDate": "2026-09-29"
+      "text": "Passed Senate with amendments by Unanimous Consent.",
+      "actionDate": "2026-09-30"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2437",
+    "type": "S",
+    "title": "Snow Water Supply Forecasting Program Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "5349",
+    "type": "HR",
+    "title": "TAS Act",
+    "latestAction": {
+      "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2400",
+    "type": "HR",
+    "title": "Pit River Land Transfer Act of 2026",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2273",
+    "type": "S",
+    "title": "Wyoming Education Trust Modernization Act",
+    "latestAction": {
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "2498",
+    "type": "S",
+    "title": "National Park System Long-Term Lease Investment Act",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "2754",
+    "type": "S",
+    "title": "Crystal Reservoir Conveyance Act",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1055",
+    "type": "S",
+    "title": "Indian Health Service Emergency Claims Parity Act",
+    "latestAction": {
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3798",
+    "type": "S",
+    "title": "Safe Access to Cash Act of 2026",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Voice Vote.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "1564",
+    "type": "S",
+    "title": "Floodplain Enhancement and Recovery Act",
+    "latestAction": {
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "5249",
+    "type": "S",
+    "title": "MORE American Fuel Act of 2026",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "3315",
+    "type": "S",
+    "title": "Health Care Cybersecurity and Resiliency Act of 2026",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
     "sponsor": null,
     "democratCosponsors": 2,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "10518",
+    "type": "HR",
+    "title": "Diversify Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-21"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 12,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5373",
+    "type": "S",
+    "title": "USPS Executive Benefit and Bonus Removal Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (Sponsor introductory remarks on measure: CR S4567-4568)",
+      "actionDate": "2026-08-07"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5461",
+    "type": "S",
+    "title": "Strategic Fertilizer Reserve Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S4933-4935; Sponsor introductory remarks on measure: CR S4932-4933)",
+      "actionDate": "2026-09-23"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5480",
+    "type": "S",
+    "title": "School Infrastructure Modernization Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S4935)",
+      "actionDate": "2026-09-23"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5549",
+    "type": "S",
+    "title": "A bill to support educators.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S5003-5004)",
+      "actionDate": "2026-09-24"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5558",
+    "type": "S",
+    "title": "A bill to direct the Secretary of Transportation to establish a grant program to facilitate the installation of evidence-based suicide deterrents, including suicide prevention nets and barriers, on certain infrastructure, and for other purposes.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S5004)",
+      "actionDate": "2026-09-24"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "5563",
+    "type": "S",
+    "title": "A bill to direct the Administrator of the National Oceanic and Atmospheric Administration to study the impacts of the dumping of certain waste in the San Pedro Basin, and for other purposes.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S5005-5006)",
+      "actionDate": "2026-09-24"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5585",
+    "type": "S",
+    "title": "A bill to require a pilot program to support members of the Armed Forces and military families transitioning to civilian life, and for other purposes.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Veterans' Affairs. (Sponsor introductory remarks on measure: CR S5172)",
+      "actionDate": "2026-09-29"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10438",
+    "type": "HR",
+    "title": "SYLLABLE Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-09-16"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "763",
+    "type": "HRES",
+    "title": "Expressing support for the designation of September 2025 as National Campus Sexual Assault Awareness Month.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2025-09-23"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1518",
+    "type": "HRES",
+    "title": "Expressing support for the designation of September 2026 as National Campus Sexual Assault Awareness Month.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2026-09-08"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -159,54 +607,12 @@
     "type": "S",
     "title": "GLRI Act of 2026",
     "latestAction": {
-      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "text": "Passed Senate with an amendment by Unanimous Consent. (text: CR S5184)",
       "actionDate": "2026-09-29"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
     "sponsor": null,
     "democratCosponsors": 9,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "3219",
-    "type": "S",
-    "title": "Albuquerque Indian School Act of 2026",
-    "latestAction": {
-      "text": "Passed Senate with an amendment by Unanimous Consent.",
-      "actionDate": "2026-09-29"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1574",
-    "type": "S",
-    "title": "Tribal Access to Electronic Evidence Act",
-    "latestAction": {
-      "text": "Passed Senate with an amendment by Unanimous Consent.",
-      "actionDate": "2026-09-29"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "5045",
-    "type": "S",
-    "title": "Wildfire Emissions Prevention Act of 2026",
-    "latestAction": {
-      "text": "Passed Senate without amendment by Unanimous Consent.",
-      "actionDate": "2026-09-29"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 4,
     "republicanCosponsors": 3
   },
   {
@@ -215,13 +621,55 @@
     "type": "S",
     "title": "Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025",
     "latestAction": {
-      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "text": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5144-5145; text: CR S5144-5145)",
       "actionDate": "2026-09-29"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "9340",
+    "type": "HR",
+    "title": "Ratepayer Protection Act",
+    "latestAction": {
+      "text": "Motion to proceed to consideration of measure withdrawn in Senate.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 15
+  },
+  {
+    "congress": 119,
+    "number": "1574",
+    "type": "S",
+    "title": "Tribal Access to Electronic Evidence Act",
+    "latestAction": {
+      "text": "Passed Senate with an amendment by Unanimous Consent. (text: CR S5184)",
+      "actionDate": "2026-09-29"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "5600",
+    "type": "S",
+    "title": "Dennis John Benigno Traumatic Brain Injury Program Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S5185-5186; text: CR S5185-5186)",
+      "actionDate": "2026-09-29"
+    },
+    "updateDate": "2026-10-01",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -232,150 +680,10 @@
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "actionDate": "2026-04-27"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
     "sponsor": null,
     "democratCosponsors": 3,
     "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4318",
-    "type": "S",
-    "title": "Breast Cancer Stamp Reauthorization Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2026-04-16"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 7
-  },
-  {
-    "congress": 119,
-    "number": "3889",
-    "type": "S",
-    "title": "American Lending Fairness Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-02-12"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "3940",
-    "type": "S",
-    "title": "Access to Fair Financing for Opportunity and Resilient Development Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-02-26"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 9
-  },
-  {
-    "congress": 119,
-    "number": "5127",
-    "type": "S",
-    "title": "Harley Jacobsen Clinical Trial Participant Income Exemption Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-07-23"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4817",
-    "type": "S",
-    "title": "CHILD Labor Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-06-17"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3708",
-    "type": "S",
-    "title": "MERICA Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-      "actionDate": "2026-01-28"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4933",
-    "type": "S",
-    "title": "Defenders of Bataan and Corregidor Congressional Gold Medal Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2026-06-24"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "5321",
-    "type": "S",
-    "title": "HCBS Access Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-08-06"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 17,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5383",
-    "type": "S",
-    "title": "End Gas Station Heroin Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-08-08"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4176",
-    "type": "S",
-    "title": "STOP FRAUD in Medicaid Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-03-24"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 4
   },
   {
     "congress": 119,
@@ -386,317 +694,9 @@
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "actionDate": "2026-04-29"
     },
-    "updateDate": "2026-09-30",
+    "updateDate": "2026-10-01",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "4545",
-    "type": "S",
-    "title": "Scientific Integrity Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-05-14"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3958",
-    "type": "S",
-    "title": "Puerto Rico Nutrition Assistance Fairness Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-      "actionDate": "2026-03-02"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 18,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "4213",
-    "type": "S",
-    "title": "Data Center Water and Energy Transparency Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S1616-1617)",
-      "actionDate": "2026-03-25"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1253",
-    "type": "S",
-    "title": "College Admissions Accountability Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-04-02"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "2426",
-    "type": "S",
-    "title": "Equitable Community Access to Pharmacist Services Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance. (text: CR S4701)",
-      "actionDate": "2025-07-24"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 9
-  },
-  {
-    "congress": 119,
-    "number": "1410",
-    "type": "S",
-    "title": "Find It Early Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-04-10"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "2238",
-    "type": "S",
-    "title": "PART Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2025-07-10"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "3524",
-    "type": "S",
-    "title": "American Battlefield Protection Program Amendments Act of 2025",
-    "latestAction": {
-      "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 11
-  },
-  {
-    "congress": 119,
-    "number": "3267",
-    "type": "S",
-    "title": "ASAP Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S8278-8279)",
-      "actionDate": "2025-11-20"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 14
-  },
-  {
-    "congress": 119,
-    "number": "2006",
-    "type": "S",
-    "title": "Fit to Serve Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Armed Services.",
-      "actionDate": "2025-06-10"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 19,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3466",
-    "type": "S",
-    "title": "Honor Our Promise to Veterans Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
-      "actionDate": "2025-12-11"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 12,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1569",
-    "type": "S",
-    "title": "Fairness in Higher Education Accreditation Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-05-01"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "1879",
-    "type": "S",
-    "title": "Ban Congressional Stock Trading Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
-      "actionDate": "2025-05-22"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "424",
-    "type": "S",
-    "title": "Retirement Fairness for Charities and Educational Institutions Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "actionDate": "2025-02-05"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 11
-  },
-  {
-    "congress": 119,
-    "number": "3505",
-    "type": "S",
-    "title": "Relief for Survivors of Miners Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-12-16"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1255",
-    "type": "S",
-    "title": "Cormorant Relief Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Environment and Public Works.",
-      "actionDate": "2025-04-02"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "2448",
-    "type": "S",
-    "title": "Health Care Fairness for Military Families Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Armed Services.",
-      "actionDate": "2025-07-24"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 13,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "2461",
-    "type": "S",
-    "title": "Promotion and Expansion of Private Employee Ownership Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-07-24"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "3654",
-    "type": "S",
-    "title": "MOLD Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Armed Services.",
-      "actionDate": "2026-01-15"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "2702",
-    "type": "S",
-    "title": "Empower Parents to Protect their Kids Act of 2025",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2025-09-03"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 8
-  },
-  {
-    "congress": 119,
-    "number": "1057",
-    "type": "S",
-    "title": "A bill to modify the requirements for transfers of United States defense articles and defense services among the Baltic states.",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2025-03-13"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1945",
-    "type": "HR",
-    "title": "America's National Churchill Museum National Historic Landmark Act",
-    "latestAction": {
-      "text": "Passed Senate without amendment by Unanimous Consent.",
-      "actionDate": "2026-09-29"
-    },
-    "updateDate": "2026-09-30",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
   }
 ]
