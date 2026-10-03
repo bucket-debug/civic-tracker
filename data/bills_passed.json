@@ -1,72 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "10707",
+    "number": "6644",
     "type": "HR",
-    "title": "To address barriers immigrants and refugees face to entering the health care workforce, and for other purposes.",
+    "title": "21st Century ROAD to Housing Act",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-01"
+      "text": "Became Public Law No: 119-101.",
+      "actionDate": "2026-07-11"
     },
     "updateDate": "2026-10-02",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10672",
-    "type": "HR",
-    "title": "To amend the Higher Education Act of 1965 to establish grants for tuition-free community colleges, student success grants, and grants for Historically Black Colleges and Universities, Tribal Colleges and Universities, and Minority-Serving Institutions, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-10-01"
-    },
-    "updateDate": "2026-10-02",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10645",
-    "type": "HR",
-    "title": "To amend title XIX of the Social Security Act to require the Secretary of Health and Human Services to make uniformly available to States certain standardized data analytic technologies to identify and prevent fraud, waste, and abuse under Medicaid.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-10-01"
-    },
-    "updateDate": "2026-10-02",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "10705",
-    "type": "HR",
-    "title": "To amend the Communications Act of 1934 to establish prohibitions with respect to SIM boxes, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-10-01"
-    },
-    "updateDate": "2026-10-02",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10674",
-    "type": "HR",
-    "title": "To establish the National Institutes of Clean Energy.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Science, Space, and Technology.",
-      "actionDate": "2026-10-01"
-    },
-    "updateDate": "2026-10-02",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 0
+    "democratCosponsors": 11,
+    "republicanCosponsors": 9
   }
 ]
