@@ -1,16 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "6644",
-    "type": "HR",
-    "title": "21st Century ROAD to Housing Act",
+    "number": "1055",
+    "type": "S",
+    "title": "Indian Health Service Emergency Claims Parity Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-101.",
-      "actionDate": "2026-07-11"
+      "text": "Held at the desk.",
+      "actionDate": "2026-10-05"
     },
-    "updateDate": "2026-10-02",
+    "updateDate": "2026-10-06",
     "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 9
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1514",
+    "type": "S",
+    "title": "Quinault Indian Nation Land Transfer Act",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2026-10-05"
+    },
+    "updateDate": "2026-10-06",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3219",
+    "type": "S",
+    "title": "Albuquerque Indian School Act of 2026",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2026-10-05"
+    },
+    "updateDate": "2026-10-06",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10740",
+    "type": "HR",
+    "title": "To designate Ukraine under section 244 of the Immigration and Nationality Act to provide certain nationals of Ukraine with continued eligibility for temporary protected status, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-10-05"
+    },
+    "updateDate": "2026-10-06",
+    "sponsor": null,
+    "democratCosponsors": 17,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "10741",
+    "type": "HR",
+    "title": "To enhance the supply of child care, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committees on Ways and Means, Agriculture, Energy and Commerce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-10-05"
+    },
+    "updateDate": "2026-10-06",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
   }
 ]
