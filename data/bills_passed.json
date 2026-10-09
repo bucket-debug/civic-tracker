@@ -1,16 +1,30 @@
 [
   {
     "congress": 119,
-    "number": "766",
+    "number": "2",
     "type": "S",
-    "title": "Billion Dollar Boondoggle Act of 2025",
+    "title": "Secure America Act",
     "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-10-07"
+      "text": "Became Public Law No: 119-98.",
+      "actionDate": "2026-06-10"
     },
     "updateDate": "2026-10-08",
     "sponsor": null,
-    "democratCosponsors": 2,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3657",
+    "type": "HR",
+    "title": "Hydropower Licensing Transparency Act",
+    "latestAction": {
+      "text": "Became Public Law No: 119-112.",
+      "actionDate": "2026-09-25"
+    },
+    "updateDate": "2026-10-08",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 2
   },
   {
@@ -19,12 +33,26 @@
     "type": "HR",
     "title": "Improving Social Security\u2019s Service to Victims of Identity Theft Act",
     "latestAction": {
-      "text": "Signed by President.",
+      "text": "Became Public Law No: 119-119.",
       "actionDate": "2026-10-07"
     },
     "updateDate": "2026-10-08",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "766",
+    "type": "S",
+    "title": "Billion Dollar Boondoggle Act of 2025",
+    "latestAction": {
+      "text": "Became Public Law No: 119-120.",
+      "actionDate": "2026-10-07"
+    },
+    "updateDate": "2026-10-08",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
   }
 ]
