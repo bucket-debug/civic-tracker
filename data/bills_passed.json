@@ -1,12 +1,26 @@
 [
   {
     "congress": 119,
-    "number": "759",
+    "number": "195",
     "type": "S",
-    "title": "Modernizing Access to Our Public Oceans Act",
+    "title": "American Music Tourism Act of 2025",
     "latestAction": {
-      "text": "Became Public Law No: 119-116.",
-      "actionDate": "2026-09-25"
+      "text": "Became Public Law No: 119-121.",
+      "actionDate": "2026-10-09"
+    },
+    "updateDate": "2026-10-13",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "7147",
+    "type": "HR",
+    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+    "latestAction": {
+      "text": "Became Public Law No: 119-86.",
+      "actionDate": "2026-04-30"
     },
     "updateDate": "2026-10-13",
     "sponsor": null,
