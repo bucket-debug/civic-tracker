@@ -1,684 +1,628 @@
 [
   {
     "congress": 119,
-    "number": "933",
-    "type": "SRES",
-    "title": "A resolution expressing support for the designation of October 2026 as \"National Dyslexia Awareness Month\".",
+    "number": "8052",
+    "type": "HR",
+    "title": "Veteran Infection Prevention Act",
     "latestAction": {
-      "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S5267)",
-      "actionDate": "2026-09-30"
+      "text": "Placed on the Union Calendar, Calendar No. 731.",
+      "actionDate": "2026-09-24"
     },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "7260",
+    "type": "HR",
+    "title": "National Cemetery Administration Annual Report Act of 2026",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 738.",
+      "actionDate": "2026-10-06"
+    },
+    "updateDate": "2026-10-15",
     "sponsor": null,
     "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1741",
+    "type": "HR",
+    "title": "Veteran Appeals Transparency Act of 2025",
+    "latestAction": {
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "actionDate": "2025-03-27"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "6698",
+    "type": "HR",
+    "title": "Board of Veterans Appeals Annual Report Transparency Act of 2025",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 737.",
+      "actionDate": "2026-10-06"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "997",
+    "type": "HR",
+    "title": "National Taxpayer Advocate Enhancement Act of 2025",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "837",
+    "type": "HR",
+    "title": "To require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "227",
+    "type": "HR",
+    "title": "Clergy Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 14
+  },
+  {
+    "congress": 119,
+    "number": "1550",
+    "type": "HR",
+    "title": "Strengthening America\u2019s Turning Point Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1190",
+    "type": "HR",
+    "title": "Expanding Access to Capital for Rural Job Creators Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "4307",
+    "type": "HR",
+    "title": "Enhancing Detection of Human Trafficking Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 2,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "471",
-    "type": "SRES",
-    "title": "A resolution calling on Congress, schools, and State and local educational agencies to recognize the significant educational implications of dyslexia that must be addressed, and designating October 2025 as \"National Dyslexia Awareness Month\".",
+    "number": "7022",
+    "type": "HR",
+    "title": "Mystic Alerts Act",
     "latestAction": {
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7787-7788; text: CR S7787)",
-      "actionDate": "2025-10-28"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
     },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
     "democratCosponsors": 2,
     "republicanCosponsors": 2
   },
   {
     "congress": 119,
-    "number": "821",
-    "type": "HRES",
-    "title": "Expressing support for the recognition of October 2025 as \"National Dyslexia Awareness Month\".",
+    "number": "5235",
+    "type": "HR",
+    "title": "Skills-Based Federal Contracting Act of 2025",
     "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2025-10-17"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
     },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
     "democratCosponsors": 2,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "10795",
-    "type": "HR",
-    "title": "Sudan IMPACT Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Foreign Affairs.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "10809",
+    "number": "5284",
     "type": "HR",
-    "title": "Make Data Centers Pay Act",
+    "title": "Claiming Age Clarity Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-10-13"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
     },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10797",
-    "type": "HR",
-    "title": "Aerial Transport and High Consequence Infectious Diseases Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Armed Services.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10806",
-    "type": "HR",
-    "title": "To amend title XVIII of the Social Security Act to decrease fraud related to home health agencies in Medicare, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10801",
-    "type": "HR",
-    "title": "To direct the Secretary of the Treasury to carry out a program under which Federal funds for elementary and secondary education are either provided directly to parents to cover certain educational expenses or approved by parents for distribution to the public school their child attends, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10798",
-    "type": "HR",
-    "title": "To establish a grant program for funding silicosis treatment and education, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10807",
-    "type": "HR",
-    "title": "Get the Flock Out of Our Communities Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10799",
-    "type": "HR",
-    "title": "To amend the Immigration and Nationality Act to modernize the wage required for exempt H-1B workers, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10800",
-    "type": "HR",
-    "title": "To amend the Immigration and Nationality Act to establish a process for designating a safe third country and review of safe third country determinations, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10802",
-    "type": "HR",
-    "title": "To direct heads of Federal agencies to support increased access to voting, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, Science, Space, and Technology, Armed Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10803",
-    "type": "HR",
-    "title": "To abolish the Department of Homeland Security and establish a Department of Community Safety, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the Committee on Homeland Security, and in addition to the Committees on Oversight and Government Reform, the Judiciary, Transportation and Infrastructure, Rules, Foreign Affairs, Financial Services, Armed Services, Intelligence (Permanent Select), Education and Workforce, Appropriations, Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
     "democratCosponsors": 3,
-    "republicanCosponsors": 0
+    "republicanCosponsors": 6
   },
   {
     "congress": 119,
-    "number": "10796",
+    "number": "1703",
     "type": "HR",
-    "title": "United States-Israel Defense Technology Cooperation Act",
+    "title": "Choices for Increased Mobility Act of 2026",
     "latestAction": {
-      "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-13"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
     },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10808",
-    "type": "HR",
-    "title": "STORK Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10805",
-    "type": "HR",
-    "title": "Don\u2019t Block LGBTQ Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10804",
-    "type": "HR",
-    "title": "Utility Accountability Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1624",
-    "type": "HRES",
-    "title": "Recognizing the 110th anniversary of the Nation's First Presidential library, the Rutherford B. Hayes Presidential Library & Museums.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Oversight and Government Reform.",
-      "actionDate": "2026-10-13"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10186",
-    "type": "HR",
-    "title": "Hands Off Our Great Lakes Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-08-31"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "119",
-    "type": "HCONRES",
-    "title": "Celebrating the 65th anniversary of the establishment of the Peace Corps, and commending its volunteers and contributions to global peace, friendship, and development.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Foreign Affairs.",
-      "actionDate": "2026-09-21"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 13,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "3139",
-    "type": "HR",
-    "title": "Public Service Worker Protection Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2025-05-01"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 19,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "9641",
-    "type": "HR",
-    "title": "Essential Caregivers Act of 2026",
-    "latestAction": {
-      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 38 - 0.",
-      "actionDate": "2026-07-15"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "8239",
-    "type": "HR",
-    "title": "SACRED Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-04-09"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 9
-  },
-  {
-    "congress": 119,
-    "number": "4167",
-    "type": "HR",
-    "title": "Expanding Access to Lending Options Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2025-06-26"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "3604",
-    "type": "HR",
-    "title": "Reducing Waste in National Parks Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2025-05-23"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7173",
-    "type": "HR",
-    "title": "Follow the Science Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-01-21"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2160",
-    "type": "HR",
-    "title": "Maintaining and Enhancing Hydroelectricity and River Restoration Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2025-03-14"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "9298",
-    "type": "HR",
-    "title": "Stopping Harmful and Outrageous Torts Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-06-11"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "10740",
-    "type": "HR",
-    "title": "To designate Ukraine under section 244 of the Immigration and Nationality Act to provide certain nationals of Ukraine with continued eligibility for temporary protected status, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-10-05"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 17,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "2433",
-    "type": "HR",
-    "title": "Reducing Medically Unnecessary Delays in Care Act of 2025",
-    "latestAction": {
-      "text": "ASSUMING FIRST SPONSORSHIP - Mr. Murphy asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 2433, a bill originally introduced by Representative Green (TN), for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
-      "actionDate": "2026-02-04"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 16
-  },
-  {
-    "congress": 119,
-    "number": "10554",
-    "type": "HR",
-    "title": "SCREEN Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-09-24"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "10424",
-    "type": "HR",
-    "title": "Equity in Research Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Science, Space, and Technology.",
-      "actionDate": "2026-09-16"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 9,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "8324",
-    "type": "HR",
-    "title": "Great American Healthcare Plan",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Workforce, the Judiciary, Armed Services, Veterans' Affairs, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-04-16"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 15
-  },
-  {
-    "congress": 119,
-    "number": "10446",
-    "type": "HR",
-    "title": "Incentivizing Small Business Employee Retention Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-09-16"
-    },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
     "democratCosponsors": 4,
+    "republicanCosponsors": 6
+  },
+  {
+    "congress": 119,
+    "number": "7730",
+    "type": "HR",
+    "title": "Bankruptcy Threshold Adjustment Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 3,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "6380",
+    "type": "HR",
+    "title": "Chiricahua National Park Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "4",
-    "type": "HCONRES",
-    "title": "Expressing the sense of Congress that tax-exempt fraternal benefit societies have historically provided and continue to provide critical benefits to the people and communities of the United States.",
+    "number": "1945",
+    "type": "HR",
+    "title": "America's National Churchill Museum National Historic Landmark Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2025-01-28"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
     },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
   },
   {
     "congress": 119,
-    "number": "10642",
+    "number": "3620",
     "type": "HR",
-    "title": "Stop the Settlements Act",
+    "title": "Southcentral Foundation Land Transfer Act of 2025",
     "latestAction": {
-      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-01"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
     },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
-    "democratCosponsors": 20,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "10794",
+    "number": "1744",
     "type": "HR",
-    "title": "Improving Access to WIC Act",
+    "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
     "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-10-09"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
     },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
-    "democratCosponsors": 20,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "7831",
+    "type": "HR",
+    "title": "License to Drill Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "10167",
+    "type": "HR",
+    "title": "Common Cents Act",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "8582",
+    "number": "9496",
     "type": "HR",
-    "title": "Protecting Human Rights and Public Health in Foreign Assistance Act",
+    "title": "End Tax Penalties on American Hostages Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Foreign Affairs.",
-      "actionDate": "2026-04-29"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
     },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
-    "democratCosponsors": 20,
+    "democratCosponsors": 2,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "10444",
+    "number": "8205",
     "type": "HR",
-    "title": "Stop Corporate Takeovers of Physicians Act of 2026",
+    "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-09-16"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
     },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 17,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1404",
-    "type": "HR",
-    "title": "CHAMPVA Children\u2019s Care Protection Act of 2025",
-    "latestAction": {
-      "text": "Referred to the Subcommittee on Health.",
-      "actionDate": "2025-12-19"
-    },
-    "updateDate": "2026-10-14",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7815",
-    "type": "HR",
-    "title": "Red Star Service Banner Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-03-05"
-    },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
     "democratCosponsors": 9,
     "republicanCosponsors": 11
   },
   {
     "congress": 119,
-    "number": "9847",
+    "number": "10159",
     "type": "HR",
-    "title": "Improving CARE for Youth Act",
+    "title": "To authorize the Secretary of the Army to convey to the State of North Carolina a certain parcel of real property located at Fort Bragg, North Carolina, on which the State shall construct a veterans\u2019 State home, and for other purposes.",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-07-22"
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
     },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
     "democratCosponsors": 4,
+    "republicanCosponsors": 9
+  },
+  {
+    "congress": 119,
+    "number": "8352",
+    "type": "HR",
+    "title": "Criminal History Access Act of 2026",
+    "latestAction": {
+      "text": "Message on Senate action sent to the House.",
+      "actionDate": "2026-10-14"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "8592",
+    "number": "10801",
     "type": "HR",
-    "title": "No WAR Act",
+    "title": "School Freedom Act of 2026",
     "latestAction": {
-      "text": "Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-04-30"
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-10-13"
     },
-    "updateDate": "2026-10-14",
+    "updateDate": "2026-10-15",
     "sponsor": null,
-    "democratCosponsors": 20,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "4829",
-    "type": "HR",
-    "title": "Transnational Repression Policy Act",
+    "number": "5647",
+    "type": "S",
+    "title": "River Democracy Act",
     "latestAction": {
-      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-08-01"
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5589",
+    "type": "S",
+    "title": "No United States Aid for Terrorism Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2026-09-29"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10787",
+    "type": "HR",
+    "title": "Access to Medical Supplies Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-10-09"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5",
+    "type": "S",
+    "title": "Laken Riley Act",
+    "latestAction": {
+      "text": "Became Public Law No: 119-1.",
+      "actionDate": "2025-01-29"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 20
+  },
+  {
+    "congress": 119,
+    "number": "471",
+    "type": "HR",
+    "title": "Fix Our Forests Act",
+    "latestAction": {
+      "text": "Committee on Agriculture, Nutrition, and Forestry Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology. Hearings held. With printed Hearing: S.Hrg. 119-27.",
+      "actionDate": "2025-03-06"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 10
+  },
+  {
+    "congress": 119,
+    "number": "53",
+    "type": "HRES",
+    "title": "Providing for consideration of the bill (H.R. 471) to expedite under the National Environmental Policy Act of 1969 and improve forest management activities on National Forest System lands, on public lands under the jurisdiction of the Bureau of Land Management, and on Tribal lands to return resilience to overgrown, fire-prone forested lands, and for other purposes, and providing for consideration of the bill (S. 5) to require the Secretary of Homeland Security to take into custody aliens who have been charged in the United States with theft, and for other purposes.",
+    "latestAction": {
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2025-01-22"
+    },
+    "updateDate": "2026-10-15",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5514",
+    "type": "S",
+    "title": "Responsible Cormorant Management and Control Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Environment and Public Works.",
+      "actionDate": "2026-09-24"
     },
     "updateDate": "2026-10-14",
     "sponsor": null,
-    "democratCosponsors": 6,
+    "democratCosponsors": 0,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "10405",
-    "type": "HR",
-    "title": "Kylie\u2019s Voices for Childhood Cancer Act",
+    "number": "5585",
+    "type": "S",
+    "title": "BRIDGE Act of 2026",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-09-16"
+      "text": "Read twice and referred to the Committee on Veterans' Affairs. (Sponsor introductory remarks on measure: CR S5172)",
+      "actionDate": "2026-09-29"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "5655",
+    "type": "S",
+    "title": "A bill to express the sense of Congress that the Secretary of the Navy should name an appropriate United States Navy ship in honor of the Battle of Cowpens, which took place on January 17, 1781, and for other purposes.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5675",
+    "type": "S",
+    "title": "Nutrition Continuity for Military Families Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10550",
+    "type": "HR",
+    "title": "Nutrition Continuity for Military Families Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-09-24"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "5555",
+    "type": "S",
+    "title": "PFAS RAPID Response Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-09-24"
     },
     "updateDate": "2026-10-14",
     "sponsor": null,
     "democratCosponsors": 2,
-    "republicanCosponsors": 2
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "8743",
-    "type": "HR",
-    "title": "SMART Kids Act",
+    "number": "5680",
+    "type": "S",
+    "title": "MILLER Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-05-12"
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-09-30"
     },
     "updateDate": "2026-10-14",
     "sponsor": null,
-    "democratCosponsors": 4,
-    "republicanCosponsors": 4
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "5575",
-    "type": "HR",
-    "title": "FASTER Act",
+    "number": "5678",
+    "type": "S",
+    "title": "NAMES Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Science, Space, and Technology.",
-      "actionDate": "2025-09-26"
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-09-30"
     },
     "updateDate": "2026-10-14",
     "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 6
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "3271",
-    "type": "HR",
-    "title": "Medicare and Social Security Fair Share Act",
+    "number": "5679",
+    "type": "S",
+    "title": "NO SELF Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2025-05-08"
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5597",
+    "type": "S",
+    "title": "Service Academy Testing Enhancement Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-09-29"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "4784",
+    "type": "S",
+    "title": "National Defense Authorization Act for Fiscal Year 2027",
+    "latestAction": {
+      "text": "Motion to proceed to consideration of measure made in Senate. (CR S4276)",
+      "actionDate": "2026-07-27"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10750",
+    "type": "HR",
+    "title": "Advanced Nuclear Fission and Fusion Propulsion Systems Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Armed Services.",
+      "actionDate": "2026-10-05"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10710",
+    "type": "HR",
+    "title": "Military Officer Promotion Integrity Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Armed Services.",
+      "actionDate": "2026-10-01"
     },
     "updateDate": "2026-10-14",
     "sponsor": null,
@@ -687,16 +631,72 @@
   },
   {
     "congress": 119,
-    "number": "9582",
-    "type": "HR",
-    "title": "National Service Animals Monument Location Act",
+    "number": "5598",
+    "type": "S",
+    "title": "Blocking Foreign Cellular Modules in Defense Systems Act of 2026",
     "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-07-02"
+      "text": "Read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-09-29"
     },
     "updateDate": "2026-10-14",
     "sponsor": null,
-    "democratCosponsors": 3,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10742",
+    "type": "HR",
+    "title": "LESSONS from Ukraine Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Armed Services.",
+      "actionDate": "2026-10-05"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10717",
+    "type": "HR",
+    "title": "Wigs for Warriors Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Armed Services.",
+      "actionDate": "2026-10-01"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1609",
+    "type": "HRES",
+    "title": "Honoring the life and service of United States Marine Corps veteran Nicholas Douglas Quets, expressing condolences to his family, and condemning cartel violence.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Armed Services.",
+      "actionDate": "2026-10-05"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "772",
+    "type": "HRES",
+    "title": "Expressing support for \"National Public Lands Day\" and encouraging the people of the United States to visit public lands on this fee-free day and recognize their spiritual and cultural value, as well as their contribution to the economy of the United States.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "actionDate": "2025-09-26"
+    },
+    "updateDate": "2026-10-14",
+    "sponsor": null,
+    "democratCosponsors": 19,
     "republicanCosponsors": 1
   }
 ]
