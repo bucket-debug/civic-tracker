@@ -276,6 +276,12 @@
     "contribution_receipt_date": "2025-06-30"
   },
   {
+    "contributor_name": "ACTBLUE",
+    "contribution_receipt_amount": 12609953.64,
+    "committee_name": "COOPER VICTORY FUND",
+    "contribution_receipt_date": "2026-09-30"
+  },
+  {
     "contributor_name": "WARREN, KELCY",
     "contribution_receipt_amount": 12500000.0,
     "committee_name": "MAGA INC.",
@@ -592,11 +598,5 @@
     "contribution_receipt_amount": 7173460.51,
     "committee_name": "RAJA FOR ILLINOIS",
     "contribution_receipt_date": "2025-06-30"
-  },
-  {
-    "contributor_name": "SCHWARZMAN, STEPHEN A.",
-    "contribution_receipt_amount": 7000000.0,
-    "committee_name": "SLF PAC",
-    "contribution_receipt_date": "2026-06-26"
   }
 ]
