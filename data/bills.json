@@ -1,45 +1,87 @@
 [
   {
     "congress": 119,
-    "number": "5684",
-    "type": "S",
-    "title": "No Cash for Incompetent and Malicious Contractors Act",
+    "number": "951",
+    "type": "SRES",
+    "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
     "latestAction": {
-      "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary.",
       "actionDate": "2026-10-15"
     },
-    "updateDate": "2026-10-17",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5688",
-    "type": "S",
-    "title": "Acquired Lands Revenue Modernization Act",
-    "latestAction": {
-      "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources.",
-      "actionDate": "2026-10-15"
-    },
-    "updateDate": "2026-10-17",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5686",
-    "type": "S",
-    "title": "No Public Executions in America Act",
-    "latestAction": {
-      "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.",
-      "actionDate": "2026-10-15"
-    },
-    "updateDate": "2026-10-17",
+    "updateDate": "2026-10-19",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10812",
+    "type": "HR",
+    "title": "Armenian American Cultural Heritage Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on House Administration.",
+      "actionDate": "2026-10-15"
+    },
+    "updateDate": "2026-10-19",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "938",
+    "type": "SRES",
+    "title": "A resolution to honor the Americans killed by Hamas terrorists and their affiliates on and after October 7, 2023, to reaffirm the commitment of the United States to seek legal justice on behalf of their families, and for other purposes.",
+    "latestAction": {
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5299; text: CR S5269)",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-10-19",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1529",
+    "type": "HR",
+    "title": "Access Technology Affordability Act of 2025",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-02-24"
+    },
+    "updateDate": "2026-10-19",
+    "sponsor": null,
+    "democratCosponsors": 11,
+    "republicanCosponsors": 9
+  },
+  {
+    "congress": 119,
+    "number": "3498",
+    "type": "S",
+    "title": "EQIP Improvement Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "actionDate": "2025-12-16"
+    },
+    "updateDate": "2026-10-19",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "1868",
+    "type": "HR",
+    "title": "Stop Tax Penalties on American Hostages Act of 2025",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-03-05"
+    },
+    "updateDate": "2026-10-19",
+    "sponsor": null,
+    "democratCosponsors": 8,
+    "republicanCosponsors": 6
   },
   {
     "congress": 119,
@@ -71,6 +113,48 @@
   },
   {
     "congress": 119,
+    "number": "5688",
+    "type": "S",
+    "title": "Acquired Lands Revenue Modernization Act",
+    "latestAction": {
+      "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2026-10-15"
+    },
+    "updateDate": "2026-10-17",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5686",
+    "type": "S",
+    "title": "No Public Executions in America Act",
+    "latestAction": {
+      "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.",
+      "actionDate": "2026-10-15"
+    },
+    "updateDate": "2026-10-17",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5684",
+    "type": "S",
+    "title": "No Cash for Incompetent and Malicious Contractors Act",
+    "latestAction": {
+      "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2026-10-15"
+    },
+    "updateDate": "2026-10-17",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "10811",
     "type": "HR",
     "title": "To amend title 49, United States Code, to increase the allowable government share of a project for which a fixed guideway capital investment grant is issued in cases where the grant recipient provides owners of small business concerns with certain protections from project-related transportation interruptions, and for other purposes.",
@@ -81,20 +165,6 @@
     "updateDate": "2026-10-17",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "951",
-    "type": "SRES",
-    "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
-    "latestAction": {
-      "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary.",
-      "actionDate": "2026-10-15"
-    },
-    "updateDate": "2026-10-17",
-    "sponsor": null,
-    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -127,100 +197,30 @@
   },
   {
     "congress": 119,
-    "number": "575",
-    "type": "S",
-    "title": "I CAN Act",
+    "number": "52",
+    "type": "SRES",
+    "title": "A resolution recognizing religious freedom as a fundamental right, expressing support for international religious freedom as a cornerstone of United States foreign policy, and expressing concern over increased threats to and attacks on religious freedom around the world.",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-02-13"
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.",
+      "actionDate": "2025-06-26"
     },
     "updateDate": "2026-10-16",
     "sponsor": null,
     "democratCosponsors": 5,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 3
   },
   {
     "congress": 119,
-    "number": "3972",
+    "number": "5420",
     "type": "S",
-    "title": "Highway Formula Fairness Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Environment and Public Works.",
-      "actionDate": "2026-03-03"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "5047",
-    "type": "S",
-    "title": "Artificial Intelligence Physical Systems Coordination Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-07-21"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3777",
-    "type": "S",
-    "title": "Rebuild America\u2019s Schools Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S491)",
-      "actionDate": "2026-02-04"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "772",
-    "type": "S",
-    "title": "Employer Participation in Repayment Act",
+    "title": "A bill to amend the Internal Revenue Code of 1986 to increase the qualified elementary and secondary education scholarships credit limit for married taxpayers filing a joint return.",
     "latestAction": {
       "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-02-27"
+      "actionDate": "2026-09-17"
     },
     "updateDate": "2026-10-16",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "718",
-    "type": "S",
-    "title": "Eric\u2019s Law",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-02-25"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "45",
-    "type": "SRES",
-    "title": "A resolution supporting the contributions of Catholic schools in the United States and celebrating the 51st annual National Catholic Schools Week.",
-    "latestAction": {
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S487-488; text: CR S486-487)",
-      "actionDate": "2025-01-29"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -239,6 +239,48 @@
   },
   {
     "congress": 119,
+    "number": "45",
+    "type": "SRES",
+    "title": "A resolution supporting the contributions of Catholic schools in the United States and celebrating the 51st annual National Catholic Schools Week.",
+    "latestAction": {
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S487-488; text: CR S486-487)",
+      "actionDate": "2025-01-29"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "59",
+    "type": "SRES",
+    "title": "An original resolution authorizing expenditures by the Committee on Environment and Public Works.",
+    "latestAction": {
+      "text": "Referred to the Committee on Rules and Administration. (text: CR S672)",
+      "actionDate": "2025-02-05"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "575",
+    "type": "S",
+    "title": "I CAN Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-02-13"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 5,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
     "number": "2811",
     "type": "HR",
     "title": "SNAP Staffing Flexibility Act of 2025",
@@ -253,86 +295,16 @@
   },
   {
     "congress": 119,
-    "number": "3208",
+    "number": "3895",
     "type": "S",
-    "title": "Six Assurances to Taiwan Act",
+    "title": "Fairness in Federal Disaster Declarations Act of 2026",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Foreign Relations.",
-      "actionDate": "2025-11-19"
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S652-653)",
+      "actionDate": "2026-02-24"
     },
     "updateDate": "2026-10-16",
     "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "31",
-    "type": "SRES",
-    "title": "A resolution calling on the Government of Panama to expel officials and interests of the People's Republic of China and terminate Chinese management of key Panamanian ports.",
-    "latestAction": {
-      "text": "Referred to the Committee on Foreign Relations. (text: CR S338-339)",
-      "actionDate": "2025-01-23"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "714",
-    "type": "S",
-    "title": "Critical Mineral Consistency Act of 2025",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 335.",
-      "actionDate": "2026-02-11"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "743",
-    "type": "S",
-    "title": "Ag Disputes Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-02-26"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "30",
-    "type": "SRES",
-    "title": "A resolution honoring Mississippi's Gestational Age Act.",
-    "latestAction": {
-      "text": "Referred to the Committee on the Judiciary. (text: CR S302-303)",
-      "actionDate": "2025-01-22"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "2123",
-    "type": "S",
-    "title": "Broadcast VOICES Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2025-06-18"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 6,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   },
   {
@@ -343,20 +315,6 @@
     "latestAction": {
       "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "actionDate": "2025-04-03"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10",
-    "type": "SCONRES",
-    "title": "A concurrent resolution recognizing the essential work of the League of Oregon Cities.",
-    "latestAction": {
-      "text": "Referred to the Committee on the Judiciary. (text: CR S1668)",
-      "actionDate": "2025-03-11"
     },
     "updateDate": "2026-10-16",
     "sponsor": null,
@@ -379,6 +337,118 @@
   },
   {
     "congress": 119,
+    "number": "743",
+    "type": "S",
+    "title": "Ag Disputes Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-02-26"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "9716",
+    "type": "HR",
+    "title": "PRIVACY Act",
+    "latestAction": {
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-07-15"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 7
+  },
+  {
+    "congress": 119,
+    "number": "2123",
+    "type": "S",
+    "title": "Broadcast VOICES Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-06-18"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5159",
+    "type": "S",
+    "title": "STRONG GRID Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "actionDate": "2026-07-29"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "718",
+    "type": "S",
+    "title": "Eric\u2019s Law",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2025-02-25"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "3777",
+    "type": "S",
+    "title": "Rebuild America\u2019s Schools Act of 2026",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S491)",
+      "actionDate": "2026-02-04"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 20,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "714",
+    "type": "S",
+    "title": "Critical Mineral Consistency Act of 2025",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 335.",
+      "actionDate": "2026-02-11"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "4660",
+    "type": "S",
+    "title": "Economic Relief for Specialty Crops Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "actionDate": "2026-06-02"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "4662",
     "type": "S",
     "title": "ROBINHOOD Act of 2026",
@@ -393,40 +463,12 @@
   },
   {
     "congress": 119,
-    "number": "52",
-    "type": "SRES",
-    "title": "A resolution recognizing religious freedom as a fundamental right, expressing support for international religious freedom as a cornerstone of United States foreign policy, and expressing concern over increased threats to and attacks on religious freedom around the world.",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.",
-      "actionDate": "2025-06-26"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 5,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "59",
-    "type": "SRES",
-    "title": "An original resolution authorizing expenditures by the Committee on Environment and Public Works.",
-    "latestAction": {
-      "text": "Referred to the Committee on Rules and Administration. (text: CR S672)",
-      "actionDate": "2025-02-05"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "114",
+    "number": "2661",
     "type": "S",
-    "title": "CLEAR Act of 2025",
+    "title": "A bill to allow for the use of risk-based inspections for in-service breakout tanks.",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2025-01-16"
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2025-08-01"
     },
     "updateDate": "2026-10-16",
     "sponsor": null,
@@ -449,17 +491,17 @@
   },
   {
     "congress": 119,
-    "number": "4660",
+    "number": "3208",
     "type": "S",
-    "title": "Economic Relief for Specialty Crops Act",
+    "title": "Six Assurances to Taiwan Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
-      "actionDate": "2026-06-02"
+      "text": "Read twice and referred to the Committee on Foreign Relations.",
+      "actionDate": "2025-11-19"
     },
     "updateDate": "2026-10-16",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
+    "democratCosponsors": 3,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -477,40 +519,26 @@
   },
   {
     "congress": 119,
-    "number": "2661",
+    "number": "772",
     "type": "S",
-    "title": "A bill to allow for the use of risk-based inspections for in-service breakout tanks.",
+    "title": "Employer Participation in Repayment Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2025-08-01"
+      "text": "Read twice and referred to the Committee on Finance.",
+      "actionDate": "2025-02-27"
     },
     "updateDate": "2026-10-16",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "5159",
-    "type": "S",
-    "title": "STRONG GRID Act of 2026",
+    "number": "10",
+    "type": "SCONRES",
+    "title": "A concurrent resolution recognizing the essential work of the League of Oregon Cities.",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-      "actionDate": "2026-07-29"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3895",
-    "type": "S",
-    "title": "Fairness in Federal Disaster Declarations Act of 2026",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S652-653)",
-      "actionDate": "2026-02-24"
+      "text": "Referred to the Committee on the Judiciary. (text: CR S1668)",
+      "actionDate": "2025-03-11"
     },
     "updateDate": "2026-10-16",
     "sponsor": null,
@@ -519,12 +547,40 @@
   },
   {
     "congress": 119,
-    "number": "5420",
+    "number": "3972",
     "type": "S",
-    "title": "A bill to amend the Internal Revenue Code of 1986 to increase the qualified elementary and secondary education scholarships credit limit for married taxpayers filing a joint return.",
+    "title": "Highway Formula Fairness Act",
     "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance.",
-      "actionDate": "2026-09-17"
+      "text": "Read twice and referred to the Committee on Environment and Public Works.",
+      "actionDate": "2026-03-03"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "30",
+    "type": "SRES",
+    "title": "A resolution honoring Mississippi's Gestational Age Act.",
+    "latestAction": {
+      "text": "Referred to the Committee on the Judiciary. (text: CR S302-303)",
+      "actionDate": "2025-01-22"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 6
+  },
+  {
+    "congress": 119,
+    "number": "114",
+    "type": "S",
+    "title": "CLEAR Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2025-01-16"
     },
     "updateDate": "2026-10-16",
     "sponsor": null,
@@ -533,17 +589,17 @@
   },
   {
     "congress": 119,
-    "number": "9716",
-    "type": "HR",
-    "title": "PRIVACY Act",
+    "number": "5047",
+    "type": "S",
+    "title": "Artificial Intelligence Physical Systems Coordination Act of 2026",
     "latestAction": {
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-07-15"
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "actionDate": "2026-07-21"
     },
     "updateDate": "2026-10-16",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 7
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -558,6 +614,20 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "31",
+    "type": "SRES",
+    "title": "A resolution calling on the Government of Panama to expel officials and interests of the People's Republic of China and terminate Chinese management of key Panamanian ports.",
+    "latestAction": {
+      "text": "Referred to the Committee on Foreign Relations. (text: CR S338-339)",
+      "actionDate": "2025-01-23"
+    },
+    "updateDate": "2026-10-16",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 5
   },
   {
     "congress": 119,
@@ -628,75 +698,5 @@
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5515",
-    "type": "S",
-    "title": "CARE for Moms Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Finance. (text: CR S4998-5003)",
-      "actionDate": "2026-09-24"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "2805",
-    "type": "HR",
-    "title": "PLAN for Broadband Act",
-    "latestAction": {
-      "text": "Ordered to be Reported by the Yeas and Nays: 34 - 0.",
-      "actionDate": "2026-09-16"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3923",
-    "type": "S",
-    "title": "Weather Research and Forecasting Innovation Reauthorization Act of 2026",
-    "latestAction": {
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 685.",
-      "actionDate": "2026-09-28"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
-    "number": "7254",
-    "type": "HR",
-    "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bay Area Ridge National Scenic Trail, and for other purposes.",
-    "latestAction": {
-      "text": "Ordered to be Reported (Amended) by Unanimous Consent.",
-      "actionDate": "2026-09-15"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 11,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5967",
-    "type": "HR",
-    "title": "Strategic Task Force on Scam Prevention Act",
-    "latestAction": {
-      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 0.",
-      "actionDate": "2026-09-16"
-    },
-    "updateDate": "2026-10-16",
-    "sponsor": null,
-    "democratCosponsors": 14,
-    "republicanCosponsors": 2
   }
 ]
