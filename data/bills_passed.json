@@ -1,16 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "2403",
-    "type": "S",
-    "title": "Retire through Ownership Act",
+    "number": "10850",
+    "type": "HR",
+    "title": "SCREENS Act",
     "latestAction": {
-      "text": "Became Public Law No: 119-124.",
-      "actionDate": "2026-10-15"
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-10-19"
     },
-    "updateDate": "2026-10-16",
+    "updateDate": "2026-10-20",
     "sponsor": null,
     "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10848",
+    "type": "HR",
+    "title": "To require the Comptroller General of the United States to review of Shipyard Infrastructure Optimization Program, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Armed Services.",
+      "actionDate": "2026-10-19"
+    },
+    "updateDate": "2026-10-20",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10844",
+    "type": "HR",
+    "title": "To amend title XVIII of the Social Security Act to ensure equitable payments for items and services furnished by mobile stroke units under the Medicare program.",
+    "latestAction": {
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-10-19"
+    },
+    "updateDate": "2026-10-20",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10842",
+    "type": "HR",
+    "title": "To amend the Internal Revenue Code of 1986 to establish the financial services customer support onshoring credit.",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-10-19"
+    },
+    "updateDate": "2026-10-20",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10845",
+    "type": "HR",
+    "title": "To require an assessment of standards and guidelines for managing air, land, and sea ports of entry under the control of the Department of Homeland Security, and for other purposes.",
+    "latestAction": {
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-10-19"
+    },
+    "updateDate": "2026-10-20",
+    "sponsor": null,
+    "democratCosponsors": 0,
     "republicanCosponsors": 0
   }
 ]
