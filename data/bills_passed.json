@@ -1,72 +1,100 @@
 [
   {
     "congress": 119,
-    "number": "10850",
+    "number": "4307",
     "type": "HR",
-    "title": "SCREENS Act",
+    "title": "Enhancing Detection of Human Trafficking Act",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-19"
+      "text": "Signed by President.",
+      "actionDate": "2026-10-20"
     },
-    "updateDate": "2026-10-20",
+    "updateDate": "2026-10-21",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10848",
-    "type": "HR",
-    "title": "To require the Comptroller General of the United States to review of Shipyard Infrastructure Optimization Program, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the House Committee on Armed Services.",
-      "actionDate": "2026-10-19"
-    },
-    "updateDate": "2026-10-20",
-    "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 2,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "10844",
+    "number": "3620",
     "type": "HR",
-    "title": "To amend title XVIII of the Social Security Act to ensure equitable payments for items and services furnished by mobile stroke units under the Medicare program.",
+    "title": "Southcentral Foundation Land Transfer Act of 2025",
     "latestAction": {
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-19"
+      "text": "Signed by President.",
+      "actionDate": "2026-10-20"
     },
-    "updateDate": "2026-10-20",
+    "updateDate": "2026-10-21",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2481",
+    "type": "HR",
+    "title": "Romance Scam Prevention Act",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-10-20"
+    },
+    "updateDate": "2026-10-21",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "2388",
+    "type": "HR",
+    "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-10-20"
+    },
+    "updateDate": "2026-10-21",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "837",
+    "type": "HR",
+    "title": "To require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-10-20"
+    },
+    "updateDate": "2026-10-21",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1721",
+    "type": "HR",
+    "title": "Critical Infrastructure Manufacturing Feasibility Act",
+    "latestAction": {
+      "text": "Signed by President.",
+      "actionDate": "2026-10-20"
+    },
+    "updateDate": "2026-10-21",
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 1
   },
   {
     "congress": 119,
-    "number": "10842",
+    "number": "227",
     "type": "HR",
-    "title": "To amend the Internal Revenue Code of 1986 to establish the financial services customer support onshoring credit.",
+    "title": "Clergy Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-10-19"
+      "text": "Signed by President.",
+      "actionDate": "2026-10-20"
     },
-    "updateDate": "2026-10-20",
+    "updateDate": "2026-10-21",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10845",
-    "type": "HR",
-    "title": "To require an assessment of standards and guidelines for managing air, land, and sea ports of entry under the control of the Department of Homeland Security, and for other purposes.",
-    "latestAction": {
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-19"
-    },
-    "updateDate": "2026-10-20",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "democratCosponsors": 6,
+    "republicanCosponsors": 14
   }
 ]
