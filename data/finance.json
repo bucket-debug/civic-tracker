@@ -234,10 +234,22 @@
     "contribution_receipt_date": "2026-05-27"
   },
   {
+    "contributor_name": "HOUSE MAJORITY FORWARD",
+    "contribution_receipt_amount": 17000000.0,
+    "committee_name": "HMP",
+    "contribution_receipt_date": "2026-09-30"
+  },
+  {
     "contributor_name": "NATIONAL ASSOCIATION OF REALTORS",
     "contribution_receipt_amount": 16000000.0,
     "committee_name": "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND",
     "contribution_receipt_date": "2026-08-31"
+  },
+  {
+    "contributor_name": "HOUSE MAJORITY FORWARD",
+    "contribution_receipt_amount": 15000000.0,
+    "committee_name": "HMP",
+    "contribution_receipt_date": "2026-09-17"
   },
   {
     "contributor_name": "RESTORATION OF AMERICA PAC",
@@ -586,17 +598,5 @@
     "contribution_receipt_amount": 7281396.0,
     "committee_name": "RESTORATION OF AMERICA PAC",
     "contribution_receipt_date": "2026-03-12"
-  },
-  {
-    "contributor_name": "UIHLEIN, RICHARD E.",
-    "contribution_receipt_amount": 7227303.0,
-    "committee_name": "RESTORATION OF AMERICA PAC",
-    "contribution_receipt_date": "2026-05-12"
-  },
-  {
-    "contributor_name": "FRIENDS OF RAJA FOR CONGRESS",
-    "contribution_receipt_amount": 7173460.51,
-    "committee_name": "RAJA FOR ILLINOIS",
-    "contribution_receipt_date": "2025-06-30"
   }
 ]
