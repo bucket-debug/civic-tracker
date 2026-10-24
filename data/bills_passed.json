@@ -1,72 +1,30 @@
 [
   {
     "congress": 119,
-    "number": "10870",
+    "number": "7022",
     "type": "HR",
-    "title": "Military Domestic Violence Survivors Support Act",
+    "title": "Mystic Alerts Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Armed Services.",
+      "text": "Signed by President.",
+      "actionDate": "2026-10-22"
+    },
+    "updateDate": "2026-10-23",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "952",
+    "type": "HR",
+    "title": "Reversionary Interest Conveyance Act",
+    "latestAction": {
+      "text": "Signed by President.",
       "actionDate": "2026-10-22"
     },
     "updateDate": "2026-10-23",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10874",
-    "type": "HR",
-    "title": "Medicare Low Income Subsidy Equality Act of 2026",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-22"
-    },
-    "updateDate": "2026-10-23",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10872",
-    "type": "HR",
-    "title": "Combatting Auto Robbery at the Source Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-10-22"
-    },
-    "updateDate": "2026-10-23",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10869",
-    "type": "HR",
-    "title": "Protect Clean Water Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-22"
-    },
-    "updateDate": "2026-10-23",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10871",
-    "type": "HR",
-    "title": "Military Family Relocation Support Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Armed Services.",
-      "actionDate": "2026-10-22"
-    },
-    "updateDate": "2026-10-23",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 0
   }
 ]
