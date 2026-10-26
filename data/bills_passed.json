@@ -1,30 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "7022",
+    "number": "6644",
     "type": "HR",
-    "title": "Mystic Alerts Act",
+    "title": "21st Century ROAD to Housing Act",
     "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-10-22"
+      "text": "Became Public Law No: 119-101.",
+      "actionDate": "2026-07-11"
     },
-    "updateDate": "2026-10-23",
+    "updateDate": "2026-10-26",
     "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "952",
-    "type": "HR",
-    "title": "Reversionary Interest Conveyance Act",
-    "latestAction": {
-      "text": "Signed by President.",
-      "actionDate": "2026-10-22"
-    },
-    "updateDate": "2026-10-23",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "democratCosponsors": 11,
+    "republicanCosponsors": 9
   }
 ]
