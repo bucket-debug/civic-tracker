@@ -192,6 +192,24 @@
     "contribution_receipt_date": "2025-01-21"
   },
   {
+    "contributor_name": "AMERICAN ACTION NETWORK",
+    "contribution_receipt_amount": 20000000.0,
+    "committee_name": "CLF",
+    "contribution_receipt_date": "2026-09-30"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 20000000.0,
+    "committee_name": "CLF",
+    "contribution_receipt_date": "2026-09-04"
+  },
+  {
+    "contributor_name": "MELLON, TIMOTHY",
+    "contribution_receipt_amount": 20000000.0,
+    "committee_name": "CLF",
+    "contribution_receipt_date": "2026-08-04"
+  },
+  {
     "contributor_name": "HOUSE MAJORITY FORWARD",
     "contribution_receipt_amount": 20000000.0,
     "committee_name": "HMP",
@@ -564,6 +582,12 @@
     "contribution_receipt_date": "2025-10-05"
   },
   {
+    "contributor_name": "REPUBLICAN NATIONAL COMMITTEE",
+    "contribution_receipt_amount": 8006000.0,
+    "committee_name": "NRCC",
+    "contribution_receipt_date": "2026-09-25"
+  },
+  {
     "contributor_name": "FAIRSHAKE",
     "contribution_receipt_amount": 8000000.0,
     "committee_name": "DEFEND AMERICAN JOBS",
@@ -574,29 +598,5 @@
     "contribution_receipt_amount": 7500000.0,
     "committee_name": "CLF",
     "contribution_receipt_date": "2026-03-31"
-  },
-  {
-    "contributor_name": "SECURING AMERICAN GREATNESS, INC.",
-    "contribution_receipt_amount": 7500000.0,
-    "committee_name": "MAGA INC.",
-    "contribution_receipt_date": "2025-12-31"
-  },
-  {
-    "contributor_name": "YASS, JEFF",
-    "contribution_receipt_amount": 7500000.0,
-    "committee_name": "PROTECT FREEDOM POLITICAL ACTION COMMITTEE",
-    "contribution_receipt_date": "2025-10-20"
-  },
-  {
-    "contributor_name": "HARRIS VICTORY FUND - UNITEMIZED",
-    "contribution_receipt_amount": 7283630.71,
-    "committee_name": "DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE",
-    "contribution_receipt_date": "2025-01-31"
-  },
-  {
-    "contributor_name": "UIHLEIN, RICHARD E.",
-    "contribution_receipt_amount": 7281396.0,
-    "committee_name": "RESTORATION OF AMERICA PAC",
-    "contribution_receipt_date": "2026-03-12"
   }
 ]
