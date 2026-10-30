@@ -252,6 +252,12 @@
     "contribution_receipt_date": "2026-05-27"
   },
   {
+    "contributor_name": "CHAIN BRIDGE BANK N.A.",
+    "contribution_receipt_amount": 17000000.0,
+    "committee_name": "NRSC",
+    "contribution_receipt_date": "2026-09-01"
+  },
+  {
     "contributor_name": "HOUSE MAJORITY FORWARD",
     "contribution_receipt_amount": 17000000.0,
     "committee_name": "HMP",
@@ -546,6 +552,12 @@
     "contribution_receipt_date": "2025-12-31"
   },
   {
+    "contributor_name": "REPUBLICAN NATIONAL COMMITTEE",
+    "contribution_receipt_amount": 8932000.0,
+    "committee_name": "NRSC",
+    "contribution_receipt_date": "2026-09-30"
+  },
+  {
     "contributor_name": "UIHLEIN, RICHARD E.",
     "contribution_receipt_amount": 8840939.0,
     "committee_name": "RESTORATION OF AMERICA PAC",
@@ -586,17 +598,5 @@
     "contribution_receipt_amount": 8006000.0,
     "committee_name": "NRCC",
     "contribution_receipt_date": "2026-09-25"
-  },
-  {
-    "contributor_name": "FAIRSHAKE",
-    "contribution_receipt_amount": 8000000.0,
-    "committee_name": "DEFEND AMERICAN JOBS",
-    "contribution_receipt_date": "2026-02-09"
-  },
-  {
-    "contributor_name": "AMERICAN ACTION NETWORK",
-    "contribution_receipt_amount": 7500000.0,
-    "committee_name": "CLF",
-    "contribution_receipt_date": "2026-03-31"
   }
 ]
