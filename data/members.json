@@ -1,5 +1,905 @@
 [
   {
+    "bioguideId": "W000817",
+    "name": "Warren, Elizabeth",
+    "party": "Democratic",
+    "state": "Massachusetts",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "W000802",
+    "name": "Whitehouse, Sheldon",
+    "party": "Democratic",
+    "state": "Rhode Island",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2007
+  },
+  {
+    "bioguideId": "Y000064",
+    "name": "Young, Todd",
+    "party": "Republican",
+    "state": "Indiana",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2011
+  },
+  {
+    "bioguideId": "W000800",
+    "name": "Welch, Peter",
+    "party": "Democratic",
+    "state": "Vermont",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2007
+  },
+  {
+    "bioguideId": "W000779",
+    "name": "Wyden, Ron",
+    "party": "Democratic",
+    "state": "Oregon",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1981
+  },
+  {
+    "bioguideId": "W000437",
+    "name": "Wicker, Roger F.",
+    "party": "Republican",
+    "state": "Mississippi",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1995
+  },
+  {
+    "bioguideId": "W000790",
+    "name": "Warnock, Raphael G.",
+    "party": "Democratic",
+    "state": "Georgia",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2021
+  },
+  {
+    "bioguideId": "T000278",
+    "name": "Tuberville, Tommy",
+    "party": "Republican",
+    "state": "Alabama",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2021
+  },
+  {
+    "bioguideId": "T000476",
+    "name": "Tillis, Thomas",
+    "party": "Republican",
+    "state": "North Carolina",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2015
+  },
+  {
+    "bioguideId": "W000805",
+    "name": "Warner, Mark R.",
+    "party": "Democratic",
+    "state": "Virginia",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "T000250",
+    "name": "Thune, John",
+    "party": "Republican",
+    "state": "South Dakota",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1997
+  },
+  {
+    "bioguideId": "V000128",
+    "name": "Van Hollen, Chris",
+    "party": "Democratic",
+    "state": "Maryland",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2003
+  },
+  {
+    "bioguideId": "S001232",
+    "name": "Sheehy, Tim",
+    "party": "Republican",
+    "state": "Montana",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "S001217",
+    "name": "Scott, Rick",
+    "party": "Republican",
+    "state": "Florida",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2019
+  },
+  {
+    "bioguideId": "S001208",
+    "name": "Slotkin, Elissa",
+    "party": "Democratic",
+    "state": "Michigan",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2019
+  },
+  {
+    "bioguideId": "S001203",
+    "name": "Smith, Tina",
+    "party": "Democratic",
+    "state": "Minnesota",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2018
+  },
+  {
+    "bioguideId": "S001198",
+    "name": "Sullivan, Dan",
+    "party": "Republican",
+    "state": "Alaska",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2015
+  },
+  {
+    "bioguideId": "S001181",
+    "name": "Shaheen, Jeanne",
+    "party": "Democratic",
+    "state": "New Hampshire",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "S001227",
+    "name": "Schmitt, Eric",
+    "party": "Republican",
+    "state": "Missouri",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2023
+  },
+  {
+    "bioguideId": "R000605",
+    "name": "Rounds, Mike",
+    "party": "Republican",
+    "state": "South Dakota",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2015
+  },
+  {
+    "bioguideId": "S001194",
+    "name": "Schatz, Brian",
+    "party": "Democratic",
+    "state": "Hawaii",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2012
+  },
+  {
+    "bioguideId": "S001184",
+    "name": "Scott, Tim",
+    "party": "Republican",
+    "state": "South Carolina",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2011
+  },
+  {
+    "bioguideId": "S000148",
+    "name": "Schumer, Charles E.",
+    "party": "Democratic",
+    "state": "New York",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1981
+  },
+  {
+    "bioguideId": "S000033",
+    "name": "Sanders, Bernard",
+    "party": "Independent",
+    "state": "Vermont",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1991
+  },
+  {
+    "bioguideId": "S001150",
+    "name": "Schiff, Adam B.",
+    "party": "Democratic",
+    "state": "California",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2001
+  },
+  {
+    "bioguideId": "R000618",
+    "name": "Ricketts, Pete",
+    "party": "Republican",
+    "state": "Nebraska",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2023
+  },
+  {
+    "bioguideId": "P000145",
+    "name": "Padilla, Alex",
+    "party": "Democratic",
+    "state": "California",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2021
+  },
+  {
+    "bioguideId": "R000608",
+    "name": "Rosen, Jacky",
+    "party": "Democratic",
+    "state": "Nevada",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "P000603",
+    "name": "Paul, Rand",
+    "party": "Republican",
+    "state": "Kentucky",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2011
+  },
+  {
+    "bioguideId": "P000595",
+    "name": "Peters, Gary C.",
+    "party": "Democratic",
+    "state": "Michigan",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "R000584",
+    "name": "Risch, James E.",
+    "party": "Republican",
+    "state": "Idaho",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "R000122",
+    "name": "Reed, Jack",
+    "party": "Democratic",
+    "state": "Rhode Island",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1991
+  },
+  {
+    "bioguideId": "M001244",
+    "name": "Moody, Ashley",
+    "party": "Republican",
+    "state": "Florida",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "M001242",
+    "name": "Moreno, Bernie",
+    "party": "Republican",
+    "state": "Ohio",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "O000174",
+    "name": "Ossoff, Jon",
+    "party": "Democratic",
+    "state": "Georgia",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2021
+  },
+  {
+    "bioguideId": "M001169",
+    "name": "Murphy, Christopher",
+    "party": "Democratic",
+    "state": "Connecticut",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2007
+  },
+  {
+    "bioguideId": "M000934",
+    "name": "Moran, Jerry",
+    "party": "Republican",
+    "state": "Kansas",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1997
+  },
+  {
+    "bioguideId": "M001111",
+    "name": "Murray, Patty",
+    "party": "Democratic",
+    "state": "Washington",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1993
+  },
+  {
+    "bioguideId": "M001153",
+    "name": "Murkowski, Lisa",
+    "party": "Republican",
+    "state": "Alaska",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2002
+  },
+  {
+    "bioguideId": "M001243",
+    "name": "McCormick, David",
+    "party": "Republican",
+    "state": "Pennsylvania",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "M001198",
+    "name": "Marshall, Roger",
+    "party": "Republican",
+    "state": "Kansas",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "L000571",
+    "name": "Lummis, Cynthia M.",
+    "party": "Republican",
+    "state": "Wyoming",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "L000570",
+    "name": "Luj\u00e1n, Ben Ray",
+    "party": "Democratic",
+    "state": "New Mexico",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "M001176",
+    "name": "Merkley, Jeff",
+    "party": "Democratic",
+    "state": "Oregon",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "M000133",
+    "name": "Markey, Edward J.",
+    "party": "Democratic",
+    "state": "Massachusetts",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1977
+  },
+  {
+    "bioguideId": "M000355",
+    "name": "McConnell, Mitch",
+    "party": "Republican",
+    "state": "Kentucky",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1985
+  },
+  {
+    "bioguideId": "K000377",
+    "name": "Kelly, Mark",
+    "party": "Democratic",
+    "state": "Arizona",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2020
+  },
+  {
+    "bioguideId": "K000394",
+    "name": "Kim, Andy",
+    "party": "Democratic",
+    "state": "New Jersey",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2019
+  },
+  {
+    "bioguideId": "K000393",
+    "name": "Kennedy, John",
+    "party": "Republican",
+    "state": "Louisiana",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "K000383",
+    "name": "King, Angus S., Jr.",
+    "party": "Independent",
+    "state": "Maine",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "K000367",
+    "name": "Klobuchar, Amy",
+    "party": "Democratic",
+    "state": "Minnesota",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2007
+  },
+  {
+    "bioguideId": "L000577",
+    "name": "Lee, Mike",
+    "party": "Republican",
+    "state": "Utah",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2011
+  },
+  {
+    "bioguideId": "L000575",
+    "name": "Lankford, James",
+    "party": "Republican",
+    "state": "Oklahoma",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2011
+  },
+  {
+    "bioguideId": "H001104",
+    "name": "Husted, Jon",
+    "party": "Republican",
+    "state": "Ohio",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "J000312",
+    "name": "Justice, James C.",
+    "party": "Republican",
+    "state": "West Virginia",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "H001079",
+    "name": "Hyde-Smith, Cindy",
+    "party": "Republican",
+    "state": "Mississippi",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2018
+  },
+  {
+    "bioguideId": "K000384",
+    "name": "Kaine, Tim",
+    "party": "Democratic",
+    "state": "Virginia",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "J000293",
+    "name": "Johnson, Ron",
+    "party": "Republican",
+    "state": "Wisconsin",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2011
+  },
+  {
+    "bioguideId": "H000273",
+    "name": "Hickenlooper, John W.",
+    "party": "Democratic",
+    "state": "Colorado",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2021
+  },
+  {
+    "bioguideId": "H001089",
+    "name": "Hawley, Josh",
+    "party": "Republican",
+    "state": "Missouri",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2019
+  },
+  {
+    "bioguideId": "H001076",
+    "name": "Hassan, Margaret Wood",
+    "party": "Democratic",
+    "state": "New Hampshire",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "H001061",
+    "name": "Hoeven, John",
+    "party": "Republican",
+    "state": "North Dakota",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2011
+  },
+  {
+    "bioguideId": "H001042",
+    "name": "Hirono, Mazie K.",
+    "party": "Democratic",
+    "state": "Hawaii",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2007
+  },
+  {
+    "bioguideId": "H001046",
+    "name": "Heinrich, Martin",
+    "party": "Democratic",
+    "state": "New Mexico",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "G000608",
+    "name": "Graham, Darline",
+    "party": "Republican",
+    "state": "South Carolina",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2026
+  },
+  {
+    "bioguideId": "F000479",
+    "name": "Fetterman, John",
+    "party": "Democratic",
+    "state": "Pennsylvania",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2023
+  },
+  {
+    "bioguideId": "H000601",
+    "name": "Hagerty, Bill",
+    "party": "Republican",
+    "state": "Tennessee",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2021
+  },
+  {
+    "bioguideId": "G000574",
+    "name": "Gallego, Ruben",
+    "party": "Democratic",
+    "state": "Arizona",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2015
+  },
+  {
+    "bioguideId": "F000463",
+    "name": "Fischer, Deb",
+    "party": "Republican",
+    "state": "Nebraska",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "G000555",
+    "name": "Gillibrand, Kirsten E.",
+    "party": "Democratic",
+    "state": "New York",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2007
+  },
+  {
+    "bioguideId": "G000386",
+    "name": "Grassley, Chuck",
+    "party": "Republican",
+    "state": "Iowa",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1975
+  },
+  {
+    "bioguideId": "C001114",
+    "name": "Curtis, John R.",
+    "party": "Republican",
+    "state": "Utah",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "E000295",
+    "name": "Ernst, Joni",
+    "party": "Republican",
+    "state": "Iowa",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2015
+  },
+  {
+    "bioguideId": "C001098",
+    "name": "Cruz, Ted",
+    "party": "Republican",
+    "state": "Texas",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "D000618",
+    "name": "Daines, Steve",
+    "party": "Republican",
+    "state": "Montana",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "D000622",
+    "name": "Duckworth, Tammy",
+    "party": "Democratic",
+    "state": "Illinois",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "D000563",
+    "name": "Durbin, Richard J.",
+    "party": "Democratic",
+    "state": "Illinois",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1983
+  },
+  {
+    "bioguideId": "C000880",
+    "name": "Crapo, Mike",
+    "party": "Republican",
+    "state": "Idaho",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1993
+  },
+  {
+    "bioguideId": "C001113",
+    "name": "Cortez Masto, Catherine",
+    "party": "Democratic",
+    "state": "Nevada",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "C001096",
+    "name": "Cramer, Kevin",
+    "party": "Republican",
+    "state": "North Dakota",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "C001095",
+    "name": "Cotton, Tom",
+    "party": "Republican",
+    "state": "Arkansas",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "C001088",
+    "name": "Coons, Christopher A.",
+    "party": "Democratic",
+    "state": "Delaware",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2010
+  },
+  {
+    "bioguideId": "C001075",
+    "name": "Cassidy, Bill",
+    "party": "Republican",
+    "state": "Louisiana",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "C001035",
+    "name": "Collins, Susan M.",
+    "party": "Republican",
+    "state": "Maine",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1997
+  },
+  {
+    "bioguideId": "C001056",
+    "name": "Cornyn, John",
+    "party": "Republican",
+    "state": "Texas",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2002
+  },
+  {
+    "bioguideId": "B001319",
+    "name": "Britt, Katie Boyd",
+    "party": "Republican",
+    "state": "Alabama",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2023
+  },
+  {
+    "bioguideId": "B001305",
+    "name": "Budd, Ted",
+    "party": "Republican",
+    "state": "North Carolina",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "B001303",
+    "name": "Blunt Rochester, Lisa",
+    "party": "Democratic",
+    "state": "Delaware",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "B001288",
+    "name": "Booker, Cory A.",
+    "party": "Democratic",
+    "state": "New Jersey",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2013
+  },
+  {
+    "bioguideId": "B001277",
+    "name": "Blumenthal, Richard",
+    "party": "Democratic",
+    "state": "Connecticut",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2011
+  },
+  {
+    "bioguideId": "B001236",
+    "name": "Boozman, John",
+    "party": "Republican",
+    "state": "Arkansas",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2001
+  },
+  {
+    "bioguideId": "C001047",
+    "name": "Capito, Shelley Moore",
+    "party": "Republican",
+    "state": "West Virginia",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2001
+  },
+  {
+    "bioguideId": "C000127",
+    "name": "Cantwell, Maria",
+    "party": "Democratic",
+    "state": "Washington",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1993
+  },
+  {
+    "bioguideId": "A000383",
+    "name": "Armstrong, Alan",
+    "party": "Republican",
+    "state": "Oklahoma",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2026
+  },
+  {
+    "bioguideId": "A000382",
+    "name": "Alsobrooks, Angela D.",
+    "party": "Democratic",
+    "state": "Maryland",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "B001299",
+    "name": "Banks, Jim",
+    "party": "Republican",
+    "state": "Indiana",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "B001261",
+    "name": "Barrasso, John",
+    "party": "Republican",
+    "state": "Wyoming",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2007
+  },
+  {
+    "bioguideId": "B001267",
+    "name": "Bennet, Michael F.",
+    "party": "Democratic",
+    "state": "Colorado",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "B001230",
+    "name": "Baldwin, Tammy",
+    "party": "Democratic",
+    "state": "Wisconsin",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 1999
+  },
+  {
+    "bioguideId": "B001243",
+    "name": "Blackburn, Marsha",
+    "party": "Republican",
+    "state": "Tennessee",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2003
+  },
+  {
     "bioguideId": "G000607",
     "name": "Gallagher, James",
     "party": "Republican",
@@ -1339,24 +2239,6 @@
     "district": 17,
     "chamber": "House of Representatives",
     "startYear": 1997
-  },
-  {
-    "bioguideId": "V000128",
-    "name": "Van Hollen, Chris",
-    "party": "Democratic",
-    "state": "Maryland",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2003
-  },
-  {
-    "bioguideId": "L000570",
-    "name": "Luj\u00e1n, Ben Ray",
-    "party": "Democratic",
-    "state": "New Mexico",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
   },
   {
     "bioguideId": "W000831",
@@ -3942,24 +4824,6 @@
     "startYear": 1981
   },
   {
-    "bioguideId": "W000817",
-    "name": "Warren, Elizabeth",
-    "party": "Democratic",
-    "state": "Massachusetts",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "J000293",
-    "name": "Johnson, Ron",
-    "party": "Republican",
-    "state": "Wisconsin",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2011
-  },
-  {
     "bioguideId": "B001324",
     "name": "Bell, Wesley",
     "party": "Democratic",
@@ -3985,869 +4849,5 @@
     "district": 6,
     "chamber": "House of Representatives",
     "startYear": 2019
-  },
-  {
-    "bioguideId": "G000608",
-    "name": "Graham, Darline",
-    "party": "Republican",
-    "state": "South Carolina",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2026
-  },
-  {
-    "bioguideId": "M001244",
-    "name": "Moody, Ashley",
-    "party": "Republican",
-    "state": "Florida",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "M001111",
-    "name": "Murray, Patty",
-    "party": "Democratic",
-    "state": "Washington",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1993
-  },
-  {
-    "bioguideId": "G000386",
-    "name": "Grassley, Chuck",
-    "party": "Republican",
-    "state": "Iowa",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1975
-  },
-  {
-    "bioguideId": "S001184",
-    "name": "Scott, Tim",
-    "party": "Republican",
-    "state": "South Carolina",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2011
-  },
-  {
-    "bioguideId": "S001150",
-    "name": "Schiff, Adam B.",
-    "party": "Democratic",
-    "state": "California",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2001
-  },
-  {
-    "bioguideId": "B001288",
-    "name": "Booker, Cory A.",
-    "party": "Democratic",
-    "state": "New Jersey",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "A000383",
-    "name": "Armstrong, Alan",
-    "party": "Republican",
-    "state": "Oklahoma",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2026
-  },
-  {
-    "bioguideId": "Y000064",
-    "name": "Young, Todd",
-    "party": "Republican",
-    "state": "Indiana",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2011
-  },
-  {
-    "bioguideId": "W000779",
-    "name": "Wyden, Ron",
-    "party": "Democratic",
-    "state": "Oregon",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1981
-  },
-  {
-    "bioguideId": "W000437",
-    "name": "Wicker, Roger F.",
-    "party": "Republican",
-    "state": "Mississippi",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1995
-  },
-  {
-    "bioguideId": "W000802",
-    "name": "Whitehouse, Sheldon",
-    "party": "Democratic",
-    "state": "Rhode Island",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2007
-  },
-  {
-    "bioguideId": "W000800",
-    "name": "Welch, Peter",
-    "party": "Democratic",
-    "state": "Vermont",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2007
-  },
-  {
-    "bioguideId": "W000790",
-    "name": "Warnock, Raphael G.",
-    "party": "Democratic",
-    "state": "Georgia",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2021
-  },
-  {
-    "bioguideId": "W000805",
-    "name": "Warner, Mark R.",
-    "party": "Democratic",
-    "state": "Virginia",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
-  },
-  {
-    "bioguideId": "T000278",
-    "name": "Tuberville, Tommy",
-    "party": "Republican",
-    "state": "Alabama",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2021
-  },
-  {
-    "bioguideId": "T000476",
-    "name": "Tillis, Thomas",
-    "party": "Republican",
-    "state": "North Carolina",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2015
-  },
-  {
-    "bioguideId": "T000250",
-    "name": "Thune, John",
-    "party": "Republican",
-    "state": "South Dakota",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1997
-  },
-  {
-    "bioguideId": "S001198",
-    "name": "Sullivan, Dan",
-    "party": "Republican",
-    "state": "Alaska",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2015
-  },
-  {
-    "bioguideId": "S001203",
-    "name": "Smith, Tina",
-    "party": "Democratic",
-    "state": "Minnesota",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2018
-  },
-  {
-    "bioguideId": "S001208",
-    "name": "Slotkin, Elissa",
-    "party": "Democratic",
-    "state": "Michigan",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2019
-  },
-  {
-    "bioguideId": "S001232",
-    "name": "Sheehy, Tim",
-    "party": "Republican",
-    "state": "Montana",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "S001181",
-    "name": "Shaheen, Jeanne",
-    "party": "Democratic",
-    "state": "New Hampshire",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
-  },
-  {
-    "bioguideId": "S001217",
-    "name": "Scott, Rick",
-    "party": "Republican",
-    "state": "Florida",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2019
-  },
-  {
-    "bioguideId": "S000148",
-    "name": "Schumer, Charles E.",
-    "party": "Democratic",
-    "state": "New York",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1981
-  },
-  {
-    "bioguideId": "S001227",
-    "name": "Schmitt, Eric",
-    "party": "Republican",
-    "state": "Missouri",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2023
-  },
-  {
-    "bioguideId": "S001194",
-    "name": "Schatz, Brian",
-    "party": "Democratic",
-    "state": "Hawaii",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2012
-  },
-  {
-    "bioguideId": "S000033",
-    "name": "Sanders, Bernard",
-    "party": "Independent",
-    "state": "Vermont",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1991
-  },
-  {
-    "bioguideId": "R000605",
-    "name": "Rounds, Mike",
-    "party": "Republican",
-    "state": "South Dakota",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2015
-  },
-  {
-    "bioguideId": "R000608",
-    "name": "Rosen, Jacky",
-    "party": "Democratic",
-    "state": "Nevada",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
-  },
-  {
-    "bioguideId": "R000584",
-    "name": "Risch, James E.",
-    "party": "Republican",
-    "state": "Idaho",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
-  },
-  {
-    "bioguideId": "R000618",
-    "name": "Ricketts, Pete",
-    "party": "Republican",
-    "state": "Nebraska",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2023
-  },
-  {
-    "bioguideId": "R000122",
-    "name": "Reed, Jack",
-    "party": "Democratic",
-    "state": "Rhode Island",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1991
-  },
-  {
-    "bioguideId": "P000595",
-    "name": "Peters, Gary C.",
-    "party": "Democratic",
-    "state": "Michigan",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
-  },
-  {
-    "bioguideId": "P000603",
-    "name": "Paul, Rand",
-    "party": "Republican",
-    "state": "Kentucky",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2011
-  },
-  {
-    "bioguideId": "P000145",
-    "name": "Padilla, Alex",
-    "party": "Democratic",
-    "state": "California",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2021
-  },
-  {
-    "bioguideId": "O000174",
-    "name": "Ossoff, Jon",
-    "party": "Democratic",
-    "state": "Georgia",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2021
-  },
-  {
-    "bioguideId": "M001169",
-    "name": "Murphy, Christopher",
-    "party": "Democratic",
-    "state": "Connecticut",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2007
-  },
-  {
-    "bioguideId": "M001153",
-    "name": "Murkowski, Lisa",
-    "party": "Republican",
-    "state": "Alaska",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2002
-  },
-  {
-    "bioguideId": "M001242",
-    "name": "Moreno, Bernie",
-    "party": "Republican",
-    "state": "Ohio",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "M000934",
-    "name": "Moran, Jerry",
-    "party": "Republican",
-    "state": "Kansas",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1997
-  },
-  {
-    "bioguideId": "M001176",
-    "name": "Merkley, Jeff",
-    "party": "Democratic",
-    "state": "Oregon",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
-  },
-  {
-    "bioguideId": "M001243",
-    "name": "McCormick, David",
-    "party": "Republican",
-    "state": "Pennsylvania",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "M000355",
-    "name": "McConnell, Mitch",
-    "party": "Republican",
-    "state": "Kentucky",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1985
-  },
-  {
-    "bioguideId": "M001198",
-    "name": "Marshall, Roger",
-    "party": "Republican",
-    "state": "Kansas",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
-  },
-  {
-    "bioguideId": "M000133",
-    "name": "Markey, Edward J.",
-    "party": "Democratic",
-    "state": "Massachusetts",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1977
-  },
-  {
-    "bioguideId": "L000571",
-    "name": "Lummis, Cynthia M.",
-    "party": "Republican",
-    "state": "Wyoming",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
-  },
-  {
-    "bioguideId": "L000577",
-    "name": "Lee, Mike",
-    "party": "Republican",
-    "state": "Utah",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2011
-  },
-  {
-    "bioguideId": "L000575",
-    "name": "Lankford, James",
-    "party": "Republican",
-    "state": "Oklahoma",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2011
-  },
-  {
-    "bioguideId": "K000367",
-    "name": "Klobuchar, Amy",
-    "party": "Democratic",
-    "state": "Minnesota",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2007
-  },
-  {
-    "bioguideId": "K000383",
-    "name": "King, Angus S., Jr.",
-    "party": "Independent",
-    "state": "Maine",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "K000394",
-    "name": "Kim, Andy",
-    "party": "Democratic",
-    "state": "New Jersey",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2019
-  },
-  {
-    "bioguideId": "K000393",
-    "name": "Kennedy, John",
-    "party": "Republican",
-    "state": "Louisiana",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
-  },
-  {
-    "bioguideId": "K000377",
-    "name": "Kelly, Mark",
-    "party": "Democratic",
-    "state": "Arizona",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2020
-  },
-  {
-    "bioguideId": "K000384",
-    "name": "Kaine, Tim",
-    "party": "Democratic",
-    "state": "Virginia",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "J000312",
-    "name": "Justice, James C.",
-    "party": "Republican",
-    "state": "West Virginia",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "H001079",
-    "name": "Hyde-Smith, Cindy",
-    "party": "Republican",
-    "state": "Mississippi",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2018
-  },
-  {
-    "bioguideId": "H001104",
-    "name": "Husted, Jon",
-    "party": "Republican",
-    "state": "Ohio",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "H001061",
-    "name": "Hoeven, John",
-    "party": "Republican",
-    "state": "North Dakota",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2011
-  },
-  {
-    "bioguideId": "H001042",
-    "name": "Hirono, Mazie K.",
-    "party": "Democratic",
-    "state": "Hawaii",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2007
-  },
-  {
-    "bioguideId": "H000273",
-    "name": "Hickenlooper, John W.",
-    "party": "Democratic",
-    "state": "Colorado",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2021
-  },
-  {
-    "bioguideId": "H001046",
-    "name": "Heinrich, Martin",
-    "party": "Democratic",
-    "state": "New Mexico",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
-  },
-  {
-    "bioguideId": "H001089",
-    "name": "Hawley, Josh",
-    "party": "Republican",
-    "state": "Missouri",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2019
-  },
-  {
-    "bioguideId": "H001076",
-    "name": "Hassan, Margaret Wood",
-    "party": "Democratic",
-    "state": "New Hampshire",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
-  },
-  {
-    "bioguideId": "H000601",
-    "name": "Hagerty, Bill",
-    "party": "Republican",
-    "state": "Tennessee",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2021
-  },
-  {
-    "bioguideId": "G000555",
-    "name": "Gillibrand, Kirsten E.",
-    "party": "Democratic",
-    "state": "New York",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2007
-  },
-  {
-    "bioguideId": "G000574",
-    "name": "Gallego, Ruben",
-    "party": "Democratic",
-    "state": "Arizona",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2015
-  },
-  {
-    "bioguideId": "F000463",
-    "name": "Fischer, Deb",
-    "party": "Republican",
-    "state": "Nebraska",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "F000479",
-    "name": "Fetterman, John",
-    "party": "Democratic",
-    "state": "Pennsylvania",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2023
-  },
-  {
-    "bioguideId": "E000295",
-    "name": "Ernst, Joni",
-    "party": "Republican",
-    "state": "Iowa",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2015
-  },
-  {
-    "bioguideId": "D000563",
-    "name": "Durbin, Richard J.",
-    "party": "Democratic",
-    "state": "Illinois",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1983
-  },
-  {
-    "bioguideId": "D000622",
-    "name": "Duckworth, Tammy",
-    "party": "Democratic",
-    "state": "Illinois",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "D000618",
-    "name": "Daines, Steve",
-    "party": "Republican",
-    "state": "Montana",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "C001114",
-    "name": "Curtis, John R.",
-    "party": "Republican",
-    "state": "Utah",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
-  },
-  {
-    "bioguideId": "C001098",
-    "name": "Cruz, Ted",
-    "party": "Republican",
-    "state": "Texas",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "C000880",
-    "name": "Crapo, Mike",
-    "party": "Republican",
-    "state": "Idaho",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1993
-  },
-  {
-    "bioguideId": "C001096",
-    "name": "Cramer, Kevin",
-    "party": "Republican",
-    "state": "North Dakota",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "C001095",
-    "name": "Cotton, Tom",
-    "party": "Republican",
-    "state": "Arkansas",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2013
-  },
-  {
-    "bioguideId": "C001113",
-    "name": "Cortez Masto, Catherine",
-    "party": "Democratic",
-    "state": "Nevada",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
-  },
-  {
-    "bioguideId": "C001056",
-    "name": "Cornyn, John",
-    "party": "Republican",
-    "state": "Texas",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2002
-  },
-  {
-    "bioguideId": "C001088",
-    "name": "Coons, Christopher A.",
-    "party": "Democratic",
-    "state": "Delaware",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2010
-  },
-  {
-    "bioguideId": "C001035",
-    "name": "Collins, Susan M.",
-    "party": "Republican",
-    "state": "Maine",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1997
-  },
-  {
-    "bioguideId": "C001075",
-    "name": "Cassidy, Bill",
-    "party": "Republican",
-    "state": "Louisiana",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
-  },
-  {
-    "bioguideId": "C001047",
-    "name": "Capito, Shelley Moore",
-    "party": "Republican",
-    "state": "West Virginia",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2001
-  },
-  {
-    "bioguideId": "C000127",
-    "name": "Cantwell, Maria",
-    "party": "Democratic",
-    "state": "Washington",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1993
-  },
-  {
-    "bioguideId": "B001305",
-    "name": "Budd, Ted",
-    "party": "Republican",
-    "state": "North Carolina",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
-  },
-  {
-    "bioguideId": "B001319",
-    "name": "Britt, Katie Boyd",
-    "party": "Republican",
-    "state": "Alabama",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2023
-  },
-  {
-    "bioguideId": "B001236",
-    "name": "Boozman, John",
-    "party": "Republican",
-    "state": "Arkansas",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2001
-  },
-  {
-    "bioguideId": "B001303",
-    "name": "Blunt Rochester, Lisa",
-    "party": "Democratic",
-    "state": "Delaware",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
-  },
-  {
-    "bioguideId": "B001277",
-    "name": "Blumenthal, Richard",
-    "party": "Democratic",
-    "state": "Connecticut",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2011
-  },
-  {
-    "bioguideId": "B001243",
-    "name": "Blackburn, Marsha",
-    "party": "Republican",
-    "state": "Tennessee",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2003
-  },
-  {
-    "bioguideId": "B001267",
-    "name": "Bennet, Michael F.",
-    "party": "Democratic",
-    "state": "Colorado",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
-  },
-  {
-    "bioguideId": "B001261",
-    "name": "Barrasso, John",
-    "party": "Republican",
-    "state": "Wyoming",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2007
-  },
-  {
-    "bioguideId": "B001299",
-    "name": "Banks, Jim",
-    "party": "Republican",
-    "state": "Indiana",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
-  },
-  {
-    "bioguideId": "B001230",
-    "name": "Baldwin, Tammy",
-    "party": "Democratic",
-    "state": "Wisconsin",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 1999
-  },
-  {
-    "bioguideId": "A000382",
-    "name": "Alsobrooks, Angela D.",
-    "party": "Democratic",
-    "state": "Maryland",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
   }
 ]
