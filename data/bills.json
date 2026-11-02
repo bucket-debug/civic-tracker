@@ -1,6 +1,216 @@
 [
   {
     "congress": 119,
+    "number": "4598",
+    "type": "HR",
+    "title": "Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, Taos Pueblo Indian Water Rights Settlement Act, and Aamodt Litigation Settlement Act",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 751.",
+      "actionDate": "2026-10-29"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2783",
+    "type": "S",
+    "title": "Learn and Serve America Reinvestment Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-09-11"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3331",
+    "type": "HR",
+    "title": "Mariner Exam Modernization Act",
+    "latestAction": {
+      "text": "Placed on the Union Calendar, Calendar No. 750.",
+      "actionDate": "2026-10-29"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "3857",
+    "type": "S",
+    "title": "One Nation, One Visa Policy Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "actionDate": "2026-02-12"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "4365",
+    "type": "S",
+    "title": "FAFSA Verification Efficiency Act",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2026-04-21"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "3406",
+    "type": "S",
+    "title": "PATHS to Tutor Act of 2025",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "actionDate": "2025-12-09"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "5526",
+    "type": "S",
+    "title": "Agricultural Act of 2026",
+    "latestAction": {
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 683.",
+      "actionDate": "2026-09-24"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1876",
+    "type": "HR",
+    "title": "Keeping Our Field Offices Open Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-03-05"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 20,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1859",
+    "type": "HR",
+    "title": "Apprenticeship Opportunity Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-03-05"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "3929",
+    "type": "S",
+    "title": "Air Traffic Situational Awareness Enhancement Act",
+    "latestAction": {
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "actionDate": "2026-09-16"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "5349",
+    "type": "HR",
+    "title": "TAS Act",
+    "latestAction": {
+      "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
+      "actionDate": "2026-09-30"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10919",
+    "type": "HR",
+    "title": "Safety Net Provider Drug Pricing Protection Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-10-29"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "10933",
+    "type": "HR",
+    "title": "EMS SUPPORT Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-10-29"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10921",
+    "type": "HR",
+    "title": "Breast Cancer Patient Equity Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-10-29"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10931",
+    "type": "HR",
+    "title": "Library Construction and Modernization Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "actionDate": "2026-10-29"
+    },
+    "updateDate": "2026-11-02",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "7954",
     "type": "HR",
     "title": "Don Young Doug LaMalfa Indian Buffalo Management Act",
@@ -15,12 +225,12 @@
   },
   {
     "congress": 119,
-    "number": "10642",
+    "number": "3045",
     "type": "HR",
-    "title": "Stop the Settlements Act",
+    "title": "West Bank Violence Prevention Act of 2025",
     "latestAction": {
-      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-01"
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2025-04-28"
     },
     "updateDate": "2026-10-31",
     "sponsor": null,
@@ -43,9 +253,23 @@
   },
   {
     "congress": 119,
-    "number": "310",
+    "number": "32",
+    "type": "SJRES",
+    "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of Israel of certain defense articles and services.",
+    "latestAction": {
+      "text": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 40 - 59. Record Vote Number: 80. (consideration: CR S1764-1779)",
+      "actionDate": "2026-04-15"
+    },
+    "updateDate": "2026-10-31",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "309",
     "type": "HRES",
-    "title": "Dismissing the election contest relating to the office of Representative from the at-large Congressional District of Alaska.",
+    "title": "Dismissing the election contest relating to the office of Representative from the Twenty-eighth Congressional District of Texas.",
     "latestAction": {
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "actionDate": "2025-12-09"
@@ -71,6 +295,20 @@
   },
   {
     "congress": 119,
+    "number": "310",
+    "type": "HRES",
+    "title": "Dismissing the election contest relating to the office of Representative from the at-large Congressional District of Alaska.",
+    "latestAction": {
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2025-12-09"
+    },
+    "updateDate": "2026-10-31",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "311",
     "type": "HRES",
     "title": "Dismissing the election contest relating to the office of Representative from the Thirtieth Congressional District of Texas.",
@@ -85,72 +323,16 @@
   },
   {
     "congress": 119,
-    "number": "312",
-    "type": "HRES",
-    "title": "Dismissing the election contest relating to the office of Representative from the Fourteenth Congressional District of Florida.",
-    "latestAction": {
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "actionDate": "2025-12-09"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "309",
-    "type": "HRES",
-    "title": "Dismissing the election contest relating to the office of Representative from the Twenty-eighth Congressional District of Texas.",
-    "latestAction": {
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "actionDate": "2025-12-09"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3045",
+    "number": "10642",
     "type": "HR",
-    "title": "West Bank Violence Prevention Act of 2025",
+    "title": "Stop the Settlements Act",
     "latestAction": {
-      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2025-04-28"
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-10-01"
     },
     "updateDate": "2026-10-31",
     "sponsor": null,
     "democratCosponsors": 20,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "32",
-    "type": "SJRES",
-    "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of Israel of certain defense articles and services.",
-    "latestAction": {
-      "text": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 40 - 59. Record Vote Number: 80. (consideration: CR S1764-1779)",
-      "actionDate": "2026-04-15"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "308",
-    "type": "HRES",
-    "title": "Dismissing the election contest relating to the office of Representative from the Fourteenth Congressional District of Florida.",
-    "latestAction": {
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "actionDate": "2025-12-09"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
     "republicanCosponsors": 0
   },
   {
@@ -169,26 +351,26 @@
   },
   {
     "congress": 119,
-    "number": "10926",
-    "type": "HR",
-    "title": "Election Worker and Polling Place Protection Act",
+    "number": "312",
+    "type": "HRES",
+    "title": "Dismissing the election contest relating to the office of Representative from the Fourteenth Congressional District of Florida.",
     "latestAction": {
-      "text": "Referred to the House Committee on the Judiciary.",
-      "actionDate": "2026-10-29"
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2025-12-09"
     },
     "updateDate": "2026-10-31",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
-    "number": "10931",
-    "type": "HR",
-    "title": "Library Construction and Modernization Act of 2026",
+    "number": "308",
+    "type": "HRES",
+    "title": "Dismissing the election contest relating to the office of Representative from the Fourteenth Congressional District of Florida.",
     "latestAction": {
-      "text": "Referred to the House Committee on Education and Workforce.",
-      "actionDate": "2026-10-29"
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2025-12-09"
     },
     "updateDate": "2026-10-31",
     "sponsor": null,
@@ -202,20 +384,6 @@
     "title": "Data Center Oversight Act",
     "latestAction": {
       "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-10-29"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10925",
-    "type": "HR",
-    "title": "Countering Online Trafficking Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Foreign Affairs.",
       "actionDate": "2026-10-29"
     },
     "updateDate": "2026-10-31",
@@ -239,34 +407,6 @@
   },
   {
     "congress": 119,
-    "number": "10921",
-    "type": "HR",
-    "title": "Breast Cancer Patient Equity Act",
-    "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-29"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10929",
-    "type": "HR",
-    "title": "Protecting American Hemp Farmers Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-10-29"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
     "number": "10928",
     "type": "HR",
     "title": "Farmer Recovery Opportunity and Support for Temperatures Relief Act",
@@ -281,39 +421,11 @@
   },
   {
     "congress": 119,
-    "number": "10930",
+    "number": "10929",
     "type": "HR",
-    "title": "Childhood Offenders Rehabilitation and Safety Act of 2026",
+    "title": "Protecting American Hemp Farmers Act",
     "latestAction": {
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "actionDate": "2026-10-29"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "10919",
-    "type": "HR",
-    "title": "Safety Net Provider Drug Pricing Protection Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-10-29"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "10933",
-    "type": "HR",
-    "title": "EMS SUPPORT Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
+      "text": "Referred to the House Committee on Ways and Means.",
       "actionDate": "2026-10-29"
     },
     "updateDate": "2026-10-31",
@@ -337,17 +449,59 @@
   },
   {
     "congress": 119,
-    "number": "9382",
+    "number": "10930",
     "type": "HR",
-    "title": "To require the Commissioner of U.S. Customs and Border Protection to link together applications of family members throughout the NEXUS application process, and for other purposes.",
+    "title": "Childhood Offenders Rehabilitation and Safety Act of 2026",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "actionDate": "2026-10-29"
+    },
+    "updateDate": "2026-10-31",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "10926",
+    "type": "HR",
+    "title": "Election Worker and Polling Place Protection Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on the Judiciary.",
+      "actionDate": "2026-10-29"
+    },
+    "updateDate": "2026-10-31",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10925",
+    "type": "HR",
+    "title": "Countering Online Trafficking Act",
+    "latestAction": {
+      "text": "Referred to the House Committee on Foreign Affairs.",
+      "actionDate": "2026-10-29"
+    },
+    "updateDate": "2026-10-31",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "5109",
+    "type": "HR",
+    "title": "Transportation Worker Identification Credential Efficiency Act",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "actionDate": "2026-09-16"
     },
     "updateDate": "2026-10-31",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
+    "democratCosponsors": 3,
+    "republicanCosponsors": 4
   },
   {
     "congress": 119,
@@ -365,6 +519,20 @@
   },
   {
     "congress": 119,
+    "number": "9382",
+    "type": "HR",
+    "title": "To require the Commissioner of U.S. Customs and Border Protection to link together applications of family members throughout the NEXUS application process, and for other purposes.",
+    "latestAction": {
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "actionDate": "2026-09-16"
+    },
+    "updateDate": "2026-10-31",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
     "number": "3965",
     "type": "HR",
     "title": "PEARL Act",
@@ -376,20 +544,6 @@
     "sponsor": null,
     "democratCosponsors": 6,
     "republicanCosponsors": 6
-  },
-  {
-    "congress": 119,
-    "number": "5109",
-    "type": "HR",
-    "title": "Transportation Worker Identification Credential Efficiency Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "actionDate": "2026-09-16"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 4
   },
   {
     "congress": 119,
@@ -421,54 +575,12 @@
   },
   {
     "congress": 119,
-    "number": "9339",
-    "type": "HR",
-    "title": "Affordable Innovation for the Grid Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
-      "actionDate": "2026-09-16"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 3,
-    "republicanCosponsors": 3
-  },
-  {
-    "congress": 119,
-    "number": "4931",
-    "type": "HR",
-    "title": "National Park System Long-Term Lease Investment Act",
-    "latestAction": {
-      "text": "Received in the Senate.",
-      "actionDate": "2026-09-15"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "1266",
-    "type": "HR",
-    "title": "Combating Illicit Xylazine Act",
-    "latestAction": {
-      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 623.",
-      "actionDate": "2026-09-16"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 10,
-    "republicanCosponsors": 10
-  },
-  {
-    "congress": 119,
-    "number": "94",
+    "number": "4",
     "type": "SRES",
-    "title": "An original resolution authorizing expenditures by committees of the Senate for the periods March 1, 2025, through September 30, 2025, October 1, 2025, through September 30, 2026, and October 1, 2026, through February 28, 2027.",
+    "title": "A resolution notifying the President of the United States of the election of a President pro tempore.",
     "latestAction": {
-      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1434; text: 02/25/2025 CR S1352-1358)",
-      "actionDate": "2025-02-27"
+      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6; text: CR S6)",
+      "actionDate": "2025-01-03"
     },
     "updateDate": "2026-10-31",
     "sponsor": null,
@@ -491,31 +603,17 @@
   },
   {
     "congress": 119,
-    "number": "9616",
+    "number": "5267",
     "type": "HR",
-    "title": "EMRTAI Authorization Act of 2026",
+    "title": "American Franchise Act",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
-      "actionDate": "2026-09-16"
+      "text": "Placed on the Union Calendar, Calendar No. 702.",
+      "actionDate": "2026-09-08"
     },
     "updateDate": "2026-10-31",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4366",
-    "type": "HR",
-    "title": "Save Local Business Act",
-    "latestAction": {
-      "text": "Rule H. Res. 988 passed House.",
-      "actionDate": "2026-01-13"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 2
+    "democratCosponsors": 8,
+    "republicanCosponsors": 12
   },
   {
     "congress": 119,
@@ -533,12 +631,12 @@
   },
   {
     "congress": 119,
-    "number": "4",
-    "type": "SRES",
-    "title": "A resolution notifying the President of the United States of the election of a President pro tempore.",
+    "number": "4931",
+    "type": "HR",
+    "title": "National Park System Long-Term Lease Investment Act",
     "latestAction": {
-      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6; text: CR S6)",
-      "actionDate": "2025-01-03"
+      "text": "Received in the Senate.",
+      "actionDate": "2026-09-15"
     },
     "updateDate": "2026-10-31",
     "sponsor": null,
@@ -575,128 +673,30 @@
   },
   {
     "congress": 119,
-    "number": "9499",
+    "number": "1266",
     "type": "HR",
-    "title": "Protecting Taxpayers from Ghost Preparers Act",
+    "title": "Combating Illicit Xylazine Act",
     "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 623.",
       "actionDate": "2026-09-16"
     },
     "updateDate": "2026-10-31",
     "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "democratCosponsors": 10,
+    "republicanCosponsors": 10
   },
   {
     "congress": 119,
-    "number": "5267",
-    "type": "HR",
-    "title": "American Franchise Act",
+    "number": "94",
+    "type": "SRES",
+    "title": "An original resolution authorizing expenditures by committees of the Senate for the periods March 1, 2025, through September 30, 2025, October 1, 2025, through September 30, 2026, and October 1, 2026, through February 28, 2027.",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 702.",
-      "actionDate": "2026-09-08"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 8,
-    "republicanCosponsors": 12
-  },
-  {
-    "congress": 119,
-    "number": "9501",
-    "type": "HR",
-    "title": "AI Tax Integrity Act of 2026",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 701.",
-      "actionDate": "2026-09-08"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "7629",
-    "type": "HR",
-    "title": "Pittman-Robertson Wildlife Restoration Act and Dingell-Johnson Sport Fish Restoration Act District of Columbia Equality Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Natural Resources.",
-      "actionDate": "2026-02-20"
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1434; text: 02/25/2025 CR S1352-1358)",
+      "actionDate": "2025-02-27"
     },
     "updateDate": "2026-10-31",
     "sponsor": null,
     "democratCosponsors": 0,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "3173",
-    "type": "HR",
-    "title": "Federal Reserve Financial Accountability and Transparency Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Financial Services.",
-      "actionDate": "2025-05-01"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "7661",
-    "type": "HR",
-    "title": "Stop the Sexualization of Children Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 632.",
-      "actionDate": "2026-07-02"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 20
-  },
-  {
-    "congress": 119,
-    "number": "2617",
-    "type": "HR",
-    "title": "Say No to Indoctrination Act",
-    "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 378.",
-      "actionDate": "2026-01-13"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 4
-  },
-  {
-    "congress": 119,
-    "number": "3404",
-    "type": "S",
-    "title": "Satellite Cybersecurity Act of 2025",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-09-24"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "6633",
-    "type": "HR",
-    "title": "High-Capacity Grid Act",
-    "latestAction": {
-      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
-      "actionDate": "2026-09-16"
-    },
-    "updateDate": "2026-10-31",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 4
   }
 ]
