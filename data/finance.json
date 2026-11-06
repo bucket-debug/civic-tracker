@@ -252,6 +252,12 @@
     "contribution_receipt_date": "2025-08-19"
   },
   {
+    "contributor_name": "SMP",
+    "contribution_receipt_amount": 18000000.0,
+    "committee_name": "LOWER COSTS NOW",
+    "contribution_receipt_date": "2026-09-16"
+  },
+  {
     "contributor_name": "STAND TOGETHER INC.",
     "contribution_receipt_amount": 18000000.0,
     "committee_name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
@@ -382,6 +388,12 @@
     "contribution_receipt_amount": 12500000.0,
     "committee_name": "MAGA INC.",
     "contribution_receipt_date": "2025-09-12"
+  },
+  {
+    "contributor_name": "FF PAC",
+    "contribution_receipt_amount": 12000000.0,
+    "committee_name": "LOWER COSTS NOW",
+    "contribution_receipt_date": "2026-09-24"
   },
   {
     "contributor_name": "HOROWITZ, BEN",
@@ -586,17 +598,5 @@
     "contribution_receipt_amount": 8811240.0,
     "committee_name": "RESTORATION OF AMERICA PAC",
     "contribution_receipt_date": "2025-09-12"
-  },
-  {
-    "contributor_name": "FRIENDS OF RAJA FOR CONGRESS",
-    "contribution_receipt_amount": 8800000.0,
-    "committee_name": "RAJA FOR ILLINOIS",
-    "contribution_receipt_date": "2025-07-31"
-  },
-  {
-    "contributor_name": "WEST VIRGINIA PAC",
-    "contribution_receipt_amount": 8274361.25,
-    "committee_name": "COUNTRY ROADS PAC",
-    "contribution_receipt_date": "2025-07-30"
   }
 ]
