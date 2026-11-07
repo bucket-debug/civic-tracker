@@ -282,6 +282,12 @@
     "contribution_receipt_date": "2026-08-31"
   },
   {
+    "contributor_name": "AMALGAMATED BANK",
+    "contribution_receipt_amount": 15000000.0,
+    "committee_name": "DSCC",
+    "contribution_receipt_date": "2026-10-05"
+  },
+  {
     "contributor_name": "RESTORATION OF AMERICA PAC",
     "contribution_receipt_amount": 15000000.0,
     "committee_name": "CLUB FOR GROWTH ACTION",
@@ -592,11 +598,5 @@
     "contribution_receipt_amount": 8840939.0,
     "committee_name": "RESTORATION OF AMERICA PAC",
     "contribution_receipt_date": "2026-06-16"
-  },
-  {
-    "contributor_name": "UIHLEIN, RICHARD E.",
-    "contribution_receipt_amount": 8811240.0,
-    "committee_name": "RESTORATION OF AMERICA PAC",
-    "contribution_receipt_date": "2025-09-12"
   }
 ]
