@@ -1,17 +1,17 @@
 [
   {
     "congress": 119,
-    "number": "3100",
-    "type": "HR",
-    "title": "CHILD Act of 2026",
+    "number": "3793",
+    "type": "S",
+    "title": "Predatory Lending Elimination Act",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 770.",
-      "actionDate": "2026-11-05"
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S511-512)",
+      "actionDate": "2026-02-05"
     },
     "updateDate": "2026-11-07",
     "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 3
+    "democratCosponsors": 15,
+    "republicanCosponsors": 0
   },
   {
     "congress": 119,
@@ -29,17 +29,17 @@
   },
   {
     "congress": 119,
-    "number": "3978",
+    "number": "3100",
     "type": "HR",
-    "title": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
+    "title": "CHILD Act of 2026",
     "latestAction": {
-      "text": "Placed on the Union Calendar, Calendar No. 768.",
+      "text": "Placed on the Union Calendar, Calendar No. 770.",
       "actionDate": "2026-11-05"
     },
     "updateDate": "2026-11-07",
     "sponsor": null,
-    "democratCosponsors": 7,
-    "republicanCosponsors": 13
+    "democratCosponsors": 1,
+    "republicanCosponsors": 3
   },
   {
     "congress": 119,
@@ -57,30 +57,30 @@
   },
   {
     "congress": 119,
-    "number": "10954",
+    "number": "3978",
     "type": "HR",
-    "title": "Don\u2019t Flush Babies Act",
+    "title": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
     "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
+      "text": "Placed on the Union Calendar, Calendar No. 768.",
+      "actionDate": "2026-11-05"
+    },
+    "updateDate": "2026-11-07",
+    "sponsor": null,
+    "democratCosponsors": 7,
+    "republicanCosponsors": 13
+  },
+  {
+    "congress": 119,
+    "number": "10957",
+    "type": "HR",
+    "title": "PURGE Act",
+    "latestAction": {
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-11-05"
     },
     "updateDate": "2026-11-07",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
-    "number": "10955",
-    "type": "HR",
-    "title": "EITC Age Parity Act of 2026",
-    "latestAction": {
-      "text": "Referred to the House Committee on Ways and Means.",
-      "actionDate": "2026-11-05"
-    },
-    "updateDate": "2026-11-07",
-    "sponsor": null,
-    "democratCosponsors": 10,
     "republicanCosponsors": 0
   },
   {
@@ -113,6 +113,20 @@
   },
   {
     "congress": 119,
+    "number": "10955",
+    "type": "HR",
+    "title": "EITC Age Parity Act of 2026",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2026-11-05"
+    },
+    "updateDate": "2026-11-07",
+    "sponsor": null,
+    "democratCosponsors": 10,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
     "number": "10959",
     "type": "HR",
     "title": "Right to Re-Enroll Act of 2026",
@@ -127,17 +141,17 @@
   },
   {
     "congress": 119,
-    "number": "10957",
+    "number": "10954",
     "type": "HR",
-    "title": "PURGE Act",
+    "title": "Don\u2019t Flush Babies Act",
     "latestAction": {
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-11-05"
     },
     "updateDate": "2026-11-07",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -155,20 +169,6 @@
   },
   {
     "congress": 119,
-    "number": "1744",
-    "type": "HR",
-    "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
-    "latestAction": {
-      "text": "Became Public Law No: 119-137.",
-      "actionDate": "2026-11-03"
-    },
-    "updateDate": "2026-11-07",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 5
-  },
-  {
-    "congress": 119,
     "number": "3984",
     "type": "S",
     "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
@@ -180,6 +180,20 @@
     "sponsor": null,
     "democratCosponsors": 2,
     "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
+    "number": "1744",
+    "type": "HR",
+    "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Became Public Law No: 119-137.",
+      "actionDate": "2026-11-03"
+    },
+    "updateDate": "2026-11-07",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 5
   },
   {
     "congress": 119,
@@ -684,19 +698,5 @@
     "sponsor": null,
     "democratCosponsors": 3,
     "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "503",
-    "type": "S",
-    "title": "NET Act",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2025-11-10"
-    },
-    "updateDate": "2026-11-06",
-    "sponsor": null,
-    "democratCosponsors": 1,
-    "republicanCosponsors": 2
   }
 ]
