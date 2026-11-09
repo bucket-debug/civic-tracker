@@ -1,6 +1,76 @@
 [
   {
     "congress": 119,
+    "number": "1744",
+    "type": "HR",
+    "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Became Public Law No: 119-137.",
+      "actionDate": "2026-11-03"
+    },
+    "updateDate": "2026-11-09",
+    "sponsor": null,
+    "democratCosponsors": 6,
+    "republicanCosponsors": 5
+  },
+  {
+    "congress": 119,
+    "number": "8205",
+    "type": "HR",
+    "title": "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
+    "latestAction": {
+      "text": "Became Public Law No: 119-138.",
+      "actionDate": "2026-11-03"
+    },
+    "updateDate": "2026-11-09",
+    "sponsor": null,
+    "democratCosponsors": 9,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "10356",
+    "type": "HR",
+    "title": "Empowering Moms Act",
+    "latestAction": {
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 25 - 13.",
+      "actionDate": "2026-09-16"
+    },
+    "updateDate": "2026-11-09",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 11
+  },
+  {
+    "congress": 119,
+    "number": "1299",
+    "type": "HRES",
+    "title": "Providing for the concurrence by the House in the Senate amendment to H.R. 6644, with amendment.",
+    "latestAction": {
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "actionDate": "2026-05-20"
+    },
+    "updateDate": "2026-11-09",
+    "sponsor": null,
+    "democratCosponsors": 1,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "1942",
+    "type": "HR",
+    "title": "DELIVER Act of 2025",
+    "latestAction": {
+      "text": "Referred to the House Committee on Ways and Means.",
+      "actionDate": "2025-03-06"
+    },
+    "updateDate": "2026-11-09",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 2
+  },
+  {
+    "congress": 119,
     "number": "3793",
     "type": "S",
     "title": "Predatory Lending Elimination Act",
@@ -15,20 +85,6 @@
   },
   {
     "congress": 119,
-    "number": "1528",
-    "type": "S",
-    "title": "CHILD Act of 2025",
-    "latestAction": {
-      "text": "Held at the desk.",
-      "actionDate": "2026-04-22"
-    },
-    "updateDate": "2026-11-07",
-    "sponsor": null,
-    "democratCosponsors": 2,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
     "number": "3100",
     "type": "HR",
     "title": "CHILD Act of 2026",
@@ -40,6 +96,20 @@
     "sponsor": null,
     "democratCosponsors": 1,
     "republicanCosponsors": 3
+  },
+  {
+    "congress": 119,
+    "number": "1528",
+    "type": "S",
+    "title": "CHILD Act of 2025",
+    "latestAction": {
+      "text": "Held at the desk.",
+      "actionDate": "2026-04-22"
+    },
+    "updateDate": "2026-11-07",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
   },
   {
     "congress": 119,
@@ -85,11 +155,25 @@
   },
   {
     "congress": 119,
-    "number": "10958",
+    "number": "10954",
     "type": "HR",
-    "title": "Clothing Microplastic Transparency Act of 2026",
+    "title": "Don\u2019t Flush Babies Act",
     "latestAction": {
       "text": "Referred to the House Committee on Energy and Commerce.",
+      "actionDate": "2026-11-05"
+    },
+    "updateDate": "2026-11-07",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "10956",
+    "type": "HR",
+    "title": "IHS Workforce Parity Act of 2026",
+    "latestAction": {
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "actionDate": "2026-11-05"
     },
     "updateDate": "2026-11-07",
@@ -99,11 +183,11 @@
   },
   {
     "congress": 119,
-    "number": "10956",
+    "number": "10958",
     "type": "HR",
-    "title": "IHS Workforce Parity Act of 2026",
+    "title": "Clothing Microplastic Transparency Act of 2026",
     "latestAction": {
-      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "text": "Referred to the House Committee on Energy and Commerce.",
       "actionDate": "2026-11-05"
     },
     "updateDate": "2026-11-07",
@@ -141,20 +225,6 @@
   },
   {
     "congress": 119,
-    "number": "10954",
-    "type": "HR",
-    "title": "Don\u2019t Flush Babies Act",
-    "latestAction": {
-      "text": "Referred to the House Committee on Energy and Commerce.",
-      "actionDate": "2026-11-05"
-    },
-    "updateDate": "2026-11-07",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 1
-  },
-  {
-    "congress": 119,
     "number": "10960",
     "type": "HR",
     "title": "Keep Federal Tech Talent Act",
@@ -180,20 +250,6 @@
     "sponsor": null,
     "democratCosponsors": 2,
     "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "1744",
-    "type": "HR",
-    "title": "United States Commission on International Religious Freedom Reauthorization Act of 2026",
-    "latestAction": {
-      "text": "Became Public Law No: 119-137.",
-      "actionDate": "2026-11-03"
-    },
-    "updateDate": "2026-11-07",
-    "sponsor": null,
-    "democratCosponsors": 6,
-    "republicanCosponsors": 5
   },
   {
     "congress": 119,
@@ -641,62 +697,6 @@
     "updateDate": "2026-11-06",
     "sponsor": null,
     "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4984",
-    "type": "S",
-    "title": "Restoration of Employment Choice for Adults with Disabilities Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
-      "actionDate": "2026-07-15"
-    },
-    "updateDate": "2026-11-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "4975",
-    "type": "S",
-    "title": "HEATS Act",
-    "latestAction": {
-      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
-      "actionDate": "2026-07-15"
-    },
-    "updateDate": "2026-11-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 2
-  },
-  {
-    "congress": 119,
-    "number": "5074",
-    "type": "S",
-    "title": "Enhancing Electric Grid Resilience Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-      "actionDate": "2026-07-22"
-    },
-    "updateDate": "2026-11-06",
-    "sponsor": null,
-    "democratCosponsors": 0,
-    "republicanCosponsors": 0
-  },
-  {
-    "congress": 119,
-    "number": "5033",
-    "type": "S",
-    "title": "Judicial FOIA Expansion Act",
-    "latestAction": {
-      "text": "Read twice and referred to the Committee on the Judiciary.",
-      "actionDate": "2026-07-20"
-    },
-    "updateDate": "2026-11-06",
-    "sponsor": null,
-    "democratCosponsors": 3,
     "republicanCosponsors": 0
   }
 ]
