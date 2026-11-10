@@ -18,6 +18,36 @@
     "contribution_receipt_date": "2025-10-25"
   },
   {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 83000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2026-09-23"
+  },
+  {
+    "contributor_name": "SLF PAC",
+    "contribution_receipt_amount": 83000000.0,
+    "committee_name": "TEXAS PAC",
+    "contribution_receipt_date": "2026-09-24"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 75000000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2026-09-09"
+  },
+  {
+    "contributor_name": "SLF PAC",
+    "contribution_receipt_amount": 75000000.0,
+    "committee_name": "TEXAS PAC",
+    "contribution_receipt_date": "2026-09-10"
+  },
+  {
+    "contributor_name": "ONE NATION",
+    "contribution_receipt_amount": 62167000.0,
+    "committee_name": "SLF PAC",
+    "contribution_receipt_date": "2026-09-30"
+  },
+  {
     "contributor_name": "GEOSOR CORPORATION",
     "contribution_receipt_amount": 52000000.0,
     "committee_name": "DEMOCRACY PAC",
@@ -282,6 +312,18 @@
     "contribution_receipt_date": "2026-08-31"
   },
   {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 15500000.0,
+    "committee_name": "AMERICA PAC",
+    "contribution_receipt_date": "2026-08-21"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 15000000.0,
+    "committee_name": "AMERICA PAC",
+    "contribution_receipt_date": "2026-09-21"
+  },
+  {
     "contributor_name": "AMALGAMATED BANK",
     "contribution_receipt_amount": 15000000.0,
     "committee_name": "DSCC",
@@ -324,10 +366,22 @@
     "contribution_receipt_date": "2025-12-18"
   },
   {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 13900000.0,
+    "committee_name": "AMERICA PAC",
+    "contribution_receipt_date": "2026-09-28"
+  },
+  {
     "contributor_name": "SECURING AMERICAN GREATNESS, INC.",
     "contribution_receipt_amount": 13750000.0,
     "committee_name": "MAGA INC.",
     "contribution_receipt_date": "2025-06-30"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 13400000.0,
+    "committee_name": "AMERICA PAC",
+    "contribution_receipt_date": "2026-08-27"
   },
   {
     "contributor_name": "ACTBLUE",
@@ -412,6 +466,12 @@
     "contribution_receipt_amount": 11900000.0,
     "committee_name": "FAIRSHAKE",
     "contribution_receipt_date": "2025-12-10"
+  },
+  {
+    "contributor_name": "MUSK, ELON",
+    "contribution_receipt_amount": 11600000.0,
+    "committee_name": "AMERICA PAC",
+    "contribution_receipt_date": "2026-09-04"
   },
   {
     "contributor_name": "TRUMP NATIONAL COMMITTEE JFC, INC.",
@@ -538,65 +598,5 @@
     "contribution_receipt_amount": 10000000.0,
     "committee_name": "MAGA INC.",
     "contribution_receipt_date": "2025-09-12"
-  },
-  {
-    "contributor_name": "ACTBLUE",
-    "contribution_receipt_amount": 9492322.26,
-    "committee_name": "COOPER VICTORY FUND",
-    "contribution_receipt_date": "2026-06-30"
-  },
-  {
-    "contributor_name": "TRUMP NATIONAL COMMITTEE JFC INC.",
-    "contribution_receipt_amount": 9202731.19,
-    "committee_name": "REPUBLICAN NATIONAL COMMITTEE",
-    "contribution_receipt_date": "2025-01-14"
-  },
-  {
-    "contributor_name": "TEXANS FOR TRUTH AND LIBERTY, NON-FEDERAL ACCOUNT",
-    "contribution_receipt_amount": 9037303.52,
-    "committee_name": "TEXANS FOR TRUTH AND LIBERTY PAC",
-    "contribution_receipt_date": "2025-12-31"
-  },
-  {
-    "contributor_name": "ECONOMIC OPPORTUNITY FUND",
-    "contribution_receipt_amount": 9000000.0,
-    "committee_name": "SMP",
-    "contribution_receipt_date": "2026-09-17"
-  },
-  {
-    "contributor_name": "FAIRSHAKE",
-    "contribution_receipt_amount": 9000000.0,
-    "committee_name": "DEFEND AMERICAN JOBS",
-    "contribution_receipt_date": "2026-07-13"
-  },
-  {
-    "contributor_name": "FAIRSHAKE",
-    "contribution_receipt_amount": 9000000.0,
-    "committee_name": "PROTECT PROGRESS",
-    "contribution_receipt_date": "2026-05-05"
-  },
-  {
-    "contributor_name": "FAIRSHAKE",
-    "contribution_receipt_amount": 9000000.0,
-    "committee_name": "DEFEND AMERICAN JOBS",
-    "contribution_receipt_date": "2026-05-04"
-  },
-  {
-    "contributor_name": "AMERICAN ACTION NETWORK",
-    "contribution_receipt_amount": 9000000.0,
-    "committee_name": "CLF",
-    "contribution_receipt_date": "2025-12-31"
-  },
-  {
-    "contributor_name": "REPUBLICAN NATIONAL COMMITTEE",
-    "contribution_receipt_amount": 8932000.0,
-    "committee_name": "NRSC",
-    "contribution_receipt_date": "2026-09-30"
-  },
-  {
-    "contributor_name": "UIHLEIN, RICHARD E.",
-    "contribution_receipt_amount": 8840939.0,
-    "committee_name": "RESTORATION OF AMERICA PAC",
-    "contribution_receipt_date": "2026-06-16"
   }
 ]
