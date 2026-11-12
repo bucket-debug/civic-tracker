@@ -1,5 +1,14 @@
 [
   {
+    "bioguideId": "S001223",
+    "name": "Sykes, Emilia Strong",
+    "party": "Democratic",
+    "state": "Ohio",
+    "district": 13,
+    "chamber": "House of Representatives",
+    "startYear": 2023
+  },
+  {
     "bioguideId": "F000476",
     "name": "Frost, Maxwell",
     "party": "Democratic",
@@ -707,15 +716,6 @@
     "party": "Democratic",
     "state": "Rhode Island",
     "district": 1,
-    "chamber": "House of Representatives",
-    "startYear": 2023
-  },
-  {
-    "bioguideId": "S001223",
-    "name": "Sykes, Emilia Strong",
-    "party": "Democratic",
-    "state": "Ohio",
-    "district": 13,
     "chamber": "House of Representatives",
     "startYear": 2023
   },
