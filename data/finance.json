@@ -54,6 +54,18 @@
     "contribution_receipt_date": "2025-01-02"
   },
   {
+    "contributor_name": "MAGA INC.",
+    "contribution_receipt_amount": 50000000.0,
+    "committee_name": "NO GOING BACK PAC INC.",
+    "contribution_receipt_date": "2026-09-14"
+  },
+  {
+    "contributor_name": "MAGA INC.",
+    "contribution_receipt_amount": 50000000.0,
+    "committee_name": "NO GOING BACK PAC INC.",
+    "contribution_receipt_date": "2026-09-01"
+  },
+  {
     "contributor_name": "FUND FOR POLICY REFORM",
     "contribution_receipt_amount": 50000000.0,
     "committee_name": "DEMOCRACY PAC",
@@ -150,6 +162,36 @@
     "contribution_receipt_date": "2026-03-17"
   },
   {
+    "contributor_name": "MAGA INC.",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "SAFETY & AFFORDABILITY PAC INC.",
+    "contribution_receipt_date": "2026-09-04"
+  },
+  {
+    "contributor_name": "MAGA INC.",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "NO GOING BACK PAC INC.",
+    "contribution_receipt_date": "2026-09-28"
+  },
+  {
+    "contributor_name": "MAGA INC.",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "NO GOING BACK PAC INC.",
+    "contribution_receipt_date": "2026-09-24"
+  },
+  {
+    "contributor_name": "MAGA INC.",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "NO GOING BACK PAC INC.",
+    "contribution_receipt_date": "2026-10-13"
+  },
+  {
+    "contributor_name": "MAGA INC.",
+    "contribution_receipt_amount": 25000000.0,
+    "committee_name": "NO GOING BACK PAC INC.",
+    "contribution_receipt_date": "2026-10-05"
+  },
+  {
     "contributor_name": "RIPPLE LABS INC.",
     "contribution_receipt_amount": 25000000.0,
     "committee_name": "FAIRSHAKE",
@@ -240,6 +282,12 @@
     "contribution_receipt_date": "2025-01-21"
   },
   {
+    "contributor_name": "BLOOMBERG, MICHAEL R.",
+    "contribution_receipt_amount": 22000000.0,
+    "committee_name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+    "contribution_receipt_date": "2026-09-24"
+  },
+  {
     "contributor_name": "AMERICAN ACTION NETWORK",
     "contribution_receipt_amount": 20000000.0,
     "committee_name": "CLF",
@@ -306,6 +354,12 @@
     "contribution_receipt_date": "2026-05-27"
   },
   {
+    "contributor_name": "SMP",
+    "contribution_receipt_amount": 17000000.0,
+    "committee_name": "WINSENATE",
+    "contribution_receipt_date": "2026-09-24"
+  },
+  {
     "contributor_name": "CHAIN BRIDGE BANK N.A.",
     "contribution_receipt_amount": 17000000.0,
     "committee_name": "NRSC",
@@ -318,6 +372,12 @@
     "contribution_receipt_date": "2026-09-30"
   },
   {
+    "contributor_name": "SMP",
+    "contribution_receipt_amount": 16000000.0,
+    "committee_name": "WINSENATE",
+    "contribution_receipt_date": "2026-09-11"
+  },
+  {
     "contributor_name": "NATIONAL ASSOCIATION OF REALTORS",
     "contribution_receipt_amount": 16000000.0,
     "committee_name": "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND",
@@ -328,6 +388,12 @@
     "contribution_receipt_amount": 15500000.0,
     "committee_name": "AMERICA PAC",
     "contribution_receipt_date": "2026-08-21"
+  },
+  {
+    "contributor_name": "SMP",
+    "contribution_receipt_amount": 15000000.0,
+    "committee_name": "WINSENATE",
+    "contribution_receipt_date": "2026-09-03"
   },
   {
     "contributor_name": "MUSK, ELON",
@@ -394,6 +460,12 @@
     "contribution_receipt_amount": 13400000.0,
     "committee_name": "AMERICA PAC",
     "contribution_receipt_date": "2026-08-27"
+  },
+  {
+    "contributor_name": "SMP",
+    "contribution_receipt_amount": 13000000.0,
+    "committee_name": "WINSENATE",
+    "contribution_receipt_date": "2026-09-18"
   },
   {
     "contributor_name": "ACTBLUE",
@@ -526,77 +598,5 @@
     "contribution_receipt_amount": 10000000.0,
     "committee_name": "LONE STAR LIBERTY PAC",
     "contribution_receipt_date": "2026-08-21"
-  },
-  {
-    "contributor_name": "FORIS DAX, INC.",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "MAGA INC.",
-    "contribution_receipt_date": "2025-02-14"
-  },
-  {
-    "contributor_name": "YASS, JEFF MR.",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "SCHOOL FREEDOM FUND",
-    "contribution_receipt_date": "2025-06-12"
-  },
-  {
-    "contributor_name": "SINGER, PAUL ELLIOTT",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "STW PAC, INC.",
-    "contribution_receipt_date": "2026-04-01"
-  },
-  {
-    "contributor_name": "YASS, JEFF",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "V-PAC: VICTORS, NOT VICTIMS",
-    "contribution_receipt_date": "2025-03-06"
-  },
-  {
-    "contributor_name": "GRIFFIN, KENNETH C.",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "SLF PAC",
-    "contribution_receipt_date": "2026-04-29"
-  },
-  {
-    "contributor_name": "HOFFMAN, REID",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "LONE STAR RISING PAC",
-    "contribution_receipt_date": "2026-06-30"
-  },
-  {
-    "contributor_name": "SINGER, PAUL ELLIOTT",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "SLF PAC",
-    "contribution_receipt_date": "2026-03-31"
-  },
-  {
-    "contributor_name": "ADELSON, MIRIAM DR.",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "CLF",
-    "contribution_receipt_date": "2026-03-11"
-  },
-  {
-    "contributor_name": "MUSK, ELON",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "FIGHT FOR KENTUCKY",
-    "contribution_receipt_date": "2026-01-14"
-  },
-  {
-    "contributor_name": "WIN FOR AMERICA",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "AMERICAN CONSERVATIVE FUND",
-    "contribution_receipt_date": "2026-03-20"
-  },
-  {
-    "contributor_name": "CANTOR FITZGERALD",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "FELLOWSHIP PAC",
-    "contribution_receipt_date": "2026-01-23"
-  },
-  {
-    "contributor_name": "YASS, JEFF MR.",
-    "contribution_receipt_amount": 10000000.0,
-    "committee_name": "CLUB FOR GROWTH ACTION",
-    "contribution_receipt_date": "2025-11-20"
   }
 ]
