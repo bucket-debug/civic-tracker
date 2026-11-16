@@ -1,16 +1,16 @@
 [
   {
     "congress": 119,
-    "number": "2",
-    "type": "S",
-    "title": "Secure America Act",
+    "number": "997",
+    "type": "HR",
+    "title": "National Taxpayer Advocate Enhancement Act of 2025",
     "latestAction": {
-      "text": "Became Public Law No: 119-98.",
-      "actionDate": "2026-06-10"
+      "text": "Became Public Law No: 119-139.",
+      "actionDate": "2026-11-10"
     },
-    "updateDate": "2026-11-13",
+    "updateDate": "2026-11-16",
     "sponsor": null,
-    "democratCosponsors": 0,
+    "democratCosponsors": 1,
     "republicanCosponsors": 0
   }
 ]
