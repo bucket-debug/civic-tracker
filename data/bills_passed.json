@@ -1,16 +1,72 @@
 [
   {
     "congress": 119,
-    "number": "8322",
+    "number": "9624",
     "type": "HR",
-    "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through April 30, 2026, and for other purposes.",
+    "title": "Intelligence Authorization Act for Fiscal Year 2027",
     "latestAction": {
-      "text": "Became Public Law No: 119-84.",
-      "actionDate": "2026-04-18"
+      "text": "Placed on the Union Calendar, Calendar No. 781.",
+      "actionDate": "2026-11-18"
     },
-    "updateDate": "2026-11-18",
+    "updateDate": "2026-11-19",
     "sponsor": null,
     "democratCosponsors": 0,
+    "republicanCosponsors": 0
+  },
+  {
+    "congress": 119,
+    "number": "2347",
+    "type": "HR",
+    "title": "Survivor Justice Tax Prevention Act",
+    "latestAction": {
+      "text": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 268. (CR S5736)",
+      "actionDate": "2026-11-18"
+    },
+    "updateDate": "2026-11-19",
+    "sponsor": null,
+    "democratCosponsors": 2,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "4445",
+    "type": "S",
+    "title": "Veterans Protection from Fraud Act of 2026",
+    "latestAction": {
+      "text": "Passed Senate without amendment by Voice Vote. (consideration: CR S5778; text: CR S5778)",
+      "actionDate": "2026-11-18"
+    },
+    "updateDate": "2026-11-19",
+    "sponsor": null,
+    "democratCosponsors": 0,
+    "republicanCosponsors": 1
+  },
+  {
+    "congress": 119,
+    "number": "2478",
+    "type": "HR",
+    "title": "Financial Exploitation Prevention Act of 2025",
+    "latestAction": {
+      "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5777-5778)",
+      "actionDate": "2026-11-18"
+    },
+    "updateDate": "2026-11-19",
+    "sponsor": null,
+    "democratCosponsors": 4,
+    "republicanCosponsors": 7
+  },
+  {
+    "congress": 119,
+    "number": "5767",
+    "type": "S",
+    "title": "A bill to require certain protections for student loan borrowers, and for other purposes.",
+    "latestAction": {
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S5761-5771)",
+      "actionDate": "2026-11-18"
+    },
+    "updateDate": "2026-11-19",
+    "sponsor": null,
+    "democratCosponsors": 11,
     "republicanCosponsors": 0
   }
 ]

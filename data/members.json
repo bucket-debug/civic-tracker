@@ -1,5 +1,167 @@
 [
   {
+    "bioguideId": "S001208",
+    "name": "Slotkin, Elissa",
+    "party": "Democratic",
+    "state": "Michigan",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2019
+  },
+  {
+    "bioguideId": "S001232",
+    "name": "Sheehy, Tim",
+    "party": "Republican",
+    "state": "Montana",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "S001150",
+    "name": "Schiff, Adam B.",
+    "party": "Democratic",
+    "state": "California",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2001
+  },
+  {
+    "bioguideId": "R000584",
+    "name": "Risch, James E.",
+    "party": "Republican",
+    "state": "Idaho",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2009
+  },
+  {
+    "bioguideId": "M001242",
+    "name": "Moreno, Bernie",
+    "party": "Republican",
+    "state": "Ohio",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "M001244",
+    "name": "Moody, Ashley",
+    "party": "Republican",
+    "state": "Florida",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "M001243",
+    "name": "McCormick, David",
+    "party": "Republican",
+    "state": "Pennsylvania",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "K000394",
+    "name": "Kim, Andy",
+    "party": "Democratic",
+    "state": "New Jersey",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2019
+  },
+  {
+    "bioguideId": "J000312",
+    "name": "Justice, James C.",
+    "party": "Republican",
+    "state": "West Virginia",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "H001104",
+    "name": "Husted, Jon",
+    "party": "Republican",
+    "state": "Ohio",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "G000574",
+    "name": "Gallego, Ruben",
+    "party": "Democratic",
+    "state": "Arizona",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2015
+  },
+  {
+    "bioguideId": "C001114",
+    "name": "Curtis, John R.",
+    "party": "Republican",
+    "state": "Utah",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "B001303",
+    "name": "Blunt Rochester, Lisa",
+    "party": "Democratic",
+    "state": "Delaware",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "B001299",
+    "name": "Banks, Jim",
+    "party": "Republican",
+    "state": "Indiana",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2017
+  },
+  {
+    "bioguideId": "A000383",
+    "name": "Armstrong, Alan",
+    "party": "Republican",
+    "state": "Oklahoma",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2026
+  },
+  {
+    "bioguideId": "A000382",
+    "name": "Alsobrooks, Angela D.",
+    "party": "Democratic",
+    "state": "Maryland",
+    "district": null,
+    "chamber": "Senate",
+    "startYear": 2025
+  },
+  {
+    "bioguideId": "M001218",
+    "name": "McCormick, Richard",
+    "party": "Republican",
+    "state": "Georgia",
+    "district": 7,
+    "chamber": "House of Representatives",
+    "startYear": 2023
+  },
+  {
+    "bioguideId": "M001212",
+    "name": "Moore, Barry",
+    "party": "Republican",
+    "state": "Alabama",
+    "district": 1,
+    "chamber": "House of Representatives",
+    "startYear": 2021
+  },
+  {
     "bioguideId": "S001223",
     "name": "Sykes, Emilia Strong",
     "party": "Democratic",
@@ -2403,15 +2565,6 @@
     "startYear": 2023
   },
   {
-    "bioguideId": "M001218",
-    "name": "McCormick, Richard",
-    "party": "Republican",
-    "state": "Georgia",
-    "district": 7,
-    "chamber": "House of Representatives",
-    "startYear": 2023
-  },
-  {
     "bioguideId": "J000309",
     "name": "Jackson, Jonathan L.",
     "party": "Democratic",
@@ -3816,15 +3969,6 @@
     "startYear": 2023
   },
   {
-    "bioguideId": "M001212",
-    "name": "Moore, Barry",
-    "party": "Republican",
-    "state": "Alabama",
-    "district": 1,
-    "chamber": "House of Representatives",
-    "startYear": 2021
-  },
-  {
     "bioguideId": "S001211",
     "name": "Stanton, Greg",
     "party": "Democratic",
@@ -4059,28 +4203,10 @@
     "startYear": 2003
   },
   {
-    "bioguideId": "S001232",
-    "name": "Sheehy, Tim",
-    "party": "Republican",
-    "state": "Montana",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
-  },
-  {
     "bioguideId": "S001217",
     "name": "Scott, Rick",
     "party": "Republican",
     "state": "Florida",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2019
-  },
-  {
-    "bioguideId": "S001208",
-    "name": "Slotkin, Elissa",
-    "party": "Democratic",
-    "state": "Michigan",
     "district": null,
     "chamber": "Senate",
     "startYear": 2019
@@ -4167,15 +4293,6 @@
     "startYear": 1991
   },
   {
-    "bioguideId": "S001150",
-    "name": "Schiff, Adam B.",
-    "party": "Democratic",
-    "state": "California",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2001
-  },
-  {
     "bioguideId": "R000618",
     "name": "Ricketts, Pete",
     "party": "Republican",
@@ -4221,15 +4338,6 @@
     "startYear": 2009
   },
   {
-    "bioguideId": "R000584",
-    "name": "Risch, James E.",
-    "party": "Republican",
-    "state": "Idaho",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2009
-  },
-  {
     "bioguideId": "R000122",
     "name": "Reed, Jack",
     "party": "Democratic",
@@ -4237,24 +4345,6 @@
     "district": null,
     "chamber": "Senate",
     "startYear": 1991
-  },
-  {
-    "bioguideId": "M001244",
-    "name": "Moody, Ashley",
-    "party": "Republican",
-    "state": "Florida",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "M001242",
-    "name": "Moreno, Bernie",
-    "party": "Republican",
-    "state": "Ohio",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
   },
   {
     "bioguideId": "O000174",
@@ -4300,15 +4390,6 @@
     "district": null,
     "chamber": "Senate",
     "startYear": 2002
-  },
-  {
-    "bioguideId": "M001243",
-    "name": "McCormick, David",
-    "party": "Republican",
-    "state": "Pennsylvania",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
   },
   {
     "bioguideId": "M001198",
@@ -4374,15 +4455,6 @@
     "startYear": 2020
   },
   {
-    "bioguideId": "K000394",
-    "name": "Kim, Andy",
-    "party": "Democratic",
-    "state": "New Jersey",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2019
-  },
-  {
     "bioguideId": "K000393",
     "name": "Kennedy, John",
     "party": "Republican",
@@ -4426,24 +4498,6 @@
     "district": null,
     "chamber": "Senate",
     "startYear": 2011
-  },
-  {
-    "bioguideId": "H001104",
-    "name": "Husted, Jon",
-    "party": "Republican",
-    "state": "Ohio",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "J000312",
-    "name": "Justice, James C.",
-    "party": "Republican",
-    "state": "West Virginia",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
   },
   {
     "bioguideId": "H001079",
@@ -4554,15 +4608,6 @@
     "startYear": 2021
   },
   {
-    "bioguideId": "G000574",
-    "name": "Gallego, Ruben",
-    "party": "Democratic",
-    "state": "Arizona",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2015
-  },
-  {
     "bioguideId": "F000463",
     "name": "Fischer, Deb",
     "party": "Republican",
@@ -4588,15 +4633,6 @@
     "district": null,
     "chamber": "Senate",
     "startYear": 1975
-  },
-  {
-    "bioguideId": "C001114",
-    "name": "Curtis, John R.",
-    "party": "Republican",
-    "state": "Utah",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
   },
   {
     "bioguideId": "E000295",
@@ -4734,15 +4770,6 @@
     "startYear": 2017
   },
   {
-    "bioguideId": "B001303",
-    "name": "Blunt Rochester, Lisa",
-    "party": "Democratic",
-    "state": "Delaware",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
-  },
-  {
     "bioguideId": "B001288",
     "name": "Booker, Cory A.",
     "party": "Democratic",
@@ -4786,33 +4813,6 @@
     "district": null,
     "chamber": "Senate",
     "startYear": 1993
-  },
-  {
-    "bioguideId": "A000383",
-    "name": "Armstrong, Alan",
-    "party": "Republican",
-    "state": "Oklahoma",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2026
-  },
-  {
-    "bioguideId": "A000382",
-    "name": "Alsobrooks, Angela D.",
-    "party": "Democratic",
-    "state": "Maryland",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2025
-  },
-  {
-    "bioguideId": "B001299",
-    "name": "Banks, Jim",
-    "party": "Republican",
-    "state": "Indiana",
-    "district": null,
-    "chamber": "Senate",
-    "startYear": 2017
   },
   {
     "bioguideId": "B001261",
